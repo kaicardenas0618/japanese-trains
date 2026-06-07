@@ -1,0 +1,678 @@
+[
+  {
+    "id": "kob-1000-seishin",
+    "name": "KOB 1000 Seishin",
+    "description": "Kobe Municipal Subway 1000 series 6-car train. Older Seishin-Yamate Line stock. Manufacturer: Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 1,
+      "maxDeceleration": 1.15,
+      "maxSpeed": 25.0,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 145,
+      "carLength": 19,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 3000000,
+      "trainWidth": 2.8,
+      "minStationLength": 114,
+      "maxStationLength": 122,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 32,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#00A3E0"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kawasaki Heavy Industries"
+    ]
+  },
+  {
+    "id": "kob-2000-seishin",
+    "name": "KOB 2000 Seishin",
+    "description": "Kobe Municipal Subway 2000 series 6-car train. Seishin-Yamate Line stock. Manufacturer: Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 1,
+      "maxDeceleration": 1.15,
+      "maxSpeed": 25.0,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 145,
+      "carLength": 19,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 3000000,
+      "trainWidth": 2.8,
+      "minStationLength": 114,
+      "maxStationLength": 122,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 32,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#00A3E0"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kawasaki Heavy Industries"
+    ]
+  },
+  {
+    "id": "kob-3000-seishin",
+    "name": "KOB 3000 Seishin",
+    "description": "Kobe Municipal Subway 3000 series 6-car train. Seishin-Yamate Line stock. Manufacturer: Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 1,
+      "maxDeceleration": 1.15,
+      "maxSpeed": 25.0,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 145,
+      "carLength": 19,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 3000000,
+      "trainWidth": 2.8,
+      "minStationLength": 114,
+      "maxStationLength": 122,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 32,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#00A3E0"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kawasaki Heavy Industries"
+    ]
+  },
+  {
+    "id": "kob-6000-seishin",
+    "name": "KOB 6000 Seishin",
+    "description": "Kobe Municipal Subway 6000 series 6-car train. Newer Seishin-Yamate Line stock. Manufacturer: Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 1,
+      "maxDeceleration": 1.15,
+      "maxSpeed": 25.0,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 145,
+      "carLength": 19,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 3000000,
+      "trainWidth": 2.8,
+      "minStationLength": 114,
+      "maxStationLength": 122,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 32,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#00A3E0"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kawasaki Heavy Industries"
+    ]
+  },
+  {
+    "id": "kob-7000-hokushin",
+    "name": "KOB 7000 Hokushin",
+    "description": "Hokushin/Kobe 7000 series 6-car train. Used on Hokushin and Seishin-Yamate services. Manufacturer: Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 1,
+      "maxDeceleration": 1.15,
+      "maxSpeed": 25.0,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 145,
+      "carLength": 19,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 3000000,
+      "trainWidth": 2.8,
+      "minStationLength": 114,
+      "maxStationLength": 122,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 32,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#00A3E0"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kawasaki Heavy Industries"
+    ]
+  },
+  {
+    "id": "kob-5000-kaigan-linear",
+    "name": "KOB 5000 Kaigan Linear",
+    "description": "Kobe Municipal Subway 5000 series 4-car linear-motor train. Used on the Kaigan Line. Manufacturer: Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 1,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 19.44,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 115,
+      "carLength": 15.6,
+      "minCars": 4,
+      "maxCars": 4,
+      "carsPerCarSet": 4,
+      "carCost": 2400000,
+      "trainWidth": 2.49,
+      "minStationLength": 62,
+      "maxStationLength": 70,
+      "baseTrackCost": 30000,
+      "baseStationCost": 47000000,
+      "trainOperationalCostPerHour": 220,
+      "carOperationalCostPerHour": 23,
+      "scissorsCrossoverCost": 13500000,
+      "trackClearance": 0.9,
+      "maxLateralAcceleration": 0.9,
+      "minTurnRadius": 45,
+      "minStationTurnRadius": 380,
+      "maxSlopePercentage": 5.5,
+      "parallelTrackSpacing": 3.6,
+      "stopTimeSeconds": 30,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#00ADA9"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 3.8,
+      "STANDARD_TUNNEL": 1.9,
+      "CUT_AND_COVER": 0.95,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.75
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kawasaki Heavy Industries"
+    ]
+  },
+  {
+    "id": "kob-port-liner-2000",
+    "name": "KOB Port Liner 2000",
+    "description": "Kobe New Transit 2000/2020 series automated guideway train. Used on the Port Liner. Manufacturer: Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 1.1,
+      "maxDeceleration": 1.2,
+      "maxSpeed": 19.44,
+      "maxSpeedLocalStation": 8.0,
+      "capacityPerCar": 90,
+      "carLength": 8.5,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 1800000,
+      "trainWidth": 2.5,
+      "minStationLength": 51,
+      "maxStationLength": 59,
+      "baseTrackCost": 22000,
+      "baseStationCost": 30000000,
+      "trainOperationalCostPerHour": 130,
+      "carOperationalCostPerHour": 14,
+      "scissorsCrossoverCost": 9000000,
+      "trackClearance": 0.75,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 25,
+      "minStationTurnRadius": 120,
+      "maxSlopePercentage": 6,
+      "parallelTrackSpacing": 3.2,
+      "stopTimeSeconds": 20,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#00A3E0"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 3.6,
+      "STANDARD_TUNNEL": 1.8,
+      "CUT_AND_COVER": 0.9,
+      "AT_GRADE": 0.28,
+      "ELEVATED": 0.7
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kawasaki Heavy Industries"
+    ]
+  },
+  {
+    "id": "kob-rokko-3000",
+    "name": "KOB Rokko 3000",
+    "description": "Kobe New Transit 3000 series automated guideway train. Used on the Rokko Liner. Manufacturer: Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 1.1,
+      "maxDeceleration": 1.2,
+      "maxSpeed": 19.44,
+      "maxSpeedLocalStation": 8.0,
+      "capacityPerCar": 90,
+      "carLength": 8.5,
+      "minCars": 4,
+      "maxCars": 4,
+      "carsPerCarSet": 4,
+      "carCost": 1800000,
+      "trainWidth": 2.5,
+      "minStationLength": 34,
+      "maxStationLength": 42,
+      "baseTrackCost": 22000,
+      "baseStationCost": 30000000,
+      "trainOperationalCostPerHour": 130,
+      "carOperationalCostPerHour": 14,
+      "scissorsCrossoverCost": 9000000,
+      "trackClearance": 0.75,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 25,
+      "minStationTurnRadius": 120,
+      "maxSlopePercentage": 6,
+      "parallelTrackSpacing": 3.2,
+      "stopTimeSeconds": 20,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#00A3E0"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 3.6,
+      "STANDARD_TUNNEL": 1.8,
+      "CUT_AND_COVER": 0.9,
+      "AT_GRADE": 0.28,
+      "ELEVATED": 0.7
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kawasaki Heavy Industries"
+    ]
+  },
+  {
+    "id": "kob-jr-207-urban",
+    "name": "KOB JR 207 Urban",
+    "description": "JR West 207 series commuter train serving Kobe-area local services. Manufacturer: Kawasaki Heavy Industries / Hitachi / Kinki Sharyo.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 33.33,
+      "maxSpeedLocalStation": 16.0,
+      "capacityPerCar": 150,
+      "carLength": 20,
+      "minCars": 7,
+      "maxCars": 7,
+      "carsPerCarSet": 7,
+      "carCost": 3200000,
+      "trainWidth": 2.95,
+      "minStationLength": 140,
+      "maxStationLength": 150,
+      "baseTrackCost": 32000,
+      "baseStationCost": 65000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 50,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#005EB8"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kawasaki Heavy Industries",
+      "Hitachi",
+      "Kinki Sharyo"
+    ]
+  },
+  {
+    "id": "kob-jr-321-urban",
+    "name": "KOB JR 321 Urban",
+    "description": "JR West 321 series commuter train serving Kobe-area local services. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 33.33,
+      "maxSpeedLocalStation": 16.0,
+      "capacityPerCar": 150,
+      "carLength": 20,
+      "minCars": 7,
+      "maxCars": 7,
+      "carsPerCarSet": 7,
+      "carCost": 3200000,
+      "trainWidth": 2.95,
+      "minStationLength": 140,
+      "maxStationLength": 150,
+      "baseTrackCost": 32000,
+      "baseStationCost": 65000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 50,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#005EB8"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kinki Sharyo",
+      "Kawasaki Heavy Industries"
+    ]
+  },
+  {
+    "id": "kob-jr-225-kansai",
+    "name": "KOB JR 225 Kansai",
+    "description": "JR West 225 series suburban train serving Kobe-area rapid services. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 36.11,
+      "maxSpeedLocalStation": 16.0,
+      "capacityPerCar": 150,
+      "carLength": 20,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 4300000,
+      "trainWidth": 2.95,
+      "minStationLength": 160,
+      "maxStationLength": 170,
+      "baseTrackCost": 45000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 32,
+      "scissorsCrossoverCost": 22000000,
+      "trackClearance": 1.15,
+      "maxLateralAcceleration": 0.75,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1200,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 4.2,
+      "stopTimeSeconds": 50,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#005EB8"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kinki Sharyo",
+      "Kawasaki Heavy Industries"
+    ]
+  },
+  {
+    "id": "kob-hanshin-1000",
+    "name": "KOB Hanshin 1000",
+    "description": "Hanshin 1000 series commuter train serving Kobe through Namba/Hanshin services. Manufacturer: Kinki Sharyo.",
+    "stats": {
+      "maxAcceleration": 0.95,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 29.44,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 150,
+      "carLength": 19,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 3200000,
+      "trainWidth": 2.8,
+      "minStationLength": 114,
+      "maxStationLength": 124,
+      "baseTrackCost": 32000,
+      "baseStationCost": 65000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 50,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#F58220"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kinki Sharyo"
+    ]
+  },
+  {
+    "id": "kob-hankyu-1000",
+    "name": "KOB Hankyu 1000",
+    "description": "Hankyu 1000 series commuter train serving Kobe Line services. Manufacturer: Hitachi.",
+    "stats": {
+      "maxAcceleration": 0.95,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 31.94,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 150,
+      "carLength": 19,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 3200000,
+      "trainWidth": 2.75,
+      "minStationLength": 152,
+      "maxStationLength": 162,
+      "baseTrackCost": 32000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 50,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#6F263D"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Hitachi"
+    ]
+  },
+  {
+    "id": "kob-sanyo-6000",
+    "name": "KOB Sanyo 6000",
+    "description": "Sanyo Electric Railway 6000 series commuter train serving Kobe-area services. Manufacturer: Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 0.95,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 30.56,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 150,
+      "carLength": 19,
+      "minCars": 4,
+      "maxCars": 4,
+      "carsPerCarSet": 4,
+      "carCost": 3200000,
+      "trainWidth": 2.8,
+      "minStationLength": 76,
+      "maxStationLength": 86,
+      "baseTrackCost": 32000,
+      "baseStationCost": 65000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 50,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#F58220"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kawasaki Heavy Industries"
+    ]
+  }
+]

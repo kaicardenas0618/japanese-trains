@@ -1,0 +1,1232 @@
+[
+  {
+    "id": "jp-n700a-shinkansen",
+    "name": "JP N700A Shinkansen",
+    "description": "16-car N700A Shinkansen train for Tōkaidō and Sanyō high-speed services. Manufacturer: Hitachi / Nippon Sharyo / Kawasaki Heavy Industries / Kinki Sharyo.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 79.17,
+      "maxSpeedLocalStation": 20.0,
+      "capacityPerCar": 83,
+      "carLength": 25.0,
+      "minCars": 16,
+      "maxCars": 16,
+      "carsPerCarSet": 16,
+      "carCost": 6840000,
+      "trainWidth": 3.36,
+      "minStationLength": 400,
+      "maxStationLength": 420,
+      "baseTrackCost": 82000,
+      "baseStationCost": 260000000,
+      "trainOperationalCostPerHour": 1250,
+      "carOperationalCostPerHour": 52,
+      "scissorsCrossoverCost": 37000000,
+      "trackClearance": 1.65,
+      "maxLateralAcceleration": 0.6,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 2.8,
+      "parallelTrackSpacing": 4.8,
+      "stopTimeSeconds": 120,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#1E3A91"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 5.4,
+      "STANDARD_TUNNEL": 2.9,
+      "CUT_AND_COVER": 1.5,
+      "AT_GRADE": 0.65,
+      "ELEVATED": 1.35
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Hitachi",
+      "Nippon Sharyo",
+      "Kawasaki Heavy Industries",
+      "Kinki Sharyo"
+    ]
+  },
+  {
+    "id": "jp-n700s-shinkansen",
+    "name": "JP N700S Shinkansen",
+    "description": "16-car N700S Shinkansen train for Tōkaidō and Sanyō high-speed services. Manufacturer: Hitachi / Nippon Sharyo.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 79.17,
+      "maxSpeedLocalStation": 20.0,
+      "capacityPerCar": 83,
+      "carLength": 25.0,
+      "minCars": 16,
+      "maxCars": 16,
+      "carsPerCarSet": 16,
+      "carCost": 7560000,
+      "trainWidth": 3.36,
+      "minStationLength": 400,
+      "maxStationLength": 420,
+      "baseTrackCost": 82000,
+      "baseStationCost": 260000000,
+      "trainOperationalCostPerHour": 1250,
+      "carOperationalCostPerHour": 52,
+      "scissorsCrossoverCost": 37000000,
+      "trackClearance": 1.65,
+      "maxLateralAcceleration": 0.6,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 2.8,
+      "parallelTrackSpacing": 4.8,
+      "stopTimeSeconds": 120,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#B50000"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 5.4,
+      "STANDARD_TUNNEL": 2.9,
+      "CUT_AND_COVER": 1.5,
+      "AT_GRADE": 0.65,
+      "ELEVATED": 1.35
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Hitachi",
+      "Nippon Sharyo"
+    ]
+  },
+  {
+    "id": "jp-n700-7000-sakura",
+    "name": "JP N700-7000 Sakura",
+    "description": "8-car N700-7000/8000 Shinkansen train for Sanyō and Kyūshū Mizuho/Sakura services. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo.",
+    "stats": {
+      "maxAcceleration": 0.75,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 83.33,
+      "maxSpeedLocalStation": 22.0,
+      "capacityPerCar": 68,
+      "carLength": 25.0,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 9200000,
+      "trainWidth": 3.36,
+      "minStationLength": 200,
+      "maxStationLength": 210,
+      "baseTrackCost": 95000,
+      "baseStationCost": 185000000,
+      "trainOperationalCostPerHour": 780,
+      "carOperationalCostPerHour": 60,
+      "scissorsCrossoverCost": 42000000,
+      "trackClearance": 1.8,
+      "maxLateralAcceleration": 0.55,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 2.5,
+      "parallelTrackSpacing": 5.0,
+      "stopTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#2F6FED"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 6.0,
+      "STANDARD_TUNNEL": 3.2,
+      "CUT_AND_COVER": 1.7,
+      "AT_GRADE": 0.75,
+      "ELEVATED": 1.5
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Hitachi",
+      "Kawasaki Heavy Industries",
+      "Kinki Sharyo",
+      "Nippon Sharyo"
+    ]
+  },
+  {
+    "id": "jp-n700s-8000-kamome",
+    "name": "JP N700S-8000 Kamome",
+    "description": "6-car N700S-8000 Shinkansen train for Nishi-Kyūshū Kamome services. Manufacturer: Hitachi / Nippon Sharyo.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 72.22,
+      "maxSpeedLocalStation": 20.0,
+      "capacityPerCar": 65,
+      "carLength": 25.0,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 6480000,
+      "trainWidth": 3.36,
+      "minStationLength": 150,
+      "maxStationLength": 160,
+      "baseTrackCost": 70000,
+      "baseStationCost": 185000000,
+      "trainOperationalCostPerHour": 780,
+      "carOperationalCostPerHour": 52,
+      "scissorsCrossoverCost": 37000000,
+      "trackClearance": 1.65,
+      "maxLateralAcceleration": 0.6,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 2.8,
+      "parallelTrackSpacing": 4.8,
+      "stopTimeSeconds": 80,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#B50000"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 5.4,
+      "STANDARD_TUNNEL": 2.9,
+      "CUT_AND_COVER": 1.5,
+      "AT_GRADE": 0.65,
+      "ELEVATED": 1.35
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Hitachi",
+      "Nippon Sharyo"
+    ]
+  },
+  {
+    "id": "jp-500-shinkansen",
+    "name": "JP 500 Shinkansen",
+    "description": "8-car 500 Series Shinkansen train used on Sanyō Kodama services. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 79.17,
+      "maxSpeedLocalStation": 20.0,
+      "capacityPerCar": 69,
+      "carLength": 25.0,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 6120000,
+      "trainWidth": 3.38,
+      "minStationLength": 200,
+      "maxStationLength": 210,
+      "baseTrackCost": 82000,
+      "baseStationCost": 185000000,
+      "trainOperationalCostPerHour": 780,
+      "carOperationalCostPerHour": 52,
+      "scissorsCrossoverCost": 37000000,
+      "trackClearance": 1.65,
+      "maxLateralAcceleration": 0.6,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 2.8,
+      "parallelTrackSpacing": 4.8,
+      "stopTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#1E3A91"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 5.4,
+      "STANDARD_TUNNEL": 2.9,
+      "CUT_AND_COVER": 1.5,
+      "AT_GRADE": 0.65,
+      "ELEVATED": 1.35
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Hitachi",
+      "Kawasaki Heavy Industries",
+      "Kinki Sharyo",
+      "Nippon Sharyo"
+    ]
+  },
+  {
+    "id": "jp-700-rail-star",
+    "name": "JP 700 Rail Star",
+    "description": "8-car 700 Series Rail Star Shinkansen train used on Sanyō services. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 79.17,
+      "maxSpeedLocalStation": 20.0,
+      "capacityPerCar": 71,
+      "carLength": 25.0,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 5760000,
+      "trainWidth": 3.38,
+      "minStationLength": 200,
+      "maxStationLength": 210,
+      "baseTrackCost": 82000,
+      "baseStationCost": 185000000,
+      "trainOperationalCostPerHour": 780,
+      "carOperationalCostPerHour": 52,
+      "scissorsCrossoverCost": 37000000,
+      "trackClearance": 1.65,
+      "maxLateralAcceleration": 0.6,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 2.8,
+      "parallelTrackSpacing": 4.8,
+      "stopTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#1E3A91"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 5.4,
+      "STANDARD_TUNNEL": 2.9,
+      "CUT_AND_COVER": 1.5,
+      "AT_GRADE": 0.65,
+      "ELEVATED": 1.35
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Hitachi",
+      "Kawasaki Heavy Industries",
+      "Kinki Sharyo",
+      "Nippon Sharyo"
+    ]
+  },
+  {
+    "id": "jp-800-shinkansen",
+    "name": "JP 800 Shinkansen",
+    "description": "6-car 800 Series Shinkansen train for Kyūshū Shinkansen services. Manufacturer: Hitachi.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 72.22,
+      "maxSpeedLocalStation": 20.0,
+      "capacityPerCar": 65,
+      "carLength": 25.0,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 5904000,
+      "trainWidth": 3.38,
+      "minStationLength": 150,
+      "maxStationLength": 160,
+      "baseTrackCost": 70000,
+      "baseStationCost": 185000000,
+      "trainOperationalCostPerHour": 780,
+      "carOperationalCostPerHour": 52,
+      "scissorsCrossoverCost": 37000000,
+      "trackClearance": 1.65,
+      "maxLateralAcceleration": 0.6,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 2.8,
+      "parallelTrackSpacing": 4.8,
+      "stopTimeSeconds": 80,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#D6CBB5"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 5.4,
+      "STANDARD_TUNNEL": 2.9,
+      "CUT_AND_COVER": 1.5,
+      "AT_GRADE": 0.65,
+      "ELEVATED": 1.35
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Hitachi"
+    ]
+  },
+  {
+    "id": "jp-e5-shinkansen",
+    "name": "JP E5 Shinkansen",
+    "description": "10-car E5 Series Shinkansen train for Tōhoku and Hokkaidō high-speed services. Manufacturer: Hitachi / Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 0.75,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 88.89,
+      "maxSpeedLocalStation": 22.0,
+      "capacityPerCar": 73,
+      "carLength": 25.0,
+      "minCars": 10,
+      "maxCars": 10,
+      "carsPerCarSet": 10,
+      "carCost": 10120000,
+      "trainWidth": 3.35,
+      "minStationLength": 250,
+      "maxStationLength": 260,
+      "baseTrackCost": 95000,
+      "baseStationCost": 185000000,
+      "trainOperationalCostPerHour": 780,
+      "carOperationalCostPerHour": 60,
+      "scissorsCrossoverCost": 42000000,
+      "trackClearance": 1.8,
+      "maxLateralAcceleration": 0.55,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 2.5,
+      "parallelTrackSpacing": 5.0,
+      "stopTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#43B02A"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 6.0,
+      "STANDARD_TUNNEL": 3.2,
+      "CUT_AND_COVER": 1.7,
+      "AT_GRADE": 0.75,
+      "ELEVATED": 1.5
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Hitachi",
+      "Kawasaki Heavy Industries"
+    ]
+  },
+  {
+    "id": "jp-h5-shinkansen",
+    "name": "JP H5 Shinkansen",
+    "description": "10-car H5 Series Shinkansen train for Hokkaidō and Tōhoku high-speed services. Manufacturer: Hitachi / Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 0.75,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 88.89,
+      "maxSpeedLocalStation": 22.0,
+      "capacityPerCar": 73,
+      "carLength": 25.0,
+      "minCars": 10,
+      "maxCars": 10,
+      "carsPerCarSet": 10,
+      "carCost": 10120000,
+      "trainWidth": 3.35,
+      "minStationLength": 250,
+      "maxStationLength": 260,
+      "baseTrackCost": 95000,
+      "baseStationCost": 185000000,
+      "trainOperationalCostPerHour": 780,
+      "carOperationalCostPerHour": 60,
+      "scissorsCrossoverCost": 42000000,
+      "trackClearance": 1.8,
+      "maxLateralAcceleration": 0.55,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 2.5,
+      "parallelTrackSpacing": 5.0,
+      "stopTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#5A2D82"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 6.0,
+      "STANDARD_TUNNEL": 3.2,
+      "CUT_AND_COVER": 1.7,
+      "AT_GRADE": 0.75,
+      "ELEVATED": 1.5
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Hitachi",
+      "Kawasaki Heavy Industries"
+    ]
+  },
+  {
+    "id": "jp-e6-komachi",
+    "name": "JP E6 Komachi",
+    "description": "7-car E6 Series mini-Shinkansen train for Akita Komachi services. Manufacturer: Hitachi / Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 0.75,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 88.89,
+      "maxSpeedLocalStation": 22.0,
+      "capacityPerCar": 48,
+      "carLength": 20.5,
+      "minCars": 7,
+      "maxCars": 7,
+      "carsPerCarSet": 7,
+      "carCost": 8740000,
+      "trainWidth": 2.945,
+      "minStationLength": 144,
+      "maxStationLength": 154,
+      "baseTrackCost": 95000,
+      "baseStationCost": 185000000,
+      "trainOperationalCostPerHour": 780,
+      "carOperationalCostPerHour": 60,
+      "scissorsCrossoverCost": 42000000,
+      "trackClearance": 1.8,
+      "maxLateralAcceleration": 0.55,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 2.5,
+      "parallelTrackSpacing": 5.0,
+      "stopTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#C8102E"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 6.0,
+      "STANDARD_TUNNEL": 3.2,
+      "CUT_AND_COVER": 1.7,
+      "AT_GRADE": 0.75,
+      "ELEVATED": 1.5
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Hitachi",
+      "Kawasaki Heavy Industries"
+    ]
+  },
+  {
+    "id": "jp-e7-shinkansen",
+    "name": "JP E7 Shinkansen",
+    "description": "12-car E7 Series Shinkansen train for Hokuriku and Jōetsu high-speed services. Manufacturer: Hitachi / Kawasaki Railcar Manufacturing / J-TREC.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 72.22,
+      "maxSpeedLocalStation": 20.0,
+      "capacityPerCar": 78,
+      "carLength": 25.0,
+      "minCars": 12,
+      "maxCars": 12,
+      "carsPerCarSet": 12,
+      "carCost": 6840000,
+      "trainWidth": 3.38,
+      "minStationLength": 300,
+      "maxStationLength": 320,
+      "baseTrackCost": 70000,
+      "baseStationCost": 260000000,
+      "trainOperationalCostPerHour": 1250,
+      "carOperationalCostPerHour": 52,
+      "scissorsCrossoverCost": 37000000,
+      "trackClearance": 1.65,
+      "maxLateralAcceleration": 0.6,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 2.8,
+      "parallelTrackSpacing": 4.8,
+      "stopTimeSeconds": 120,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#2F6FED"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 5.4,
+      "STANDARD_TUNNEL": 2.9,
+      "CUT_AND_COVER": 1.5,
+      "AT_GRADE": 0.65,
+      "ELEVATED": 1.35
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Hitachi",
+      "Kawasaki Railcar Manufacturing",
+      "J-TREC"
+    ]
+  },
+  {
+    "id": "jp-w7-shinkansen",
+    "name": "JP W7 Shinkansen",
+    "description": "12-car W7 Series Shinkansen train for Hokuriku high-speed services. Manufacturer: Hitachi / Kawasaki Railcar Manufacturing / Kinki Sharyo.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 72.22,
+      "maxSpeedLocalStation": 20.0,
+      "capacityPerCar": 78,
+      "carLength": 25.0,
+      "minCars": 12,
+      "maxCars": 12,
+      "carsPerCarSet": 12,
+      "carCost": 6840000,
+      "trainWidth": 3.38,
+      "minStationLength": 300,
+      "maxStationLength": 320,
+      "baseTrackCost": 70000,
+      "baseStationCost": 260000000,
+      "trainOperationalCostPerHour": 1250,
+      "carOperationalCostPerHour": 52,
+      "scissorsCrossoverCost": 37000000,
+      "trackClearance": 1.65,
+      "maxLateralAcceleration": 0.6,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 2.8,
+      "parallelTrackSpacing": 4.8,
+      "stopTimeSeconds": 120,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#2F6FED"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 5.4,
+      "STANDARD_TUNNEL": 2.9,
+      "CUT_AND_COVER": 1.5,
+      "AT_GRADE": 0.65,
+      "ELEVATED": 1.35
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Hitachi",
+      "Kawasaki Railcar Manufacturing",
+      "Kinki Sharyo"
+    ]
+  },
+  {
+    "id": "jp-e8-tsubasa",
+    "name": "JP E8 Tsubasa",
+    "description": "7-car E8 Series mini-Shinkansen train for Yamagata Tsubasa services. Manufacturer: Hitachi.",
+    "stats": {
+      "maxAcceleration": 0.75,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 83.33,
+      "maxSpeedLocalStation": 22.0,
+      "capacityPerCar": 50,
+      "carLength": 20.5,
+      "minCars": 7,
+      "maxCars": 7,
+      "carsPerCarSet": 7,
+      "carCost": 9200000,
+      "trainWidth": 2.945,
+      "minStationLength": 144,
+      "maxStationLength": 154,
+      "baseTrackCost": 95000,
+      "baseStationCost": 185000000,
+      "trainOperationalCostPerHour": 780,
+      "carOperationalCostPerHour": 60,
+      "scissorsCrossoverCost": 42000000,
+      "trackClearance": 1.8,
+      "maxLateralAcceleration": 0.55,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 2.5,
+      "parallelTrackSpacing": 5.0,
+      "stopTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#6CACE4"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 6.0,
+      "STANDARD_TUNNEL": 3.2,
+      "CUT_AND_COVER": 1.7,
+      "AT_GRADE": 0.75,
+      "ELEVATED": 1.5
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Hitachi"
+    ]
+  },
+  {
+    "id": "jp-e3-tsubasa",
+    "name": "JP E3 Tsubasa",
+    "description": "7-car E3 Series mini-Shinkansen train for Yamagata Shinkansen services. Manufacturer: Kawasaki Heavy Industries / Tokyu Car.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 76.39,
+      "maxSpeedLocalStation": 20.0,
+      "capacityPerCar": 50,
+      "carLength": 20.5,
+      "minCars": 7,
+      "maxCars": 7,
+      "carsPerCarSet": 7,
+      "carCost": 5400000,
+      "trainWidth": 2.945,
+      "minStationLength": 144,
+      "maxStationLength": 154,
+      "baseTrackCost": 82000,
+      "baseStationCost": 185000000,
+      "trainOperationalCostPerHour": 780,
+      "carOperationalCostPerHour": 52,
+      "scissorsCrossoverCost": 37000000,
+      "trackClearance": 1.65,
+      "maxLateralAcceleration": 0.6,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 2.8,
+      "parallelTrackSpacing": 4.8,
+      "stopTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#7B6469"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 5.4,
+      "STANDARD_TUNNEL": 2.9,
+      "CUT_AND_COVER": 1.5,
+      "AT_GRADE": 0.65,
+      "ELEVATED": 1.35
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kawasaki Heavy Industries",
+      "Tokyu Car"
+    ]
+  },
+  {
+    "id": "jp-e2-shinkansen",
+    "name": "JP E2 Shinkansen",
+    "description": "10-car E2 Series Shinkansen train for Tōhoku and Jōetsu legacy high-speed services. Manufacturer: Hitachi / Kawasaki Heavy Industries / Tokyu Car.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.0,
+      "maxSpeed": 76.39,
+      "maxSpeedLocalStation": 20.0,
+      "capacityPerCar": 81,
+      "carLength": 25.0,
+      "minCars": 10,
+      "maxCars": 10,
+      "carsPerCarSet": 10,
+      "carCost": 5400000,
+      "trainWidth": 3.38,
+      "minStationLength": 250,
+      "maxStationLength": 260,
+      "baseTrackCost": 82000,
+      "baseStationCost": 185000000,
+      "trainOperationalCostPerHour": 780,
+      "carOperationalCostPerHour": 52,
+      "scissorsCrossoverCost": 37000000,
+      "trackClearance": 1.65,
+      "maxLateralAcceleration": 0.6,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 2.8,
+      "parallelTrackSpacing": 4.8,
+      "stopTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#1E3A91"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 5.4,
+      "STANDARD_TUNNEL": 2.9,
+      "CUT_AND_COVER": 1.5,
+      "AT_GRADE": 0.65,
+      "ELEVATED": 1.35
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Hitachi",
+      "Kawasaki Heavy Industries",
+      "Tokyu Car"
+    ]
+  },
+  {
+    "id": "jp-285-sunrise",
+    "name": "JP 285 Sunrise",
+    "description": "7-car 285 Series overnight EMU used on Sunrise Seto and Sunrise Izumo services. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 36.11,
+      "maxSpeedLocalStation": 16.0,
+      "capacityPerCar": 38,
+      "carLength": 21.3,
+      "minCars": 7,
+      "maxCars": 7,
+      "carsPerCarSet": 7,
+      "carCost": 4730000,
+      "trainWidth": 2.95,
+      "minStationLength": 149,
+      "maxStationLength": 159,
+      "baseTrackCost": 45000,
+      "baseStationCost": 62000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 32,
+      "scissorsCrossoverCost": 22000000,
+      "trackClearance": 1.15,
+      "maxLateralAcceleration": 0.75,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 4.2,
+      "stopTimeSeconds": 80,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#D6CBB5"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kawasaki Heavy Industries",
+      "Kinki Sharyo"
+    ]
+  },
+  {
+    "id": "jp-273-yakumo",
+    "name": "JP 273 Yakumo",
+    "description": "4-car 273 Series limited express EMU used on Yakumo services. Manufacturer: Kinki Sharyo.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 33.33,
+      "maxSpeedLocalStation": 16.0,
+      "capacityPerCar": 55,
+      "carLength": 20.0,
+      "minCars": 4,
+      "maxCars": 4,
+      "carsPerCarSet": 4,
+      "carCost": 3200000,
+      "trainWidth": 2.95,
+      "minStationLength": 80,
+      "maxStationLength": 90,
+      "baseTrackCost": 34000,
+      "baseStationCost": 62000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 50,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#6CACE4"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kinki Sharyo"
+    ]
+  },
+  {
+    "id": "jp-281-haruka",
+    "name": "JP 281 Haruka",
+    "description": "6-car 281 Series airport limited express EMU used on Haruka services. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 36.11,
+      "maxSpeedLocalStation": 16.0,
+      "capacityPerCar": 50,
+      "carLength": 20.0,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 3655000,
+      "trainWidth": 2.95,
+      "minStationLength": 120,
+      "maxStationLength": 130,
+      "baseTrackCost": 45000,
+      "baseStationCost": 62000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 32,
+      "scissorsCrossoverCost": 22000000,
+      "trackClearance": 1.15,
+      "maxLateralAcceleration": 0.75,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 4.2,
+      "stopTimeSeconds": 50,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#005EB8"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kawasaki Heavy Industries",
+      "Kinki Sharyo"
+    ]
+  },
+  {
+    "id": "jp-271-haruka",
+    "name": "JP 271 Haruka",
+    "description": "3-car 271 Series airport limited express EMU used on Haruka services. Manufacturer: Kinki Sharyo.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 36.11,
+      "maxSpeedLocalStation": 16.0,
+      "capacityPerCar": 49,
+      "carLength": 20.0,
+      "minCars": 3,
+      "maxCars": 3,
+      "carsPerCarSet": 3,
+      "carCost": 4300000,
+      "trainWidth": 2.95,
+      "minStationLength": 60,
+      "maxStationLength": 70,
+      "baseTrackCost": 45000,
+      "baseStationCost": 62000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 32,
+      "scissorsCrossoverCost": 22000000,
+      "trackClearance": 1.15,
+      "maxLateralAcceleration": 0.75,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 4.2,
+      "stopTimeSeconds": 50,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#005EB8"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kinki Sharyo"
+    ]
+  },
+  {
+    "id": "jp-287-limited-express",
+    "name": "JP 287 Limited Express",
+    "description": "287 Series limited express EMU used on Kuroshio, Kōnotori, Kinosaki, Maizuru, Hashidate and related services. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 36.11,
+      "maxSpeedLocalStation": 16.0,
+      "capacityPerCar": 55,
+      "carLength": 20.0,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 3870000,
+      "trainWidth": 2.95,
+      "minStationLength": 120,
+      "maxStationLength": 130,
+      "baseTrackCost": 45000,
+      "baseStationCost": 62000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 32,
+      "scissorsCrossoverCost": 22000000,
+      "trackClearance": 1.15,
+      "maxLateralAcceleration": 0.75,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 4.2,
+      "stopTimeSeconds": 50,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#005EB8"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kawasaki Heavy Industries",
+      "Kinki Sharyo"
+    ]
+  },
+  {
+    "id": "jp-289-limited-express",
+    "name": "JP 289 Limited Express",
+    "description": "289 Series limited express EMU used on Kuroshio, Kōnotori, Kinosaki and related services. Manufacturer: Hitachi / Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 36.11,
+      "maxSpeedLocalStation": 16.0,
+      "capacityPerCar": 55,
+      "carLength": 20.0,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 3870000,
+      "trainWidth": 2.95,
+      "minStationLength": 120,
+      "maxStationLength": 130,
+      "baseTrackCost": 45000,
+      "baseStationCost": 62000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 32,
+      "scissorsCrossoverCost": 22000000,
+      "trackClearance": 1.15,
+      "maxLateralAcceleration": 0.75,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 4.2,
+      "stopTimeSeconds": 50,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#005EB8"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Hitachi",
+      "Kawasaki Heavy Industries"
+    ]
+  },
+  {
+    "id": "jp-683-thunderbird",
+    "name": "JP 683 Thunderbird",
+    "description": "683 Series limited express EMU used on Thunderbird and other interregional services. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 36.11,
+      "maxSpeedLocalStation": 16.0,
+      "capacityPerCar": 55,
+      "carLength": 20.0,
+      "minCars": 9,
+      "maxCars": 9,
+      "carsPerCarSet": 9,
+      "carCost": 3870000,
+      "trainWidth": 2.95,
+      "minStationLength": 180,
+      "maxStationLength": 190,
+      "baseTrackCost": 45000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 32,
+      "scissorsCrossoverCost": 22000000,
+      "trackClearance": 1.15,
+      "maxLateralAcceleration": 0.75,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 4.2,
+      "stopTimeSeconds": 50,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#005EB8"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kawasaki Heavy Industries",
+      "Kinki Sharyo"
+    ]
+  },
+  {
+    "id": "jp-385-shinano",
+    "name": "JP 385 Shinano",
+    "description": "385 Series limited express EMU profile for Shinano-type interregional services. Manufacturer: J-TREC.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 36.11,
+      "maxSpeedLocalStation": 16.0,
+      "capacityPerCar": 55,
+      "carLength": 20.0,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 4515000,
+      "trainWidth": 2.95,
+      "minStationLength": 120,
+      "maxStationLength": 130,
+      "baseTrackCost": 45000,
+      "baseStationCost": 62000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 32,
+      "scissorsCrossoverCost": 22000000,
+      "trackClearance": 1.15,
+      "maxLateralAcceleration": 0.75,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 4.2,
+      "stopTimeSeconds": 50,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#7B6469"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "J-TREC"
+    ]
+  },
+  {
+    "id": "jp-261-hokkaido",
+    "name": "JP 261 Hokkaidō",
+    "description": "KiHa 261 series diesel limited express train for Hokkaidō intercity services. Manufacturer: Fuji Heavy Industries / Niigata Transys.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 36.11,
+      "maxSpeedLocalStation": 16.0,
+      "capacityPerCar": 50,
+      "carLength": 21.3,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 4085000,
+      "trainWidth": 2.9,
+      "minStationLength": 128,
+      "maxStationLength": 138,
+      "baseTrackCost": 45000,
+      "baseStationCost": 62000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 32,
+      "scissorsCrossoverCost": 22000000,
+      "trackClearance": 1.15,
+      "maxLateralAcceleration": 0.75,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 4.2,
+      "stopTimeSeconds": 50,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#005EB8"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Fuji Heavy Industries",
+      "Niigata Transys"
+    ]
+  },
+  {
+    "id": "jp-8600-shikoku",
+    "name": "JP 8600 Shikoku",
+    "description": "8600 Series limited express EMU for Shikoku intercity services. Manufacturer: Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 36.11,
+      "maxSpeedLocalStation": 16.0,
+      "capacityPerCar": 50,
+      "carLength": 20.0,
+      "minCars": 2,
+      "maxCars": 2,
+      "carsPerCarSet": 2,
+      "carCost": 4085000,
+      "trainWidth": 2.95,
+      "minStationLength": 40,
+      "maxStationLength": 50,
+      "baseTrackCost": 45000,
+      "baseStationCost": 62000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 32,
+      "scissorsCrossoverCost": 22000000,
+      "trackClearance": 1.15,
+      "maxLateralAcceleration": 0.75,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 4.2,
+      "stopTimeSeconds": 50,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#F58220"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kawasaki Heavy Industries"
+    ]
+  }
+]

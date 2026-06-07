@@ -1,0 +1,1163 @@
+[
+  {
+    "id": "tyo-1000-ginza",
+    "name": "TYO 1000 Ginza",
+    "description": "Tokyo Metro 1000 series 6-car train. Used on the Ginza Line. Manufacturer: Nippon Sharyo.",
+    "stats": {
+      "maxAcceleration": 1,
+      "maxDeceleration": 1.15,
+      "maxSpeed": 22.22,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 170,
+      "carLength": 16,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 2400000,
+      "trainWidth": 2.55,
+      "minStationLength": 96,
+      "maxStationLength": 104,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 32,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#F5A400"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Nippon Sharyo"
+    ]
+  },
+  {
+    "id": "tyo-2000-marunouchi",
+    "name": "TYO 2000 Marunouchi",
+    "description": "Tokyo Metro 2000 series 6-car train. Used on the Marunouchi Line. Manufacturer: Nippon Sharyo.",
+    "stats": {
+      "maxAcceleration": 1,
+      "maxDeceleration": 1.15,
+      "maxSpeed": 20.83,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 180,
+      "carLength": 18,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 2400000,
+      "trainWidth": 2.78,
+      "minStationLength": 108,
+      "maxStationLength": 116,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 32,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#F62E36"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Nippon Sharyo"
+    ]
+  },
+  {
+    "id": "tyo-02-marunouchi",
+    "name": "TYO 02 Marunouchi",
+    "description": "Tokyo Metro 02 series 6-car train. Older Marunouchi Line stock. Manufacturer: Kawasaki Heavy Industries / Nippon Sharyo / Tokyu Car.",
+    "stats": {
+      "maxAcceleration": 1,
+      "maxDeceleration": 1.15,
+      "maxSpeed": 20.83,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 180,
+      "carLength": 18,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 2400000,
+      "trainWidth": 2.78,
+      "minStationLength": 108,
+      "maxStationLength": 116,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 32,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#F62E36"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kawasaki Heavy Industries",
+      "Nippon Sharyo",
+      "Tokyu Car"
+    ]
+  },
+  {
+    "id": "tyo-13000-hibiya",
+    "name": "TYO 13000 Hibiya",
+    "description": "Tokyo Metro 13000 series 7-car train. Used on the Hibiya Line. Manufacturer: Kinki Sharyo.",
+    "stats": {
+      "maxAcceleration": 1,
+      "maxDeceleration": 1.15,
+      "maxSpeed": 22.22,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 160,
+      "carLength": 20,
+      "minCars": 7,
+      "maxCars": 7,
+      "carsPerCarSet": 7,
+      "carCost": 3000000,
+      "trainWidth": 2.8,
+      "minStationLength": 140,
+      "maxStationLength": 148,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 32,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#B5B5AC"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kinki Sharyo"
+    ]
+  },
+  {
+    "id": "tyo-15000-tozai",
+    "name": "TYO 15000 Tozai",
+    "description": "Tokyo Metro 15000 series 10-car wide-door train. Used on the Tozai Line. Manufacturer: Hitachi.",
+    "stats": {
+      "maxAcceleration": 1,
+      "maxDeceleration": 1.15,
+      "maxSpeed": 27.78,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 160,
+      "carLength": 20,
+      "minCars": 10,
+      "maxCars": 10,
+      "carsPerCarSet": 10,
+      "carCost": 3000000,
+      "trainWidth": 2.8,
+      "minStationLength": 200,
+      "maxStationLength": 208,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 32,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#00A7DB"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Hitachi"
+    ]
+  },
+  {
+    "id": "tyo-16000-chiyoda",
+    "name": "TYO 16000 Chiyoda",
+    "description": "Tokyo Metro 16000 series 10-car train. Used on the Chiyoda Line. Manufacturer: Kawasaki Heavy Industries / Hitachi.",
+    "stats": {
+      "maxAcceleration": 1,
+      "maxDeceleration": 1.15,
+      "maxSpeed": 27.78,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 160,
+      "carLength": 20,
+      "minCars": 10,
+      "maxCars": 10,
+      "carsPerCarSet": 10,
+      "carCost": 3000000,
+      "trainWidth": 2.8,
+      "minStationLength": 200,
+      "maxStationLength": 208,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 32,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#009944"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kawasaki Heavy Industries",
+      "Hitachi"
+    ]
+  },
+  {
+    "id": "tyo-17000-yurakucho-fukutoshin",
+    "name": "TYO 17000 Yurakucho-Fukutoshin",
+    "description": "Tokyo Metro 17000 series train. Used on Yurakucho and Fukutoshin lines. Manufacturer: Hitachi.",
+    "stats": {
+      "maxAcceleration": 1,
+      "maxDeceleration": 1.15,
+      "maxSpeed": 27.78,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 160,
+      "carLength": 20,
+      "minCars": 10,
+      "maxCars": 10,
+      "carsPerCarSet": 10,
+      "carCost": 3000000,
+      "trainWidth": 2.8,
+      "minStationLength": 200,
+      "maxStationLength": 208,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 32,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#C1A470"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Hitachi"
+    ]
+  },
+  {
+    "id": "tyo-18000-hanzomon",
+    "name": "TYO 18000 Hanzomon",
+    "description": "Tokyo Metro 18000 series 10-car train. Used on the Hanzomon Line. Manufacturer: Hitachi.",
+    "stats": {
+      "maxAcceleration": 1,
+      "maxDeceleration": 1.15,
+      "maxSpeed": 27.78,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 160,
+      "carLength": 20,
+      "minCars": 10,
+      "maxCars": 10,
+      "carsPerCarSet": 10,
+      "carCost": 3000000,
+      "trainWidth": 2.8,
+      "minStationLength": 200,
+      "maxStationLength": 208,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 32,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#8F76D6"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Hitachi"
+    ]
+  },
+  {
+    "id": "tyo-9000-namboku",
+    "name": "TYO 9000 Namboku",
+    "description": "Tokyo Metro 9000 series 6/8-car train. Used on the Namboku Line. Manufacturer: Kawasaki Heavy Industries / Tokyu Car.",
+    "stats": {
+      "maxAcceleration": 1,
+      "maxDeceleration": 1.15,
+      "maxSpeed": 27.78,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 160,
+      "carLength": 20,
+      "minCars": 6,
+      "maxCars": 8,
+      "carsPerCarSet": 6,
+      "carCost": 3000000,
+      "trainWidth": 2.8,
+      "minStationLength": 120,
+      "maxStationLength": 168,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 32,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#00ADA9"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kawasaki Heavy Industries",
+      "Tokyu Car"
+    ]
+  },
+  {
+    "id": "tyo-5500-asakusa",
+    "name": "TYO 5500 Asakusa",
+    "description": "Toei 5500 series 8-car train. Used on the Asakusa Line and airport through services. Manufacturer: J-TREC.",
+    "stats": {
+      "maxAcceleration": 1,
+      "maxDeceleration": 1.15,
+      "maxSpeed": 33.33,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 150,
+      "carLength": 18,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 3000000,
+      "trainWidth": 2.8,
+      "minStationLength": 144,
+      "maxStationLength": 152,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 32,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#E85298"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "J-TREC"
+    ]
+  },
+  {
+    "id": "tyo-6500-mita",
+    "name": "TYO 6500 Mita",
+    "description": "Toei 6500 series 8-car train. Used on the Mita Line. Manufacturer: Kinki Sharyo.",
+    "stats": {
+      "maxAcceleration": 1,
+      "maxDeceleration": 1.15,
+      "maxSpeed": 30.56,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 160,
+      "carLength": 20,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 3000000,
+      "trainWidth": 2.8,
+      "minStationLength": 160,
+      "maxStationLength": 168,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 32,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#0079C2"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kinki Sharyo"
+    ]
+  },
+  {
+    "id": "tyo-10-300-shinjuku",
+    "name": "TYO 10-300 Shinjuku",
+    "description": "Toei 10-300 series 10-car train. Used on the Shinjuku Line. Manufacturer: J-TREC.",
+    "stats": {
+      "maxAcceleration": 1,
+      "maxDeceleration": 1.15,
+      "maxSpeed": 33.33,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 160,
+      "carLength": 20,
+      "minCars": 10,
+      "maxCars": 10,
+      "carsPerCarSet": 10,
+      "carCost": 3000000,
+      "trainWidth": 2.8,
+      "minStationLength": 200,
+      "maxStationLength": 208,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 32,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#6CBB5A"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "J-TREC"
+    ]
+  },
+  {
+    "id": "tyo-12-600-oedo-linear",
+    "name": "TYO 12-600 Oedo Linear",
+    "description": "Toei 12-600 series 8-car linear-motor train. Used on the Oedo Line. Manufacturer: Kawasaki Heavy Industries / Nippon Sharyo.",
+    "stats": {
+      "maxAcceleration": 1,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 19.44,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 135,
+      "carLength": 16.5,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 2400000,
+      "trainWidth": 2.5,
+      "minStationLength": 132,
+      "maxStationLength": 140,
+      "baseTrackCost": 30000,
+      "baseStationCost": 47000000,
+      "trainOperationalCostPerHour": 220,
+      "carOperationalCostPerHour": 23,
+      "scissorsCrossoverCost": 13500000,
+      "trackClearance": 0.9,
+      "maxLateralAcceleration": 0.9,
+      "minTurnRadius": 45,
+      "minStationTurnRadius": 380,
+      "maxSlopePercentage": 5.5,
+      "parallelTrackSpacing": 3.6,
+      "stopTimeSeconds": 30,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#B6007A"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 3.8,
+      "STANDARD_TUNNEL": 1.9,
+      "CUT_AND_COVER": 0.95,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.75
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kawasaki Heavy Industries",
+      "Nippon Sharyo"
+    ]
+  },
+  {
+    "id": "tyo-toden-8800-tram",
+    "name": "TYO Toden 8800 Tram",
+    "description": "Tokyo Sakura Tram 8800 series streetcar. Manufacturer: Alna Sharyo.",
+    "stats": {
+      "maxAcceleration": 1.1,
+      "maxDeceleration": 1.2,
+      "maxSpeed": 11.11,
+      "maxSpeedLocalStation": 8.0,
+      "capacityPerCar": 80,
+      "carLength": 13,
+      "minCars": 1,
+      "maxCars": 1,
+      "carsPerCarSet": 1,
+      "carCost": 2400000,
+      "trainWidth": 2.2,
+      "minStationLength": 13,
+      "maxStationLength": 21,
+      "baseTrackCost": 15000,
+      "baseStationCost": 8500000,
+      "trainOperationalCostPerHour": 95,
+      "carOperationalCostPerHour": 20,
+      "scissorsCrossoverCost": 5000000,
+      "trackClearance": 0.65,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 25,
+      "minStationTurnRadius": 80,
+      "maxSlopePercentage": 6,
+      "parallelTrackSpacing": 3.2,
+      "stopTimeSeconds": 18,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#43B02A"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 2.8,
+      "STANDARD_TUNNEL": 1.5,
+      "CUT_AND_COVER": 0.8,
+      "AT_GRADE": 0.2,
+      "ELEVATED": 0.6
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Alna Sharyo"
+    ]
+  },
+  {
+    "id": "tyo-nippori-liner-330",
+    "name": "TYO Nippori Liner 330",
+    "description": "Nippori-Toneri Liner 330 series automated guideway train. Manufacturer: Niigata Transys.",
+    "stats": {
+      "maxAcceleration": 1.1,
+      "maxDeceleration": 1.2,
+      "maxSpeed": 16.67,
+      "maxSpeedLocalStation": 8.0,
+      "capacityPerCar": 100,
+      "carLength": 8.5,
+      "minCars": 5,
+      "maxCars": 5,
+      "carsPerCarSet": 5,
+      "carCost": 1800000,
+      "trainWidth": 2.5,
+      "minStationLength": 42,
+      "maxStationLength": 50,
+      "baseTrackCost": 22000,
+      "baseStationCost": 30000000,
+      "trainOperationalCostPerHour": 130,
+      "carOperationalCostPerHour": 14,
+      "scissorsCrossoverCost": 9000000,
+      "trackClearance": 0.75,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 25,
+      "minStationTurnRadius": 120,
+      "maxSlopePercentage": 6,
+      "parallelTrackSpacing": 3.2,
+      "stopTimeSeconds": 20,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#00A3E0"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 3.6,
+      "STANDARD_TUNNEL": 1.8,
+      "CUT_AND_COVER": 0.9,
+      "AT_GRADE": 0.28,
+      "ELEVATED": 0.7
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Niigata Transys"
+    ]
+  },
+  {
+    "id": "tyo-yurikamome-7300",
+    "name": "TYO Yurikamome 7300",
+    "description": "Yurikamome 7300 series automated guideway train. Manufacturer: Mitsubishi Heavy Industries / Niigata Transys.",
+    "stats": {
+      "maxAcceleration": 1.1,
+      "maxDeceleration": 1.2,
+      "maxSpeed": 16.67,
+      "maxSpeedLocalStation": 8.0,
+      "capacityPerCar": 105,
+      "carLength": 8.8,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 1800000,
+      "trainWidth": 2.5,
+      "minStationLength": 53,
+      "maxStationLength": 61,
+      "baseTrackCost": 22000,
+      "baseStationCost": 30000000,
+      "trainOperationalCostPerHour": 130,
+      "carOperationalCostPerHour": 14,
+      "scissorsCrossoverCost": 9000000,
+      "trackClearance": 0.75,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 25,
+      "minStationTurnRadius": 120,
+      "maxSlopePercentage": 6,
+      "parallelTrackSpacing": 3.2,
+      "stopTimeSeconds": 20,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#00A3E0"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 3.6,
+      "STANDARD_TUNNEL": 1.8,
+      "CUT_AND_COVER": 0.9,
+      "AT_GRADE": 0.28,
+      "ELEVATED": 0.7
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Mitsubishi Heavy Industries",
+      "Niigata Transys"
+    ]
+  },
+  {
+    "id": "tyo-monorail-10000",
+    "name": "TYO Monorail 10000",
+    "description": "Tokyo Monorail 10000 series airport monorail train. Manufacturer: Hitachi.",
+    "stats": {
+      "maxAcceleration": 1.1,
+      "maxDeceleration": 1.2,
+      "maxSpeed": 22.22,
+      "maxSpeedLocalStation": 8.0,
+      "capacityPerCar": 130,
+      "carLength": 15,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 1800000,
+      "trainWidth": 3,
+      "minStationLength": 90,
+      "maxStationLength": 98,
+      "baseTrackCost": 22000,
+      "baseStationCost": 30000000,
+      "trainOperationalCostPerHour": 130,
+      "carOperationalCostPerHour": 14,
+      "scissorsCrossoverCost": 9000000,
+      "trackClearance": 0.75,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 25,
+      "minStationTurnRadius": 120,
+      "maxSlopePercentage": 6,
+      "parallelTrackSpacing": 3.2,
+      "stopTimeSeconds": 20,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#005EB8"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 3.6,
+      "STANDARD_TUNNEL": 1.8,
+      "CUT_AND_COVER": 0.9,
+      "AT_GRADE": 0.28,
+      "ELEVATED": 0.7
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Hitachi"
+    ]
+  },
+  {
+    "id": "tyo-e235-yamanote",
+    "name": "TYO E235 Yamanote",
+    "description": "JR East E235 series 11-car commuter train. Used on the Yamanote Line. Manufacturer: J-TREC.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 33.33,
+      "maxSpeedLocalStation": 16.0,
+      "capacityPerCar": 148,
+      "carLength": 20,
+      "minCars": 11,
+      "maxCars": 11,
+      "carsPerCarSet": 11,
+      "carCost": 3200000,
+      "trainWidth": 2.95,
+      "minStationLength": 220,
+      "maxStationLength": 230,
+      "baseTrackCost": 32000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 50,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#9ACD32"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "J-TREC"
+    ]
+  },
+  {
+    "id": "tyo-e233-commuter",
+    "name": "TYO E233 Commuter",
+    "description": "JR East E233 series commuter train family. Used on major Tokyo-area lines. Manufacturer: J-TREC / Tokyu Car / Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 33.33,
+      "maxSpeedLocalStation": 16.0,
+      "capacityPerCar": 150,
+      "carLength": 20,
+      "minCars": 10,
+      "maxCars": 10,
+      "carsPerCarSet": 10,
+      "carCost": 3200000,
+      "trainWidth": 2.95,
+      "minStationLength": 200,
+      "maxStationLength": 210,
+      "baseTrackCost": 32000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 50,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#F15A24"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "J-TREC",
+      "Tokyu Car",
+      "Kawasaki Heavy Industries"
+    ]
+  },
+  {
+    "id": "tyo-e259-narita-express",
+    "name": "TYO E259 Narita Express",
+    "description": "JR East E259 series 6-car airport limited express train. Used on Narita Express services. Manufacturer: Kinki Sharyo / Tokyu Car.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 36.11,
+      "maxSpeedLocalStation": 16.0,
+      "capacityPerCar": 48,
+      "carLength": 20.2,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 4300000,
+      "trainWidth": 2.946,
+      "minStationLength": 121,
+      "maxStationLength": 131,
+      "baseTrackCost": 45000,
+      "baseStationCost": 65000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 32,
+      "scissorsCrossoverCost": 22000000,
+      "trackClearance": 1.15,
+      "maxLateralAcceleration": 0.75,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1200,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 4.2,
+      "stopTimeSeconds": 50,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#B50000"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kinki Sharyo",
+      "Tokyu Car"
+    ]
+  },
+  {
+    "id": "tyo-keisei-ae-skyliner",
+    "name": "TYO Keisei AE Skyliner",
+    "description": "Keisei AE series 8-car airport limited express train. Used on Skyliner services to Narita Airport. Manufacturer: Nippon Sharyo.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 44.44,
+      "maxSpeedLocalStation": 16.0,
+      "capacityPerCar": 50,
+      "carLength": 19,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 4300000,
+      "trainWidth": 2.8,
+      "minStationLength": 152,
+      "maxStationLength": 162,
+      "baseTrackCost": 45000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 32,
+      "scissorsCrossoverCost": 22000000,
+      "trackClearance": 1.15,
+      "maxLateralAcceleration": 0.75,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1200,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 4.2,
+      "stopTimeSeconds": 50,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#005EB8"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Nippon Sharyo"
+    ]
+  },
+  {
+    "id": "tyo-odakyu-70000-gse",
+    "name": "TYO Odakyu 70000 GSE",
+    "description": "Odakyu 70000 series GSE Romancecar limited express train. Manufacturer: Nippon Sharyo.",
+    "stats": {
+      "maxAcceleration": 0.95,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 30.56,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 57,
+      "carLength": 20,
+      "minCars": 7,
+      "maxCars": 7,
+      "carsPerCarSet": 7,
+      "carCost": 3200000,
+      "trainWidth": 2.9,
+      "minStationLength": 140,
+      "maxStationLength": 150,
+      "baseTrackCost": 32000,
+      "baseStationCost": 65000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 50,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#F58220"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Nippon Sharyo"
+    ]
+  },
+  {
+    "id": "tyo-seibu-001-laview",
+    "name": "TYO Seibu 001 Laview",
+    "description": "Seibu 001 series Laview limited express train. Manufacturer: Hitachi.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 33.33,
+      "maxSpeedLocalStation": 16.0,
+      "capacityPerCar": 53,
+      "carLength": 20,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 3200000,
+      "trainWidth": 2.85,
+      "minStationLength": 160,
+      "maxStationLength": 170,
+      "baseTrackCost": 32000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 50,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#C0C0C0"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Hitachi"
+    ]
+  },
+  {
+    "id": "tyo-tobu-n100-spacia-x",
+    "name": "TYO Tobu N100 Spacia X",
+    "description": "Tobu N100 series Spacia X limited express train. Manufacturer: Hitachi.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 33.33,
+      "maxSpeedLocalStation": 16.0,
+      "capacityPerCar": 35,
+      "carLength": 20,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 3200000,
+      "trainWidth": 2.87,
+      "minStationLength": 120,
+      "maxStationLength": 130,
+      "baseTrackCost": 32000,
+      "baseStationCost": 65000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 50,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#D6CBB5"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Hitachi"
+    ]
+  }
+]
