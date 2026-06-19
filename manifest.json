@@ -2,7 +2,7 @@
     "id": "japanese-trains",
     "name": "Japanese Trains",
     "description": "A train pack containing Japanese trains for Subway Builder.",
-    "version": "v1.0.2",
+    "version": "v1.0.3",
     "author": {
 		"name": "kaicardenas0618",
 		"url": "https://github.com/kaicardenas0618"
@@ -19,6 +19,7 @@
 	],
 	"subwayBuilderVersion": ">=1.2.6",
 	"dependencies": {
-	  "subway-builder": ">=1.2.6"
+	  "subway-builder": ">=1.2.6",
+	  "scrollable-dropdowns": ">=v1.0.0"
 	}
 }
