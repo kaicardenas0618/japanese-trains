@@ -1,0 +1,2419 @@
+[
+  {
+    "id": "osa-21-midosuji",
+    "name": "OSA 21 Midosuji",
+    "description": "Osaka Metro 21 series 10-car train. Used on the Midosuji Line. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries / Nippon Sharyo.",
+    "stats": {
+      "maxAcceleration": 1,
+      "maxDeceleration": 1.15,
+      "maxSpeed": 19.44,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 145,
+      "carLength": 18.9,
+      "minCars": 10,
+      "maxCars": 10,
+      "carsPerCarSet": 10,
+      "carCost": 3000000,
+      "trainWidth": 2.89,
+      "minStationLength": 189,
+      "maxStationLength": 197,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 32,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#E5171F"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kinki Sharyo",
+      "Kawasaki Heavy Industries",
+      "Nippon Sharyo"
+    ]
+  },
+  {
+    "id": "osa-30000-midosuji",
+    "name": "OSA 30000 Midosuji",
+    "description": "Osaka Metro 30000 series 10-car train. Used on the Midosuji Line. Manufacturer: Kinki Sharyo.",
+    "stats": {
+      "maxAcceleration": 1,
+      "maxDeceleration": 1.15,
+      "maxSpeed": 19.44,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 145,
+      "carLength": 18.9,
+      "minCars": 10,
+      "maxCars": 10,
+      "carsPerCarSet": 10,
+      "carCost": 3000000,
+      "trainWidth": 2.89,
+      "minStationLength": 189,
+      "maxStationLength": 197,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 32,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#E5171F"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kinki Sharyo"
+    ]
+  },
+  {
+    "id": "osa-22-tanimachi",
+    "name": "OSA 22 Tanimachi",
+    "description": "Osaka Metro 22 series 6-car train. Used on the Tanimachi Line. Manufacturer: Kinki Sharyo / Nippon Sharyo.",
+    "stats": {
+      "maxAcceleration": 1,
+      "maxDeceleration": 1.15,
+      "maxSpeed": 19.44,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 145,
+      "carLength": 18.9,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 3000000,
+      "trainWidth": 2.89,
+      "minStationLength": 113,
+      "maxStationLength": 121,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 32,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#522886"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kinki Sharyo",
+      "Nippon Sharyo"
+    ]
+  },
+  {
+    "id": "osa-30000-tanimachi",
+    "name": "OSA 30000 Tanimachi",
+    "description": "Osaka Metro 30000 series 6-car train. Used on the Tanimachi Line. Manufacturer: Kinki Sharyo.",
+    "stats": {
+      "maxAcceleration": 1,
+      "maxDeceleration": 1.15,
+      "maxSpeed": 19.44,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 145,
+      "carLength": 18.9,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 3000000,
+      "trainWidth": 2.89,
+      "minStationLength": 113,
+      "maxStationLength": 121,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 32,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#522886"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kinki Sharyo"
+    ]
+  },
+  {
+    "id": "osa-23-yotsubashi",
+    "name": "OSA 23 Yotsubashi",
+    "description": "Osaka Metro 23 series 6-car train. Used on the Yotsubashi Line. Manufacturer: Kinki Sharyo / Nippon Sharyo.",
+    "stats": {
+      "maxAcceleration": 1,
+      "maxDeceleration": 1.15,
+      "maxSpeed": 19.44,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 145,
+      "carLength": 18.9,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 3000000,
+      "trainWidth": 2.89,
+      "minStationLength": 113,
+      "maxStationLength": 121,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 32,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#0078BA"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kinki Sharyo",
+      "Nippon Sharyo"
+    ]
+  },
+  {
+    "id": "osa-30000a-chuo",
+    "name": "OSA 30000A Chuo",
+    "description": "Osaka Metro 30000A series 6-car train. Used on the Chuo Line. Manufacturer: Kinki Sharyo.",
+    "stats": {
+      "maxAcceleration": 1,
+      "maxDeceleration": 1.15,
+      "maxSpeed": 26.39,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 145,
+      "carLength": 18.9,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 3000000,
+      "trainWidth": 2.89,
+      "minStationLength": 113,
+      "maxStationLength": 121,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 32,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#019A66"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kinki Sharyo"
+    ]
+  },
+  {
+    "id": "osa-400-chuo",
+    "name": "OSA 400 Chuo",
+    "description": "Osaka Metro 400 series 6-car train. New Chuo Line stock for Yumeshima service. Manufacturer: Hitachi.",
+    "stats": {
+      "maxAcceleration": 1,
+      "maxDeceleration": 1.15,
+      "maxSpeed": 26.39,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 145,
+      "carLength": 18.9,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 3000000,
+      "trainWidth": 2.89,
+      "minStationLength": 113,
+      "maxStationLength": 121,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 32,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#019A66"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Hitachi"
+    ]
+  },
+  {
+    "id": "osa-25-sennichimae",
+    "name": "OSA 25 Sennichimae",
+    "description": "Osaka Metro 25 series 4-car train. Used on the Sennichimae Line. Manufacturer: Kinki Sharyo.",
+    "stats": {
+      "maxAcceleration": 1,
+      "maxDeceleration": 1.15,
+      "maxSpeed": 19.44,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 145,
+      "carLength": 18.9,
+      "minCars": 4,
+      "maxCars": 4,
+      "carsPerCarSet": 4,
+      "carCost": 3000000,
+      "trainWidth": 2.89,
+      "minStationLength": 76,
+      "maxStationLength": 84,
+      "baseTrackCost": 32000,
+      "baseStationCost": 42000000,
+      "trainOperationalCostPerHour": 190,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 32,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#E44D93"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kinki Sharyo"
+    ]
+  },
+  {
+    "id": "osa-66-sakaisuji",
+    "name": "OSA 66 Sakaisuji",
+    "description": "Osaka Metro 66 series 8-car train. Used on the Sakaisuji Line and Hankyu through services. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 1,
+      "maxDeceleration": 1.15,
+      "maxSpeed": 30.56,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 145,
+      "carLength": 18.9,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 3000000,
+      "trainWidth": 2.8,
+      "minStationLength": 151,
+      "maxStationLength": 159,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 32,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#814721"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kinki Sharyo",
+      "Kawasaki Heavy Industries"
+    ]
+  },
+  {
+    "id": "osa-70-nagahori-linear",
+    "name": "OSA 70 Nagahori Linear",
+    "description": "Osaka Metro 70 series 4-car linear-motor train. Used on the Nagahori Tsurumi-ryokuchi Line. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 1,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 19.44,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 115,
+      "carLength": 15.6,
+      "minCars": 4,
+      "maxCars": 4,
+      "carsPerCarSet": 4,
+      "carCost": 2400000,
+      "trainWidth": 2.49,
+      "minStationLength": 62,
+      "maxStationLength": 70,
+      "baseTrackCost": 30000,
+      "baseStationCost": 47000000,
+      "trainOperationalCostPerHour": 220,
+      "carOperationalCostPerHour": 23,
+      "scissorsCrossoverCost": 13500000,
+      "trackClearance": 0.9,
+      "maxLateralAcceleration": 0.9,
+      "minTurnRadius": 45,
+      "minStationTurnRadius": 380,
+      "maxSlopePercentage": 5.5,
+      "parallelTrackSpacing": 3.6,
+      "stopTimeSeconds": 30,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#A9CC51"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 3.8,
+      "STANDARD_TUNNEL": 1.9,
+      "CUT_AND_COVER": 0.95,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.75
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kinki Sharyo",
+      "Kawasaki Heavy Industries"
+    ]
+  },
+  {
+    "id": "osa-80-imazatosuji-linear",
+    "name": "OSA 80 Imazatosuji Linear",
+    "description": "Osaka Metro 80 series 4-car linear-motor train. Used on the Imazatosuji Line. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 1,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 19.44,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 115,
+      "carLength": 15.6,
+      "minCars": 4,
+      "maxCars": 4,
+      "carsPerCarSet": 4,
+      "carCost": 2400000,
+      "trainWidth": 2.49,
+      "minStationLength": 62,
+      "maxStationLength": 70,
+      "baseTrackCost": 30000,
+      "baseStationCost": 47000000,
+      "trainOperationalCostPerHour": 220,
+      "carOperationalCostPerHour": 23,
+      "scissorsCrossoverCost": 13500000,
+      "trackClearance": 0.9,
+      "maxLateralAcceleration": 0.9,
+      "minTurnRadius": 45,
+      "minStationTurnRadius": 380,
+      "maxSlopePercentage": 5.5,
+      "parallelTrackSpacing": 3.6,
+      "stopTimeSeconds": 30,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#FBCB05"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 3.8,
+      "STANDARD_TUNNEL": 1.9,
+      "CUT_AND_COVER": 0.95,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.75
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kinki Sharyo",
+      "Kawasaki Heavy Industries"
+    ]
+  },
+  {
+    "id": "osa-new-tram-200",
+    "name": "OSA New Tram 200",
+    "description": "Osaka Metro 200 series automated people mover train. Used on the Nanko Port Town Line. Manufacturer: Niigata Transys.",
+    "stats": {
+      "maxAcceleration": 1.1,
+      "maxDeceleration": 1.2,
+      "maxSpeed": 15.28,
+      "maxSpeedLocalStation": 8.0,
+      "capacityPerCar": 80,
+      "carLength": 8,
+      "minCars": 4,
+      "maxCars": 4,
+      "carsPerCarSet": 4,
+      "carCost": 1800000,
+      "trainWidth": 2.4,
+      "minStationLength": 32,
+      "maxStationLength": 40,
+      "baseTrackCost": 22000,
+      "baseStationCost": 30000000,
+      "trainOperationalCostPerHour": 130,
+      "carOperationalCostPerHour": 14,
+      "scissorsCrossoverCost": 9000000,
+      "trackClearance": 0.75,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 25,
+      "minStationTurnRadius": 120,
+      "maxSlopePercentage": 6,
+      "parallelTrackSpacing": 3.2,
+      "stopTimeSeconds": 20,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#00A3E0"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 3.6,
+      "STANDARD_TUNNEL": 1.8,
+      "CUT_AND_COVER": 0.9,
+      "AT_GRADE": 0.28,
+      "ELEVATED": 0.7
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Niigata Transys"
+    ]
+  },
+  {
+    "id": "osa-hankai-1001-tram",
+    "name": "OSA Hankai 1001 Tram",
+    "description": "Hankai 1001 series low-floor tram. Used on Osaka/Sakai street tram services. Manufacturer: Alna Sharyo.",
+    "stats": {
+      "maxAcceleration": 1.1,
+      "maxDeceleration": 1.2,
+      "maxSpeed": 13.89,
+      "maxSpeedLocalStation": 8.0,
+      "capacityPerCar": 110,
+      "carLength": 16.3,
+      "minCars": 1,
+      "maxCars": 1,
+      "carsPerCarSet": 1,
+      "carCost": 2400000,
+      "trainWidth": 2.4,
+      "minStationLength": 16,
+      "maxStationLength": 24,
+      "baseTrackCost": 15000,
+      "baseStationCost": 8500000,
+      "trainOperationalCostPerHour": 95,
+      "carOperationalCostPerHour": 20,
+      "scissorsCrossoverCost": 5000000,
+      "trackClearance": 0.65,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 25,
+      "minStationTurnRadius": 80,
+      "maxSlopePercentage": 6,
+      "parallelTrackSpacing": 3.2,
+      "stopTimeSeconds": 18,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#43B02A"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 2.8,
+      "STANDARD_TUNNEL": 1.5,
+      "CUT_AND_COVER": 0.8,
+      "AT_GRADE": 0.2,
+      "ELEVATED": 0.6
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Alna Sharyo"
+    ]
+  },
+  {
+    "id": "osa-jr-323-loop",
+    "name": "OSA JR 323 Loop",
+    "description": "JR West 323 series 8-car commuter train. Used on the Osaka Loop Line. Manufacturer: Kinki Sharyo.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 33.33,
+      "maxSpeedLocalStation": 16.0,
+      "capacityPerCar": 150,
+      "carLength": 20,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 3200000,
+      "trainWidth": 2.95,
+      "minStationLength": 160,
+      "maxStationLength": 170,
+      "baseTrackCost": 32000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 50,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#F58220"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kinki Sharyo"
+    ]
+  },
+  {
+    "id": "osa-jr-225-kansai",
+    "name": "OSA JR 225 Kansai",
+    "description": "JR West 225 series suburban train. Used on major Kansai rapid services. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 36.11,
+      "maxSpeedLocalStation": 16.0,
+      "capacityPerCar": 150,
+      "carLength": 20,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 4300000,
+      "trainWidth": 2.95,
+      "minStationLength": 160,
+      "maxStationLength": 170,
+      "baseTrackCost": 45000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 32,
+      "scissorsCrossoverCost": 22000000,
+      "trackClearance": 1.15,
+      "maxLateralAcceleration": 0.75,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1200,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 4.2,
+      "stopTimeSeconds": 50,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#005EB8"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kinki Sharyo",
+      "Kawasaki Heavy Industries"
+    ]
+  },
+  {
+    "id": "osa-nankai-50000-rapit",
+    "name": "OSA Nankai 50000 Rapit",
+    "description": "Nankai 50000 series Rapit airport limited express train. Manufacturer: Tokyu Car.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 33.33,
+      "maxSpeedLocalStation": 16.0,
+      "capacityPerCar": 42,
+      "carLength": 20,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 3200000,
+      "trainWidth": 2.85,
+      "minStationLength": 120,
+      "maxStationLength": 130,
+      "baseTrackCost": 32000,
+      "baseStationCost": 65000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 50,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#005EB8"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Tokyu Car"
+    ]
+  },
+  {
+    "id": "kyo-10-karasuma",
+    "name": "KYO 10 Karasuma",
+    "description": "Kyoto Municipal Subway 10 series 6-car train. Used on the Karasuma Line. Manufacturer: Kinki Sharyo / Hitachi.",
+    "stats": {
+      "maxAcceleration": 1,
+      "maxDeceleration": 1.15,
+      "maxSpeed": 25.0,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 150,
+      "carLength": 20,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 2400000,
+      "trainWidth": 2.78,
+      "minStationLength": 120,
+      "maxStationLength": 128,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 32,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#00843D"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kinki Sharyo",
+      "Hitachi"
+    ]
+  },
+  {
+    "id": "kyo-20-karasuma",
+    "name": "KYO 20 Karasuma",
+    "description": "Kyoto Municipal Subway 20 series 6-car train. Newer Karasuma Line stock. Manufacturer: Kinki Sharyo.",
+    "stats": {
+      "maxAcceleration": 1,
+      "maxDeceleration": 1.15,
+      "maxSpeed": 25.0,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 150,
+      "carLength": 20,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 2400000,
+      "trainWidth": 2.78,
+      "minStationLength": 120,
+      "maxStationLength": 128,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 32,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#00843D"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kinki Sharyo"
+    ]
+  },
+  {
+    "id": "kyo-50-tozai",
+    "name": "KYO 50 Tozai",
+    "description": "Kyoto Municipal Subway 50 series 6-car train. Used on the Tozai Line. Manufacturer: Kinki Sharyo.",
+    "stats": {
+      "maxAcceleration": 1,
+      "maxDeceleration": 1.15,
+      "maxSpeed": 20.83,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 130,
+      "carLength": 16.5,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 2400000,
+      "trainWidth": 2.49,
+      "minStationLength": 99,
+      "maxStationLength": 107,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 32,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#F58220"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kinki Sharyo"
+    ]
+  },
+  {
+    "id": "kyo-keihan-800-keishin",
+    "name": "KYO Keihan 800 Keishin",
+    "description": "Keihan 800 series 4-car train. Runs through Kyoto Subway Tozai Line and Keishin Line. Manufacturer: Kinki Sharyo.",
+    "stats": {
+      "maxAcceleration": 1,
+      "maxDeceleration": 1.15,
+      "maxSpeed": 20.83,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 130,
+      "carLength": 16.5,
+      "minCars": 4,
+      "maxCars": 4,
+      "carsPerCarSet": 4,
+      "carCost": 2400000,
+      "trainWidth": 2.49,
+      "minStationLength": 66,
+      "maxStationLength": 74,
+      "baseTrackCost": 32000,
+      "baseStationCost": 42000000,
+      "trainOperationalCostPerHour": 190,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 32,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#005EB8"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kinki Sharyo"
+    ]
+  },
+  {
+    "id": "kyo-kintetsu-3200",
+    "name": "KYO Kintetsu 3200",
+    "description": "Kintetsu 3200 series 6-car train. Runs through Kyoto Subway Karasuma Line. Manufacturer: Kinki Sharyo.",
+    "stats": {
+      "maxAcceleration": 1,
+      "maxDeceleration": 1.15,
+      "maxSpeed": 29.17,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 150,
+      "carLength": 20,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 3000000,
+      "trainWidth": 2.8,
+      "minStationLength": 120,
+      "maxStationLength": 128,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 32,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#B50000"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kinki Sharyo"
+    ]
+  },
+  {
+    "id": "kyo-kintetsu-3220",
+    "name": "KYO Kintetsu 3220",
+    "description": "Kintetsu 3220 series 6-car train. Runs through Kyoto Subway Karasuma Line. Manufacturer: Kinki Sharyo.",
+    "stats": {
+      "maxAcceleration": 1,
+      "maxDeceleration": 1.15,
+      "maxSpeed": 29.17,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 150,
+      "carLength": 20,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 3000000,
+      "trainWidth": 2.8,
+      "minStationLength": 120,
+      "maxStationLength": 128,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 32,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#B50000"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kinki Sharyo"
+    ]
+  },
+  {
+    "id": "kyo-randen-2001-tram",
+    "name": "KYO Randen 2001 Tram",
+    "description": "Keifuku Randen 2001 series tram. Used on Kyoto street tram services. Manufacturer: Mukogawa Sharyo.",
+    "stats": {
+      "maxAcceleration": 1.1,
+      "maxDeceleration": 1.2,
+      "maxSpeed": 11.11,
+      "maxSpeedLocalStation": 8.0,
+      "capacityPerCar": 100,
+      "carLength": 15.5,
+      "minCars": 1,
+      "maxCars": 1,
+      "carsPerCarSet": 1,
+      "carCost": 2400000,
+      "trainWidth": 2.6,
+      "minStationLength": 16,
+      "maxStationLength": 24,
+      "baseTrackCost": 15000,
+      "baseStationCost": 8500000,
+      "trainOperationalCostPerHour": 95,
+      "carOperationalCostPerHour": 20,
+      "scissorsCrossoverCost": 5000000,
+      "trackClearance": 0.65,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 25,
+      "minStationTurnRadius": 80,
+      "maxSlopePercentage": 6,
+      "parallelTrackSpacing": 3.2,
+      "stopTimeSeconds": 18,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#5A2D82"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 2.8,
+      "STANDARD_TUNNEL": 1.5,
+      "CUT_AND_COVER": 0.8,
+      "AT_GRADE": 0.2,
+      "ELEVATED": 0.6
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Mukogawa Sharyo"
+    ]
+  },
+  {
+    "id": "kyo-randen-600-tram",
+    "name": "KYO Randen 600 Tram",
+    "description": "Keifuku Randen 600 series tram. Used on Kyoto street tram services. Manufacturer: Mukogawa Sharyo.",
+    "stats": {
+      "maxAcceleration": 1.1,
+      "maxDeceleration": 1.2,
+      "maxSpeed": 11.11,
+      "maxSpeedLocalStation": 8.0,
+      "capacityPerCar": 95,
+      "carLength": 15.5,
+      "minCars": 1,
+      "maxCars": 1,
+      "carsPerCarSet": 1,
+      "carCost": 2400000,
+      "trainWidth": 2.6,
+      "minStationLength": 16,
+      "maxStationLength": 24,
+      "baseTrackCost": 15000,
+      "baseStationCost": 8500000,
+      "trainOperationalCostPerHour": 95,
+      "carOperationalCostPerHour": 20,
+      "scissorsCrossoverCost": 5000000,
+      "trackClearance": 0.65,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 25,
+      "minStationTurnRadius": 80,
+      "maxSlopePercentage": 6,
+      "parallelTrackSpacing": 3.2,
+      "stopTimeSeconds": 18,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#5A2D82"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 2.8,
+      "STANDARD_TUNNEL": 1.5,
+      "CUT_AND_COVER": 0.8,
+      "AT_GRADE": 0.2,
+      "ELEVATED": 0.6
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Mukogawa Sharyo"
+    ]
+  },
+  {
+    "id": "kyo-eizan-900-kirara",
+    "name": "KYO Eizan 900 Kirara",
+    "description": "Eizan 900 series Kirara scenic train serving northern Kyoto. Manufacturer: Mukogawa Sharyo.",
+    "stats": {
+      "maxAcceleration": 0.95,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 19.44,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 80,
+      "carLength": 15.7,
+      "minCars": 2,
+      "maxCars": 2,
+      "carsPerCarSet": 2,
+      "carCost": 3200000,
+      "trainWidth": 2.6,
+      "minStationLength": 31,
+      "maxStationLength": 41,
+      "baseTrackCost": 32000,
+      "baseStationCost": 65000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 50,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#F58220"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Mukogawa Sharyo"
+    ]
+  },
+  {
+    "id": "kyo-jr-221-kansai",
+    "name": "KYO JR 221 Kansai",
+    "description": "JR West 221 series suburban train serving Kyoto-area routes. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 33.33,
+      "maxSpeedLocalStation": 16.0,
+      "capacityPerCar": 150,
+      "carLength": 20,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 3200000,
+      "trainWidth": 2.95,
+      "minStationLength": 160,
+      "maxStationLength": 170,
+      "baseTrackCost": 32000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 50,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#005EB8"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kinki Sharyo",
+      "Kawasaki Heavy Industries"
+    ]
+  },
+  {
+    "id": "kyo-jr-225-kansai",
+    "name": "KYO JR 225 Kansai",
+    "description": "JR West 225 series suburban train serving Kyoto-area rapid routes. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 36.11,
+      "maxSpeedLocalStation": 16.0,
+      "capacityPerCar": 150,
+      "carLength": 20,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 4300000,
+      "trainWidth": 2.95,
+      "minStationLength": 160,
+      "maxStationLength": 170,
+      "baseTrackCost": 45000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 32,
+      "scissorsCrossoverCost": 22000000,
+      "trackClearance": 1.15,
+      "maxLateralAcceleration": 0.75,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1200,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 4.2,
+      "stopTimeSeconds": 50,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#005EB8"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kinki Sharyo",
+      "Kawasaki Heavy Industries"
+    ]
+  },
+  {
+    "id": "kyo-jr-321-urban",
+    "name": "KYO JR 321 Urban",
+    "description": "JR West 321 series commuter train serving Kyoto/Kobe local routes. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 33.33,
+      "maxSpeedLocalStation": 16.0,
+      "capacityPerCar": 150,
+      "carLength": 20,
+      "minCars": 7,
+      "maxCars": 7,
+      "carsPerCarSet": 7,
+      "carCost": 3200000,
+      "trainWidth": 2.95,
+      "minStationLength": 140,
+      "maxStationLength": 150,
+      "baseTrackCost": 32000,
+      "baseStationCost": 65000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 50,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#005EB8"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kinki Sharyo",
+      "Kawasaki Heavy Industries"
+    ]
+  },
+  {
+    "id": "kob-1000-seishin",
+    "name": "KOB 1000 Seishin",
+    "description": "Kobe Municipal Subway 1000 series 6-car train. Older Seishin-Yamate Line stock. Manufacturer: Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 1,
+      "maxDeceleration": 1.15,
+      "maxSpeed": 25.0,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 145,
+      "carLength": 19,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 3000000,
+      "trainWidth": 2.8,
+      "minStationLength": 114,
+      "maxStationLength": 122,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 32,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#00A3E0"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kawasaki Heavy Industries"
+    ]
+  },
+  {
+    "id": "kob-2000-seishin",
+    "name": "KOB 2000 Seishin",
+    "description": "Kobe Municipal Subway 2000 series 6-car train. Seishin-Yamate Line stock. Manufacturer: Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 1,
+      "maxDeceleration": 1.15,
+      "maxSpeed": 25.0,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 145,
+      "carLength": 19,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 3000000,
+      "trainWidth": 2.8,
+      "minStationLength": 114,
+      "maxStationLength": 122,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 32,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#00A3E0"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kawasaki Heavy Industries"
+    ]
+  },
+  {
+    "id": "kob-3000-seishin",
+    "name": "KOB 3000 Seishin",
+    "description": "Kobe Municipal Subway 3000 series 6-car train. Seishin-Yamate Line stock. Manufacturer: Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 1,
+      "maxDeceleration": 1.15,
+      "maxSpeed": 25.0,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 145,
+      "carLength": 19,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 3000000,
+      "trainWidth": 2.8,
+      "minStationLength": 114,
+      "maxStationLength": 122,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 32,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#00A3E0"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kawasaki Heavy Industries"
+    ]
+  },
+  {
+    "id": "kob-6000-seishin",
+    "name": "KOB 6000 Seishin",
+    "description": "Kobe Municipal Subway 6000 series 6-car train. Newer Seishin-Yamate Line stock. Manufacturer: Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 1,
+      "maxDeceleration": 1.15,
+      "maxSpeed": 25.0,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 145,
+      "carLength": 19,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 3000000,
+      "trainWidth": 2.8,
+      "minStationLength": 114,
+      "maxStationLength": 122,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 32,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#00A3E0"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kawasaki Heavy Industries"
+    ]
+  },
+  {
+    "id": "kob-7000-hokushin",
+    "name": "KOB 7000 Hokushin",
+    "description": "Hokushin/Kobe 7000 series 6-car train. Used on Hokushin and Seishin-Yamate services. Manufacturer: Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 1,
+      "maxDeceleration": 1.15,
+      "maxSpeed": 25.0,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 145,
+      "carLength": 19,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 3000000,
+      "trainWidth": 2.8,
+      "minStationLength": 114,
+      "maxStationLength": 122,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 32,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#00A3E0"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kawasaki Heavy Industries"
+    ]
+  },
+  {
+    "id": "kob-5000-kaigan-linear",
+    "name": "KOB 5000 Kaigan Linear",
+    "description": "Kobe Municipal Subway 5000 series 4-car linear-motor train. Used on the Kaigan Line. Manufacturer: Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 1,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 19.44,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 115,
+      "carLength": 15.6,
+      "minCars": 4,
+      "maxCars": 4,
+      "carsPerCarSet": 4,
+      "carCost": 2400000,
+      "trainWidth": 2.49,
+      "minStationLength": 62,
+      "maxStationLength": 70,
+      "baseTrackCost": 30000,
+      "baseStationCost": 47000000,
+      "trainOperationalCostPerHour": 220,
+      "carOperationalCostPerHour": 23,
+      "scissorsCrossoverCost": 13500000,
+      "trackClearance": 0.9,
+      "maxLateralAcceleration": 0.9,
+      "minTurnRadius": 45,
+      "minStationTurnRadius": 380,
+      "maxSlopePercentage": 5.5,
+      "parallelTrackSpacing": 3.6,
+      "stopTimeSeconds": 30,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#00ADA9"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 3.8,
+      "STANDARD_TUNNEL": 1.9,
+      "CUT_AND_COVER": 0.95,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.75
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kawasaki Heavy Industries"
+    ]
+  },
+  {
+    "id": "kob-port-liner-2000",
+    "name": "KOB Port Liner 2000",
+    "description": "Kobe New Transit 2000/2020 series automated guideway train. Used on the Port Liner. Manufacturer: Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 1.1,
+      "maxDeceleration": 1.2,
+      "maxSpeed": 19.44,
+      "maxSpeedLocalStation": 8.0,
+      "capacityPerCar": 90,
+      "carLength": 8.5,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 1800000,
+      "trainWidth": 2.5,
+      "minStationLength": 51,
+      "maxStationLength": 59,
+      "baseTrackCost": 22000,
+      "baseStationCost": 30000000,
+      "trainOperationalCostPerHour": 130,
+      "carOperationalCostPerHour": 14,
+      "scissorsCrossoverCost": 9000000,
+      "trackClearance": 0.75,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 25,
+      "minStationTurnRadius": 120,
+      "maxSlopePercentage": 6,
+      "parallelTrackSpacing": 3.2,
+      "stopTimeSeconds": 20,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#00A3E0"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 3.6,
+      "STANDARD_TUNNEL": 1.8,
+      "CUT_AND_COVER": 0.9,
+      "AT_GRADE": 0.28,
+      "ELEVATED": 0.7
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kawasaki Heavy Industries"
+    ]
+  },
+  {
+    "id": "kob-rokko-3000",
+    "name": "KOB Rokko 3000",
+    "description": "Kobe New Transit 3000 series automated guideway train. Used on the Rokko Liner. Manufacturer: Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 1.1,
+      "maxDeceleration": 1.2,
+      "maxSpeed": 19.44,
+      "maxSpeedLocalStation": 8.0,
+      "capacityPerCar": 90,
+      "carLength": 8.5,
+      "minCars": 4,
+      "maxCars": 4,
+      "carsPerCarSet": 4,
+      "carCost": 1800000,
+      "trainWidth": 2.5,
+      "minStationLength": 34,
+      "maxStationLength": 42,
+      "baseTrackCost": 22000,
+      "baseStationCost": 30000000,
+      "trainOperationalCostPerHour": 130,
+      "carOperationalCostPerHour": 14,
+      "scissorsCrossoverCost": 9000000,
+      "trackClearance": 0.75,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 25,
+      "minStationTurnRadius": 120,
+      "maxSlopePercentage": 6,
+      "parallelTrackSpacing": 3.2,
+      "stopTimeSeconds": 20,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#00A3E0"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 3.6,
+      "STANDARD_TUNNEL": 1.8,
+      "CUT_AND_COVER": 0.9,
+      "AT_GRADE": 0.28,
+      "ELEVATED": 0.7
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kawasaki Heavy Industries"
+    ]
+  },
+  {
+    "id": "kob-jr-207-urban",
+    "name": "KOB JR 207 Urban",
+    "description": "JR West 207 series commuter train serving Kobe-area local services. Manufacturer: Kawasaki Heavy Industries / Hitachi / Kinki Sharyo.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 33.33,
+      "maxSpeedLocalStation": 16.0,
+      "capacityPerCar": 150,
+      "carLength": 20,
+      "minCars": 7,
+      "maxCars": 7,
+      "carsPerCarSet": 7,
+      "carCost": 3200000,
+      "trainWidth": 2.95,
+      "minStationLength": 140,
+      "maxStationLength": 150,
+      "baseTrackCost": 32000,
+      "baseStationCost": 65000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 50,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#005EB8"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kawasaki Heavy Industries",
+      "Hitachi",
+      "Kinki Sharyo"
+    ]
+  },
+  {
+    "id": "kob-jr-321-urban",
+    "name": "KOB JR 321 Urban",
+    "description": "JR West 321 series commuter train serving Kobe-area local services. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 33.33,
+      "maxSpeedLocalStation": 16.0,
+      "capacityPerCar": 150,
+      "carLength": 20,
+      "minCars": 7,
+      "maxCars": 7,
+      "carsPerCarSet": 7,
+      "carCost": 3200000,
+      "trainWidth": 2.95,
+      "minStationLength": 140,
+      "maxStationLength": 150,
+      "baseTrackCost": 32000,
+      "baseStationCost": 65000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 50,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#005EB8"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kinki Sharyo",
+      "Kawasaki Heavy Industries"
+    ]
+  },
+  {
+    "id": "kob-jr-225-kansai",
+    "name": "KOB JR 225 Kansai",
+    "description": "JR West 225 series suburban train serving Kobe-area rapid services. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 36.11,
+      "maxSpeedLocalStation": 16.0,
+      "capacityPerCar": 150,
+      "carLength": 20,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 4300000,
+      "trainWidth": 2.95,
+      "minStationLength": 160,
+      "maxStationLength": 170,
+      "baseTrackCost": 45000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 32,
+      "scissorsCrossoverCost": 22000000,
+      "trackClearance": 1.15,
+      "maxLateralAcceleration": 0.75,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1200,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 4.2,
+      "stopTimeSeconds": 50,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#005EB8"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kinki Sharyo",
+      "Kawasaki Heavy Industries"
+    ]
+  },
+  {
+    "id": "kob-hanshin-1000",
+    "name": "KOB Hanshin 1000",
+    "description": "Hanshin 1000 series commuter train serving Kobe through Namba/Hanshin services. Manufacturer: Kinki Sharyo.",
+    "stats": {
+      "maxAcceleration": 0.95,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 29.44,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 150,
+      "carLength": 19,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 3200000,
+      "trainWidth": 2.8,
+      "minStationLength": 114,
+      "maxStationLength": 124,
+      "baseTrackCost": 32000,
+      "baseStationCost": 65000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 50,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#F58220"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kinki Sharyo"
+    ]
+  },
+  {
+    "id": "kob-hankyu-1000",
+    "name": "KOB Hankyu 1000",
+    "description": "Hankyu 1000 series commuter train serving Kobe Line services. Manufacturer: Hitachi.",
+    "stats": {
+      "maxAcceleration": 0.95,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 31.94,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 150,
+      "carLength": 19,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 3200000,
+      "trainWidth": 2.75,
+      "minStationLength": 152,
+      "maxStationLength": 162,
+      "baseTrackCost": 32000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 50,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#6F263D"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Hitachi"
+    ]
+  },
+  {
+    "id": "kob-sanyo-6000",
+    "name": "KOB Sanyo 6000",
+    "description": "Sanyo Electric Railway 6000 series commuter train serving Kobe-area services. Manufacturer: Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 0.95,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 30.56,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 150,
+      "carLength": 19,
+      "minCars": 4,
+      "maxCars": 4,
+      "carsPerCarSet": 4,
+      "carCost": 3200000,
+      "trainWidth": 2.8,
+      "minStationLength": 76,
+      "maxStationLength": 86,
+      "baseTrackCost": 32000,
+      "baseStationCost": 65000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 50,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#F58220"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kawasaki Heavy Industries"
+    ]
+  },
+  {
+    "id": "kt-generic-commuter-emu",
+    "name": "KT Generic Commuter EMU",
+    "description": "Generic Kintetsu commuter EMU for Osaka/Kyoto-area lines. Covers many similar Kintetsu commuter types. Manufacturer: Kinki Sharyo.",
+    "stats": {
+      "maxAcceleration": 0.95,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 29.17,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 150,
+      "carLength": 20.7,
+      "minCars": 2,
+      "maxCars": 10,
+      "carsPerCarSet": 2,
+      "carCost": 3200000,
+      "trainWidth": 2.8,
+      "minStationLength": 41,
+      "maxStationLength": 217,
+      "baseTrackCost": 34000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 50,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#B50000"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kinki Sharyo"
+    ]
+  },
+  {
+    "id": "kh-commuter-emu",
+    "name": "KH Commuter EMU",
+    "description": "Generic Keihan 8-car commuter EMU for Osaka-Kyoto mainline services. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo.",
+    "stats": {
+      "maxAcceleration": 0.95,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 30.56,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 145,
+      "carLength": 18.7,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 3200000,
+      "trainWidth": 2.78,
+      "minStationLength": 150,
+      "maxStationLength": 160,
+      "baseTrackCost": 34000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 50,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#005EB8"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kawasaki Heavy Industries",
+      "Kinki Sharyo"
+    ]
+  },
+  {
+    "id": "kh-3000-emu",
+    "name": "KH 3000 EMU",
+    "description": "Keihan 3000 series 8-car premium commuter/limited express EMU. Manufacturer: Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 0.95,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 30.56,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 130,
+      "carLength": 18.7,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 3200000,
+      "trainWidth": 2.78,
+      "minStationLength": 150,
+      "maxStationLength": 160,
+      "baseTrackCost": 34000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 50,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#005EB8"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kawasaki Heavy Industries"
+    ]
+  },
+  {
+    "id": "kt-21000-urban-liner-limited-express",
+    "name": "KT 21000 Urban Liner Limited Express",
+    "description": "Kintetsu 21000 series Urban Liner limited express EMU for Osaka-Nagoya services. Manufacturer: Kinki Sharyo.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 36.11,
+      "maxSpeedLocalStation": 16.0,
+      "capacityPerCar": 60,
+      "carLength": 21.0,
+      "minCars": 6,
+      "maxCars": 8,
+      "carsPerCarSet": 6,
+      "carCost": 4300000,
+      "trainWidth": 2.8,
+      "minStationLength": 126,
+      "maxStationLength": 178,
+      "baseTrackCost": 45000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 32,
+      "scissorsCrossoverCost": 22000000,
+      "trackClearance": 1.15,
+      "maxLateralAcceleration": 0.75,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1200,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 4.2,
+      "stopTimeSeconds": 50,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#F58220"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kinki Sharyo"
+    ]
+  },
+  {
+    "id": "kt-50000-shimakaze-limited-express",
+    "name": "KT 50000 Shimakaze Limited Express",
+    "description": "Kintetsu 50000 series Shimakaze premium limited express EMU. Manufacturer: Kinki Sharyo.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 36.11,
+      "maxSpeedLocalStation": 16.0,
+      "capacityPerCar": 25,
+      "carLength": 21.0,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 4300000,
+      "trainWidth": 2.8,
+      "minStationLength": 126,
+      "maxStationLength": 136,
+      "baseTrackCost": 45000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 32,
+      "scissorsCrossoverCost": 22000000,
+      "trackClearance": 1.15,
+      "maxLateralAcceleration": 0.75,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1200,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 4.2,
+      "stopTimeSeconds": 50,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#005EB8"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kinki Sharyo"
+    ]
+  },
+  {
+    "id": "kh-8000-emu",
+    "name": "KH 8000 EMU",
+    "description": "Keihan 8000 series 8-car limited express EMU for Osaka-Kyoto services. Manufacturer: Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 0.95,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 30.56,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 110,
+      "carLength": 18.7,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 3200000,
+      "trainWidth": 2.78,
+      "minStationLength": 150,
+      "maxStationLength": 160,
+      "baseTrackCost": 34000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 50,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#C8102E"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kawasaki Heavy Industries"
+    ]
+  },
+  {
+    "id": "hn-9300-emu",
+    "name": "HN 9300 EMU",
+    "description": "Hankyu 9300 series Kyoto Line commuter/limited express EMU. Manufacturer: Hitachi.",
+    "stats": {
+      "maxAcceleration": 0.95,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 31.94,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 145,
+      "carLength": 19.0,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 3200000,
+      "trainWidth": 2.75,
+      "minStationLength": 152,
+      "maxStationLength": 162,
+      "baseTrackCost": 34000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 50,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#6F263D"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Hitachi"
+    ]
+  },
+  {
+    "id": "hn-1000-emu",
+    "name": "HN 1000 EMU",
+    "description": "Hankyu 1000 series commuter EMU for Osaka/Kyoto/Kobe-area services. Manufacturer: Hitachi.",
+    "stats": {
+      "maxAcceleration": 0.95,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 31.94,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 145,
+      "carLength": 19.0,
+      "minCars": 8,
+      "maxCars": 8,
+      "carsPerCarSet": 8,
+      "carCost": 3200000,
+      "trainWidth": 2.75,
+      "minStationLength": 152,
+      "maxStationLength": 162,
+      "baseTrackCost": 34000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 50,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#6F263D"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Hitachi"
+    ]
+  }
+]

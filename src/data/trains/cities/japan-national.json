@@ -1228,5 +1228,361 @@
     "Manufacturer": [
       "Kawasaki Heavy Industries"
     ]
+  },
+  {
+    "id": "jp-jnr-115-emu",
+    "name": "JP JNR 115 EMU",
+    "description": "JNR 115 series DC suburban EMU. Rural/regional representative set, excluding former long urban commuter operations. Manufacturer: JNR / Nippon Sharyo / Kawasaki Heavy Industries / Hitachi.",
+    "stats": {
+      "maxAcceleration": 0.95,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 30.56,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 145,
+      "carLength": 20.0,
+      "minCars": 2,
+      "maxCars": 6,
+      "carsPerCarSet": 3,
+      "carCost": 3200000,
+      "trainWidth": 2.95,
+      "minStationLength": 40,
+      "maxStationLength": 130,
+      "baseTrackCost": 34000,
+      "baseStationCost": 62000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 40,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#F58220"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "JNR",
+      "Nippon Sharyo",
+      "Kawasaki Heavy Industries",
+      "Hitachi"
+    ]
+  },
+  {
+    "id": "jp-jnr-kiha40-dmu",
+    "name": "JP JNR KiHa40 DMU",
+    "description": "JNR KiHa 40 series rural diesel railcar. Ubiquitous countryside stock, modeled for 1-6 car local formations. Manufacturer: JNR / Niigata Tekko / Fuji Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 0.75,
+      "maxDeceleration": 0.95,
+      "maxSpeed": 26.39,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 100,
+      "carLength": 21.3,
+      "minCars": 1,
+      "maxCars": 6,
+      "carsPerCarSet": 1,
+      "carCost": 2700000,
+      "trainWidth": 2.93,
+      "minStationLength": 21,
+      "maxStationLength": 138,
+      "baseTrackCost": 30000,
+      "baseStationCost": 42000000,
+      "trainOperationalCostPerHour": 190,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 12000000,
+      "trackClearance": 0.95,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 35,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#7B6469"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 3.8,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "JNR",
+      "Niigata Tekko",
+      "Fuji Heavy Industries"
+    ]
+  },
+  {
+    "id": "jp-jnr-415-emu",
+    "name": "JP JNR 415 EMU",
+    "description": "JNR 415 series AC/DC suburban EMU. The commuter workhorse of AC-electrified regions. Manufacturer: JNR / Nippon Sharyo / Kawasaki Heavy Industries / Hitachi.",
+    "stats": {
+      "maxAcceleration": 0.95,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 30.56,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 145,
+      "carLength": 20.0,
+      "minCars": 4,
+      "maxCars": 12,
+      "carsPerCarSet": 4,
+      "carCost": 3200000,
+      "trainWidth": 2.95,
+      "minStationLength": 80,
+      "maxStationLength": 250,
+      "baseTrackCost": 34000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 50,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#005EB8"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "JNR",
+      "Nippon Sharyo",
+      "Kawasaki Heavy Industries",
+      "Hitachi"
+    ]
+  },
+  {
+    "id": "jp-jnr-213-emu",
+    "name": "JP JNR 213 EMU",
+    "description": "JNR 213 series suburban EMU. Two-door regional EMU used by JR West and JR Central. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo / Tokyu Car.",
+    "stats": {
+      "maxAcceleration": 0.95,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 30.56,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 130,
+      "carLength": 20.0,
+      "minCars": 2,
+      "maxCars": 6,
+      "carsPerCarSet": 2,
+      "carCost": 3200000,
+      "trainWidth": 2.95,
+      "minStationLength": 40,
+      "maxStationLength": 130,
+      "baseTrackCost": 34000,
+      "baseStationCost": 62000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 40,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#00A3E0"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Hitachi",
+      "Kawasaki Heavy Industries",
+      "Kinki Sharyo",
+      "Nippon Sharyo",
+      "Tokyu Car"
+    ]
+  },
+  {
+    "id": "jp-jnr-113-emu",
+    "name": "JP JNR 113 EMU",
+    "description": "JNR 113 series DC suburban EMU. Broad national legacy suburban profile for areas not covered by newer stock. Manufacturer: JNR / Nippon Sharyo / Kawasaki Heavy Industries / Hitachi.",
+    "stats": {
+      "maxAcceleration": 0.95,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 30.56,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 145,
+      "carLength": 20.0,
+      "minCars": 4,
+      "maxCars": 12,
+      "carsPerCarSet": 4,
+      "carCost": 3200000,
+      "trainWidth": 2.95,
+      "minStationLength": 80,
+      "maxStationLength": 250,
+      "baseTrackCost": 34000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 50,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#F58220"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "JNR",
+      "Nippon Sharyo",
+      "Kawasaki Heavy Industries",
+      "Hitachi"
+    ]
+  },
+  {
+    "id": "jp-jnr-117-emu",
+    "name": "JP JNR 117 EMU",
+    "description": "JNR 117 series two-door suburban EMU used on rapid and regional services. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo.",
+    "stats": {
+      "maxAcceleration": 0.95,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 31.94,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 130,
+      "carLength": 20.0,
+      "minCars": 4,
+      "maxCars": 8,
+      "carsPerCarSet": 4,
+      "carCost": 3200000,
+      "trainWidth": 2.95,
+      "minStationLength": 80,
+      "maxStationLength": 170,
+      "baseTrackCost": 34000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 50,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#D6CBB5"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kawasaki Heavy Industries",
+      "Kinki Sharyo",
+      "Nippon Sharyo"
+    ]
+  },
+  {
+    "id": "jp-jnr-211-emu",
+    "name": "JP JNR 211 EMU",
+    "description": "JNR 211 series suburban EMU. Later JNR stainless-steel regional and suburban stock. Manufacturer: JNR / Kawasaki Heavy Industries / Tokyu Car / Nippon Sharyo.",
+    "stats": {
+      "maxAcceleration": 0.95,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 30.56,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 150,
+      "carLength": 20.0,
+      "minCars": 3,
+      "maxCars": 10,
+      "carsPerCarSet": 3,
+      "carCost": 3200000,
+      "trainWidth": 2.95,
+      "minStationLength": 60,
+      "maxStationLength": 210,
+      "baseTrackCost": 34000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 50,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#005EB8"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "JNR",
+      "Kawasaki Heavy Industries",
+      "Tokyu Car",
+      "Nippon Sharyo"
+    ]
   }
 ]

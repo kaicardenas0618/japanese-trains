@@ -1,0 +1,488 @@
+[
+  {
+    "id": "fko-1000-subway",
+    "name": "FKO 1000 Subway",
+    "description": "Fukuoka City Subway 1000 series 6-car train for Airport and Hakozaki Line services. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries / Nippon Sharyo / Tokyu Car / Hitachi.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.15,
+      "maxSpeed": 25.0,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 142,
+      "carLength": 20.0,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 3000000,
+      "trainWidth": 2.86,
+      "minStationLength": 120,
+      "maxStationLength": 130,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 32,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#F58220"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kinki Sharyo",
+      "Kawasaki Heavy Industries",
+      "Nippon Sharyo",
+      "Tokyu Car",
+      "Hitachi"
+    ]
+  },
+  {
+    "id": "jrk-103-1500-emu",
+    "name": "JRK 103-1500 EMU",
+    "description": "JR Kyushu 103-1500 series commuter EMU for Fukuoka/Chikuhi Line through services. Manufacturer: Kawasaki Heavy Industries / Nippon Sharyo.",
+    "stats": {
+      "maxAcceleration": 0.95,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 25.0,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 145,
+      "carLength": 20.0,
+      "minCars": 3,
+      "maxCars": 6,
+      "carsPerCarSet": 3,
+      "carCost": 3200000,
+      "trainWidth": 2.8,
+      "minStationLength": 60,
+      "maxStationLength": 130,
+      "baseTrackCost": 34000,
+      "baseStationCost": 62000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 40,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#005EB8"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kawasaki Heavy Industries",
+      "Nippon Sharyo"
+    ]
+  },
+  {
+    "id": "nis-commuter-emu",
+    "name": "NIS Commuter EMU",
+    "description": "Generic Nishitetsu commuter EMU for Tenjin-Omuta Line 3-6 car local and express services. Manufacturer: Kawasaki Heavy Industries / Nippon Sharyo.",
+    "stats": {
+      "maxAcceleration": 0.95,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 30.56,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 140,
+      "carLength": 19.5,
+      "minCars": 3,
+      "maxCars": 6,
+      "carsPerCarSet": 3,
+      "carCost": 3200000,
+      "trainWidth": 2.76,
+      "minStationLength": 58,
+      "maxStationLength": 127,
+      "baseTrackCost": 34000,
+      "baseStationCost": 62000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 40,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#C8102E"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kawasaki Heavy Industries",
+      "Nippon Sharyo"
+    ]
+  },
+  {
+    "id": "nis-1000-tram",
+    "name": "NIS 1000 Tram",
+    "description": "Nishitetsu 1000 series tram/interurban profile for 2-3 car operation. Manufacturer: Nippon Sharyo.",
+    "stats": {
+      "maxAcceleration": 1.1,
+      "maxDeceleration": 1.2,
+      "maxSpeed": 22.22,
+      "maxSpeedLocalStation": 8.0,
+      "capacityPerCar": 90,
+      "carLength": 13.0,
+      "minCars": 2,
+      "maxCars": 3,
+      "carsPerCarSet": 2,
+      "carCost": 2200000,
+      "trainWidth": 2.4,
+      "minStationLength": 26,
+      "maxStationLength": 48,
+      "baseTrackCost": 15000,
+      "baseStationCost": 8500000,
+      "trainOperationalCostPerHour": 95,
+      "carOperationalCostPerHour": 20,
+      "scissorsCrossoverCost": 5000000,
+      "trackClearance": 0.65,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 25,
+      "minStationTurnRadius": 80,
+      "maxSlopePercentage": 6.0,
+      "parallelTrackSpacing": 3.2,
+      "stopTimeSeconds": 18,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#C8102E"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 2.8,
+      "STANDARD_TUNNEL": 1.5,
+      "CUT_AND_COVER": 0.8,
+      "AT_GRADE": 0.2,
+      "ELEVATED": 0.6
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Nippon Sharyo"
+    ]
+  },
+  {
+    "id": "fko-2000-subway",
+    "name": "FKO 2000 Subway",
+    "description": "Fukuoka City Subway 2000 series 6-car train for Airport and Hakozaki Line services. Manufacturer: Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.15,
+      "maxSpeed": 25.0,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 142,
+      "carLength": 20.0,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 3000000,
+      "trainWidth": 2.86,
+      "minStationLength": 120,
+      "maxStationLength": 130,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 32,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#F58220"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kawasaki Heavy Industries"
+    ]
+  },
+  {
+    "id": "fko-3000-subway",
+    "name": "FKO 3000 Subway",
+    "description": "Fukuoka City Subway 3000 series linear-motor train for Nanakuma Line services. Manufacturer: Hitachi.",
+    "stats": {
+      "maxAcceleration": 1.0,
+      "maxDeceleration": 1.15,
+      "maxSpeed": 19.44,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 115,
+      "carLength": 16.5,
+      "minCars": 4,
+      "maxCars": 4,
+      "carsPerCarSet": 4,
+      "carCost": 3000000,
+      "trainWidth": 2.49,
+      "minStationLength": 66,
+      "maxStationLength": 76,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.95,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 32,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#43B02A"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Hitachi"
+    ]
+  },
+  {
+    "id": "jrk-303-emu",
+    "name": "JRK 303 EMU",
+    "description": "JR Kyushu 303 series commuter EMU for Chikuhi Line and Fukuoka Subway through services. Manufacturer: Kinki Sharyo.",
+    "stats": {
+      "maxAcceleration": 0.95,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 25.0,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 145,
+      "carLength": 20.0,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 3200000,
+      "trainWidth": 2.8,
+      "minStationLength": 120,
+      "maxStationLength": 130,
+      "baseTrackCost": 34000,
+      "baseStationCost": 62000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 40,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#005EB8"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kinki Sharyo"
+    ]
+  },
+  {
+    "id": "jrk-305-emu",
+    "name": "JRK 305 EMU",
+    "description": "JR Kyushu 305 series commuter EMU for Chikuhi Line and Fukuoka Subway through services. Manufacturer: Hitachi.",
+    "stats": {
+      "maxAcceleration": 0.95,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 25.0,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 145,
+      "carLength": 20.0,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 3200000,
+      "trainWidth": 2.8,
+      "minStationLength": 120,
+      "maxStationLength": 130,
+      "baseTrackCost": 34000,
+      "baseStationCost": 62000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 40,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#005EB8"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Hitachi"
+    ]
+  },
+  {
+    "id": "nis-3000-emu",
+    "name": "NIS 3000 EMU",
+    "description": "Nishitetsu 3000 series commuter EMU for Tenjin-Omuta Line express and local services. Manufacturer: Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 0.95,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 30.56,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 118,
+      "carLength": 19.5,
+      "minCars": 2,
+      "maxCars": 6,
+      "carsPerCarSet": 2,
+      "carCost": 3200000,
+      "trainWidth": 2.76,
+      "minStationLength": 39,
+      "maxStationLength": 127,
+      "baseTrackCost": 34000,
+      "baseStationCost": 62000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 40,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#C8102E"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kawasaki Heavy Industries"
+    ]
+  },
+  {
+    "id": "nis-9000-emu",
+    "name": "NIS 9000 EMU",
+    "description": "Nishitetsu 9000 series commuter EMU for Tenjin-Omuta Line express and local services. Manufacturer: Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 0.95,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 30.56,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 118,
+      "carLength": 19.5,
+      "minCars": 2,
+      "maxCars": 6,
+      "carsPerCarSet": 2,
+      "carCost": 3200000,
+      "trainWidth": 2.76,
+      "minStationLength": 39,
+      "maxStationLength": 127,
+      "baseTrackCost": 34000,
+      "baseStationCost": 62000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 40,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#C8102E"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kawasaki Heavy Industries"
+    ]
+  }
+]

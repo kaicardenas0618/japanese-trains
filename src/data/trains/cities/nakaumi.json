@@ -1,0 +1,242 @@
+[
+  {
+    "id": "jrw-kiha126-dmu",
+    "name": "JRW KiHa126 DMU",
+    "description": "JR West KiHa 126 series regional DMU for Sanin/Nakaumi area services. Manufacturer: Niigata Transys.",
+    "stats": {
+      "maxAcceleration": 0.75,
+      "maxDeceleration": 0.95,
+      "maxSpeed": 27.78,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 100,
+      "carLength": 21.3,
+      "minCars": 2,
+      "maxCars": 4,
+      "carsPerCarSet": 2,
+      "carCost": 2700000,
+      "trainWidth": 2.9,
+      "minStationLength": 43,
+      "maxStationLength": 95,
+      "baseTrackCost": 30000,
+      "baseStationCost": 42000000,
+      "trainOperationalCostPerHour": 190,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 12000000,
+      "trackClearance": 0.95,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 35,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#005EB8"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 3.8,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Niigata Transys"
+    ]
+  },
+  {
+    "id": "jrw-kiha187-limited-express",
+    "name": "JRW KiHa187 Limited Express",
+    "description": "JR West KiHa 187 series tilting diesel limited express train for Sanin regional services. Manufacturer: Niigata Transys.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 33.33,
+      "maxSpeedLocalStation": 16.0,
+      "capacityPerCar": 45,
+      "carLength": 21.3,
+      "minCars": 2,
+      "maxCars": 4,
+      "carsPerCarSet": 2,
+      "carCost": 4300000,
+      "trainWidth": 2.9,
+      "minStationLength": 43,
+      "maxStationLength": 95,
+      "baseTrackCost": 45000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 32,
+      "scissorsCrossoverCost": 22000000,
+      "trackClearance": 1.15,
+      "maxLateralAcceleration": 0.75,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1200,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 4.2,
+      "stopTimeSeconds": 50,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#7B6469"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Niigata Transys"
+    ]
+  },
+  {
+    "id": "ich-7000-emu",
+    "name": "ICH 7000 EMU",
+    "description": "Ichibata Electric Railway 7000 series single-car EMU for Matsue-Izumo local services. Manufacturer: Kinki Sharyo.",
+    "stats": {
+      "maxAcceleration": 0.95,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 25.0,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 100,
+      "carLength": 18.0,
+      "minCars": 1,
+      "maxCars": 2,
+      "carsPerCarSet": 1,
+      "carCost": 3200000,
+      "trainWidth": 2.8,
+      "minStationLength": 18,
+      "maxStationLength": 46,
+      "baseTrackCost": 34000,
+      "baseStationCost": 62000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 40,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#F58220"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kinki Sharyo"
+    ]
+  },
+  {
+    "id": "ich-1000-emu",
+    "name": "ICH 1000 EMU",
+    "description": "Ichibata Electric Railway 1000 series EMU converted from former Tokyu stock. Manufacturer: Tokyu Car.",
+    "stats": {
+      "maxAcceleration": 0.95,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 25.0,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 120,
+      "carLength": 18.0,
+      "minCars": 2,
+      "maxCars": 2,
+      "carsPerCarSet": 2,
+      "carCost": 3200000,
+      "trainWidth": 2.8,
+      "minStationLength": 36,
+      "maxStationLength": 46,
+      "baseTrackCost": 34000,
+      "baseStationCost": 62000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 40,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#F58220"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Tokyu Car"
+    ]
+  },
+  {
+    "id": "ich-5000-emu",
+    "name": "ICH 5000 EMU",
+    "description": "Ichibata Electric Railway 5000 series EMU for local and excursion services. Manufacturer: Tokyu Car.",
+    "stats": {
+      "maxAcceleration": 0.95,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 25.0,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 110,
+      "carLength": 18.0,
+      "minCars": 2,
+      "maxCars": 2,
+      "carsPerCarSet": 2,
+      "carCost": 3200000,
+      "trainWidth": 2.8,
+      "minStationLength": 36,
+      "maxStationLength": 46,
+      "baseTrackCost": 34000,
+      "baseStationCost": 62000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 40,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#F58220"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Tokyu Car"
+    ]
+  }
+]

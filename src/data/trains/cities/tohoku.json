@@ -1,0 +1,341 @@
+[
+  {
+    "id": "jre-701-emu",
+    "name": "JRE 701 EMU",
+    "description": "JR East 701 series AC regional EMU for Tōhoku local services. Manufacturer: Kawasaki Heavy Industries / Tokyu Car.",
+    "stats": {
+      "maxAcceleration": 0.95,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 30.56,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 145,
+      "carLength": 20.0,
+      "minCars": 2,
+      "maxCars": 6,
+      "carsPerCarSet": 2,
+      "carCost": 3200000,
+      "trainWidth": 2.95,
+      "minStationLength": 40,
+      "maxStationLength": 130,
+      "baseTrackCost": 34000,
+      "baseStationCost": 62000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 40,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#7B6469"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kawasaki Heavy Industries",
+      "Tokyu Car"
+    ]
+  },
+  {
+    "id": "jre-e721-emu",
+    "name": "JRE E721 EMU",
+    "description": "JR East E721 series AC regional EMU for Sendai and Tōhoku services. Manufacturer: J-TREC.",
+    "stats": {
+      "maxAcceleration": 0.95,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 33.33,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 145,
+      "carLength": 20.0,
+      "minCars": 2,
+      "maxCars": 6,
+      "carsPerCarSet": 2,
+      "carCost": 3200000,
+      "trainWidth": 2.95,
+      "minStationLength": 40,
+      "maxStationLength": 130,
+      "baseTrackCost": 34000,
+      "baseStationCost": 62000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 40,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#005EB8"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "J-TREC"
+    ]
+  },
+  {
+    "id": "jre-kiha110-dmu",
+    "name": "JRE KiHa110 DMU",
+    "description": "JR East KiHa 100/110 series regional diesel railcar for rural Tōhoku lines. Manufacturer: Fuji Heavy Industries / Niigata Transys.",
+    "stats": {
+      "maxAcceleration": 0.75,
+      "maxDeceleration": 0.95,
+      "maxSpeed": 27.78,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 100,
+      "carLength": 20.0,
+      "minCars": 1,
+      "maxCars": 6,
+      "carsPerCarSet": 1,
+      "carCost": 2700000,
+      "trainWidth": 2.9,
+      "minStationLength": 20,
+      "maxStationLength": 130,
+      "baseTrackCost": 30000,
+      "baseStationCost": 42000000,
+      "trainOperationalCostPerHour": 190,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 12000000,
+      "trackClearance": 0.95,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 35,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#7B6469"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 3.8,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Fuji Heavy Industries",
+      "Niigata Transys"
+    ]
+  },
+  {
+    "id": "jre-gv-e400-demu",
+    "name": "JRE GV-E400 DEMU",
+    "description": "JR East GV-E400 diesel-electric railcar for regional non-electrified lines. Manufacturer: Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 0.75,
+      "maxDeceleration": 0.95,
+      "maxSpeed": 27.78,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 100,
+      "carLength": 20.0,
+      "minCars": 1,
+      "maxCars": 2,
+      "carsPerCarSet": 1,
+      "carCost": 2700000,
+      "trainWidth": 2.8,
+      "minStationLength": 20,
+      "maxStationLength": 50,
+      "baseTrackCost": 30000,
+      "baseStationCost": 42000000,
+      "trainOperationalCostPerHour": 190,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 12000000,
+      "trackClearance": 0.95,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 35,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#7B6469"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 3.8,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kawasaki Heavy Industries"
+    ]
+  },
+  {
+    "id": "jre-719-emu",
+    "name": "JRE 719 EMU",
+    "description": "JR East 719 series AC regional EMU formerly common across Tōhoku. Manufacturer: Tokyu Car / Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 0.95,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 30.56,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 140,
+      "carLength": 20.0,
+      "minCars": 2,
+      "maxCars": 6,
+      "carsPerCarSet": 2,
+      "carCost": 3200000,
+      "trainWidth": 2.95,
+      "minStationLength": 40,
+      "maxStationLength": 130,
+      "baseTrackCost": 34000,
+      "baseStationCost": 62000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 40,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#005EB8"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Tokyu Car",
+      "Kawasaki Heavy Industries"
+    ]
+  },
+  {
+    "id": "jre-hb-e210-hybrid",
+    "name": "JRE HB-E210 Hybrid",
+    "description": "JR East HB-E210 hybrid DMU for Sendai-area regional services. Manufacturer: J-TREC.",
+    "stats": {
+      "maxAcceleration": 0.75,
+      "maxDeceleration": 0.95,
+      "maxSpeed": 27.78,
+      "maxSpeedLocalStation": 12.0,
+      "capacityPerCar": 100,
+      "carLength": 20.0,
+      "minCars": 2,
+      "maxCars": 4,
+      "carsPerCarSet": 2,
+      "carCost": 2700000,
+      "trainWidth": 2.8,
+      "minStationLength": 40,
+      "maxStationLength": 90,
+      "baseTrackCost": 30000,
+      "baseStationCost": 42000000,
+      "trainOperationalCostPerHour": 190,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 12000000,
+      "trackClearance": 0.95,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 35,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#43B02A"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 3.8,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "J-TREC"
+    ]
+  },
+  {
+    "id": "sat-sat721-emu",
+    "name": "SAT SAT721 EMU",
+    "description": "Sendai Airport Transit SAT721 series EMU based on the E721 family. Manufacturer: J-TREC.",
+    "stats": {
+      "maxAcceleration": 0.95,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 33.33,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 145,
+      "carLength": 20.0,
+      "minCars": 2,
+      "maxCars": 4,
+      "carsPerCarSet": 2,
+      "carCost": 3200000,
+      "trainWidth": 2.95,
+      "minStationLength": 40,
+      "maxStationLength": 90,
+      "baseTrackCost": 34000,
+      "baseStationCost": 62000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 40,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#005EB8"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "J-TREC"
+    ]
+  }
+]

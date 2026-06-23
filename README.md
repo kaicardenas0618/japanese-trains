@@ -2,9 +2,9 @@
 
 Subway Builder Japanese Trains is a mod for Subway Builder that adds trains from cities around Japan. This pack contains rolling stock from the following Japanese cities, with more planned.
 
-## Currently Available Trains (91)
+## Currently Available Trains (169)
 
-#### National (25)
+#### National (32)
 | Name | Description | Manufacturer | Top Speed (km/h) | Maximum Capacity |
 |---|---|---|---|---|
 | JP N700A Shinkansen | 16-car N700A Shinkansen train for Tōkaidō and Sanyō high-speed services. Manufacturer: Hitachi / Nippon Sharyo / Kawasaki Heavy Industries / Kinki Sharyo. | Hitachi / Nippon Sharyo / Kawasaki Heavy Industries / Kinki Sharyo | 285 | 1328 |
@@ -32,8 +32,157 @@ Subway Builder Japanese Trains is a mod for Subway Builder that adds trains from
 | JP 385 Shinano | 385 Series limited express EMU profile for Shinano-type interregional services. Manufacturer: J-TREC. | J-TREC | 130 | 330 |
 | JP 261 Hokkaidō | KiHa 261 series diesel limited express train for Hokkaidō intercity services. Manufacturer: Fuji Heavy Industries / Niigata Transys. | Fuji Heavy Industries / Niigata Transys | 130 | 300 |
 | JP 8600 Shikoku | 8600 Series limited express EMU for Shikoku intercity services. Manufacturer: Kawasaki Heavy Industries. | Kawasaki Heavy Industries | 130 | 100 |
+| JP JNR 115 EMU | JNR 115 series DC suburban EMU. Rural/regional representative set, excluding former long urban commuter operations. Manufacturer: JNR / Nippon Sharyo / Kawasaki Heavy Industries / Hitachi. | JNR / Nippon Sharyo / Kawasaki Heavy Industries / Hitachi | 110 | 870 |
+| JP JNR KiHa40 DMU | JNR KiHa 40 series rural diesel railcar. Ubiquitous countryside stock, modeled for 1-6 car local formations. Manufacturer: JNR / Niigata Tekko / Fuji Heavy Industries. | JNR / Niigata Tekko / Fuji Heavy Industries | 95 | 600 |
+| JP JNR 415 EMU | JNR 415 series AC/DC suburban EMU. The commuter workhorse of AC-electrified regions. Manufacturer: JNR / Nippon Sharyo / Kawasaki Heavy Industries / Hitachi. | JNR / Nippon Sharyo / Kawasaki Heavy Industries / Hitachi | 110 | 1740 |
+| JP JNR 213 EMU | JNR 213 series suburban EMU. Two-door regional EMU used by JR West and JR Central. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo / Tokyu Car. | Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo / Tokyu Car | 110 | 780 |
+| JP JNR 113 EMU | JNR 113 series DC suburban EMU. Broad national legacy suburban profile for areas not covered by newer stock. Manufacturer: JNR / Nippon Sharyo / Kawasaki Heavy Industries / Hitachi. | JNR / Nippon Sharyo / Kawasaki Heavy Industries / Hitachi | 110 | 1740 |
+| JP JNR 117 EMU | JNR 117 series two-door suburban EMU used on rapid and regional services. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo. | Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo | 115 | 1040 |
+| JP JNR 211 EMU | JNR 211 series suburban EMU. Later JNR stainless-steel regional and suburban stock. Manufacturer: JNR / Kawasaki Heavy Industries / Tokyu Car / Nippon Sharyo. | JNR / Kawasaki Heavy Industries / Tokyu Car / Nippon Sharyo | 110 | 1500 |
 
-#### Tokyo (24)
+#### Fukuoka (10)
+| Name | Description | Manufacturer | Top Speed (km/h) | Maximum Capacity |
+|---|---|---|---|---|
+| FKO 1000 Subway | Fukuoka City Subway 1000 series 6-car train for Airport and Hakozaki Line services. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries / Nippon Sharyo / Tokyu Car / Hitachi. | Kinki Sharyo / Kawasaki Heavy Industries / Nippon Sharyo / Tokyu Car / Hitachi | 90 | 852 |
+| JRK 103-1500 EMU | JR Kyushu 103-1500 series commuter EMU for Fukuoka/Chikuhi Line through services. Manufacturer: Kawasaki Heavy Industries / Nippon Sharyo. | Kawasaki Heavy Industries / Nippon Sharyo | 90 | 870 |
+| NIS Commuter EMU | Generic Nishitetsu commuter EMU for Tenjin-Omuta Line 3-6 car local and express services. Manufacturer: Kawasaki Heavy Industries / Nippon Sharyo. | Kawasaki Heavy Industries / Nippon Sharyo | 110 | 840 |
+| NIS 1000 Tram | Nishitetsu 1000 series tram/interurban profile for 2-3 car operation. Manufacturer: Nippon Sharyo. | Nippon Sharyo | 80 | 270 |
+| FKO 2000 Subway | Fukuoka City Subway 2000 series 6-car train for Airport and Hakozaki Line services. Manufacturer: Kawasaki Heavy Industries. | Kawasaki Heavy Industries | 90 | 852 |
+| FKO 3000 Subway | Fukuoka City Subway 3000 series linear-motor train for Nanakuma Line services. Manufacturer: Hitachi. | Hitachi | 70 | 460 |
+| JRK 303 EMU | JR Kyushu 303 series commuter EMU for Chikuhi Line and Fukuoka Subway through services. Manufacturer: Kinki Sharyo. | Kinki Sharyo | 90 | 870 |
+| JRK 305 EMU | JR Kyushu 305 series commuter EMU for Chikuhi Line and Fukuoka Subway through services. Manufacturer: Hitachi. | Hitachi | 90 | 870 |
+| NIS 3000 EMU | Nishitetsu 3000 series commuter EMU for Tenjin-Omuta Line express and local services. Manufacturer: Kawasaki Heavy Industries. | Kawasaki Heavy Industries | 110 | 708 |
+| NIS 9000 EMU | Nishitetsu 9000 series commuter EMU for Tenjin-Omuta Line express and local services. Manufacturer: Kawasaki Heavy Industries. | Kawasaki Heavy Industries | 110 | 708 |
+
+#### Hiroshima (7)
+| Name | Description | Manufacturer | Top Speed (km/h) | Maximum Capacity |
+|---|---|---|---|---|
+| HRD 5100 Green Mover Tram | Hiroden 5100 series Green Mover Max low-floor articulated tram. Manufacturer: Kinki Sharyo / Mitsubishi Heavy Industries / Toyo Denki. | Kinki Sharyo / Mitsubishi Heavy Industries / Toyo Denki | 70 | 150 |
+| HRD 1900 Tram | Hiroden 1900 series single-car tram, rebuilt from former Kyoto streetcar stock. Manufacturer: Naniwa Koki. | Naniwa Koki | 40 | 90 |
+| HRD 650 Tram | Hiroden 650 series heritage single-car tram. Manufacturer: Kisha Seizo. | Kisha Seizo | 40 | 90 |
+| HRD 1000 Green Mover Lex Tram | Hiroden 1000 series Green Mover Lex low-floor articulated tram. Manufacturer: Kinki Sharyo / Mitsubishi Heavy Industries / Toyo Denki. | Kinki Sharyo / Mitsubishi Heavy Industries / Toyo Denki | 70 | 100 |
+| HRD 5200 Green Mover Apex Tram | Hiroden 5200 series Green Mover Apex high-capacity low-floor tram. Manufacturer: Kinki Sharyo / Mitsubishi Heavy Industries / Toyo Denki. | Kinki Sharyo / Mitsubishi Heavy Industries / Toyo Denki | 70 | 150 |
+| AST 6000 Astram AGT | Astram Line 6000 series automated guideway train for Hiroshima rapid transit. Manufacturer: Mitsubishi Heavy Industries / Niigata Engineering. | Mitsubishi Heavy Industries / Niigata Engineering | 70 | 540 |
+| JRW 227 Red Wing EMU | JR West 227 series Red Wing regional EMU for Hiroshima-area services. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo. | Kawasaki Heavy Industries / Kinki Sharyo | 120 | 1160 |
+
+#### Hokkaido (6)
+| Name | Description | Manufacturer | Top Speed (km/h) | Maximum Capacity |
+|---|---|---|---|---|
+| JRH H100 DEMU | JR Hokkaido H100 DECMO diesel-electric railcar. Same family as JR East GV-E400. Manufacturer: Kawasaki Heavy Industries. | Kawasaki Heavy Industries | 100 | 200 |
+| JRH KiHa150 DMU | JR Hokkaido KiHa 150 regional diesel railcar, modeled for 1-6 car rural operation. Manufacturer: Fuji Heavy Industries. | Fuji Heavy Industries | 110 | 540 |
+| JRH 721 EMU | JR Hokkaido 721 series suburban AC EMU for Sapporo-area regional services. Manufacturer: Kawasaki Heavy Industries / Hitachi. | Kawasaki Heavy Industries / Hitachi | 120 | 840 |
+| JRH 733 EMU | JR Hokkaido 733 series suburban AC EMU for Sapporo-area local and rapid services. Manufacturer: Kawasaki Heavy Industries. | Kawasaki Heavy Industries | 120 | 870 |
+| JRH 737 EMU | JR Hokkaido 737 series two-car AC EMU for regional electrified services. Manufacturer: Kawasaki Heavy Industries. | Kawasaki Heavy Industries | 120 | 580 |
+| JRH 789 Limited Express | JR Hokkaido 789 series AC limited express EMU for Hokkaidō intercity services. Manufacturer: Kawasaki Heavy Industries / Hitachi. | Kawasaki Heavy Industries / Hitachi | 140 | 440 |
+
+#### Kansai (50)
+| Name | Description | Manufacturer | Top Speed (km/h) | Maximum Capacity |
+|---|---|---|---|---|
+| OSA 21 Midosuji | Osaka Metro 21 series 10-car train. Used on the Midosuji Line. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries / Nippon Sharyo. | Kinki Sharyo / Kawasaki Heavy Industries / Nippon Sharyo | 70 | 1450 |
+| OSA 30000 Midosuji | Osaka Metro 30000 series 10-car train. Used on the Midosuji Line. Manufacturer: Kinki Sharyo. | Kinki Sharyo | 70 | 1450 |
+| OSA 22 Tanimachi | Osaka Metro 22 series 6-car train. Used on the Tanimachi Line. Manufacturer: Kinki Sharyo / Nippon Sharyo. | Kinki Sharyo / Nippon Sharyo | 70 | 870 |
+| OSA 30000 Tanimachi | Osaka Metro 30000 series 6-car train. Used on the Tanimachi Line. Manufacturer: Kinki Sharyo. | Kinki Sharyo | 70 | 870 |
+| OSA 23 Yotsubashi | Osaka Metro 23 series 6-car train. Used on the Yotsubashi Line. Manufacturer: Kinki Sharyo / Nippon Sharyo. | Kinki Sharyo / Nippon Sharyo | 70 | 870 |
+| OSA 30000A Chuo | Osaka Metro 30000A series 6-car train. Used on the Chuo Line. Manufacturer: Kinki Sharyo. | Kinki Sharyo | 95 | 870 |
+| OSA 400 Chuo | Osaka Metro 400 series 6-car train. New Chuo Line stock for Yumeshima service. Manufacturer: Hitachi. | Hitachi | 95 | 870 |
+| OSA 25 Sennichimae | Osaka Metro 25 series 4-car train. Used on the Sennichimae Line. Manufacturer: Kinki Sharyo. | Kinki Sharyo | 70 | 580 |
+| OSA 66 Sakaisuji | Osaka Metro 66 series 8-car train. Used on the Sakaisuji Line and Hankyu through services. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries. | Kinki Sharyo / Kawasaki Heavy Industries | 110 | 1160 |
+| OSA 70 Nagahori Linear | Osaka Metro 70 series 4-car linear-motor train. Used on the Nagahori Tsurumi-ryokuchi Line. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries. | Kinki Sharyo / Kawasaki Heavy Industries | 70 | 460 |
+| OSA 80 Imazatosuji Linear | Osaka Metro 80 series 4-car linear-motor train. Used on the Imazatosuji Line. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries. | Kinki Sharyo / Kawasaki Heavy Industries | 70 | 460 |
+| OSA New Tram 200 | Osaka Metro 200 series automated people mover train. Used on the Nanko Port Town Line. Manufacturer: Niigata Transys. | Niigata Transys | 55 | 320 |
+| OSA Hankai 1001 Tram | Hankai 1001 series low-floor tram. Used on Osaka/Sakai street tram services. Manufacturer: Alna Sharyo. | Alna Sharyo | 50 | 110 |
+| OSA JR 323 Loop | JR West 323 series 8-car commuter train. Used on the Osaka Loop Line. Manufacturer: Kinki Sharyo. | Kinki Sharyo | 120 | 1200 |
+| OSA JR 225 Kansai | JR West 225 series suburban train. Used on major Kansai rapid services. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries. | Kinki Sharyo / Kawasaki Heavy Industries | 130 | 1200 |
+| OSA Nankai 50000 Rapit | Nankai 50000 series Rapit airport limited express train. Manufacturer: Tokyu Car. | Tokyu Car | 120 | 252 |
+| KYO 10 Karasuma | Kyoto Municipal Subway 10 series 6-car train. Used on the Karasuma Line. Manufacturer: Kinki Sharyo / Hitachi. | Kinki Sharyo / Hitachi | 90 | 900 |
+| KYO 20 Karasuma | Kyoto Municipal Subway 20 series 6-car train. Newer Karasuma Line stock. Manufacturer: Kinki Sharyo. | Kinki Sharyo | 90 | 900 |
+| KYO 50 Tozai | Kyoto Municipal Subway 50 series 6-car train. Used on the Tozai Line. Manufacturer: Kinki Sharyo. | Kinki Sharyo | 75 | 780 |
+| KYO Keihan 800 Keishin | Keihan 800 series 4-car train. Runs through Kyoto Subway Tozai Line and Keishin Line. Manufacturer: Kinki Sharyo. | Kinki Sharyo | 75 | 520 |
+| KYO Kintetsu 3200 | Kintetsu 3200 series 6-car train. Runs through Kyoto Subway Karasuma Line. Manufacturer: Kinki Sharyo. | Kinki Sharyo | 105 | 900 |
+| KYO Kintetsu 3220 | Kintetsu 3220 series 6-car train. Runs through Kyoto Subway Karasuma Line. Manufacturer: Kinki Sharyo. | Kinki Sharyo | 105 | 900 |
+| KYO Randen 2001 Tram | Keifuku Randen 2001 series tram. Used on Kyoto street tram services. Manufacturer: Mukogawa Sharyo. | Mukogawa Sharyo | 40 | 100 |
+| KYO Randen 600 Tram | Keifuku Randen 600 series tram. Used on Kyoto street tram services. Manufacturer: Mukogawa Sharyo. | Mukogawa Sharyo | 40 | 95 |
+| KYO Eizan 900 Kirara | Eizan 900 series Kirara scenic train serving northern Kyoto. Manufacturer: Mukogawa Sharyo. | Mukogawa Sharyo | 70 | 160 |
+| KYO JR 221 Kansai | JR West 221 series suburban train serving Kyoto-area routes. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries. | Kinki Sharyo / Kawasaki Heavy Industries | 120 | 1200 |
+| KYO JR 225 Kansai | JR West 225 series suburban train serving Kyoto-area rapid routes. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries. | Kinki Sharyo / Kawasaki Heavy Industries | 130 | 1200 |
+| KYO JR 321 Urban | JR West 321 series commuter train serving Kyoto/Kobe local routes. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries. | Kinki Sharyo / Kawasaki Heavy Industries | 120 | 1050 |
+| KOB 1000 Seishin | Kobe Municipal Subway 1000 series 6-car train. Older Seishin-Yamate Line stock. Manufacturer: Kawasaki Heavy Industries. | Kawasaki Heavy Industries | 90 | 870 |
+| KOB 2000 Seishin | Kobe Municipal Subway 2000 series 6-car train. Seishin-Yamate Line stock. Manufacturer: Kawasaki Heavy Industries. | Kawasaki Heavy Industries | 90 | 870 |
+| KOB 3000 Seishin | Kobe Municipal Subway 3000 series 6-car train. Seishin-Yamate Line stock. Manufacturer: Kawasaki Heavy Industries. | Kawasaki Heavy Industries | 90 | 870 |
+| KOB 6000 Seishin | Kobe Municipal Subway 6000 series 6-car train. Newer Seishin-Yamate Line stock. Manufacturer: Kawasaki Heavy Industries. | Kawasaki Heavy Industries | 90 | 870 |
+| KOB 7000 Hokushin | Hokushin/Kobe 7000 series 6-car train. Used on Hokushin and Seishin-Yamate services. Manufacturer: Kawasaki Heavy Industries. | Kawasaki Heavy Industries | 90 | 870 |
+| KOB 5000 Kaigan Linear | Kobe Municipal Subway 5000 series 4-car linear-motor train. Used on the Kaigan Line. Manufacturer: Kawasaki Heavy Industries. | Kawasaki Heavy Industries | 70 | 460 |
+| KOB Port Liner 2000 | Kobe New Transit 2000/2020 series automated guideway train. Used on the Port Liner. Manufacturer: Kawasaki Heavy Industries. | Kawasaki Heavy Industries | 70 | 540 |
+| KOB Rokko 3000 | Kobe New Transit 3000 series automated guideway train. Used on the Rokko Liner. Manufacturer: Kawasaki Heavy Industries. | Kawasaki Heavy Industries | 70 | 360 |
+| KOB JR 207 Urban | JR West 207 series commuter train serving Kobe-area local services. Manufacturer: Kawasaki Heavy Industries / Hitachi / Kinki Sharyo. | Kawasaki Heavy Industries / Hitachi / Kinki Sharyo | 120 | 1050 |
+| KOB JR 321 Urban | JR West 321 series commuter train serving Kobe-area local services. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries. | Kinki Sharyo / Kawasaki Heavy Industries | 120 | 1050 |
+| KOB JR 225 Kansai | JR West 225 series suburban train serving Kobe-area rapid services. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries. | Kinki Sharyo / Kawasaki Heavy Industries | 130 | 1200 |
+| KOB Hanshin 1000 | Hanshin 1000 series commuter train serving Kobe through Namba/Hanshin services. Manufacturer: Kinki Sharyo. | Kinki Sharyo | 106 | 900 |
+| KOB Hankyu 1000 | Hankyu 1000 series commuter train serving Kobe Line services. Manufacturer: Hitachi. | Hitachi | 115 | 1200 |
+| KOB Sanyo 6000 | Sanyo Electric Railway 6000 series commuter train serving Kobe-area services. Manufacturer: Kawasaki Heavy Industries. | Kawasaki Heavy Industries | 110 | 600 |
+| KT Generic Commuter EMU | Generic Kintetsu commuter EMU for Osaka/Kyoto-area lines. Covers many similar Kintetsu commuter types. Manufacturer: Kinki Sharyo. | Kinki Sharyo | 105 | 1500 |
+| KH Commuter EMU | Generic Keihan 8-car commuter EMU for Osaka-Kyoto mainline services. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo. | Kawasaki Heavy Industries / Kinki Sharyo | 110 | 1160 |
+| KH 3000 EMU | Keihan 3000 series 8-car premium commuter/limited express EMU. Manufacturer: Kawasaki Heavy Industries. | Kawasaki Heavy Industries | 110 | 1040 |
+| KT 21000 Urban Liner Limited Express | Kintetsu 21000 series Urban Liner limited express EMU for Osaka-Nagoya services. Manufacturer: Kinki Sharyo. | Kinki Sharyo | 130 | 480 |
+| KT 50000 Shimakaze Limited Express | Kintetsu 50000 series Shimakaze premium limited express EMU. Manufacturer: Kinki Sharyo. | Kinki Sharyo | 130 | 150 |
+| KH 8000 EMU | Keihan 8000 series 8-car limited express EMU for Osaka-Kyoto services. Manufacturer: Kawasaki Heavy Industries. | Kawasaki Heavy Industries | 110 | 880 |
+| HN 9300 EMU | Hankyu 9300 series Kyoto Line commuter/limited express EMU. Manufacturer: Hitachi. | Hitachi | 115 | 1160 |
+| HN 1000 EMU | Hankyu 1000 series commuter EMU for Osaka/Kyoto/Kobe-area services. Manufacturer: Hitachi. | Hitachi | 115 | 1160 |
+
+#### Nagoya (9)
+| Name | Description | Manufacturer | Top Speed (km/h) | Maximum Capacity |
+|---|---|---|---|---|
+| JRC 313 EMU | JR Central 313 series suburban EMU for Nagoya-area regional and rapid services. Manufacturer: Kinki Sharyo / Nippon Sharyo. | Kinki Sharyo / Nippon Sharyo | 120 | 1200 |
+| MEI 1000 Limited Express | Meitetsu 1000 series Panorama Super limited express EMU. Manufacturer: Nippon Sharyo. | Nippon Sharyo | 120 | 330 |
+| MEI 6000 EMU | Meitetsu 6000 series commuter EMU for Nagoya-area local and express services. Manufacturer: Nippon Sharyo. | Nippon Sharyo | 100 | 870 |
+| MEI 9500 EMU | Meitetsu 9500/9100 series modern commuter EMU for Nagoya-area services. Manufacturer: Nippon Sharyo. | Nippon Sharyo | 120 | 580 |
+| JRC 315 EMU | JR Central 315 series commuter EMU for Nagoya-area mainline services. Manufacturer: Nippon Sharyo. | Nippon Sharyo | 120 | 1200 |
+| NGY N1000 Higashiyama Subway | Nagoya Subway N1000 series train for the Higashiyama Line. Manufacturer: Nippon Sharyo. | Nippon Sharyo | 65 | 690 |
+| NGY N3000 Tsurumai Subway | Nagoya Subway N3000 series train for the Tsurumai Line. Manufacturer: Nippon Sharyo / Hitachi. | Nippon Sharyo / Hitachi | 100 | 870 |
+| NGY 6050 Sakura-dōri Subway | Nagoya Subway 6050 series train for the Sakura-dōri Line. Manufacturer: Nippon Sharyo. | Nippon Sharyo | 75 | 725 |
+| NGY Linimo 100 Maglev | Linimo 100 series urban maglev train for the Aichi Loop area. Manufacturer: Nippon Sharyo. | Nippon Sharyo | 100 | 270 |
+
+#### Nakaumi (5)
+| Name | Description | Manufacturer | Top Speed (km/h) | Maximum Capacity |
+|---|---|---|---|---|
+| JRW KiHa126 DMU | JR West KiHa 126 series regional DMU for Sanin/Nakaumi area services. Manufacturer: Niigata Transys. | Niigata Transys | 100 | 400 |
+| JRW KiHa187 Limited Express | JR West KiHa 187 series tilting diesel limited express train for Sanin regional services. Manufacturer: Niigata Transys. | Niigata Transys | 120 | 180 |
+| ICH 7000 EMU | Ichibata Electric Railway 7000 series single-car EMU for Matsue-Izumo local services. Manufacturer: Kinki Sharyo. | Kinki Sharyo | 90 | 200 |
+| ICH 1000 EMU | Ichibata Electric Railway 1000 series EMU converted from former Tokyu stock. Manufacturer: Tokyu Car. | Tokyu Car | 90 | 240 |
+| ICH 5000 EMU | Ichibata Electric Railway 5000 series EMU for local and excursion services. Manufacturer: Tokyu Car. | Tokyu Car | 90 | 220 |
+
+#### Sapporo (7)
+| Name | Description | Manufacturer | Top Speed (km/h) | Maximum Capacity |
+|---|---|---|---|---|
+| SPK 731 EMU | JR Hokkaido 731 series 3-car commuter EMU for Sapporo-area services. Manufacturer: Kawasaki Heavy Industries. | Kawasaki Heavy Industries | 120 | 870 |
+| SPK 735 EMU | JR Hokkaido 735 series 3-car commuter EMU for Sapporo-area services. Manufacturer: Hitachi. | Hitachi | 120 | 870 |
+| SPK Sapporo 5000 Subway | Sapporo Municipal Subway 5000 series rubber-tired train for the Namboku Line. Manufacturer: Kawasaki Heavy Industries. | Kawasaki Heavy Industries | 70 | 900 |
+| SPK Sapporo 8000 Subway | Sapporo Municipal Subway 8000 series rubber-tired train for the Tōzai Line. Manufacturer: Kawasaki Heavy Industries. | Kawasaki Heavy Industries | 70 | 1050 |
+| SPK Sapporo 9000 Subway | Sapporo Municipal Subway 9000 series rubber-tired train for the Tōhō Line. Manufacturer: Kawasaki Heavy Industries. | Kawasaki Heavy Industries | 70 | 600 |
+| SPK A1200 Polaris Tram | Sapporo Streetcar A1200 Polaris low-floor tram. Manufacturer: Alna Sharyo. | Alna Sharyo | 40 | 100 |
+| SPK 1100 Sirius Tram | Sapporo Streetcar 1100 series Sirius low-floor tram. Manufacturer: Alna Sharyo. | Alna Sharyo | 40 | 80 |
+
+#### Takamatsu (5)
+| Name | Description | Manufacturer | Top Speed (km/h) | Maximum Capacity |
+|---|---|---|---|---|
+| KTD 1300 EMU | Kotoden 1300 series local EMU for Takamatsu-area services. Manufacturer: Keikyu / Tokyu Car. | Keikyu / Tokyu Car | 80 | 720 |
+| KTD 1200 EMU | Kotoden 1200 series local EMU for Takamatsu-area services. Manufacturer: Keikyu / Tokyu Car. | Keikyu / Tokyu Car | 80 | 480 |
+| KTD 1080 EMU | Kotoden 1080 series local EMU converted from former Keikyu stock. Manufacturer: Tokyu Car / Kawasaki Heavy Industries. | Tokyu Car / Kawasaki Heavy Industries | 80 | 480 |
+| JRS 7200 EMU | JR Shikoku 7200 series regional EMU for Takamatsu-area local services. Manufacturer: JNR / JR Shikoku. | JNR / JR Shikoku | 110 | 580 |
+| JRS 2600 DMU | JR Shikoku 2600 series limited express DMU for Takamatsu-area intercity services. Manufacturer: Kawasaki Heavy Industries. | Kawasaki Heavy Industries | 130 | 200 |
+
+#### Tohoku (7)
+| Name | Description | Manufacturer | Top Speed (km/h) | Maximum Capacity |
+|---|---|---|---|---|
+| JRE 701 EMU | JR East 701 series AC regional EMU for Tōhoku local services. Manufacturer: Kawasaki Heavy Industries / Tokyu Car. | Kawasaki Heavy Industries / Tokyu Car | 110 | 870 |
+| JRE E721 EMU | JR East E721 series AC regional EMU for Sendai and Tōhoku services. Manufacturer: J-TREC. | J-TREC | 120 | 870 |
+| JRE KiHa110 DMU | JR East KiHa 100/110 series regional diesel railcar for rural Tōhoku lines. Manufacturer: Fuji Heavy Industries / Niigata Transys. | Fuji Heavy Industries / Niigata Transys | 100 | 600 |
+| JRE GV-E400 DEMU | JR East GV-E400 diesel-electric railcar for regional non-electrified lines. Manufacturer: Kawasaki Heavy Industries. | Kawasaki Heavy Industries | 100 | 200 |
+| JRE 719 EMU | JR East 719 series AC regional EMU formerly common across Tōhoku. Manufacturer: Tokyu Car / Kawasaki Heavy Industries. | Tokyu Car / Kawasaki Heavy Industries | 110 | 840 |
+| JRE HB-E210 Hybrid | JR East HB-E210 hybrid DMU for Sendai-area regional services. Manufacturer: J-TREC. | J-TREC | 100 | 400 |
+| SAT SAT721 EMU | Sendai Airport Transit SAT721 series EMU based on the E721 family. Manufacturer: J-TREC. | J-TREC | 120 | 580 |
+
+#### Tokyo (31)
 | Name | Description | Manufacturer | Top Speed (km/h) | Maximum Capacity |
 |---|---|---|---|---|
 | TYO 1000 Ginza | Tokyo Metro 1000 series 6-car train. Used on the Ginza Line. Manufacturer: Nippon Sharyo. | Nippon Sharyo | 80 | 1020 |
@@ -53,64 +202,17 @@ Subway Builder Japanese Trains is a mod for Subway Builder that adds trains from
 | TYO Nippori Liner 330 | Nippori-Toneri Liner 330 series automated guideway train. Manufacturer: Niigata Transys. | Niigata Transys | 60 | 500 |
 | TYO Yurikamome 7300 | Yurikamome 7300 series automated guideway train. Manufacturer: Mitsubishi Heavy Industries / Niigata Transys. | Mitsubishi Heavy Industries / Niigata Transys | 60 | 630 |
 | TYO Monorail 10000 | Tokyo Monorail 10000 series airport monorail train. Manufacturer: Hitachi. | Hitachi | 80 | 780 |
-| TYO E235 Yamanote | JR East E235 series 11-car commuter train. Used on the Yamanote Line. Manufacturer: J-TREC. | J-TREC | 120 | 1628 |
-| TYO E233 Commuter | JR East E233 series commuter train family. Used on major Tokyo-area lines. Manufacturer: J-TREC / Tokyu Car / Kawasaki Heavy Industries. | J-TREC / Tokyu Car / Kawasaki Heavy Industries | 120 | 1500 |
+| TYO E235 Yamanote | JR East E235 series 11-car commuter train. Used on the Yamanote Line. Manufacturer: J-TREC. | J-TREC | 95 | 1628 |
+| TYO E233 Commuter | JR East E233 series commuter train family. Used on major Tokyo-area lines. Manufacturer: J-TREC / Tokyu Car / Kawasaki Heavy Industries. | J-TREC / Tokyu Car / Kawasaki Heavy Industries | 120 | 2625 |
 | TYO E259 Narita Express | JR East E259 series 6-car airport limited express train. Used on Narita Express services. Manufacturer: Kinki Sharyo / Tokyu Car. | Kinki Sharyo / Tokyu Car | 130 | 288 |
 | TYO Keisei AE Skyliner | Keisei AE series 8-car airport limited express train. Used on Skyliner services to Narita Airport. Manufacturer: Nippon Sharyo. | Nippon Sharyo | 160 | 400 |
 | TYO Odakyu 70000 GSE | Odakyu 70000 series GSE Romancecar limited express train. Manufacturer: Nippon Sharyo. | Nippon Sharyo | 110 | 399 |
 | TYO Seibu 001 Laview | Seibu 001 series Laview limited express train. Manufacturer: Hitachi. | Hitachi | 120 | 424 |
 | TYO Tobu N100 Spacia X | Tobu N100 series Spacia X limited express train. Manufacturer: Hitachi. | Hitachi | 120 | 210 |
-
-#### Osaka (16)
-| Name | Description | Manufacturer | Top Speed (km/h) | Maximum Capacity |
-|---|---|---|---|---|
-| OSA 21 Midosuji | Osaka Metro 21 series 10-car train. Used on the Midosuji Line. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries / Nippon Sharyo. | Kinki Sharyo / Kawasaki Heavy Industries / Nippon Sharyo | 70 | 1450 |
-| OSA 30000 Midosuji | Osaka Metro 30000 series 10-car train. Used on the Midosuji Line. Manufacturer: Kinki Sharyo. | Kinki Sharyo | 70 | 1450 |
-| OSA 22 Tanimachi | Osaka Metro 22 series 6-car train. Used on the Tanimachi Line. Manufacturer: Kinki Sharyo / Nippon Sharyo. | Kinki Sharyo / Nippon Sharyo | 70 | 870 |
-| OSA 30000 Tanimachi | Osaka Metro 30000 series 6-car train. Used on the Tanimachi Line. Manufacturer: Kinki Sharyo. | Kinki Sharyo | 70 | 870 |
-| OSA 23 Yotsubashi | Osaka Metro 23 series 6-car train. Used on the Yotsubashi Line. Manufacturer: Kinki Sharyo / Nippon Sharyo. | Kinki Sharyo / Nippon Sharyo | 70 | 870 |
-| OSA 30000A Chuo | Osaka Metro 30000A series 6-car train. Used on the Chuo Line. Manufacturer: Kinki Sharyo. | Kinki Sharyo | 95 | 870 |
-| OSA 400 Chuo | Osaka Metro 400 series 6-car train. New Chuo Line stock for Yumeshima service. Manufacturer: Hitachi. | Hitachi | 95 | 870 |
-| OSA 25 Sennichimae | Osaka Metro 25 series 4-car train. Used on the Sennichimae Line. Manufacturer: Kinki Sharyo. | Kinki Sharyo | 70 | 580 |
-| OSA 66 Sakaisuji | Osaka Metro 66 series 8-car train. Used on the Sakaisuji Line and Hankyu through services. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries. | Kinki Sharyo / Kawasaki Heavy Industries | 110 | 1160 |
-| OSA 70 Nagahori Linear | Osaka Metro 70 series 4-car linear-motor train. Used on the Nagahori Tsurumi-ryokuchi Line. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries. | Kinki Sharyo / Kawasaki Heavy Industries | 70 | 460 |
-| OSA 80 Imazatosuji Linear | Osaka Metro 80 series 4-car linear-motor train. Used on the Imazatosuji Line. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries. | Kinki Sharyo / Kawasaki Heavy Industries | 70 | 460 |
-| OSA New Tram 200 | Osaka Metro 200 series automated people mover train. Used on the Nanko Port Town Line. Manufacturer: Niigata Transys. | Niigata Transys | 55 | 320 |
-| OSA Hankai 1001 Tram | Hankai 1001 series low-floor tram. Used on Osaka/Sakai street tram services. Manufacturer: Alna Sharyo. | Alna Sharyo | 50 | 110 |
-| OSA JR 323 Loop | JR West 323 series 8-car commuter train. Used on the Osaka Loop Line. Manufacturer: Kinki Sharyo. | Kinki Sharyo | 120 | 1200 |
-| OSA JR 225 Kansai | JR West 225 series suburban train. Used on major Kansai rapid services. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries. | Kinki Sharyo / Kawasaki Heavy Industries | 130 | 1200 |
-| OSA Nankai 50000 Rapit | Nankai 50000 series Rapit airport limited express train. Manufacturer: Tokyu Car. | Tokyu Car | 120 | 252 |
-
-#### Kyoto (12)
-| Name | Description | Manufacturer | Top Speed (km/h) | Maximum Capacity |
-|---|---|---|---|---|
-| KYO 10 Karasuma | Kyoto Municipal Subway 10 series 6-car train. Used on the Karasuma Line. Manufacturer: Kinki Sharyo / Hitachi. | Kinki Sharyo / Hitachi | 90 | 900 |
-| KYO 20 Karasuma | Kyoto Municipal Subway 20 series 6-car train. Newer Karasuma Line stock. Manufacturer: Kinki Sharyo. | Kinki Sharyo | 90 | 900 |
-| KYO 50 Tozai | Kyoto Municipal Subway 50 series 6-car train. Used on the Tozai Line. Manufacturer: Kinki Sharyo. | Kinki Sharyo | 75 | 780 |
-| KYO Keihan 800 Keishin | Keihan 800 series 4-car train. Runs through Kyoto Subway Tozai Line and Keishin Line. Manufacturer: Kinki Sharyo. | Kinki Sharyo | 75 | 520 |
-| KYO Kintetsu 3200 | Kintetsu 3200 series 6-car train. Runs through Kyoto Subway Karasuma Line. Manufacturer: Kinki Sharyo. | Kinki Sharyo | 105 | 900 |
-| KYO Kintetsu 3220 | Kintetsu 3220 series 6-car train. Runs through Kyoto Subway Karasuma Line. Manufacturer: Kinki Sharyo. | Kinki Sharyo | 105 | 900 |
-| KYO Randen 2001 Tram | Keifuku Randen 2001 series tram. Used on Kyoto street tram services. Manufacturer: Mukogawa Sharyo. | Mukogawa Sharyo | 40 | 100 |
-| KYO Randen 600 Tram | Keifuku Randen 600 series tram. Used on Kyoto street tram services. Manufacturer: Mukogawa Sharyo. | Mukogawa Sharyo | 40 | 95 |
-| KYO Eizan 900 Kirara | Eizan 900 series Kirara scenic train serving northern Kyoto. Manufacturer: Mukogawa Sharyo. | Mukogawa Sharyo | 70 | 160 |
-| KYO JR 221 Kansai | JR West 221 series suburban train serving Kyoto-area routes. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries. | Kinki Sharyo / Kawasaki Heavy Industries | 120 | 1200 |
-| KYO JR 225 Kansai | JR West 225 series suburban train serving Kyoto-area rapid routes. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries. | Kinki Sharyo / Kawasaki Heavy Industries | 130 | 1200 |
-| KYO JR 321 Urban | JR West 321 series commuter train serving Kyoto/Kobe local routes. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries. | Kinki Sharyo / Kawasaki Heavy Industries | 120 | 1050 |
-
-#### Kobe (14)
-| Name | Description | Manufacturer | Top Speed (km/h) | Maximum Capacity |
-|---|---|---|---|---|
-| KOB 1000 Seishin | Kobe Municipal Subway 1000 series 6-car train. Older Seishin-Yamate Line stock. Manufacturer: Kawasaki Heavy Industries. | Kawasaki Heavy Industries | 90 | 870 |
-| KOB 2000 Seishin | Kobe Municipal Subway 2000 series 6-car train. Seishin-Yamate Line stock. Manufacturer: Kawasaki Heavy Industries. | Kawasaki Heavy Industries | 90 | 870 |
-| KOB 3000 Seishin | Kobe Municipal Subway 3000 series 6-car train. Seishin-Yamate Line stock. Manufacturer: Kawasaki Heavy Industries. | Kawasaki Heavy Industries | 90 | 870 |
-| KOB 6000 Seishin | Kobe Municipal Subway 6000 series 6-car train. Newer Seishin-Yamate Line stock. Manufacturer: Kawasaki Heavy Industries. | Kawasaki Heavy Industries | 90 | 870 |
-| KOB 7000 Hokushin | Hokushin/Kobe 7000 series 6-car train. Used on Hokushin and Seishin-Yamate services. Manufacturer: Kawasaki Heavy Industries. | Kawasaki Heavy Industries | 90 | 870 |
-| KOB 5000 Kaigan Linear | Kobe Municipal Subway 5000 series 4-car linear-motor train. Used on the Kaigan Line. Manufacturer: Kawasaki Heavy Industries. | Kawasaki Heavy Industries | 70 | 460 |
-| KOB Port Liner 2000 | Kobe New Transit 2000/2020 series automated guideway train. Used on the Port Liner. Manufacturer: Kawasaki Heavy Industries. | Kawasaki Heavy Industries | 70 | 540 |
-| KOB Rokko 3000 | Kobe New Transit 3000 series automated guideway train. Used on the Rokko Liner. Manufacturer: Kawasaki Heavy Industries. | Kawasaki Heavy Industries | 70 | 360 |
-| KOB JR 207 Urban | JR West 207 series commuter train serving Kobe-area local services. Manufacturer: Kawasaki Heavy Industries / Hitachi / Kinki Sharyo. | Kawasaki Heavy Industries / Hitachi / Kinki Sharyo | 120 | 1050 |
-| KOB JR 321 Urban | JR West 321 series commuter train serving Kobe-area local services. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries. | Kinki Sharyo / Kawasaki Heavy Industries | 120 | 1050 |
-| KOB JR 225 Kansai | JR West 225 series suburban train serving Kobe-area rapid services. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries. | Kinki Sharyo / Kawasaki Heavy Industries | 130 | 1200 |
-| KOB Hanshin 1000 | Hanshin 1000 series commuter train serving Kobe through Namba/Hanshin services. Manufacturer: Kinki Sharyo. | Kinki Sharyo | 106 | 900 |
-| KOB Hankyu 1000 | Hankyu 1000 series commuter train serving Kobe Line services. Manufacturer: Hitachi. | Hitachi | 115 | 1200 |
-| KOB Sanyo 6000 | Sanyo Electric Railway 6000 series commuter train serving Kobe-area services. Manufacturer: Kawasaki Heavy Industries. | Kawasaki Heavy Industries | 110 | 600 |
+| KQ New 1000 EMU | Keikyu New 1000 series commuter EMU for Keikyu, Toei Asakusa, Keisei and airport through services. Manufacturer: Tokyu Car / J-TREC / Kawasaki Heavy Industries. | Tokyu Car / J-TREC / Kawasaki Heavy Industries | 120 | 1680 |
+| TKK 1000 EMU | Tokyu 1000 series 3-car commuter EMU for Ikegami and Tamagawa Line service. Manufacturer: Tokyu Car. | Tokyu Car | 100 | 420 |
+| KQ 2100 EMU | Keikyu 2100 series 8-car limited-stop commuter EMU for mainline rapid services. Manufacturer: Kawasaki Heavy Industries / Tokyu Car. | Kawasaki Heavy Industries / Tokyu Car | 120 | 1040 |
+| TKK 2020 EMU | Tokyu 2020 series 10-car commuter EMU for Den-en-toshi Line and Hanzōmon through services. Manufacturer: J-TREC. | J-TREC | 110 | 1500 |
+| TKK 5050 EMU | Tokyu 5050 series 8/10-car commuter EMU for Tōyoko/Fukutoshin through services. Manufacturer: Tokyu Car / J-TREC. | Tokyu Car / J-TREC | 110 | 1500 |
+| KEIO 5000 EMU | Keio 5000 series commuter/paid-seat train for Keio Line services. Manufacturer: J-TREC. | J-TREC | 110 | 1500 |
+| ODQ 3000 EMU | Odakyū 3000 series commuter EMU for Odakyū Line local and express services. Manufacturer: Nippon Sharyo / Tokyu Car / Kawasaki Heavy Industries. | Nippon Sharyo / Tokyu Car / Kawasaki Heavy Industries | 100 | 1500 |

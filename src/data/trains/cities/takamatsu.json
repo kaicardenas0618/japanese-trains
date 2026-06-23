@@ -1,0 +1,246 @@
+[
+  {
+    "id": "ktd-1300-emu",
+    "name": "KTD 1300 EMU",
+    "description": "Kotoden 1300 series local EMU for Takamatsu-area services. Manufacturer: Keikyu / Tokyu Car.",
+    "stats": {
+      "maxAcceleration": 0.95,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 22.22,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 120,
+      "carLength": 18.0,
+      "minCars": 3,
+      "maxCars": 6,
+      "carsPerCarSet": 3,
+      "carCost": 3200000,
+      "trainWidth": 2.74,
+      "minStationLength": 54,
+      "maxStationLength": 118,
+      "baseTrackCost": 34000,
+      "baseStationCost": 62000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 40,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#F58220"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Keikyu",
+      "Tokyu Car"
+    ]
+  },
+  {
+    "id": "ktd-1200-emu",
+    "name": "KTD 1200 EMU",
+    "description": "Kotoden 1200 series local EMU for Takamatsu-area services. Manufacturer: Keikyu / Tokyu Car.",
+    "stats": {
+      "maxAcceleration": 0.95,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 22.22,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 120,
+      "carLength": 18.0,
+      "minCars": 2,
+      "maxCars": 4,
+      "carsPerCarSet": 2,
+      "carCost": 3200000,
+      "trainWidth": 2.74,
+      "minStationLength": 36,
+      "maxStationLength": 82,
+      "baseTrackCost": 34000,
+      "baseStationCost": 62000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 40,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#F58220"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Keikyu",
+      "Tokyu Car"
+    ]
+  },
+  {
+    "id": "ktd-1080-emu",
+    "name": "KTD 1080 EMU",
+    "description": "Kotoden 1080 series local EMU converted from former Keikyu stock. Manufacturer: Tokyu Car / Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 0.95,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 22.22,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 120,
+      "carLength": 18.0,
+      "minCars": 2,
+      "maxCars": 4,
+      "carsPerCarSet": 2,
+      "carCost": 3200000,
+      "trainWidth": 2.74,
+      "minStationLength": 36,
+      "maxStationLength": 82,
+      "baseTrackCost": 34000,
+      "baseStationCost": 62000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 40,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#F58220"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Tokyu Car",
+      "Kawasaki Heavy Industries"
+    ]
+  },
+  {
+    "id": "jrs-7200-emu",
+    "name": "JRS 7200 EMU",
+    "description": "JR Shikoku 7200 series regional EMU for Takamatsu-area local services. Manufacturer: JNR / JR Shikoku.",
+    "stats": {
+      "maxAcceleration": 0.95,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 30.56,
+      "maxSpeedLocalStation": 14.0,
+      "capacityPerCar": 145,
+      "carLength": 20.0,
+      "minCars": 2,
+      "maxCars": 4,
+      "carsPerCarSet": 2,
+      "carCost": 3200000,
+      "trainWidth": 2.95,
+      "minStationLength": 40,
+      "maxStationLength": 90,
+      "baseTrackCost": 34000,
+      "baseStationCost": 62000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1.0,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 40,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#005EB8"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "JNR",
+      "JR Shikoku"
+    ]
+  },
+  {
+    "id": "jrs-2600-dmu",
+    "name": "JRS 2600 DMU",
+    "description": "JR Shikoku 2600 series limited express DMU for Takamatsu-area intercity services. Manufacturer: Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 36.11,
+      "maxSpeedLocalStation": 16.0,
+      "capacityPerCar": 50,
+      "carLength": 21.3,
+      "minCars": 2,
+      "maxCars": 4,
+      "carsPerCarSet": 2,
+      "carCost": 4300000,
+      "trainWidth": 2.9,
+      "minStationLength": 43,
+      "maxStationLength": 95,
+      "baseTrackCost": 45000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 32,
+      "scissorsCrossoverCost": 22000000,
+      "trackClearance": 1.15,
+      "maxLateralAcceleration": 0.75,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1200,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 4.2,
+      "stopTimeSeconds": 50,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0
+    },
+    "appearance": {
+      "color": "#F58220"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95
+    },
+    "allowAtGradeRoadCrossing": true,
+    "Manufacturer": [
+      "Kawasaki Heavy Industries"
+    ]
+  }
+]
