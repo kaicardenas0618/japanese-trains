@@ -30,7 +30,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 32,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 6.7
     },
     "appearance": {
       "color": "#E5171F"
@@ -40,14 +42,30 @@
       "STANDARD_TUNNEL": 2,
       "CUT_AND_COVER": 1,
       "AT_GRADE": 0.3,
-      "ELEVATED": 0.8
+      "ELEVATED": 0.8,
+      "TRENCHED": 0.54,
+      "RAMP": 0.53
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kinki Sharyo",
       "Kawasaki Heavy Industries",
       "Nippon Sharyo"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "heavy-metro"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 14,
+      "medium": 20,
+      "minor": 28
+    },
+    "portalCost": 8000000,
+    "rampCost": 4000000
   },
   {
     "id": "osa-30000-midosuji",
@@ -80,7 +98,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 32,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 6.7
     },
     "appearance": {
       "color": "#E5171F"
@@ -90,12 +110,28 @@
       "STANDARD_TUNNEL": 2,
       "CUT_AND_COVER": 1,
       "AT_GRADE": 0.3,
-      "ELEVATED": 0.8
+      "ELEVATED": 0.8,
+      "TRENCHED": 0.54,
+      "RAMP": 0.53
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kinki Sharyo"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "heavy-metro"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 14,
+      "medium": 20,
+      "minor": 28
+    },
+    "portalCost": 8000000,
+    "rampCost": 4000000
   },
   {
     "id": "osa-22-tanimachi",
@@ -128,7 +164,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 32,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 6.7
     },
     "appearance": {
       "color": "#522886"
@@ -138,13 +176,29 @@
       "STANDARD_TUNNEL": 2,
       "CUT_AND_COVER": 1,
       "AT_GRADE": 0.3,
-      "ELEVATED": 0.8
+      "ELEVATED": 0.8,
+      "TRENCHED": 0.54,
+      "RAMP": 0.53
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kinki Sharyo",
       "Nippon Sharyo"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "heavy-metro"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 14,
+      "medium": 20,
+      "minor": 28
+    },
+    "portalCost": 8000000,
+    "rampCost": 4000000
   },
   {
     "id": "osa-30000-tanimachi",
@@ -177,7 +231,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 32,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 6.7
     },
     "appearance": {
       "color": "#522886"
@@ -187,12 +243,28 @@
       "STANDARD_TUNNEL": 2,
       "CUT_AND_COVER": 1,
       "AT_GRADE": 0.3,
-      "ELEVATED": 0.8
+      "ELEVATED": 0.8,
+      "TRENCHED": 0.54,
+      "RAMP": 0.53
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kinki Sharyo"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "heavy-metro"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 14,
+      "medium": 20,
+      "minor": 28
+    },
+    "portalCost": 8000000,
+    "rampCost": 4000000
   },
   {
     "id": "osa-23-yotsubashi",
@@ -225,7 +297,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 32,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 6.7
     },
     "appearance": {
       "color": "#0078BA"
@@ -235,13 +309,29 @@
       "STANDARD_TUNNEL": 2,
       "CUT_AND_COVER": 1,
       "AT_GRADE": 0.3,
-      "ELEVATED": 0.8
+      "ELEVATED": 0.8,
+      "TRENCHED": 0.54,
+      "RAMP": 0.53
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kinki Sharyo",
       "Nippon Sharyo"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "heavy-metro"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 14,
+      "medium": 20,
+      "minor": 28
+    },
+    "portalCost": 8000000,
+    "rampCost": 4000000
   },
   {
     "id": "osa-30000a-chuo",
@@ -274,7 +364,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 32,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 6.7
     },
     "appearance": {
       "color": "#019A66"
@@ -284,12 +376,28 @@
       "STANDARD_TUNNEL": 2,
       "CUT_AND_COVER": 1,
       "AT_GRADE": 0.3,
-      "ELEVATED": 0.8
+      "ELEVATED": 0.8,
+      "TRENCHED": 0.54,
+      "RAMP": 0.53
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kinki Sharyo"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "heavy-metro"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 14,
+      "medium": 20,
+      "minor": 28
+    },
+    "portalCost": 8000000,
+    "rampCost": 4000000
   },
   {
     "id": "osa-400-chuo",
@@ -322,7 +430,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 32,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 6.7
     },
     "appearance": {
       "color": "#019A66"
@@ -332,12 +442,28 @@
       "STANDARD_TUNNEL": 2,
       "CUT_AND_COVER": 1,
       "AT_GRADE": 0.3,
-      "ELEVATED": 0.8
+      "ELEVATED": 0.8,
+      "TRENCHED": 0.54,
+      "RAMP": 0.53
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Hitachi"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "heavy-metro"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 14,
+      "medium": 20,
+      "minor": 28
+    },
+    "portalCost": 8000000,
+    "rampCost": 4000000
   },
   {
     "id": "osa-25-sennichimae",
@@ -370,7 +496,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 32,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 6.7
     },
     "appearance": {
       "color": "#E44D93"
@@ -380,12 +508,28 @@
       "STANDARD_TUNNEL": 2,
       "CUT_AND_COVER": 1,
       "AT_GRADE": 0.3,
-      "ELEVATED": 0.8
+      "ELEVATED": 0.8,
+      "TRENCHED": 0.54,
+      "RAMP": 0.53
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kinki Sharyo"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "heavy-metro"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 14,
+      "medium": 20,
+      "minor": 28
+    },
+    "portalCost": 8000000,
+    "rampCost": 4000000
   },
   {
     "id": "osa-66-sakaisuji",
@@ -418,7 +562,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 32,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 6.7
     },
     "appearance": {
       "color": "#814721"
@@ -428,13 +574,29 @@
       "STANDARD_TUNNEL": 2,
       "CUT_AND_COVER": 1,
       "AT_GRADE": 0.3,
-      "ELEVATED": 0.8
+      "ELEVATED": 0.8,
+      "TRENCHED": 0.54,
+      "RAMP": 0.53
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kinki Sharyo",
       "Kawasaki Heavy Industries"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "heavy-metro"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 14,
+      "medium": 20,
+      "minor": 28
+    },
+    "portalCost": 8000000,
+    "rampCost": 4000000
   },
   {
     "id": "osa-70-nagahori-linear",
@@ -467,7 +629,9 @@
       "parallelTrackSpacing": 3.6,
       "stopTimeSeconds": 30,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 34,
+      "crossoverSpeed": 6.7
     },
     "appearance": {
       "color": "#A9CC51"
@@ -477,13 +641,29 @@
       "STANDARD_TUNNEL": 1.9,
       "CUT_AND_COVER": 0.95,
       "AT_GRADE": 0.3,
-      "ELEVATED": 0.75
+      "ELEVATED": 0.75,
+      "TRENCHED": 0.53,
+      "RAMP": 0.5
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kinki Sharyo",
       "Kawasaki Heavy Industries"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "linear-metro"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 14,
+      "medium": 20,
+      "minor": 28
+    },
+    "portalCost": 7000000,
+    "rampCost": 3500000
   },
   {
     "id": "osa-80-imazatosuji-linear",
@@ -516,7 +696,9 @@
       "parallelTrackSpacing": 3.6,
       "stopTimeSeconds": 30,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 34,
+      "crossoverSpeed": 6.7
     },
     "appearance": {
       "color": "#FBCB05"
@@ -526,13 +708,29 @@
       "STANDARD_TUNNEL": 1.9,
       "CUT_AND_COVER": 0.95,
       "AT_GRADE": 0.3,
-      "ELEVATED": 0.75
+      "ELEVATED": 0.75,
+      "TRENCHED": 0.53,
+      "RAMP": 0.5
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kinki Sharyo",
       "Kawasaki Heavy Industries"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "linear-metro"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 14,
+      "medium": 20,
+      "minor": 28
+    },
+    "portalCost": 7000000,
+    "rampCost": 3500000
   },
   {
     "id": "osa-new-tram-200",
@@ -565,7 +763,9 @@
       "parallelTrackSpacing": 3.2,
       "stopTimeSeconds": 20,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 48,
+      "crossoverSpeed": 5.6
     },
     "appearance": {
       "color": "#00A3E0"
@@ -575,12 +775,28 @@
       "STANDARD_TUNNEL": 1.8,
       "CUT_AND_COVER": 0.9,
       "AT_GRADE": 0.28,
-      "ELEVATED": 0.7
+      "ELEVATED": 0.7,
+      "TRENCHED": 0.5,
+      "RAMP": 0.47
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Niigata Transys"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "automated-guideway"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 10,
+      "major": 16,
+      "medium": 24,
+      "minor": 32
+    },
+    "portalCost": 5000000,
+    "rampCost": 2500000
   },
   {
     "id": "osa-hankai-1001-tram",
@@ -613,7 +829,9 @@
       "parallelTrackSpacing": 3.2,
       "stopTimeSeconds": 18,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 40,
+      "crossoverSpeed": 4.2
     },
     "appearance": {
       "color": "#43B02A"
@@ -623,12 +841,28 @@
       "STANDARD_TUNNEL": 1.5,
       "CUT_AND_COVER": 0.8,
       "AT_GRADE": 0.2,
-      "ELEVATED": 0.6
+      "ELEVATED": 0.6,
+      "TRENCHED": 0.41,
+      "RAMP": 0.38
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Alna Sharyo"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "tram"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 180000,
+    "gradeCrossingMaintenancePerYear": 5000,
+    "gradeCrossingTphLimit": {
+      "highway": 10,
+      "major": 16,
+      "medium": 22,
+      "minor": 30
+    },
+    "portalCost": 3500000,
+    "rampCost": 1750000
   },
   {
     "id": "osa-jr-323-loop",
@@ -661,7 +895,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 50,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 6.7
     },
     "appearance": {
       "color": "#F58220"
@@ -671,12 +907,28 @@
       "STANDARD_TUNNEL": 2.25,
       "CUT_AND_COVER": 1.15,
       "AT_GRADE": 0.4,
-      "ELEVATED": 0.95
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kinki Sharyo"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "commuter-rail"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 12,
+      "medium": 16,
+      "minor": 22
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
   },
   {
     "id": "osa-jr-225-kansai",
@@ -709,7 +961,9 @@
       "parallelTrackSpacing": 4.2,
       "stopTimeSeconds": 50,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 6.7
     },
     "appearance": {
       "color": "#005EB8"
@@ -719,13 +973,29 @@
       "STANDARD_TUNNEL": 2.25,
       "CUT_AND_COVER": 1.15,
       "AT_GRADE": 0.4,
-      "ELEVATED": 0.95
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kinki Sharyo",
       "Kawasaki Heavy Industries"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "commuter-rail"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 12,
+      "medium": 16,
+      "minor": 22
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
   },
   {
     "id": "osa-nankai-50000-rapit",
@@ -758,7 +1028,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 50,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 20,
+      "crossoverSpeed": 8.3
     },
     "appearance": {
       "color": "#005EB8"
@@ -768,12 +1040,28 @@
       "STANDARD_TUNNEL": 2.25,
       "CUT_AND_COVER": 1.15,
       "AT_GRADE": 0.4,
-      "ELEVATED": 0.95
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Tokyu Car"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "intercity-rail"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 14,
+      "minor": 18
+    },
+    "portalCost": 11000000,
+    "rampCost": 5500000
   },
   {
     "id": "kyo-10-karasuma",
@@ -806,7 +1094,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 32,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 6.7
     },
     "appearance": {
       "color": "#00843D"
@@ -816,13 +1106,29 @@
       "STANDARD_TUNNEL": 2,
       "CUT_AND_COVER": 1,
       "AT_GRADE": 0.3,
-      "ELEVATED": 0.8
+      "ELEVATED": 0.8,
+      "TRENCHED": 0.54,
+      "RAMP": 0.53
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kinki Sharyo",
       "Hitachi"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "heavy-metro"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 14,
+      "medium": 20,
+      "minor": 28
+    },
+    "portalCost": 8000000,
+    "rampCost": 4000000
   },
   {
     "id": "kyo-20-karasuma",
@@ -855,7 +1161,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 32,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 6.7
     },
     "appearance": {
       "color": "#00843D"
@@ -865,12 +1173,28 @@
       "STANDARD_TUNNEL": 2,
       "CUT_AND_COVER": 1,
       "AT_GRADE": 0.3,
-      "ELEVATED": 0.8
+      "ELEVATED": 0.8,
+      "TRENCHED": 0.54,
+      "RAMP": 0.53
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kinki Sharyo"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "heavy-metro"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 14,
+      "medium": 20,
+      "minor": 28
+    },
+    "portalCost": 8000000,
+    "rampCost": 4000000
   },
   {
     "id": "kyo-50-tozai",
@@ -903,7 +1227,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 32,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 6.7
     },
     "appearance": {
       "color": "#F58220"
@@ -913,12 +1239,28 @@
       "STANDARD_TUNNEL": 2,
       "CUT_AND_COVER": 1,
       "AT_GRADE": 0.3,
-      "ELEVATED": 0.8
+      "ELEVATED": 0.8,
+      "TRENCHED": 0.54,
+      "RAMP": 0.53
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kinki Sharyo"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "heavy-metro"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 14,
+      "medium": 20,
+      "minor": 28
+    },
+    "portalCost": 8000000,
+    "rampCost": 4000000
   },
   {
     "id": "kyo-keihan-800-keishin",
@@ -951,7 +1293,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 32,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 5.6
     },
     "appearance": {
       "color": "#005EB8"
@@ -961,12 +1305,29 @@
       "STANDARD_TUNNEL": 2,
       "CUT_AND_COVER": 1,
       "AT_GRADE": 0.3,
-      "ELEVATED": 0.8
+      "ELEVATED": 0.8,
+      "TRENCHED": 0.54,
+      "RAMP": 0.53
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kinki Sharyo"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "tram",
+      "light-rail"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 220000,
+    "gradeCrossingMaintenancePerYear": 6000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 14,
+      "medium": 20,
+      "minor": 28
+    },
+    "portalCost": 4500000,
+    "rampCost": 2250000
   },
   {
     "id": "kyo-kintetsu-3200",
@@ -999,7 +1360,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 32,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 6.7
     },
     "appearance": {
       "color": "#B50000"
@@ -1009,12 +1372,28 @@
       "STANDARD_TUNNEL": 2,
       "CUT_AND_COVER": 1,
       "AT_GRADE": 0.3,
-      "ELEVATED": 0.8
+      "ELEVATED": 0.8,
+      "TRENCHED": 0.54,
+      "RAMP": 0.53
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kinki Sharyo"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "heavy-metro"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 14,
+      "medium": 20,
+      "minor": 28
+    },
+    "portalCost": 8000000,
+    "rampCost": 4000000
   },
   {
     "id": "kyo-kintetsu-3220",
@@ -1047,7 +1426,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 32,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 6.7
     },
     "appearance": {
       "color": "#B50000"
@@ -1057,12 +1438,28 @@
       "STANDARD_TUNNEL": 2,
       "CUT_AND_COVER": 1,
       "AT_GRADE": 0.3,
-      "ELEVATED": 0.8
+      "ELEVATED": 0.8,
+      "TRENCHED": 0.54,
+      "RAMP": 0.53
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kinki Sharyo"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "heavy-metro"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 14,
+      "medium": 20,
+      "minor": 28
+    },
+    "portalCost": 8000000,
+    "rampCost": 4000000
   },
   {
     "id": "kyo-randen-2001-tram",
@@ -1095,7 +1492,9 @@
       "parallelTrackSpacing": 3.2,
       "stopTimeSeconds": 18,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 40,
+      "crossoverSpeed": 4.2
     },
     "appearance": {
       "color": "#5A2D82"
@@ -1105,12 +1504,28 @@
       "STANDARD_TUNNEL": 1.5,
       "CUT_AND_COVER": 0.8,
       "AT_GRADE": 0.2,
-      "ELEVATED": 0.6
+      "ELEVATED": 0.6,
+      "TRENCHED": 0.41,
+      "RAMP": 0.38
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Mukogawa Sharyo"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "tram"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 180000,
+    "gradeCrossingMaintenancePerYear": 5000,
+    "gradeCrossingTphLimit": {
+      "highway": 10,
+      "major": 16,
+      "medium": 22,
+      "minor": 30
+    },
+    "portalCost": 3500000,
+    "rampCost": 1750000
   },
   {
     "id": "kyo-randen-600-tram",
@@ -1143,7 +1558,9 @@
       "parallelTrackSpacing": 3.2,
       "stopTimeSeconds": 18,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 40,
+      "crossoverSpeed": 4.2
     },
     "appearance": {
       "color": "#5A2D82"
@@ -1153,12 +1570,28 @@
       "STANDARD_TUNNEL": 1.5,
       "CUT_AND_COVER": 0.8,
       "AT_GRADE": 0.2,
-      "ELEVATED": 0.6
+      "ELEVATED": 0.6,
+      "TRENCHED": 0.41,
+      "RAMP": 0.38
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Mukogawa Sharyo"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "tram"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 180000,
+    "gradeCrossingMaintenancePerYear": 5000,
+    "gradeCrossingTphLimit": {
+      "highway": 10,
+      "major": 16,
+      "medium": 22,
+      "minor": 30
+    },
+    "portalCost": 3500000,
+    "rampCost": 1750000
   },
   {
     "id": "kyo-eizan-900-kirara",
@@ -1191,7 +1624,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 50,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 6.7
     },
     "appearance": {
       "color": "#F58220"
@@ -1201,12 +1636,28 @@
       "STANDARD_TUNNEL": 2.25,
       "CUT_AND_COVER": 1.15,
       "AT_GRADE": 0.4,
-      "ELEVATED": 0.95
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Mukogawa Sharyo"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "commuter-rail"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 12,
+      "medium": 16,
+      "minor": 22
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
   },
   {
     "id": "kyo-jr-221-kansai",
@@ -1239,7 +1690,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 50,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 6.7
     },
     "appearance": {
       "color": "#005EB8"
@@ -1249,13 +1702,29 @@
       "STANDARD_TUNNEL": 2.25,
       "CUT_AND_COVER": 1.15,
       "AT_GRADE": 0.4,
-      "ELEVATED": 0.95
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kinki Sharyo",
       "Kawasaki Heavy Industries"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "commuter-rail"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 12,
+      "medium": 16,
+      "minor": 22
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
   },
   {
     "id": "kyo-jr-225-kansai",
@@ -1288,7 +1757,9 @@
       "parallelTrackSpacing": 4.2,
       "stopTimeSeconds": 50,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 6.7
     },
     "appearance": {
       "color": "#005EB8"
@@ -1298,13 +1769,29 @@
       "STANDARD_TUNNEL": 2.25,
       "CUT_AND_COVER": 1.15,
       "AT_GRADE": 0.4,
-      "ELEVATED": 0.95
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kinki Sharyo",
       "Kawasaki Heavy Industries"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "commuter-rail"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 12,
+      "medium": 16,
+      "minor": 22
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
   },
   {
     "id": "kyo-jr-321-urban",
@@ -1337,7 +1824,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 50,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 6.7
     },
     "appearance": {
       "color": "#005EB8"
@@ -1347,13 +1836,29 @@
       "STANDARD_TUNNEL": 2.25,
       "CUT_AND_COVER": 1.15,
       "AT_GRADE": 0.4,
-      "ELEVATED": 0.95
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kinki Sharyo",
       "Kawasaki Heavy Industries"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "commuter-rail"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 12,
+      "medium": 16,
+      "minor": 22
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
   },
   {
     "id": "kob-1000-seishin",
@@ -1386,7 +1891,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 32,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 6.7
     },
     "appearance": {
       "color": "#00A3E0"
@@ -1396,12 +1903,28 @@
       "STANDARD_TUNNEL": 2,
       "CUT_AND_COVER": 1,
       "AT_GRADE": 0.3,
-      "ELEVATED": 0.8
+      "ELEVATED": 0.8,
+      "TRENCHED": 0.54,
+      "RAMP": 0.53
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kawasaki Heavy Industries"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "heavy-metro"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 14,
+      "medium": 20,
+      "minor": 28
+    },
+    "portalCost": 8000000,
+    "rampCost": 4000000
   },
   {
     "id": "kob-2000-seishin",
@@ -1434,7 +1957,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 32,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 6.7
     },
     "appearance": {
       "color": "#00A3E0"
@@ -1444,12 +1969,28 @@
       "STANDARD_TUNNEL": 2,
       "CUT_AND_COVER": 1,
       "AT_GRADE": 0.3,
-      "ELEVATED": 0.8
+      "ELEVATED": 0.8,
+      "TRENCHED": 0.54,
+      "RAMP": 0.53
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kawasaki Heavy Industries"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "heavy-metro"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 14,
+      "medium": 20,
+      "minor": 28
+    },
+    "portalCost": 8000000,
+    "rampCost": 4000000
   },
   {
     "id": "kob-3000-seishin",
@@ -1482,7 +2023,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 32,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 6.7
     },
     "appearance": {
       "color": "#00A3E0"
@@ -1492,12 +2035,28 @@
       "STANDARD_TUNNEL": 2,
       "CUT_AND_COVER": 1,
       "AT_GRADE": 0.3,
-      "ELEVATED": 0.8
+      "ELEVATED": 0.8,
+      "TRENCHED": 0.54,
+      "RAMP": 0.53
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kawasaki Heavy Industries"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "heavy-metro"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 14,
+      "medium": 20,
+      "minor": 28
+    },
+    "portalCost": 8000000,
+    "rampCost": 4000000
   },
   {
     "id": "kob-6000-seishin",
@@ -1530,7 +2089,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 32,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 6.7
     },
     "appearance": {
       "color": "#00A3E0"
@@ -1540,12 +2101,28 @@
       "STANDARD_TUNNEL": 2,
       "CUT_AND_COVER": 1,
       "AT_GRADE": 0.3,
-      "ELEVATED": 0.8
+      "ELEVATED": 0.8,
+      "TRENCHED": 0.54,
+      "RAMP": 0.53
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kawasaki Heavy Industries"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "heavy-metro"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 14,
+      "medium": 20,
+      "minor": 28
+    },
+    "portalCost": 8000000,
+    "rampCost": 4000000
   },
   {
     "id": "kob-7000-hokushin",
@@ -1578,7 +2155,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 32,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 6.7
     },
     "appearance": {
       "color": "#00A3E0"
@@ -1588,12 +2167,28 @@
       "STANDARD_TUNNEL": 2,
       "CUT_AND_COVER": 1,
       "AT_GRADE": 0.3,
-      "ELEVATED": 0.8
+      "ELEVATED": 0.8,
+      "TRENCHED": 0.54,
+      "RAMP": 0.53
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kawasaki Heavy Industries"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "heavy-metro"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 14,
+      "medium": 20,
+      "minor": 28
+    },
+    "portalCost": 8000000,
+    "rampCost": 4000000
   },
   {
     "id": "kob-5000-kaigan-linear",
@@ -1626,7 +2221,9 @@
       "parallelTrackSpacing": 3.6,
       "stopTimeSeconds": 30,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 34,
+      "crossoverSpeed": 6.7
     },
     "appearance": {
       "color": "#00ADA9"
@@ -1636,12 +2233,28 @@
       "STANDARD_TUNNEL": 1.9,
       "CUT_AND_COVER": 0.95,
       "AT_GRADE": 0.3,
-      "ELEVATED": 0.75
+      "ELEVATED": 0.75,
+      "TRENCHED": 0.53,
+      "RAMP": 0.5
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kawasaki Heavy Industries"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "linear-metro"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 14,
+      "medium": 20,
+      "minor": 28
+    },
+    "portalCost": 7000000,
+    "rampCost": 3500000
   },
   {
     "id": "kob-port-liner-2000",
@@ -1674,7 +2287,9 @@
       "parallelTrackSpacing": 3.2,
       "stopTimeSeconds": 20,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 48,
+      "crossoverSpeed": 5.6
     },
     "appearance": {
       "color": "#00A3E0"
@@ -1684,12 +2299,28 @@
       "STANDARD_TUNNEL": 1.8,
       "CUT_AND_COVER": 0.9,
       "AT_GRADE": 0.28,
-      "ELEVATED": 0.7
+      "ELEVATED": 0.7,
+      "TRENCHED": 0.5,
+      "RAMP": 0.47
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kawasaki Heavy Industries"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "automated-guideway"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 10,
+      "major": 16,
+      "medium": 24,
+      "minor": 32
+    },
+    "portalCost": 5000000,
+    "rampCost": 2500000
   },
   {
     "id": "kob-rokko-3000",
@@ -1722,7 +2353,9 @@
       "parallelTrackSpacing": 3.2,
       "stopTimeSeconds": 20,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 48,
+      "crossoverSpeed": 5.6
     },
     "appearance": {
       "color": "#00A3E0"
@@ -1732,12 +2365,28 @@
       "STANDARD_TUNNEL": 1.8,
       "CUT_AND_COVER": 0.9,
       "AT_GRADE": 0.28,
-      "ELEVATED": 0.7
+      "ELEVATED": 0.7,
+      "TRENCHED": 0.5,
+      "RAMP": 0.47
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kawasaki Heavy Industries"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "automated-guideway"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 10,
+      "major": 16,
+      "medium": 24,
+      "minor": 32
+    },
+    "portalCost": 5000000,
+    "rampCost": 2500000
   },
   {
     "id": "kob-jr-207-urban",
@@ -1770,7 +2419,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 50,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 6.7
     },
     "appearance": {
       "color": "#005EB8"
@@ -1780,14 +2431,30 @@
       "STANDARD_TUNNEL": 2.25,
       "CUT_AND_COVER": 1.15,
       "AT_GRADE": 0.4,
-      "ELEVATED": 0.95
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kawasaki Heavy Industries",
       "Hitachi",
       "Kinki Sharyo"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "commuter-rail"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 12,
+      "medium": 16,
+      "minor": 22
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
   },
   {
     "id": "kob-jr-321-urban",
@@ -1820,7 +2487,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 50,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 6.7
     },
     "appearance": {
       "color": "#005EB8"
@@ -1830,13 +2499,29 @@
       "STANDARD_TUNNEL": 2.25,
       "CUT_AND_COVER": 1.15,
       "AT_GRADE": 0.4,
-      "ELEVATED": 0.95
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kinki Sharyo",
       "Kawasaki Heavy Industries"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "commuter-rail"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 12,
+      "medium": 16,
+      "minor": 22
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
   },
   {
     "id": "kob-jr-225-kansai",
@@ -1869,7 +2554,9 @@
       "parallelTrackSpacing": 4.2,
       "stopTimeSeconds": 50,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 6.7
     },
     "appearance": {
       "color": "#005EB8"
@@ -1879,13 +2566,29 @@
       "STANDARD_TUNNEL": 2.25,
       "CUT_AND_COVER": 1.15,
       "AT_GRADE": 0.4,
-      "ELEVATED": 0.95
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kinki Sharyo",
       "Kawasaki Heavy Industries"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "commuter-rail"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 12,
+      "medium": 16,
+      "minor": 22
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
   },
   {
     "id": "kob-hanshin-1000",
@@ -1918,7 +2621,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 50,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 6.7
     },
     "appearance": {
       "color": "#F58220"
@@ -1928,12 +2633,28 @@
       "STANDARD_TUNNEL": 2.25,
       "CUT_AND_COVER": 1.15,
       "AT_GRADE": 0.4,
-      "ELEVATED": 0.95
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kinki Sharyo"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "commuter-rail"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 12,
+      "medium": 16,
+      "minor": 22
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
   },
   {
     "id": "kob-hankyu-1000",
@@ -1966,7 +2687,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 50,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 6.7
     },
     "appearance": {
       "color": "#6F263D"
@@ -1976,12 +2699,28 @@
       "STANDARD_TUNNEL": 2.25,
       "CUT_AND_COVER": 1.15,
       "AT_GRADE": 0.4,
-      "ELEVATED": 0.95
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Hitachi"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "commuter-rail"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 12,
+      "medium": 16,
+      "minor": 22
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
   },
   {
     "id": "kob-sanyo-6000",
@@ -2014,7 +2753,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 50,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 6.7
     },
     "appearance": {
       "color": "#F58220"
@@ -2024,12 +2765,28 @@
       "STANDARD_TUNNEL": 2.25,
       "CUT_AND_COVER": 1.15,
       "AT_GRADE": 0.4,
-      "ELEVATED": 0.95
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kawasaki Heavy Industries"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "commuter-rail"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 12,
+      "medium": 16,
+      "minor": 22
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
   },
   {
     "id": "kt-generic-commuter-emu",
@@ -2062,7 +2819,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 50,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 6.7
     },
     "appearance": {
       "color": "#B50000"
@@ -2072,12 +2831,28 @@
       "STANDARD_TUNNEL": 2.0,
       "CUT_AND_COVER": 1.0,
       "AT_GRADE": 0.35,
-      "ELEVATED": 0.85
+      "ELEVATED": 0.85,
+      "TRENCHED": 0.58,
+      "RAMP": 0.57
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kinki Sharyo"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "commuter-rail"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 12,
+      "medium": 16,
+      "minor": 22
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
   },
   {
     "id": "kh-commuter-emu",
@@ -2110,7 +2885,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 50,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 6.7
     },
     "appearance": {
       "color": "#005EB8"
@@ -2120,13 +2897,29 @@
       "STANDARD_TUNNEL": 2.0,
       "CUT_AND_COVER": 1.0,
       "AT_GRADE": 0.35,
-      "ELEVATED": 0.85
+      "ELEVATED": 0.85,
+      "TRENCHED": 0.58,
+      "RAMP": 0.57
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kawasaki Heavy Industries",
       "Kinki Sharyo"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "commuter-rail"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 12,
+      "medium": 16,
+      "minor": 22
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
   },
   {
     "id": "kh-3000-emu",
@@ -2159,7 +2952,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 50,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 20,
+      "crossoverSpeed": 8.3
     },
     "appearance": {
       "color": "#005EB8"
@@ -2169,12 +2964,28 @@
       "STANDARD_TUNNEL": 2.0,
       "CUT_AND_COVER": 1.0,
       "AT_GRADE": 0.35,
-      "ELEVATED": 0.85
+      "ELEVATED": 0.85,
+      "TRENCHED": 0.58,
+      "RAMP": 0.57
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kawasaki Heavy Industries"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "intercity-rail"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 14,
+      "minor": 18
+    },
+    "portalCost": 11000000,
+    "rampCost": 5500000
   },
   {
     "id": "kt-21000-urban-liner-limited-express",
@@ -2207,7 +3018,9 @@
       "parallelTrackSpacing": 4.2,
       "stopTimeSeconds": 50,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 20,
+      "crossoverSpeed": 8.3
     },
     "appearance": {
       "color": "#F58220"
@@ -2217,12 +3030,28 @@
       "STANDARD_TUNNEL": 2.25,
       "CUT_AND_COVER": 1.15,
       "AT_GRADE": 0.4,
-      "ELEVATED": 0.95
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kinki Sharyo"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "intercity-rail"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 14,
+      "minor": 18
+    },
+    "portalCost": 11000000,
+    "rampCost": 5500000
   },
   {
     "id": "kt-50000-shimakaze-limited-express",
@@ -2255,7 +3084,9 @@
       "parallelTrackSpacing": 4.2,
       "stopTimeSeconds": 50,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 20,
+      "crossoverSpeed": 8.3
     },
     "appearance": {
       "color": "#005EB8"
@@ -2265,12 +3096,28 @@
       "STANDARD_TUNNEL": 2.25,
       "CUT_AND_COVER": 1.15,
       "AT_GRADE": 0.4,
-      "ELEVATED": 0.95
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kinki Sharyo"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "intercity-rail"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 14,
+      "minor": 18
+    },
+    "portalCost": 11000000,
+    "rampCost": 5500000
   },
   {
     "id": "kh-8000-emu",
@@ -2303,7 +3150,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 50,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 20,
+      "crossoverSpeed": 8.3
     },
     "appearance": {
       "color": "#C8102E"
@@ -2313,12 +3162,28 @@
       "STANDARD_TUNNEL": 2.0,
       "CUT_AND_COVER": 1.0,
       "AT_GRADE": 0.35,
-      "ELEVATED": 0.85
+      "ELEVATED": 0.85,
+      "TRENCHED": 0.58,
+      "RAMP": 0.57
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kawasaki Heavy Industries"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "intercity-rail"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 14,
+      "minor": 18
+    },
+    "portalCost": 11000000,
+    "rampCost": 5500000
   },
   {
     "id": "hn-9300-emu",
@@ -2351,7 +3216,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 50,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 20,
+      "crossoverSpeed": 8.3
     },
     "appearance": {
       "color": "#6F263D"
@@ -2361,12 +3228,28 @@
       "STANDARD_TUNNEL": 2.0,
       "CUT_AND_COVER": 1.0,
       "AT_GRADE": 0.35,
-      "ELEVATED": 0.85
+      "ELEVATED": 0.85,
+      "TRENCHED": 0.58,
+      "RAMP": 0.57
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Hitachi"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "intercity-rail"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 14,
+      "minor": 18
+    },
+    "portalCost": 11000000,
+    "rampCost": 5500000
   },
   {
     "id": "hn-1000-emu",
@@ -2399,7 +3282,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 50,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 6.7
     },
     "appearance": {
       "color": "#6F263D"
@@ -2409,11 +3294,27 @@
       "STANDARD_TUNNEL": 2.0,
       "CUT_AND_COVER": 1.0,
       "AT_GRADE": 0.35,
-      "ELEVATED": 0.85
+      "ELEVATED": 0.85,
+      "TRENCHED": 0.58,
+      "RAMP": 0.57
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Hitachi"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "commuter-rail"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 12,
+      "medium": 16,
+      "minor": 22
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
   }
 ]

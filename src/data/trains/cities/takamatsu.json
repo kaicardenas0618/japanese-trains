@@ -30,7 +30,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 40,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 40,
+      "crossoverSpeed": 4.2
     },
     "appearance": {
       "color": "#F58220"
@@ -40,13 +42,29 @@
       "STANDARD_TUNNEL": 2.0,
       "CUT_AND_COVER": 1.0,
       "AT_GRADE": 0.35,
-      "ELEVATED": 0.85
+      "ELEVATED": 0.85,
+      "TRENCHED": 0.58,
+      "RAMP": 0.57
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Keikyu",
       "Tokyu Car"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "tram"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 180000,
+    "gradeCrossingMaintenancePerYear": 5000,
+    "gradeCrossingTphLimit": {
+      "highway": 10,
+      "major": 16,
+      "medium": 22,
+      "minor": 30
+    },
+    "portalCost": 3500000,
+    "rampCost": 1750000
   },
   {
     "id": "ktd-1200-emu",
@@ -79,7 +97,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 40,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 40,
+      "crossoverSpeed": 4.2
     },
     "appearance": {
       "color": "#F58220"
@@ -89,13 +109,29 @@
       "STANDARD_TUNNEL": 2.0,
       "CUT_AND_COVER": 1.0,
       "AT_GRADE": 0.35,
-      "ELEVATED": 0.85
+      "ELEVATED": 0.85,
+      "TRENCHED": 0.58,
+      "RAMP": 0.57
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Keikyu",
       "Tokyu Car"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "tram"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 180000,
+    "gradeCrossingMaintenancePerYear": 5000,
+    "gradeCrossingTphLimit": {
+      "highway": 10,
+      "major": 16,
+      "medium": 22,
+      "minor": 30
+    },
+    "portalCost": 3500000,
+    "rampCost": 1750000
   },
   {
     "id": "ktd-1080-emu",
@@ -128,7 +164,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 40,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 40,
+      "crossoverSpeed": 4.2
     },
     "appearance": {
       "color": "#F58220"
@@ -138,13 +176,29 @@
       "STANDARD_TUNNEL": 2.0,
       "CUT_AND_COVER": 1.0,
       "AT_GRADE": 0.35,
-      "ELEVATED": 0.85
+      "ELEVATED": 0.85,
+      "TRENCHED": 0.58,
+      "RAMP": 0.57
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Tokyu Car",
       "Kawasaki Heavy Industries"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "tram"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 180000,
+    "gradeCrossingMaintenancePerYear": 5000,
+    "gradeCrossingTphLimit": {
+      "highway": 10,
+      "major": 16,
+      "medium": 22,
+      "minor": 30
+    },
+    "portalCost": 3500000,
+    "rampCost": 1750000
   },
   {
     "id": "jrs-7200-emu",
@@ -177,7 +231,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 40,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 6.7
     },
     "appearance": {
       "color": "#005EB8"
@@ -187,13 +243,29 @@
       "STANDARD_TUNNEL": 2.0,
       "CUT_AND_COVER": 1.0,
       "AT_GRADE": 0.35,
-      "ELEVATED": 0.85
+      "ELEVATED": 0.85,
+      "TRENCHED": 0.58,
+      "RAMP": 0.57
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "JNR",
       "JR Shikoku"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "commuter-rail"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 12,
+      "medium": 16,
+      "minor": 22
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
   },
   {
     "id": "jrs-2600-dmu",
@@ -226,7 +298,9 @@
       "parallelTrackSpacing": 4.2,
       "stopTimeSeconds": 50,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 20,
+      "crossoverSpeed": 8.3
     },
     "appearance": {
       "color": "#F58220"
@@ -236,11 +310,27 @@
       "STANDARD_TUNNEL": 2.25,
       "CUT_AND_COVER": 1.15,
       "AT_GRADE": 0.4,
-      "ELEVATED": 0.95
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kawasaki Heavy Industries"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "intercity-rail"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 14,
+      "minor": 18
+    },
+    "portalCost": 11000000,
+    "rampCost": 5500000
   }
 ]

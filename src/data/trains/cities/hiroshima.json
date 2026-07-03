@@ -30,7 +30,9 @@
       "parallelTrackSpacing": 3.2,
       "stopTimeSeconds": 18,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 40,
+      "crossoverSpeed": 4.2
     },
     "appearance": {
       "color": "#43B02A"
@@ -40,14 +42,30 @@
       "STANDARD_TUNNEL": 1.5,
       "CUT_AND_COVER": 0.8,
       "AT_GRADE": 0.2,
-      "ELEVATED": 0.6
+      "ELEVATED": 0.6,
+      "TRENCHED": 0.41,
+      "RAMP": 0.38
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kinki Sharyo",
       "Mitsubishi Heavy Industries",
       "Toyo Denki"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "tram"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 180000,
+    "gradeCrossingMaintenancePerYear": 5000,
+    "gradeCrossingTphLimit": {
+      "highway": 10,
+      "major": 16,
+      "medium": 22,
+      "minor": 30
+    },
+    "portalCost": 3500000,
+    "rampCost": 1750000
   },
   {
     "id": "hrd-1900-tram",
@@ -80,7 +98,9 @@
       "parallelTrackSpacing": 3.2,
       "stopTimeSeconds": 18,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 34,
+      "crossoverSpeed": 4.2
     },
     "appearance": {
       "color": "#F58220"
@@ -90,12 +110,28 @@
       "STANDARD_TUNNEL": 1.5,
       "CUT_AND_COVER": 0.8,
       "AT_GRADE": 0.2,
-      "ELEVATED": 0.6
+      "ELEVATED": 0.6,
+      "TRENCHED": 0.41,
+      "RAMP": 0.38
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Naniwa Koki"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "tram"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 180000,
+    "gradeCrossingMaintenancePerYear": 5000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 14,
+      "medium": 20,
+      "minor": 26
+    },
+    "portalCost": 3500000,
+    "rampCost": 1750000
   },
   {
     "id": "hrd-650-tram",
@@ -128,7 +164,9 @@
       "parallelTrackSpacing": 3.2,
       "stopTimeSeconds": 18,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 34,
+      "crossoverSpeed": 4.2
     },
     "appearance": {
       "color": "#7B6469"
@@ -138,12 +176,28 @@
       "STANDARD_TUNNEL": 1.5,
       "CUT_AND_COVER": 0.8,
       "AT_GRADE": 0.2,
-      "ELEVATED": 0.6
+      "ELEVATED": 0.6,
+      "TRENCHED": 0.41,
+      "RAMP": 0.38
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kisha Seizo"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "tram"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 180000,
+    "gradeCrossingMaintenancePerYear": 5000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 14,
+      "medium": 20,
+      "minor": 26
+    },
+    "portalCost": 3500000,
+    "rampCost": 1750000
   },
   {
     "id": "hrd-1000-green-mover-lex-tram",
@@ -176,7 +230,9 @@
       "parallelTrackSpacing": 3.2,
       "stopTimeSeconds": 18,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 40,
+      "crossoverSpeed": 4.2
     },
     "appearance": {
       "color": "#43B02A"
@@ -186,14 +242,30 @@
       "STANDARD_TUNNEL": 1.5,
       "CUT_AND_COVER": 0.8,
       "AT_GRADE": 0.2,
-      "ELEVATED": 0.6
+      "ELEVATED": 0.6,
+      "TRENCHED": 0.41,
+      "RAMP": 0.38
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kinki Sharyo",
       "Mitsubishi Heavy Industries",
       "Toyo Denki"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "tram"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 180000,
+    "gradeCrossingMaintenancePerYear": 5000,
+    "gradeCrossingTphLimit": {
+      "highway": 10,
+      "major": 16,
+      "medium": 22,
+      "minor": 30
+    },
+    "portalCost": 3500000,
+    "rampCost": 1750000
   },
   {
     "id": "hrd-5200-green-mover-apex-tram",
@@ -226,7 +298,9 @@
       "parallelTrackSpacing": 3.2,
       "stopTimeSeconds": 18,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 40,
+      "crossoverSpeed": 4.2
     },
     "appearance": {
       "color": "#43B02A"
@@ -236,14 +310,30 @@
       "STANDARD_TUNNEL": 1.5,
       "CUT_AND_COVER": 0.8,
       "AT_GRADE": 0.2,
-      "ELEVATED": 0.6
+      "ELEVATED": 0.6,
+      "TRENCHED": 0.41,
+      "RAMP": 0.38
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kinki Sharyo",
       "Mitsubishi Heavy Industries",
       "Toyo Denki"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "tram"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 180000,
+    "gradeCrossingMaintenancePerYear": 5000,
+    "gradeCrossingTphLimit": {
+      "highway": 10,
+      "major": 16,
+      "medium": 22,
+      "minor": 30
+    },
+    "portalCost": 3500000,
+    "rampCost": 1750000
   },
   {
     "id": "ast-6000-astram-agt",
@@ -276,7 +366,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 32,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 45,
+      "crossoverSpeed": 5.6
     },
     "appearance": {
       "color": "#005EB8"
@@ -286,13 +378,29 @@
       "STANDARD_TUNNEL": 2.0,
       "CUT_AND_COVER": 1.0,
       "AT_GRADE": 0.3,
-      "ELEVATED": 0.8
+      "ELEVATED": 0.8,
+      "TRENCHED": 0.54,
+      "RAMP": 0.53
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Mitsubishi Heavy Industries",
       "Niigata Engineering"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "automated-guideway"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 10,
+      "major": 16,
+      "medium": 24,
+      "minor": 32
+    },
+    "portalCost": 5000000,
+    "rampCost": 2500000
   },
   {
     "id": "jrw-227-red-wing-emu",
@@ -325,7 +433,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 50,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 6.7
     },
     "appearance": {
       "color": "#C8102E"
@@ -335,12 +445,28 @@
       "STANDARD_TUNNEL": 2.0,
       "CUT_AND_COVER": 1.0,
       "AT_GRADE": 0.35,
-      "ELEVATED": 0.85
+      "ELEVATED": 0.85,
+      "TRENCHED": 0.58,
+      "RAMP": 0.57
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kawasaki Heavy Industries",
       "Kinki Sharyo"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "commuter-rail"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 12,
+      "medium": 16,
+      "minor": 22
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
   }
 ]

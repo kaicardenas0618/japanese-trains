@@ -30,7 +30,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 50,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 6.7
     },
     "appearance": {
       "color": "#F58220"
@@ -40,13 +42,29 @@
       "STANDARD_TUNNEL": 2.0,
       "CUT_AND_COVER": 1.0,
       "AT_GRADE": 0.35,
-      "ELEVATED": 0.85
+      "ELEVATED": 0.85,
+      "TRENCHED": 0.58,
+      "RAMP": 0.57
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kinki Sharyo",
       "Nippon Sharyo"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "commuter-rail"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 12,
+      "medium": 16,
+      "minor": 22
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
   },
   {
     "id": "mei-1000-limited-express",
@@ -79,7 +97,9 @@
       "parallelTrackSpacing": 4.2,
       "stopTimeSeconds": 50,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 20,
+      "crossoverSpeed": 8.3
     },
     "appearance": {
       "color": "#C8102E"
@@ -89,12 +109,28 @@
       "STANDARD_TUNNEL": 2.25,
       "CUT_AND_COVER": 1.15,
       "AT_GRADE": 0.4,
-      "ELEVATED": 0.95
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Nippon Sharyo"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "intercity-rail"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 6,
+      "major": 10,
+      "medium": 14,
+      "minor": 18
+    },
+    "portalCost": 11000000,
+    "rampCost": 5500000
   },
   {
     "id": "mei-6000-emu",
@@ -127,7 +163,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 40,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 6.7
     },
     "appearance": {
       "color": "#C8102E"
@@ -137,12 +175,28 @@
       "STANDARD_TUNNEL": 2.0,
       "CUT_AND_COVER": 1.0,
       "AT_GRADE": 0.35,
-      "ELEVATED": 0.85
+      "ELEVATED": 0.85,
+      "TRENCHED": 0.58,
+      "RAMP": 0.57
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Nippon Sharyo"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "commuter-rail"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 12,
+      "medium": 16,
+      "minor": 22
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
   },
   {
     "id": "mei-9500-emu",
@@ -175,7 +229,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 40,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 6.7
     },
     "appearance": {
       "color": "#C8102E"
@@ -185,12 +241,28 @@
       "STANDARD_TUNNEL": 2.0,
       "CUT_AND_COVER": 1.0,
       "AT_GRADE": 0.35,
-      "ELEVATED": 0.85
+      "ELEVATED": 0.85,
+      "TRENCHED": 0.58,
+      "RAMP": 0.57
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Nippon Sharyo"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "commuter-rail"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 12,
+      "medium": 16,
+      "minor": 22
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
   },
   {
     "id": "jrc-315-emu",
@@ -223,7 +295,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 50,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 6.7
     },
     "appearance": {
       "color": "#F58220"
@@ -233,12 +307,28 @@
       "STANDARD_TUNNEL": 2.0,
       "CUT_AND_COVER": 1.0,
       "AT_GRADE": 0.35,
-      "ELEVATED": 0.85
+      "ELEVATED": 0.85,
+      "TRENCHED": 0.58,
+      "RAMP": 0.57
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Nippon Sharyo"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "commuter-rail"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 12,
+      "medium": 16,
+      "minor": 22
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
   },
   {
     "id": "ngy-n1000-higashiyama-subway",
@@ -271,7 +361,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 32,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 6.7
     },
     "appearance": {
       "color": "#F3D03E"
@@ -281,12 +373,28 @@
       "STANDARD_TUNNEL": 2.0,
       "CUT_AND_COVER": 1.0,
       "AT_GRADE": 0.3,
-      "ELEVATED": 0.8
+      "ELEVATED": 0.8,
+      "TRENCHED": 0.54,
+      "RAMP": 0.53
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Nippon Sharyo"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "heavy-metro"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 14,
+      "medium": 20,
+      "minor": 28
+    },
+    "portalCost": 8000000,
+    "rampCost": 4000000
   },
   {
     "id": "ngy-n3000-tsurumai-subway",
@@ -319,7 +427,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 32,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 6.7
     },
     "appearance": {
       "color": "#005EB8"
@@ -329,13 +439,29 @@
       "STANDARD_TUNNEL": 2.0,
       "CUT_AND_COVER": 1.0,
       "AT_GRADE": 0.3,
-      "ELEVATED": 0.8
+      "ELEVATED": 0.8,
+      "TRENCHED": 0.54,
+      "RAMP": 0.53
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Nippon Sharyo",
       "Hitachi"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "heavy-metro"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 14,
+      "medium": 20,
+      "minor": 28
+    },
+    "portalCost": 8000000,
+    "rampCost": 4000000
   },
   {
     "id": "ngy-6050-sakura-dori-subway",
@@ -368,7 +494,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 32,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 6.7
     },
     "appearance": {
       "color": "#C8102E"
@@ -378,12 +506,28 @@
       "STANDARD_TUNNEL": 2.0,
       "CUT_AND_COVER": 1.0,
       "AT_GRADE": 0.3,
-      "ELEVATED": 0.8
+      "ELEVATED": 0.8,
+      "TRENCHED": 0.54,
+      "RAMP": 0.53
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Nippon Sharyo"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "heavy-metro"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 14,
+      "medium": 20,
+      "minor": 28
+    },
+    "portalCost": 8000000,
+    "rampCost": 4000000
   },
   {
     "id": "ngy-linimo-100-maglev",
@@ -416,7 +560,9 @@
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 32,
       "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 6.7
     },
     "appearance": {
       "color": "#43B02A"
@@ -426,11 +572,27 @@
       "STANDARD_TUNNEL": 2.0,
       "CUT_AND_COVER": 1.0,
       "AT_GRADE": 0.3,
-      "ELEVATED": 0.8
+      "ELEVATED": 0.8,
+      "TRENCHED": 0.54,
+      "RAMP": 0.53
     },
     "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Nippon Sharyo"
-    ]
+    ],
+    "compatibleTrackTypes": [
+      "maglev"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 450000,
+    "gradeCrossingMaintenancePerYear": 10000,
+    "gradeCrossingTphLimit": {
+      "highway": 8,
+      "major": 14,
+      "medium": 20,
+      "minor": 26
+    },
+    "portalCost": 6000000,
+    "rampCost": 3000000
   }
 ]
