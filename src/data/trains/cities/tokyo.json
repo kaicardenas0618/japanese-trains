@@ -46,7 +46,6 @@
       "TRENCHED": 0.54,
       "RAMP": 0.53
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Nippon Sharyo"
     ],
@@ -112,7 +111,6 @@
       "TRENCHED": 0.54,
       "RAMP": 0.53
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Nippon Sharyo"
     ],
@@ -178,7 +176,6 @@
       "TRENCHED": 0.54,
       "RAMP": 0.53
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kawasaki Heavy Industries",
       "Nippon Sharyo",
@@ -246,7 +243,6 @@
       "TRENCHED": 0.54,
       "RAMP": 0.53
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kinki Sharyo"
     ],
@@ -312,7 +308,6 @@
       "TRENCHED": 0.54,
       "RAMP": 0.53
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Hitachi"
     ],
@@ -378,7 +373,6 @@
       "TRENCHED": 0.54,
       "RAMP": 0.53
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kawasaki Heavy Industries",
       "Hitachi"
@@ -445,7 +439,6 @@
       "TRENCHED": 0.54,
       "RAMP": 0.53
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Hitachi"
     ],
@@ -511,7 +504,6 @@
       "TRENCHED": 0.54,
       "RAMP": 0.53
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Hitachi"
     ],
@@ -577,7 +569,6 @@
       "TRENCHED": 0.54,
       "RAMP": 0.53
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kawasaki Heavy Industries",
       "Tokyu Car"
@@ -644,7 +635,6 @@
       "TRENCHED": 0.54,
       "RAMP": 0.53
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "J-TREC"
     ],
@@ -710,7 +700,6 @@
       "TRENCHED": 0.54,
       "RAMP": 0.53
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kinki Sharyo"
     ],
@@ -776,7 +765,6 @@
       "TRENCHED": 0.54,
       "RAMP": 0.53
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "J-TREC"
     ],
@@ -842,7 +830,6 @@
       "TRENCHED": 0.53,
       "RAMP": 0.5
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kawasaki Heavy Industries",
       "Nippon Sharyo"
@@ -909,7 +896,6 @@
       "TRENCHED": 0.41,
       "RAMP": 0.38
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Alna Sharyo"
     ],
@@ -975,7 +961,6 @@
       "TRENCHED": 0.5,
       "RAMP": 0.47
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Niigata Transys"
     ],
@@ -1041,7 +1026,6 @@
       "TRENCHED": 0.5,
       "RAMP": 0.47
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Mitsubishi Heavy Industries",
       "Niigata Transys"
@@ -1108,7 +1092,6 @@
       "TRENCHED": 0.5,
       "RAMP": 0.47
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Hitachi"
     ],
@@ -1174,7 +1157,6 @@
       "TRENCHED": 0.66,
       "RAMP": 0.65
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "J-TREC"
     ],
@@ -1240,7 +1222,6 @@
       "TRENCHED": 0.66,
       "RAMP": 0.65
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "J-TREC",
       "Tokyu Car",
@@ -1308,7 +1289,6 @@
       "TRENCHED": 0.66,
       "RAMP": 0.65
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kinki Sharyo",
       "Tokyu Car"
@@ -1375,7 +1355,6 @@
       "TRENCHED": 0.66,
       "RAMP": 0.65
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Nippon Sharyo"
     ],
@@ -1441,7 +1420,6 @@
       "TRENCHED": 0.66,
       "RAMP": 0.65
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Nippon Sharyo"
     ],
@@ -1507,7 +1485,6 @@
       "TRENCHED": 0.66,
       "RAMP": 0.65
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Hitachi"
     ],
@@ -1573,7 +1550,6 @@
       "TRENCHED": 0.66,
       "RAMP": 0.65
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Hitachi"
     ],
@@ -1639,7 +1615,6 @@
       "TRENCHED": 0.58,
       "RAMP": 0.57
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Tokyu Car",
       "J-TREC",
@@ -1707,7 +1682,6 @@
       "TRENCHED": 0.58,
       "RAMP": 0.57
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Tokyu Car"
     ],
@@ -1773,7 +1747,6 @@
       "TRENCHED": 0.58,
       "RAMP": 0.57
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kawasaki Heavy Industries",
       "Tokyu Car"
@@ -1840,7 +1813,6 @@
       "TRENCHED": 0.58,
       "RAMP": 0.57
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "J-TREC"
     ],
@@ -1906,7 +1878,6 @@
       "TRENCHED": 0.58,
       "RAMP": 0.57
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Tokyu Car",
       "J-TREC"
@@ -1973,7 +1944,6 @@
       "TRENCHED": 0.58,
       "RAMP": 0.57
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "J-TREC"
     ],
@@ -2039,7 +2009,6 @@
       "TRENCHED": 0.58,
       "RAMP": 0.57
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Nippon Sharyo",
       "Tokyu Car",

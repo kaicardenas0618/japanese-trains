@@ -46,7 +46,6 @@
       "TRENCHED": 0.58,
       "RAMP": 0.57
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Keikyu",
       "Tokyu Car"
@@ -113,7 +112,6 @@
       "TRENCHED": 0.58,
       "RAMP": 0.57
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Keikyu",
       "Tokyu Car"
@@ -180,7 +178,6 @@
       "TRENCHED": 0.58,
       "RAMP": 0.57
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Tokyu Car",
       "Kawasaki Heavy Industries"
@@ -247,7 +244,6 @@
       "TRENCHED": 0.58,
       "RAMP": 0.57
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "JNR",
       "JR Shikoku"
@@ -314,7 +310,6 @@
       "TRENCHED": 0.66,
       "RAMP": 0.65
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kawasaki Heavy Industries"
     ],

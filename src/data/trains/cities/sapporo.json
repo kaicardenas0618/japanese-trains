@@ -46,7 +46,6 @@
       "TRENCHED": 0.58,
       "RAMP": 0.57
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kawasaki Heavy Industries"
     ],
@@ -112,7 +111,6 @@
       "TRENCHED": 0.58,
       "RAMP": 0.57
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Hitachi"
     ],
@@ -178,7 +176,6 @@
       "TRENCHED": 0.54,
       "RAMP": 0.53
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kawasaki Heavy Industries"
     ],
@@ -244,7 +241,6 @@
       "TRENCHED": 0.54,
       "RAMP": 0.53
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kawasaki Heavy Industries"
     ],
@@ -310,7 +306,6 @@
       "TRENCHED": 0.54,
       "RAMP": 0.53
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kawasaki Heavy Industries"
     ],
@@ -376,7 +371,6 @@
       "TRENCHED": 0.41,
       "RAMP": 0.38
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Alna Sharyo"
     ],
@@ -442,7 +436,6 @@
       "TRENCHED": 0.41,
       "RAMP": 0.38
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Alna Sharyo"
     ],

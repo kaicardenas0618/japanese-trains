@@ -46,7 +46,6 @@
       "TRENCHED": 0.41,
       "RAMP": 0.38
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kinki Sharyo",
       "Mitsubishi Heavy Industries",
@@ -114,7 +113,6 @@
       "TRENCHED": 0.41,
       "RAMP": 0.38
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Naniwa Koki"
     ],
@@ -180,7 +178,6 @@
       "TRENCHED": 0.41,
       "RAMP": 0.38
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kisha Seizo"
     ],
@@ -246,7 +243,6 @@
       "TRENCHED": 0.41,
       "RAMP": 0.38
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kinki Sharyo",
       "Mitsubishi Heavy Industries",
@@ -314,7 +310,6 @@
       "TRENCHED": 0.41,
       "RAMP": 0.38
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kinki Sharyo",
       "Mitsubishi Heavy Industries",
@@ -382,7 +377,6 @@
       "TRENCHED": 0.54,
       "RAMP": 0.53
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Mitsubishi Heavy Industries",
       "Niigata Engineering"
@@ -449,7 +443,6 @@
       "TRENCHED": 0.58,
       "RAMP": 0.57
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kawasaki Heavy Industries",
       "Kinki Sharyo"

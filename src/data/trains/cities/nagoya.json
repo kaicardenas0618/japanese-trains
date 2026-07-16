@@ -46,7 +46,6 @@
       "TRENCHED": 0.58,
       "RAMP": 0.57
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Kinki Sharyo",
       "Nippon Sharyo"
@@ -113,7 +112,6 @@
       "TRENCHED": 0.66,
       "RAMP": 0.65
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Nippon Sharyo"
     ],
@@ -179,7 +177,6 @@
       "TRENCHED": 0.58,
       "RAMP": 0.57
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Nippon Sharyo"
     ],
@@ -245,7 +242,6 @@
       "TRENCHED": 0.58,
       "RAMP": 0.57
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Nippon Sharyo"
     ],
@@ -311,7 +307,6 @@
       "TRENCHED": 0.58,
       "RAMP": 0.57
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Nippon Sharyo"
     ],
@@ -377,7 +372,6 @@
       "TRENCHED": 0.54,
       "RAMP": 0.53
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Nippon Sharyo"
     ],
@@ -443,7 +437,6 @@
       "TRENCHED": 0.54,
       "RAMP": 0.53
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Nippon Sharyo",
       "Hitachi"
@@ -510,7 +503,6 @@
       "TRENCHED": 0.54,
       "RAMP": 0.53
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Nippon Sharyo"
     ],
@@ -576,7 +568,6 @@
       "TRENCHED": 0.54,
       "RAMP": 0.53
     },
-    "allowAtGradeRoadCrossing": true,
     "Manufacturer": [
       "Nippon Sharyo"
     ],
