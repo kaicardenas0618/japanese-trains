@@ -202,9 +202,9 @@ Subway Builder Japanese Trains is a mod for Subway Builder that adds trains from
 | TYO Nippori Liner 330 | Nippori-Toneri Liner 330 series automated guideway train. Manufacturer: Niigata Transys. | Niigata Transys | 60 | 500 |
 | TYO Yurikamome 7300 | Yurikamome 7300 series automated guideway train. Manufacturer: Mitsubishi Heavy Industries / Niigata Transys. | Mitsubishi Heavy Industries / Niigata Transys | 60 | 630 |
 | TYO Monorail 10000 | Tokyo Monorail 10000 series airport monorail train. Manufacturer: Hitachi. | Hitachi | 80 | 780 |
-| TYO E235 Yamanote | JR East E235 series 11-car commuter train. Used on the Yamanote Line. Manufacturer: J-TREC. | J-TREC | 95 | 1628 |
+| TYO E235 Yamanote | JR East E235 series 11-car commuter train. Used on the Yamanote Line. Manufacturer: J-TREC. | J-TREC | 95 | 2200 |
 | TYO E233 Commuter | JR East E233 series commuter train family. Used on major Tokyo-area lines. Manufacturer: J-TREC / Tokyu Car / Kawasaki Heavy Industries. | J-TREC / Tokyu Car / Kawasaki Heavy Industries | 120 | 2625 |
-| TYO E259 Narita Express | JR East E259 series 6-car airport limited express train. Used on Narita Express services. Manufacturer: Kinki Sharyo / Tokyu Car. | Kinki Sharyo / Tokyu Car | 130 | 288 |
+| TYO E259 Narita Express | JR East E259 series 6/12-car airport limited express train. Used on Narita Express services. Manufacturer: Kinki Sharyo / Tokyu Car. | Kinki Sharyo / Tokyu Car | 130 | 576 |
 | TYO Keisei AE Skyliner | Keisei AE series 8-car airport limited express train. Used on Skyliner services to Narita Airport. Manufacturer: Nippon Sharyo. | Nippon Sharyo | 160 | 400 |
 | TYO Odakyu 70000 GSE | Odakyu 70000 series GSE Romancecar limited express train. Manufacturer: Nippon Sharyo. | Nippon Sharyo | 110 | 399 |
 | TYO Seibu 001 Laview | Seibu 001 series Laview limited express train. Manufacturer: Hitachi. | Hitachi | 120 | 424 |
