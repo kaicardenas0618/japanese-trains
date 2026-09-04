@@ -1116,18 +1116,18 @@
     "description": "JR East E235 series 11-car commuter train. Used on the Yamanote Line. Manufacturer: J-TREC.",
     "stats": {
       "maxAcceleration": 0.85,
-      "maxDeceleration": 1.1,
-      "maxSpeed": 26.3889,
-      "maxSpeedLocalStation": 16.0,
-      "capacityPerCar": 148,
+      "maxDeceleration": 1.25,
+      "maxSpeed": 26.4,
+      "maxSpeedLocalStation": 26.4,
+      "capacityPerCar": 200,
       "carLength": 20,
       "minCars": 8,
-      "maxCars": 11,
+      "maxCars": 15,
       "carsPerCarSet": 1,
       "carCost": 3200000,
       "trainWidth": 2.95,
       "minStationLength": 157,
-      "maxStationLength": 230,
+      "maxStationLength": 310,
       "baseTrackCost": 32000,
       "baseStationCost": 85000000,
       "trainOperationalCostPerHour": 380,
@@ -1139,11 +1139,12 @@
       "minStationTurnRadius": 700,
       "maxSlopePercentage": 3.5,
       "parallelTrackSpacing": 3.8,
-      "stopTimeSeconds": 50,
+      "stopTimeSeconds": 30,
+	  "turnaroundTimeSeconds": 90,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
-      "tphLimit": 30,
-      "crossoverSpeed": 6.7
+      "tphLimit": 60,
+      "crossoverSpeed": 12.5
     },
     "appearance": {
       "color": "#9ACD32"
@@ -1167,10 +1168,10 @@
     "gradeCrossingBaseCost": 300000,
     "gradeCrossingMaintenancePerYear": 8000,
     "gradeCrossingTphLimit": {
-      "highway": 8,
-      "major": 12,
-      "medium": 16,
-      "minor": 22
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
     },
     "portalCost": 10000000,
     "rampCost": 5000000
@@ -1181,9 +1182,9 @@
     "description": "JR East E233 series commuter train family. Used on major Tokyo-area lines. Manufacturer: J-TREC / Tokyu Car / Kawasaki Heavy Industries.",
     "stats": {
       "maxAcceleration": 0.85,
-      "maxDeceleration": 1.1,
-      "maxSpeed": 33.33,
-      "maxSpeedLocalStation": 16.0,
+      "maxDeceleration": 1.25,
+      "maxSpeed": 33.4,
+      "maxSpeedLocalStation": 33.4,
       "capacityPerCar": 175,
       "carLength": 20,
       "minCars": 2,
@@ -1204,11 +1205,12 @@
       "minStationTurnRadius": 700,
       "maxSlopePercentage": 3.5,
       "parallelTrackSpacing": 3.8,
-      "stopTimeSeconds": 50,
+      "stopTimeSeconds": 30,
+	  "turnaroundTimeSeconds": 90,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
-      "tphLimit": 30,
-      "crossoverSpeed": 6.7
+      "tphLimit": 60,
+      "crossoverSpeed": 12.5
     },
     "appearance": {
       "color": "#F15A24"
@@ -1234,10 +1236,10 @@
     "gradeCrossingBaseCost": 300000,
     "gradeCrossingMaintenancePerYear": 8000,
     "gradeCrossingTphLimit": {
-      "highway": 8,
-      "major": 12,
-      "medium": 16,
-      "minor": 22
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
     },
     "portalCost": 10000000,
     "rampCost": 5000000
@@ -1254,12 +1256,12 @@
       "capacityPerCar": 48,
       "carLength": 20.2,
       "minCars": 6,
-      "maxCars": 6,
+      "maxCars": 12,
       "carsPerCarSet": 6,
       "carCost": 4300000,
       "trainWidth": 2.946,
       "minStationLength": 121,
-      "maxStationLength": 131,
+      "maxStationLength": 262,
       "baseTrackCost": 45000,
       "baseStationCost": 65000000,
       "trainOperationalCostPerHour": 280,
@@ -1274,7 +1276,7 @@
       "stopTimeSeconds": 50,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
-      "tphLimit": 20,
+      "tphLimit": 60,
       "crossoverSpeed": 8.3
     },
     "appearance": {
@@ -1300,10 +1302,10 @@
     "gradeCrossingBaseCost": 350000,
     "gradeCrossingMaintenancePerYear": 9000,
     "gradeCrossingTphLimit": {
-      "highway": 6,
-      "major": 10,
-      "medium": 14,
-      "minor": 18
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
     },
     "portalCost": 11000000,
     "rampCost": 5500000
