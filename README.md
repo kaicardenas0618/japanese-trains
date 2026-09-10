@@ -196,37 +196,37 @@ Subway Builder Japanese Trains is a mod for Subway Builder that adds trains from
 
 |Name|Description|Manufacturer|Top Speed (km/h)|Maximum Capacity|
 |-|-|-|-|-|
-|TYO 1000 Ginza|Tokyo Metro 1000 series 6-car train. Used on the Ginza Line. Manufacturer: Nippon Sharyo.|Nippon Sharyo|80|1020|
-|TYO 2000 Marunouchi|Tokyo Metro 2000 series 6-car train. Used on the Marunouchi Line. Manufacturer: Nippon Sharyo.|Nippon Sharyo|75|1080|
-|TYO 02 Marunouchi|Tokyo Metro 02 series 6-car train. Older Marunouchi Line stock. Manufacturer: Kawasaki Heavy Industries / Nippon Sharyo / Tokyu Car.|Kawasaki Heavy Industries / Nippon Sharyo / Tokyu Car|75|1080|
-|TYO 13000 Hibiya|Tokyo Metro 13000 series 7-car train. Used on the Hibiya Line. Manufacturer: Kinki Sharyo.|Kinki Sharyo|80|1120|
-|TYO 15000 Tozai|Tokyo Metro 15000 series 10-car wide-door train. Used on the Tozai Line. Manufacturer: Hitachi.|Hitachi|100|1600|
-|TYO 16000 Chiyoda|Tokyo Metro 16000 series 10-car train. Used on the Chiyoda Line. Manufacturer: Kawasaki Heavy Industries / Hitachi.|Kawasaki Heavy Industries / Hitachi|100|1600|
-|TYO 17000 Yurakucho-Fukutoshin|Tokyo Metro 17000 series train. Used on Yurakucho and Fukutoshin lines. Manufacturer: Hitachi.|Hitachi|100|1600|
-|TYO 18000 Hanzomon|Tokyo Metro 18000 series 10-car train. Used on the Hanzomon Line. Manufacturer: Hitachi.|Hitachi|100|1600|
-|TYO 9000 Namboku|Tokyo Metro 9000 series 6/8-car train. Used on the Namboku Line. Manufacturer: Kawasaki Heavy Industries / Tokyu Car.|Kawasaki Heavy Industries / Tokyu Car|100|1280|
-|TYO 5500 Asakusa|Toei 5500 series 8-car train. Used on the Asakusa Line and airport through services. Manufacturer: J-TREC.|J-TREC|120|1200|
-|TYO 6500 Mita|Toei 6500 series 8-car train. Used on the Mita Line. Manufacturer: Kinki Sharyo.|Kinki Sharyo|110|1280|
-|TYO 10-300 Shinjuku|Toei 10-300 series 10-car train. Used on the Shinjuku Line. Manufacturer: J-TREC.|J-TREC|120|1600|
-|TYO 12-600 Oedo Linear|Toei 12-600 series 8-car linear-motor train. Used on the Oedo Line. Manufacturer: Kawasaki Heavy Industries / Nippon Sharyo.|Kawasaki Heavy Industries / Nippon Sharyo|70|1080|
-|TYO Toden 8800 Tram|Tokyo Sakura Tram 8800 series streetcar. Manufacturer: Alna Sharyo.|Alna Sharyo|40|80|
-|TYO Nippori Liner 330|Nippori-Toneri Liner 330 series automated guideway train. Manufacturer: Niigata Transys.|Niigata Transys|60|500|
-|TYO Yurikamome 7300|Yurikamome 7300 series automated guideway train. Manufacturer: Mitsubishi Heavy Industries / Niigata Transys.|Mitsubishi Heavy Industries / Niigata Transys|60|630|
-|TYO Monorail 10000|Tokyo Monorail 10000 series airport monorail train. Manufacturer: Hitachi.|Hitachi|80|780|
-|TYO E235 Yamanote|JR East E235 series 11-car commuter train. Used on the Yamanote Line. Manufacturer: J-TREC.|J-TREC|95|2200|
-|TYO E233 Commuter|JR East E233 series commuter train family. Used on major Tokyo-area lines. Manufacturer: J-TREC / Tokyu Car / Kawasaki Heavy Industries.|J-TREC / Tokyu Car / Kawasaki Heavy Industries|120|2625|
+|TYO 1000 Ginza|Tokyo Metro 1000 series 6-car train. Used on the Ginza Line. Manufacturer: Nippon Sharyo.|Nippon Sharyo|80|1710|
+|TYO 2000 Marunouchi|Tokyo Metro 2000 series 6-car train. Used on the Marunouchi Line. Manufacturer: Nippon Sharyo.|Nippon Sharyo|75|2100|
+|TYO 02 Marunouchi|Tokyo Metro 02 series 6-car train. Older Marunouchi Line stock. Manufacturer: Kawasaki Heavy Industries / Nippon Sharyo / Tokyu Car.|Kawasaki Heavy Industries / Nippon Sharyo / Tokyu Car|75|2100|
+|TYO 13000 Hibiya|Tokyo Metro 13000 series 7-car train. Used on the Hibiya Line. Manufacturer: Kinki Sharyo.|Kinki Sharyo|80|2744|
+|TYO 15000 Tozai|Tokyo Metro 15000 series 10-car wide-door train. Used on the Tozai Line. Manufacturer: Hitachi.|Hitachi|100|3920|
+|TYO 16000 Chiyoda|Tokyo Metro 16000 series 10-car train. Used on the Chiyoda Line. Manufacturer: Kawasaki Heavy Industries / Hitachi.|Kawasaki Heavy Industries / Hitachi|100|3920|
+|TYO 17000 Yurakucho-Fukutoshin|Tokyo Metro 17000 series train. Used on Yurakucho and Fukutoshin lines. Manufacturer: Hitachi.|Hitachi|100|3920|
+|TYO 18000 Hanzomon|Tokyo Metro 18000 series 10-car train. Used on the Hanzomon Line. Manufacturer: Hitachi.|Hitachi|100|3920|
+|TYO 9000 Namboku|Tokyo Metro 9000 series 6/8-car train. Used on the Namboku Line. Manufacturer: Kawasaki Heavy Industries / Tokyu Car.|Kawasaki Heavy Industries / Tokyu Car|100|3136|
+|TYO 5500 Asakusa|Toei 5500 series 8-car train. Used on the Asakusa Line and airport through services. Manufacturer: J-TREC.|J-TREC|120|2816|
+|TYO 6500 Mita|Toei 6500 series 8-car train. Used on the Mita Line. Manufacturer: Kinki Sharyo.|Kinki Sharyo|110|3136|
+|TYO 10-300 Shinjuku|Toei 10-300 series 10-car train. Used on the Shinjuku Line. Manufacturer: J-TREC.|J-TREC|120|3920|
+|TYO 12-600 Oedo Linear|Toei 12-600 series 8-car linear-motor train. Used on the Oedo Line. Manufacturer: Kawasaki Heavy Industries / Nippon Sharyo.|Kawasaki Heavy Industries / Nippon Sharyo|70|2304|
+|TYO Toden 8800 Tram|Tokyo Sakura Tram 8800 series streetcar. Manufacturer: Alna Sharyo.|Alna Sharyo|40|110|
+|TYO Nippori Liner 330|Nippori-Toneri Liner 330 series automated guideway train. Manufacturer: Niigata Transys.|Niigata Transys|60|740|
+|TYO Yurikamome 7300|Yurikamome 7300 series automated guideway train. Manufacturer: Mitsubishi Heavy Industries / Niigata Transys.|Mitsubishi Heavy Industries / Niigata Transys|60|924|
+|TYO Monorail 10000|Tokyo Monorail 10000 series airport monorail train. Manufacturer: Hitachi.|Hitachi|80|1350|
+|TYO E235 Yamanote|JR East E235 series 11-car commuter train. Used on the Yamanote Line. Manufacturer: J-TREC.|J-TREC|95|4510|
+|TYO E233 Commuter|JR East E233 series commuter train family. Used on major Tokyo-area lines. Manufacturer: J-TREC / Tokyu Car / Kawasaki Heavy Industries.|J-TREC / Tokyu Car / Kawasaki Heavy Industries|120|3600|
 |TYO E259 Narita Express|JR East E259 series 6/12-car airport limited express train. Used on Narita Express services. Manufacturer: Kinki Sharyo / Tokyu Car.|Kinki Sharyo / Tokyu Car|130|576|
 |TYO Keisei AE Skyliner|Keisei AE series 8-car airport limited express train. Used on Skyliner services to Narita Airport. Manufacturer: Nippon Sharyo.|Nippon Sharyo|160|400|
 |TYO Odakyu 70000 GSE|Odakyu 70000 series GSE Romancecar limited express train. Manufacturer: Nippon Sharyo.|Nippon Sharyo|110|399|
 |TYO Seibu 001 Laview|Seibu 001 series Laview limited express train. Manufacturer: Hitachi.|Hitachi|120|424|
 |TYO Tobu N100 Spacia X|Tobu N100 series Spacia X limited express train. Manufacturer: Hitachi.|Hitachi|120|210|
-|KQ New 1000 EMU|Keikyu New 1000 series commuter EMU for Keikyu, Toei Asakusa, Keisei and airport through services. Manufacturer: Tokyu Car / J-TREC / Kawasaki Heavy Industries.|Tokyu Car / J-TREC / Kawasaki Heavy Industries|120|1680|
-|TKK 1000 EMU|Tokyu 1000 series 3-car commuter EMU for Ikegami and Tamagawa Line service. Manufacturer: Tokyu Car.|Tokyu Car|100|420|
-|KQ 2100 EMU|Keikyu 2100 series 8-car limited-stop commuter EMU for mainline rapid services. Manufacturer: Kawasaki Heavy Industries / Tokyu Car.|Kawasaki Heavy Industries / Tokyu Car|120|1040|
-|TKK 2020 EMU|Tokyu 2020 series 10-car commuter EMU for Den-en-toshi Line and Hanzōmon through services. Manufacturer: J-TREC.|J-TREC|110|1500|
-|TKK 5050 EMU|Tokyu 5050 series 8/10-car commuter EMU for Tōyoko/Fukutoshin through services. Manufacturer: Tokyu Car / J-TREC.|Tokyu Car / J-TREC|110|1500|
-|KEIO 5000 EMU|Keio 5000 series commuter/paid-seat train for Keio Line services. Manufacturer: J-TREC.|J-TREC|110|1500|
-|ODQ 3000 EMU|Odakyū 3000 series commuter EMU for Odakyū Line local and express services. Manufacturer: Nippon Sharyo / Tokyu Car / Kawasaki Heavy Industries.|Nippon Sharyo / Tokyu Car / Kawasaki Heavy Industries|100|1500|
+|KQ New 1000 EMU|Keikyu New 1000 series commuter EMU for Keikyu, Toei Asakusa, Keisei and airport through services. Manufacturer: Tokyu Car / J-TREC / Kawasaki Heavy Industries.|Tokyu Car / J-TREC / Kawasaki Heavy Industries|120|4272|
+|TKK 1000 EMU|Tokyu 1000 series 3-car commuter EMU for Ikegami and Tamagawa Line service. Manufacturer: Tokyu Car.|Tokyu Car|100|1056|
+|KQ 2100 EMU|Keikyu 2100 series 8-car limited-stop commuter EMU for mainline rapid services. Manufacturer: Kawasaki Heavy Industries / Tokyu Car.|Kawasaki Heavy Industries / Tokyu Car|120|2816|
+|TKK 2020 EMU|Tokyu 2020 series 10-car commuter EMU for Den-en-toshi Line and Hanzōmon through services. Manufacturer: J-TREC.|J-TREC|110|3920|
+|TKK 5050 EMU|Tokyu 5050 series 8/10-car commuter EMU for Tōyoko/Fukutoshin through services. Manufacturer: Tokyu Car / J-TREC.|Tokyu Car / J-TREC|110|3920|
+|KEIO 5000 EMU|Keio 5000 series commuter/paid-seat train for Keio Line services. Manufacturer: J-TREC.|J-TREC|110|3920|
+|ODQ 3000 EMU|Odakyū 3000 series commuter EMU for Odakyū Line local and express services. Manufacturer: Nippon Sharyo / Tokyu Car / Kawasaki Heavy Industries.|Nippon Sharyo / Tokyu Car / Kawasaki Heavy Industries|100|4060|
 
 
 
