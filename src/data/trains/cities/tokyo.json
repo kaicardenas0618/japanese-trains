@@ -33,7 +33,7 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 36,
-      "crossoverSpeed": 6.7
+      "crossoverSpeed": 12.5
     },
     "appearance": {
       "color": "#F5A400"
@@ -99,7 +99,7 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 36,
-      "crossoverSpeed": 6.7
+      "crossoverSpeed": 12.5
     },
     "appearance": {
       "color": "#F62E36"
@@ -165,7 +165,7 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 36,
-      "crossoverSpeed": 6.7
+      "crossoverSpeed": 12.5
     },
     "appearance": {
       "color": "#F62E36"
@@ -233,7 +233,7 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 36,
-      "crossoverSpeed": 6.7
+      "crossoverSpeed": 12.5
     },
     "appearance": {
       "color": "#B5B5AC"
@@ -299,7 +299,7 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 36,
-      "crossoverSpeed": 6.7
+      "crossoverSpeed": 12.5
     },
     "appearance": {
       "color": "#00A7DB"
@@ -365,7 +365,7 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 36,
-      "crossoverSpeed": 6.7
+      "crossoverSpeed": 12.5
     },
     "appearance": {
       "color": "#009944"
@@ -432,7 +432,7 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 36,
-      "crossoverSpeed": 6.7
+      "crossoverSpeed": 12.5
     },
     "appearance": {
       "color": "#C1A470"
@@ -498,7 +498,7 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 36,
-      "crossoverSpeed": 6.7
+      "crossoverSpeed": 12.5
     },
     "appearance": {
       "color": "#8F76D6"
@@ -564,7 +564,7 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 36,
-      "crossoverSpeed": 6.7
+      "crossoverSpeed": 12.5
     },
     "appearance": {
       "color": "#00ADA9"
@@ -631,7 +631,7 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 36,
-      "crossoverSpeed": 6.7
+      "crossoverSpeed": 12.5
     },
     "appearance": {
       "color": "#E85298"
@@ -697,7 +697,7 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 36,
-      "crossoverSpeed": 6.7
+      "crossoverSpeed": 12.5
     },
     "appearance": {
       "color": "#0079C2"
@@ -763,7 +763,7 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 36,
-      "crossoverSpeed": 6.7
+      "crossoverSpeed": 12.5
     },
     "appearance": {
       "color": "#6CBB5A"
@@ -829,7 +829,7 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 34,
-      "crossoverSpeed": 6.7
+      "crossoverSpeed": 12.5
     },
     "appearance": {
       "color": "#B6007A"
@@ -896,7 +896,7 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 34,
-      "crossoverSpeed": 4.2
+      "crossoverSpeed": 12.5
     },
     "appearance": {
       "color": "#43B02A"
@@ -962,7 +962,7 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 48,
-      "crossoverSpeed": 5.6
+      "crossoverSpeed": 12.5
     },
     "appearance": {
       "color": "#00A3E0"
@@ -1028,7 +1028,7 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 48,
-      "crossoverSpeed": 5.6
+      "crossoverSpeed": 12.5
     },
     "appearance": {
       "color": "#00A3E0"
@@ -1095,7 +1095,7 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 36,
-      "crossoverSpeed": 5.6
+      "crossoverSpeed": 12.5
     },
     "appearance": {
       "color": "#005EB8"
@@ -1295,7 +1295,7 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 60,
-      "crossoverSpeed": 8.3
+      "crossoverSpeed": 12.5
     },
     "appearance": {
       "color": "#B50000"
@@ -1362,7 +1362,7 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 20,
-      "crossoverSpeed": 8.3
+      "crossoverSpeed": 12.5
     },
     "appearance": {
       "color": "#005EB8"
@@ -1427,7 +1427,7 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 20,
-      "crossoverSpeed": 8.3
+      "crossoverSpeed": 12.5
     },
     "appearance": {
       "color": "#F58220"
@@ -1493,7 +1493,7 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 20,
-      "crossoverSpeed": 8.3
+      "crossoverSpeed": 12.5
     },
     "appearance": {
       "color": "#C0C0C0"
@@ -1559,7 +1559,7 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 20,
-      "crossoverSpeed": 8.3
+      "crossoverSpeed": 12.5
     },
     "appearance": {
       "color": "#D6CBB5"
@@ -1625,7 +1625,7 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 30,
-      "crossoverSpeed": 6.7
+      "crossoverSpeed": 12.5
     },
     "appearance": {
       "color": "#D71920"
@@ -1693,7 +1693,7 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 30,
-      "crossoverSpeed": 6.7
+      "crossoverSpeed": 12.5
     },
     "appearance": {
       "color": "#DA70D6"
@@ -1759,7 +1759,7 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 30,
-      "crossoverSpeed": 6.7
+      "crossoverSpeed": 12.5
     },
     "appearance": {
       "color": "#D71920"
@@ -1826,7 +1826,7 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 30,
-      "crossoverSpeed": 6.7
+      "crossoverSpeed": 12.5
     },
     "appearance": {
       "color": "#20B2AA"
@@ -1892,7 +1892,7 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 30,
-      "crossoverSpeed": 6.7
+      "crossoverSpeed": 12.5
     },
     "appearance": {
       "color": "#DA70D6"
@@ -1959,7 +1959,7 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 30,
-      "crossoverSpeed": 6.7
+      "crossoverSpeed": 12.5
     },
     "appearance": {
       "color": "#C8102E"
@@ -2025,7 +2025,7 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 30,
-      "crossoverSpeed": 6.7
+      "crossoverSpeed": 12.5
     },
     "appearance": {
       "color": "#005EB8"
