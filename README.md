@@ -2,7 +2,7 @@
 
 Subway Builder Japanese Trains is a mod for Subway Builder that adds trains from cities around Japan. This pack contains rolling stock from the following Japanese cities, with more planned.
 
-## Currently Available Trains (169)
+## Currently Available Trains (173)
 
 #### National (32)
 
@@ -192,7 +192,7 @@ Subway Builder Japanese Trains is a mod for Subway Builder that adds trains from
 |JRE HB-E210 Hybrid|JR East HB-E210 hybrid DMU for Sendai-area regional services. Manufacturer: J-TREC.|J-TREC|100|1104|
 |SAT SAT721 EMU|Sendai Airport Transit SAT721 series EMU based on the E721 family. Manufacturer: J-TREC.|J-TREC|120|1164|
 
-#### Tokyo (31)
+#### Tokyo (35)
 
 |Name|Description|Manufacturer|Top Speed (km/h)|Maximum Capacity|
 |-|-|-|-|-|
@@ -215,6 +215,10 @@ Subway Builder Japanese Trains is a mod for Subway Builder that adds trains from
 |TYO Monorail 10000|Tokyo Monorail 10000 series airport monorail train. Manufacturer: Hitachi.|Hitachi|80|1350|
 |TYO E235 Yamanote|JR East E235 series 11-car commuter train. Used on the Yamanote Line. Manufacturer: J-TREC.|J-TREC|95|4510|
 |TYO E233 Commuter|JR East E233 series commuter train family. Used on major Tokyo-area lines. Manufacturer: J-TREC / Tokyu Car / Kawasaki Heavy Industries.|J-TREC / Tokyu Car / Kawasaki Heavy Industries|120|3600|
+|TYO E231 Commuter|JR East E231 series commuter train family. Used on major Tokyo-area lines. Manufacturer: Tokyu Car / Kawasaki Heavy Industries.|Tokyu Car / Kawasaki Heavy Industries|120|4500|
+|TYO E217 Commuter|JR East E217 series commuter train. Used on Yokosuka Sobu line. Manufacturer: Tokyu Car / Kawasaki Heavy Industries.|Tokyu Car / Kawasaki Heavy Industries|120|4500|
+|TYO E531 Commuter|JR East E531 series commuter train. Used on the Joban Rapid line. Manufacturer: J-TREC / Tokyu Car / Kawasaki Heavy Industries.|J-TREC / Tokyu Car / Kawasaki Heavy Industries|130|4500|
+|TYO E257 Limited Express|JR East E257 series 2 to 9 car limited express train. Used on Azusa, Kaiji, Odoriko, Shōnan and more Express services. Manufacturer: Hitachi / Kinki Sharyo / Tokyu Car.|Hitachi / Kinki Sharyo / Tokyu Car|120|868|
 |TYO E259 Narita Express|JR East E259 series 6/12-car airport limited express train. Used on Narita Express services. Manufacturer: Kinki Sharyo / Tokyu Car.|Kinki Sharyo / Tokyu Car|130|576|
 |TYO Keisei AE Skyliner|Keisei AE series 8-car airport limited express train. Used on Skyliner services to Narita Airport. Manufacturer: Nippon Sharyo.|Nippon Sharyo|160|400|
 |TYO Odakyu 70000 GSE|Odakyu 70000 series GSE Romancecar limited express train. Manufacturer: Nippon Sharyo.|Nippon Sharyo|110|399|

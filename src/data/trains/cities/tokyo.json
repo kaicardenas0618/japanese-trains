@@ -1250,6 +1250,7 @@
       "tyo-e233-commuter",
       "tyo-e257-limited-express",
       "tyo-e259-narita-express",
+	  "tyo-e217-commuter",
       "tyo-e531-commuter"
     ],
     "allowGradeCrossing": true,
@@ -1328,6 +1329,7 @@
       "tyo-e231-commuter",
       "tyo-e257-limited-express",
       "tyo-e259-narita-express",
+	  "tyo-e217-commuter",
       "tyo-e531-commuter"
     ],
     "allowGradeCrossing": true,
@@ -1398,6 +1400,84 @@
     ],
     "compatibleTrackTypes": [
       "commuter-rail",
+      "tyo-e231-commuter",
+      "tyo-15000-tozai",
+      "tyo-e233-commuter",
+      "tyo-e235-yamanote",
+      "tyo-e257-limited-express",
+      "tyo-e259-narita-express",
+	  "tyo-e217-commuter",
+      "tyo-e531-commuter"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
+  },
+  {
+    "id": "tyo-e217-commuter",
+    "name": "TYO E217 Commuter",
+    "description": "JR East E217 series commuter train. Used on Yokosuka Sobu line. Manufacturer: Tokyu Car / Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 0.83,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 33.4,
+      "maxSpeedLocalStation": 33.4,
+      "capacityPerCar": 300,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 4,
+      "carLength": 20,
+      "minCars": 2,
+      "maxCars": 15,
+      "carsPerCarSet": 1,
+      "carCost": 3200000,
+      "trainWidth": 2.95,
+      "minStationLength": 100,
+      "maxStationLength": 310,
+      "baseTrackCost": 32000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 60,
+      "crossoverSpeed": 12.5
+    },
+    "appearance": {
+      "color": "#F15A24"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
+    },
+    "Manufacturer": [
+      "Tokyu Car",
+      "Kawasaki Heavy Industries"
+    ],
+    "compatibleTrackTypes": [
+      "commuter-rail",
+	  "tyo-e217-commuter",
       "tyo-e231-commuter",
       "tyo-15000-tozai",
       "tyo-e233-commuter",
@@ -1480,6 +1560,7 @@
       "tyo-e233-commuter",
       "tyo-e235-yamanote",
       "tyo-e257-limited-express",
+	  "tyo-e217-commuter",
       "tyo-e259-narita-express"
     ],
     "allowGradeCrossing": true,
@@ -1556,6 +1637,7 @@
       "tyo-e233-commuter",
       "tyo-e235-yamanote",
       "tyo-e259-narita-express",
+	  "tyo-e217-commuter",
       "tyo-e531-commuter"
     ],
     "allowGradeCrossing": true,
@@ -1582,7 +1664,7 @@
       "capacityPerCar": 48,
       "seatsPerCar": 44,
       "doorsPerCarPerSide": 1,
-      "carLength": 20.2,
+      "carLength": 20,
       "minCars": 6,
       "maxCars": 12,
       "carsPerCarSet": 6,
@@ -1631,6 +1713,7 @@
       "tyo-e233-commuter",
       "tyo-e235-yamanote",
       "tyo-e257-limited-express",
+	  "tyo-e217-commuter",
       "tyo-e531-commuter"
     ],
     "allowGradeCrossing": true,
