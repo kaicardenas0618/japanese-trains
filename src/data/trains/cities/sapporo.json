@@ -8,7 +8,9 @@
       "maxDeceleration": 1.1,
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
-      "capacityPerCar": 145,
+      "capacityPerCar": 295,
+      "seatsPerCar": 52,
+      "doorsPerCarPerSide": 3,
       "carLength": 21.3,
       "minCars": 3,
       "maxCars": 6,
@@ -51,7 +53,9 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail"
+      "commuter-rail",
+      "spk-731-emu",
+      "spk-735-emu"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -74,7 +78,9 @@
       "maxDeceleration": 1.1,
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
-      "capacityPerCar": 145,
+      "capacityPerCar": 295,
+      "seatsPerCar": 52,
+      "doorsPerCarPerSide": 3,
       "carLength": 21.3,
       "minCars": 3,
       "maxCars": 6,
@@ -117,7 +123,9 @@
       "Hitachi"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail"
+      "commuter-rail",
+      "spk-735-emu",
+      "spk-731-emu"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -140,7 +148,9 @@
       "maxDeceleration": 1.15,
       "maxSpeed": 19.44,
       "maxSpeedLocalStation": 19.44,
-      "capacityPerCar": 150,
+      "capacityPerCar": 364,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 4,
       "carLength": 18.0,
       "minCars": 6,
       "maxCars": 6,
@@ -183,7 +193,8 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "heavy-metro"
+      "heavy-metro",
+      "spk-sapporo-5000-subway"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -200,13 +211,15 @@
   {
     "id": "spk-sapporo-8000-subway",
     "name": "SPK Sapporo 8000 Subway",
-    "description": "Sapporo Municipal Subway 8000 series rubber-tired train for the T\u014dzai Line. Manufacturer: Kawasaki Heavy Industries.",
+    "description": "Sapporo Municipal Subway 8000 series rubber-tired train for the Tōzai Line. Manufacturer: Kawasaki Heavy Industries.",
     "stats": {
       "maxAcceleration": 1.0,
       "maxDeceleration": 1.15,
       "maxSpeed": 19.44,
       "maxSpeedLocalStation": 19.44,
-      "capacityPerCar": 150,
+      "capacityPerCar": 364,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 4,
       "carLength": 18.0,
       "minCars": 7,
       "maxCars": 7,
@@ -249,7 +262,9 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "heavy-metro"
+      "heavy-metro",
+      "spk-sapporo-8000-subway",
+      "spk-sapporo-9000-subway"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -266,13 +281,15 @@
   {
     "id": "spk-sapporo-9000-subway",
     "name": "SPK Sapporo 9000 Subway",
-    "description": "Sapporo Municipal Subway 9000 series rubber-tired train for the T\u014dh\u014d Line. Manufacturer: Kawasaki Heavy Industries.",
+    "description": "Sapporo Municipal Subway 9000 series rubber-tired train for the Tōhō Line. Manufacturer: Kawasaki Heavy Industries.",
     "stats": {
       "maxAcceleration": 1.0,
       "maxDeceleration": 1.15,
       "maxSpeed": 19.44,
       "maxSpeedLocalStation": 19.44,
-      "capacityPerCar": 150,
+      "capacityPerCar": 364,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 4,
       "carLength": 18.0,
       "minCars": 4,
       "maxCars": 4,
@@ -315,7 +332,9 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "heavy-metro"
+      "heavy-metro",
+      "spk-sapporo-9000-subway",
+      "spk-sapporo-8000-subway"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -338,7 +357,9 @@
       "maxDeceleration": 1.2,
       "maxSpeed": 11.11,
       "maxSpeedLocalStation": 11.11,
-      "capacityPerCar": 100,
+      "capacityPerCar": 161,
+      "seatsPerCar": 36,
+      "doorsPerCarPerSide": 3,
       "carLength": 17.0,
       "minCars": 1,
       "maxCars": 1,
@@ -381,7 +402,9 @@
       "Alna Sharyo"
     ],
     "compatibleTrackTypes": [
-      "tram"
+      "tram",
+      "spk-a1200-polaris-tram",
+      "spk-1100-sirius-tram"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 180000,
@@ -404,7 +427,9 @@
       "maxDeceleration": 1.2,
       "maxSpeed": 11.11,
       "maxSpeedLocalStation": 11.11,
-      "capacityPerCar": 80,
+      "capacityPerCar": 124,
+      "seatsPerCar": 30,
+      "doorsPerCarPerSide": 2,
       "carLength": 13.0,
       "minCars": 1,
       "maxCars": 1,
@@ -447,7 +472,9 @@
       "Alna Sharyo"
     ],
     "compatibleTrackTypes": [
-      "tram"
+      "tram",
+      "spk-1100-sirius-tram",
+      "spk-a1200-polaris-tram"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 180000,

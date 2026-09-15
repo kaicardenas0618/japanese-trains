@@ -8,7 +8,9 @@
       "maxDeceleration": 0.95,
       "maxSpeed": 27.78,
       "maxSpeedLocalStation": 27.78,
-      "capacityPerCar": 100,
+      "capacityPerCar": 277,
+      "seatsPerCar": 44,
+      "doorsPerCarPerSide": 2,
       "carLength": 20.0,
       "minCars": 1,
       "maxCars": 2,
@@ -51,7 +53,13 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "regional-rail"
+      "regional-rail",
+      "jrh-h100-demu",
+      "jrh-721-emu",
+      "jrh-733-emu",
+      "jrh-737-emu",
+      "jrh-789-limited-express",
+      "jrh-kiha150-dmu"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 280000,
@@ -74,7 +82,9 @@
       "maxDeceleration": 0.95,
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 30.56,
-      "capacityPerCar": 90,
+      "capacityPerCar": 302,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 2,
       "carLength": 20.9,
       "minCars": 1,
       "maxCars": 6,
@@ -117,7 +127,13 @@
       "Fuji Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "regional-rail"
+      "regional-rail",
+      "jrh-kiha150-dmu",
+      "jrh-721-emu",
+      "jrh-733-emu",
+      "jrh-737-emu",
+      "jrh-789-limited-express",
+      "jrh-h100-demu"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 280000,
@@ -140,7 +156,9 @@
       "maxDeceleration": 1.1,
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
-      "capacityPerCar": 140,
+      "capacityPerCar": 295,
+      "seatsPerCar": 52,
+      "doorsPerCarPerSide": 3,
       "carLength": 21.3,
       "minCars": 3,
       "maxCars": 6,
@@ -184,7 +202,13 @@
       "Hitachi"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail"
+      "commuter-rail",
+      "jrh-721-emu",
+      "jrh-733-emu",
+      "jrh-737-emu",
+      "jrh-789-limited-express",
+      "jrh-h100-demu",
+      "jrh-kiha150-dmu"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -207,7 +231,9 @@
       "maxDeceleration": 1.1,
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
-      "capacityPerCar": 145,
+      "capacityPerCar": 296,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 3,
       "carLength": 21.3,
       "minCars": 3,
       "maxCars": 6,
@@ -250,7 +276,13 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail"
+      "commuter-rail",
+      "jrh-733-emu",
+      "jrh-721-emu",
+      "jrh-737-emu",
+      "jrh-789-limited-express",
+      "jrh-h100-demu",
+      "jrh-kiha150-dmu"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -273,7 +305,9 @@
       "maxDeceleration": 1.1,
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
-      "capacityPerCar": 145,
+      "capacityPerCar": 277,
+      "seatsPerCar": 44,
+      "doorsPerCarPerSide": 2,
       "carLength": 20.0,
       "minCars": 2,
       "maxCars": 4,
@@ -316,7 +350,13 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail"
+      "commuter-rail",
+      "jrh-737-emu",
+      "jrh-721-emu",
+      "jrh-733-emu",
+      "jrh-789-limited-express",
+      "jrh-h100-demu",
+      "jrh-kiha150-dmu"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -333,13 +373,15 @@
   {
     "id": "jrh-789-limited-express",
     "name": "JRH 789 Limited Express",
-    "description": "JR Hokkaido 789 series AC limited express EMU for Hokkaid\u014d intercity services. Manufacturer: Kawasaki Heavy Industries / Hitachi.",
+    "description": "JR Hokkaido 789 series AC limited express EMU for Hokkaidō intercity services. Manufacturer: Kawasaki Heavy Industries / Hitachi.",
     "stats": {
       "maxAcceleration": 0.85,
       "maxDeceleration": 1.1,
       "maxSpeed": 38.89,
       "maxSpeedLocalStation": 38.89,
-      "capacityPerCar": 55,
+      "capacityPerCar": 52,
+      "seatsPerCar": 52,
+      "doorsPerCarPerSide": 1,
       "carLength": 21.3,
       "minCars": 5,
       "maxCars": 8,
@@ -383,7 +425,13 @@
       "Hitachi"
     ],
     "compatibleTrackTypes": [
-      "intercity-rail"
+      "intercity-rail",
+      "jrh-789-limited-express",
+      "jrh-721-emu",
+      "jrh-733-emu",
+      "jrh-737-emu",
+      "jrh-h100-demu",
+      "jrh-kiha150-dmu"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,

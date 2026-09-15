@@ -6,7 +6,7 @@
 import { trains } from './data/trains';
 
 const MOD_ID = 'japanese-trains';
-const MOD_VERSION = 'v3.1.1';
+const MOD_VERSION = 'v3.2.0';
 const TAG = '[Japanese Trains]';
 
 const api = window.SubwayBuilderAPI;

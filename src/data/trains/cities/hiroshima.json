@@ -8,7 +8,9 @@
       "maxDeceleration": 1.2,
       "maxSpeed": 19.44,
       "maxSpeedLocalStation": 19.44,
-      "capacityPerCar": 150,
+      "capacityPerCar": 302,
+      "seatsPerCar": 54,
+      "doorsPerCarPerSide": 4,
       "carLength": 30.0,
       "minCars": 1,
       "maxCars": 1,
@@ -53,7 +55,12 @@
       "Toyo Denki"
     ],
     "compatibleTrackTypes": [
-      "tram"
+      "tram",
+      "hrd-5100-green-mover-tram",
+      "hrd-1000-green-mover-lex-tram",
+      "hrd-1900-tram",
+      "hrd-5200-green-mover-apex-tram",
+      "hrd-650-tram"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 180000,
@@ -76,7 +83,9 @@
       "maxDeceleration": 1.2,
       "maxSpeed": 11.11,
       "maxSpeedLocalStation": 11.11,
-      "capacityPerCar": 90,
+      "capacityPerCar": 131,
+      "seatsPerCar": 40,
+      "doorsPerCarPerSide": 2,
       "carLength": 12.88,
       "minCars": 1,
       "maxCars": 1,
@@ -119,7 +128,12 @@
       "Naniwa Koki"
     ],
     "compatibleTrackTypes": [
-      "tram"
+      "tram",
+      "hrd-1900-tram",
+      "hrd-1000-green-mover-lex-tram",
+      "hrd-5100-green-mover-tram",
+      "hrd-5200-green-mover-apex-tram",
+      "hrd-650-tram"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 180000,
@@ -142,7 +156,9 @@
       "maxDeceleration": 1.2,
       "maxSpeed": 11.11,
       "maxSpeedLocalStation": 11.11,
-      "capacityPerCar": 90,
+      "capacityPerCar": 132,
+      "seatsPerCar": 40,
+      "doorsPerCarPerSide": 2,
       "carLength": 13.0,
       "minCars": 1,
       "maxCars": 1,
@@ -185,7 +201,12 @@
       "Kisha Seizo"
     ],
     "compatibleTrackTypes": [
-      "tram"
+      "tram",
+      "hrd-650-tram",
+      "hrd-1000-green-mover-lex-tram",
+      "hrd-1900-tram",
+      "hrd-5100-green-mover-tram",
+      "hrd-5200-green-mover-apex-tram"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 180000,
@@ -208,7 +229,9 @@
       "maxDeceleration": 1.2,
       "maxSpeed": 19.44,
       "maxSpeedLocalStation": 19.44,
-      "capacityPerCar": 100,
+      "capacityPerCar": 186,
+      "seatsPerCar": 28,
+      "doorsPerCarPerSide": 3,
       "carLength": 18.6,
       "minCars": 1,
       "maxCars": 1,
@@ -253,7 +276,12 @@
       "Toyo Denki"
     ],
     "compatibleTrackTypes": [
-      "tram"
+      "tram",
+      "hrd-1000-green-mover-lex-tram",
+      "hrd-1900-tram",
+      "hrd-5100-green-mover-tram",
+      "hrd-5200-green-mover-apex-tram",
+      "hrd-650-tram"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 180000,
@@ -276,7 +304,9 @@
       "maxDeceleration": 1.2,
       "maxSpeed": 19.44,
       "maxSpeedLocalStation": 19.44,
-      "capacityPerCar": 150,
+      "capacityPerCar": 301,
+      "seatsPerCar": 50,
+      "doorsPerCarPerSide": 4,
       "carLength": 30.0,
       "minCars": 1,
       "maxCars": 1,
@@ -321,7 +351,12 @@
       "Toyo Denki"
     ],
     "compatibleTrackTypes": [
-      "tram"
+      "tram",
+      "hrd-5200-green-mover-apex-tram",
+      "hrd-1000-green-mover-lex-tram",
+      "hrd-1900-tram",
+      "hrd-5100-green-mover-tram",
+      "hrd-650-tram"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 180000,
@@ -344,7 +379,9 @@
       "maxDeceleration": 1.15,
       "maxSpeed": 19.44,
       "maxSpeedLocalStation": 19.44,
-      "capacityPerCar": 90,
+      "capacityPerCar": 88,
+      "seatsPerCar": 24,
+      "doorsPerCarPerSide": 2,
       "carLength": 8.5,
       "minCars": 6,
       "maxCars": 6,
@@ -388,7 +425,8 @@
       "Niigata Engineering"
     ],
     "compatibleTrackTypes": [
-      "automated-guideway"
+      "automated-guideway",
+      "ast-6000-astram-agt"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -411,7 +449,9 @@
       "maxDeceleration": 1.1,
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
-      "capacityPerCar": 145,
+      "capacityPerCar": 291,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 3,
       "carLength": 20.0,
       "minCars": 2,
       "maxCars": 8,
@@ -455,7 +495,8 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail"
+      "commuter-rail",
+      "jrw-227-red-wing-emu"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,

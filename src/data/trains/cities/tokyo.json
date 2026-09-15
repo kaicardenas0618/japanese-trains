@@ -9,6 +9,8 @@
       "maxSpeed": 22.22,
       "maxSpeedLocalStation": 22.22,
       "capacityPerCar": 285,
+      "seatsPerCar": 40,
+      "doorsPerCarPerSide": 3,
       "carLength": 16,
       "minCars": 6,
       "maxCars": 6,
@@ -29,7 +31,7 @@
       "maxSlopePercentage": 3.8,
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 30,
-	  "turnaroundTimeSeconds": 30,
+      "turnaroundTimeSeconds": 30,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 36,
@@ -51,7 +53,8 @@
       "Nippon Sharyo"
     ],
     "compatibleTrackTypes": [
-      "heavy-metro"
+      "heavy-metro",
+      "tyo-1000-ginza"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -75,6 +78,8 @@
       "maxSpeed": 20.83,
       "maxSpeedLocalStation": 20.83,
       "capacityPerCar": 350,
+      "seatsPerCar": 40,
+      "doorsPerCarPerSide": 3,
       "carLength": 18,
       "minCars": 6,
       "maxCars": 6,
@@ -95,7 +100,7 @@
       "maxSlopePercentage": 3.8,
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 30,
-	  "turnaroundTimeSeconds": 30,
+      "turnaroundTimeSeconds": 30,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 36,
@@ -117,7 +122,9 @@
       "Nippon Sharyo"
     ],
     "compatibleTrackTypes": [
-      "heavy-metro"
+      "heavy-metro",
+      "tyo-2000-marunouchi",
+      "tyo-02-marunouchi"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -141,6 +148,8 @@
       "maxSpeed": 20.83,
       "maxSpeedLocalStation": 20.83,
       "capacityPerCar": 350,
+      "seatsPerCar": 38,
+      "doorsPerCarPerSide": 3,
       "carLength": 18,
       "minCars": 6,
       "maxCars": 6,
@@ -161,7 +170,7 @@
       "maxSlopePercentage": 3.8,
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 30,
-	  "turnaroundTimeSeconds": 30,
+      "turnaroundTimeSeconds": 30,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 36,
@@ -185,7 +194,9 @@
       "Tokyu Car"
     ],
     "compatibleTrackTypes": [
-      "heavy-metro"
+      "heavy-metro",
+      "tyo-02-marunouchi",
+      "tyo-2000-marunouchi"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -209,6 +220,8 @@
       "maxSpeed": 22.22,
       "maxSpeedLocalStation": 22.22,
       "capacityPerCar": 392,
+      "seatsPerCar": 50,
+      "doorsPerCarPerSide": 4,
       "carLength": 20,
       "minCars": 7,
       "maxCars": 7,
@@ -229,7 +242,7 @@
       "maxSlopePercentage": 3.8,
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 30,
-	  "turnaroundTimeSeconds": 30,
+      "turnaroundTimeSeconds": 30,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 36,
@@ -251,7 +264,8 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "heavy-metro"
+      "heavy-metro",
+      "tyo-13000-hibiya"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -275,6 +289,8 @@
       "maxSpeed": 27.78,
       "maxSpeedLocalStation": 27.78,
       "capacityPerCar": 392,
+      "seatsPerCar": 50,
+      "doorsPerCarPerSide": 4,
       "carLength": 20,
       "minCars": 10,
       "maxCars": 10,
@@ -295,7 +311,7 @@
       "maxSlopePercentage": 3.8,
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 30,
-	  "turnaroundTimeSeconds": 30,
+      "turnaroundTimeSeconds": 30,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 36,
@@ -317,7 +333,9 @@
       "Hitachi"
     ],
     "compatibleTrackTypes": [
-      "heavy-metro"
+      "heavy-metro",
+      "tyo-15000-tozai",
+      "tyo-e231-commuter"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -341,6 +359,8 @@
       "maxSpeed": 27.78,
       "maxSpeedLocalStation": 27.78,
       "capacityPerCar": 392,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 4,
       "carLength": 20,
       "minCars": 10,
       "maxCars": 10,
@@ -361,7 +381,7 @@
       "maxSlopePercentage": 3.8,
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 30,
-	  "turnaroundTimeSeconds": 30,
+      "turnaroundTimeSeconds": 30,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 36,
@@ -384,7 +404,10 @@
       "Hitachi"
     ],
     "compatibleTrackTypes": [
-      "heavy-metro"
+      "heavy-metro",
+      "tyo-16000-chiyoda",
+      "odq-3000-emu",
+      "tyo-e233-commuter"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -408,6 +431,8 @@
       "maxSpeed": 27.78,
       "maxSpeedLocalStation": 27.78,
       "capacityPerCar": 392,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 4,
       "carLength": 20,
       "minCars": 10,
       "maxCars": 10,
@@ -428,7 +453,7 @@
       "maxSlopePercentage": 3.8,
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 30,
-	  "turnaroundTimeSeconds": 30,
+      "turnaroundTimeSeconds": 30,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 36,
@@ -450,7 +475,9 @@
       "Hitachi"
     ],
     "compatibleTrackTypes": [
-      "heavy-metro"
+      "heavy-metro",
+      "tyo-17000-yurakucho-fukutoshin",
+      "tkk-5050-emu"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -474,6 +501,8 @@
       "maxSpeed": 27.78,
       "maxSpeedLocalStation": 27.78,
       "capacityPerCar": 392,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 4,
       "carLength": 20,
       "minCars": 10,
       "maxCars": 10,
@@ -494,7 +523,7 @@
       "maxSlopePercentage": 3.8,
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 30,
-	  "turnaroundTimeSeconds": 30,
+      "turnaroundTimeSeconds": 30,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 36,
@@ -516,7 +545,9 @@
       "Hitachi"
     ],
     "compatibleTrackTypes": [
-      "heavy-metro"
+      "heavy-metro",
+      "tyo-18000-hanzomon",
+      "tkk-2020-emu"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -540,6 +571,8 @@
       "maxSpeed": 27.78,
       "maxSpeedLocalStation": 27.78,
       "capacityPerCar": 392,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 4,
       "carLength": 20,
       "minCars": 6,
       "maxCars": 8,
@@ -560,7 +593,7 @@
       "maxSlopePercentage": 3.8,
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 30,
-	  "turnaroundTimeSeconds": 30,
+      "turnaroundTimeSeconds": 30,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 36,
@@ -583,7 +616,9 @@
       "Tokyu Car"
     ],
     "compatibleTrackTypes": [
-      "heavy-metro"
+      "heavy-metro",
+      "tyo-9000-namboku",
+      "tyo-6500-mita"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -607,6 +642,8 @@
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
       "capacityPerCar": 352,
+      "seatsPerCar": 44,
+      "doorsPerCarPerSide": 4,
       "carLength": 18,
       "minCars": 8,
       "maxCars": 8,
@@ -627,7 +664,7 @@
       "maxSlopePercentage": 3.8,
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 30,
-	  "turnaroundTimeSeconds": 30,
+      "turnaroundTimeSeconds": 30,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 36,
@@ -649,7 +686,10 @@
       "J-TREC"
     ],
     "compatibleTrackTypes": [
-      "heavy-metro"
+      "heavy-metro",
+      "tyo-5500-asakusa",
+      "kq-2100-emu",
+      "kq-new-1000-emu"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -673,6 +713,8 @@
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 30.56,
       "capacityPerCar": 392,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 4,
       "carLength": 20,
       "minCars": 8,
       "maxCars": 8,
@@ -693,7 +735,7 @@
       "maxSlopePercentage": 3.8,
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 30,
-	  "turnaroundTimeSeconds": 30,
+      "turnaroundTimeSeconds": 30,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 36,
@@ -715,7 +757,9 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "heavy-metro"
+      "heavy-metro",
+      "tyo-6500-mita",
+      "tyo-9000-namboku"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -739,6 +783,8 @@
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
       "capacityPerCar": 392,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 4,
       "carLength": 20,
       "minCars": 10,
       "maxCars": 10,
@@ -759,7 +805,7 @@
       "maxSlopePercentage": 3.8,
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 30,
-	  "turnaroundTimeSeconds": 30,
+      "turnaroundTimeSeconds": 30,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 36,
@@ -781,7 +827,9 @@
       "J-TREC"
     ],
     "compatibleTrackTypes": [
-      "heavy-metro"
+      "heavy-metro",
+      "tyo-10-300-shinjuku",
+      "keio-5000-emu"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -805,6 +853,8 @@
       "maxSpeed": 19.44,
       "maxSpeedLocalStation": 19.44,
       "capacityPerCar": 288,
+      "seatsPerCar": 32,
+      "doorsPerCarPerSide": 4,
       "carLength": 16.5,
       "minCars": 8,
       "maxCars": 8,
@@ -825,7 +875,7 @@
       "maxSlopePercentage": 5.5,
       "parallelTrackSpacing": 3.6,
       "stopTimeSeconds": 30,
-	  "turnaroundTimeSeconds": 30,
+      "turnaroundTimeSeconds": 30,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 34,
@@ -848,7 +898,8 @@
       "Nippon Sharyo"
     ],
     "compatibleTrackTypes": [
-      "linear-metro"
+      "linear-metro",
+      "tyo-12-600-oedo-linear"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -872,6 +923,8 @@
       "maxSpeed": 11.11,
       "maxSpeedLocalStation": 11.11,
       "capacityPerCar": 110,
+      "seatsPerCar": 40,
+      "doorsPerCarPerSide": 2,
       "carLength": 13,
       "minCars": 1,
       "maxCars": 1,
@@ -892,7 +945,7 @@
       "maxSlopePercentage": 6,
       "parallelTrackSpacing": 3.2,
       "stopTimeSeconds": 45,
-	  "turnaroundTimeSeconds": 45,
+      "turnaroundTimeSeconds": 45,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 34,
@@ -914,7 +967,8 @@
       "Alna Sharyo"
     ],
     "compatibleTrackTypes": [
-      "tram"
+      "tram",
+      "tyo-toden-8800-tram"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 180000,
@@ -938,6 +992,8 @@
       "maxSpeed": 16.67,
       "maxSpeedLocalStation": 16.67,
       "capacityPerCar": 148,
+      "seatsPerCar": 24,
+      "doorsPerCarPerSide": 2,
       "carLength": 8.5,
       "minCars": 5,
       "maxCars": 5,
@@ -958,7 +1014,7 @@
       "maxSlopePercentage": 6,
       "parallelTrackSpacing": 3.2,
       "stopTimeSeconds": 20,
-	  "turnaroundTimeSeconds": 20,
+      "turnaroundTimeSeconds": 20,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 48,
@@ -980,7 +1036,8 @@
       "Niigata Transys"
     ],
     "compatibleTrackTypes": [
-      "automated-guideway"
+      "automated-guideway",
+      "tyo-nippori-liner-330"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -1004,6 +1061,8 @@
       "maxSpeed": 16.67,
       "maxSpeedLocalStation": 16.67,
       "capacityPerCar": 154,
+      "seatsPerCar": 24,
+      "doorsPerCarPerSide": 2,
       "carLength": 8.8,
       "minCars": 6,
       "maxCars": 6,
@@ -1024,7 +1083,7 @@
       "maxSlopePercentage": 6,
       "parallelTrackSpacing": 3.2,
       "stopTimeSeconds": 20,
-	  "turnaroundTimeSeconds": 20,
+      "turnaroundTimeSeconds": 20,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 48,
@@ -1047,7 +1106,8 @@
       "Niigata Transys"
     ],
     "compatibleTrackTypes": [
-      "automated-guideway"
+      "automated-guideway",
+      "tyo-yurikamome-7300"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -1071,6 +1131,8 @@
       "maxSpeed": 22.22,
       "maxSpeedLocalStation": 22.22,
       "capacityPerCar": 225,
+      "seatsPerCar": 44,
+      "doorsPerCarPerSide": 2,
       "carLength": 15,
       "minCars": 6,
       "maxCars": 6,
@@ -1091,7 +1153,7 @@
       "maxSlopePercentage": 6,
       "parallelTrackSpacing": 3.2,
       "stopTimeSeconds": 20,
-	  "turnaroundTimeSeconds": 20,
+      "turnaroundTimeSeconds": 20,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 36,
@@ -1113,7 +1175,8 @@
       "Hitachi"
     ],
     "compatibleTrackTypes": [
-      "monorail"
+      "monorail",
+      "tyo-monorail-10000"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 450000,
@@ -1137,6 +1200,8 @@
       "maxSpeed": 26.4,
       "maxSpeedLocalStation": 26.4,
       "capacityPerCar": 410,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 4,
       "carLength": 20,
       "minCars": 8,
       "maxCars": 15,
@@ -1157,7 +1222,7 @@
       "maxSlopePercentage": 3.5,
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 30,
-	  "turnaroundTimeSeconds": 90,
+      "turnaroundTimeSeconds": 90,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 60,
@@ -1179,7 +1244,13 @@
       "J-TREC"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail"
+      "commuter-rail",
+      "tyo-e235-yamanote",
+      "tyo-e231-commuter",
+      "tyo-e233-commuter",
+      "tyo-e257-limited-express",
+      "tyo-e259-narita-express",
+      "tyo-e531-commuter"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -1202,7 +1273,9 @@
       "maxDeceleration": 1.25,
       "maxSpeed": 33.4,
       "maxSpeedLocalStation": 33.4,
-      "capacityPerCar": 240,
+      "capacityPerCar": 300,
+      "seatsPerCar": 60,
+      "doorsPerCarPerSide": 4,
       "carLength": 20,
       "minCars": 2,
       "maxCars": 15,
@@ -1247,7 +1320,15 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail"
+      "commuter-rail",
+      "tyo-e233-commuter",
+      "tyo-e235-yamanote",
+      "odq-3000-emu",
+      "tyo-16000-chiyoda",
+      "tyo-e231-commuter",
+      "tyo-e257-limited-express",
+      "tyo-e259-narita-express",
+      "tyo-e531-commuter"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -1262,6 +1343,234 @@
     "rampCost": 5000000
   },
   {
+    "id": "tyo-e231-commuter",
+    "name": "TYO E231 Commuter",
+    "description": "JR East E231 series commuter train family. Used on major Tokyo-area lines. Manufacturer: Tokyu Car / Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 0.83,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 33.4,
+      "maxSpeedLocalStation": 33.4,
+      "capacityPerCar": 300,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 4,
+      "carLength": 20,
+      "minCars": 2,
+      "maxCars": 15,
+      "carsPerCarSet": 1,
+      "carCost": 3200000,
+      "trainWidth": 2.95,
+      "minStationLength": 100,
+      "maxStationLength": 310,
+      "baseTrackCost": 32000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 60,
+      "crossoverSpeed": 12.5
+    },
+    "appearance": {
+      "color": "#F15A24"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
+    },
+    "Manufacturer": [
+      "Tokyu Car",
+      "Kawasaki Heavy Industries"
+    ],
+    "compatibleTrackTypes": [
+      "commuter-rail",
+      "tyo-e231-commuter",
+      "tyo-15000-tozai",
+      "tyo-e233-commuter",
+      "tyo-e235-yamanote",
+      "tyo-e257-limited-express",
+      "tyo-e259-narita-express",
+      "tyo-e531-commuter"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
+  },
+  {
+    "id": "tyo-e531-commuter",
+    "name": "TYO E531 Commuter",
+    "description": "JR East E531 series commuter train. Used on the Joban Rapid line. Manufacturer: J-TREC / Tokyu Car / Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.17,
+      "maxSpeed": 36.2,
+      "maxSpeedLocalStation": 36.2,
+      "capacityPerCar": 300,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 4,
+      "carLength": 20,
+      "minCars": 2,
+      "maxCars": 15,
+      "carsPerCarSet": 1,
+      "carCost": 3200000,
+      "trainWidth": 2.95,
+      "minStationLength": 100,
+      "maxStationLength": 310,
+      "baseTrackCost": 32000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.85,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 60,
+      "crossoverSpeed": 12.5
+    },
+    "appearance": {
+      "color": "#F15A24"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
+    },
+    "Manufacturer": [
+      "J-TREC",
+      "Tokyu Car",
+      "Kawasaki Heavy Industries"
+    ],
+    "compatibleTrackTypes": [
+      "commuter-rail",
+      "tyo-e531-commuter",
+      "tyo-e231-commuter",
+      "tyo-e233-commuter",
+      "tyo-e235-yamanote",
+      "tyo-e257-limited-express",
+      "tyo-e259-narita-express"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
+  },
+  {
+    "id": "tyo-e257-limited-express",
+    "name": "TYO E257 Limited Express",
+    "description": "JR East E257 series 2 to 9 car limited express train. Used on Azusa, Kaiji, Odoriko, Shōnan and more Express services. Manufacturer: Hitachi / Kinki Sharyo / Tokyu Car.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 33.4,
+      "maxSpeedLocalStation": 33.4,
+      "capacityPerCar": 62,
+      "seatsPerCar": 60,
+      "doorsPerCarPerSide": 1,
+      "carLength": 20.5,
+      "minCars": 2,
+      "maxCars": 14,
+      "carsPerCarSet": 6,
+      "carCost": 4300000,
+      "trainWidth": 2.946,
+      "minStationLength": 45,
+      "maxStationLength": 310,
+      "baseTrackCost": 45000,
+      "baseStationCost": 65000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 32,
+      "scissorsCrossoverCost": 22000000,
+      "trackClearance": 1.15,
+      "maxLateralAcceleration": 0.75,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1200,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 4.2,
+      "stopTimeSeconds": 50,
+      "turnaroundTimeSeconds": 70,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 60,
+      "crossoverSpeed": 12.5
+    },
+    "appearance": {
+      "color": "#B50000"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
+    },
+    "Manufacturer": [
+      "Hitachi",
+      "Kinki Sharyo",
+      "Tokyu Car"
+    ],
+    "compatibleTrackTypes": [
+      "intercity-rail",
+      "tyo-e257-limited-express",
+      "tyo-e231-commuter",
+      "tyo-e233-commuter",
+      "tyo-e235-yamanote",
+      "tyo-e259-narita-express",
+      "tyo-e531-commuter"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 11000000,
+    "rampCost": 5500000
+  },
+  {
     "id": "tyo-e259-narita-express",
     "name": "TYO E259 Narita Express",
     "description": "JR East E259 series 6-car airport limited express train. Used on Narita Express services. Manufacturer: Kinki Sharyo / Tokyu Car.",
@@ -1271,6 +1580,8 @@
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 48,
+      "seatsPerCar": 44,
+      "doorsPerCarPerSide": 1,
       "carLength": 20.2,
       "minCars": 6,
       "maxCars": 12,
@@ -1291,7 +1602,7 @@
       "maxSlopePercentage": 3.5,
       "parallelTrackSpacing": 4.2,
       "stopTimeSeconds": 50,
-	  "turnaroundTimeSeconds": 70,
+      "turnaroundTimeSeconds": 70,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 60,
@@ -1314,7 +1625,13 @@
       "Tokyu Car"
     ],
     "compatibleTrackTypes": [
-      "intercity-rail"
+      "intercity-rail",
+      "tyo-e259-narita-express",
+      "tyo-e231-commuter",
+      "tyo-e233-commuter",
+      "tyo-e235-yamanote",
+      "tyo-e257-limited-express",
+      "tyo-e531-commuter"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -1338,6 +1655,8 @@
       "maxSpeed": 44.44,
       "maxSpeedLocalStation": 44.44,
       "capacityPerCar": 50,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 1,
       "carLength": 19,
       "minCars": 8,
       "maxCars": 8,
@@ -1358,7 +1677,7 @@
       "maxSlopePercentage": 3.5,
       "parallelTrackSpacing": 4.2,
       "stopTimeSeconds": 50,
-	  "turnaroundTimeSeconds": 70,
+      "turnaroundTimeSeconds": 70,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 20,
@@ -1380,7 +1699,8 @@
       "Nippon Sharyo"
     ],
     "compatibleTrackTypes": [
-      "intercity-rail"
+      "intercity-rail",
+      "tyo-keisei-ae-skyliner"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -1404,6 +1724,8 @@
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 14.0,
       "capacityPerCar": 57,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 1,
       "carLength": 20,
       "minCars": 7,
       "maxCars": 7,
@@ -1445,7 +1767,9 @@
       "Nippon Sharyo"
     ],
     "compatibleTrackTypes": [
-      "intercity-rail"
+      "intercity-rail",
+      "tyo-odakyu-70000-gse",
+      "odq-3000-emu"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -1469,6 +1793,8 @@
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
       "capacityPerCar": 53,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 1,
       "carLength": 20,
       "minCars": 8,
       "maxCars": 8,
@@ -1489,7 +1815,7 @@
       "maxSlopePercentage": 3.5,
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 50,
-	  "turnaroundTimeSeconds": 70,
+      "turnaroundTimeSeconds": 70,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 20,
@@ -1511,7 +1837,8 @@
       "Hitachi"
     ],
     "compatibleTrackTypes": [
-      "intercity-rail"
+      "intercity-rail",
+      "tyo-seibu-001-laview"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -1535,6 +1862,8 @@
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
       "capacityPerCar": 35,
+      "seatsPerCar": 32,
+      "doorsPerCarPerSide": 1,
       "carLength": 20,
       "minCars": 6,
       "maxCars": 6,
@@ -1555,7 +1884,7 @@
       "maxSlopePercentage": 3.5,
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 50,
-	  "turnaroundTimeSeconds": 70,
+      "turnaroundTimeSeconds": 70,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 20,
@@ -1577,7 +1906,8 @@
       "Hitachi"
     ],
     "compatibleTrackTypes": [
-      "intercity-rail"
+      "intercity-rail",
+      "tyo-tobu-n100-spacia-x"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -1601,6 +1931,8 @@
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
       "capacityPerCar": 356,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 3,
       "carLength": 18.0,
       "minCars": 4,
       "maxCars": 12,
@@ -1621,7 +1953,7 @@
       "maxSlopePercentage": 3.5,
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 30,
-	  "turnaroundTimeSeconds": 90,
+      "turnaroundTimeSeconds": 90,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 30,
@@ -1645,7 +1977,10 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail"
+      "commuter-rail",
+      "kq-new-1000-emu",
+      "kq-2100-emu",
+      "tyo-5500-asakusa"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -1669,6 +2004,8 @@
       "maxSpeed": 27.78,
       "maxSpeedLocalStation": 27.78,
       "capacityPerCar": 352,
+      "seatsPerCar": 40,
+      "doorsPerCarPerSide": 3,
       "carLength": 18.0,
       "minCars": 3,
       "maxCars": 3,
@@ -1689,7 +2026,7 @@
       "maxSlopePercentage": 3.5,
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 40,
-	  "turnaroundTimeSeconds": 80,
+      "turnaroundTimeSeconds": 80,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 30,
@@ -1711,7 +2048,8 @@
       "Tokyu Car"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail"
+      "commuter-rail",
+      "tkk-1000-emu"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -1735,6 +2073,8 @@
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
       "capacityPerCar": 356,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 2,
       "carLength": 18.0,
       "minCars": 8,
       "maxCars": 8,
@@ -1755,7 +2095,7 @@
       "maxSlopePercentage": 3.5,
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 30,
-	  "turnaroundTimeSeconds": 90,
+      "turnaroundTimeSeconds": 90,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 30,
@@ -1778,7 +2118,10 @@
       "Tokyu Car"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail"
+      "commuter-rail",
+      "kq-2100-emu",
+      "kq-new-1000-emu",
+      "tyo-5500-asakusa"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -1802,6 +2145,8 @@
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 30.56,
       "capacityPerCar": 392,
+      "seatsPerCar": 44,
+      "doorsPerCarPerSide": 4,
       "carLength": 20.0,
       "minCars": 10,
       "maxCars": 10,
@@ -1822,7 +2167,7 @@
       "maxSlopePercentage": 3.5,
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 30,
-	  "turnaroundTimeSeconds": 90,
+      "turnaroundTimeSeconds": 90,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 30,
@@ -1844,7 +2189,9 @@
       "J-TREC"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail"
+      "commuter-rail",
+      "tkk-2020-emu",
+      "tyo-18000-hanzomon"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -1868,6 +2215,8 @@
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 30.56,
       "capacityPerCar": 392,
+      "seatsPerCar": 44,
+      "doorsPerCarPerSide": 4,
       "carLength": 20.0,
       "minCars": 8,
       "maxCars": 10,
@@ -1888,7 +2237,7 @@
       "maxSlopePercentage": 3.5,
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 30,
-	  "turnaroundTimeSeconds": 90,
+      "turnaroundTimeSeconds": 90,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 30,
@@ -1911,7 +2260,9 @@
       "J-TREC"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail"
+      "commuter-rail",
+      "tkk-5050-emu",
+      "tyo-17000-yurakucho-fukutoshin"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -1935,6 +2286,8 @@
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 30.56,
       "capacityPerCar": 392,
+      "seatsPerCar": 44,
+      "doorsPerCarPerSide": 4,
       "carLength": 20.0,
       "minCars": 10,
       "maxCars": 10,
@@ -1955,7 +2308,7 @@
       "maxSlopePercentage": 3.5,
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 30,
-	  "turnaroundTimeSeconds": 90,
+      "turnaroundTimeSeconds": 90,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 30,
@@ -1977,7 +2330,9 @@
       "J-TREC"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail"
+      "commuter-rail",
+      "keio-5000-emu",
+      "tyo-10-300-shinjuku"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -2001,6 +2356,8 @@
       "maxSpeed": 27.78,
       "maxSpeedLocalStation": 27.78,
       "capacityPerCar": 406,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 4,
       "carLength": 20.0,
       "minCars": 6,
       "maxCars": 10,
@@ -2021,7 +2378,7 @@
       "maxSlopePercentage": 3.5,
       "parallelTrackSpacing": 3.8,
       "stopTimeSeconds": 50,
-	  "turnaroundTimeSeconds": 70,
+      "turnaroundTimeSeconds": 70,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 30,
@@ -2045,7 +2402,11 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail"
+      "commuter-rail",
+      "odq-3000-emu",
+      "tyo-16000-chiyoda",
+      "tyo-e233-commuter",
+      "tyo-odakyu-70000-gse"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,

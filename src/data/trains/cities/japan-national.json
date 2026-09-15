@@ -2,13 +2,15 @@
   {
     "id": "jp-n700a-shinkansen",
     "name": "JP N700A Shinkansen",
-    "description": "16-car N700A Shinkansen train for T\u014dkaid\u014d and Sany\u014d high-speed services. Manufacturer: Hitachi / Nippon Sharyo / Kawasaki Heavy Industries / Kinki Sharyo.",
+    "description": "16-car N700A Shinkansen train for Tōkaidō and Sanyō high-speed services. Manufacturer: Hitachi / Nippon Sharyo / Kawasaki Heavy Industries / Kinki Sharyo.",
     "stats": {
       "maxAcceleration": 0.85,
       "maxDeceleration": 1.0,
       "maxSpeed": 79.17,
       "maxSpeedLocalStation": 79.17,
       "capacityPerCar": 83,
+      "seatsPerCar": 83,
+      "doorsPerCarPerSide": 2,
       "carLength": 25.0,
       "minCars": 16,
       "maxCars": 16,
@@ -54,7 +56,12 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "high-speed-rail"
+      "high-speed-rail",
+      "jp-n700a-shinkansen",
+      "jp-500-shinkansen",
+      "jp-700-rail-star",
+      "jp-n700-7000-sakura",
+      "jp-n700s-shinkansen"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -71,13 +78,15 @@
   {
     "id": "jp-n700s-shinkansen",
     "name": "JP N700S Shinkansen",
-    "description": "16-car N700S Shinkansen train for T\u014dkaid\u014d and Sany\u014d high-speed services. Manufacturer: Hitachi / Nippon Sharyo.",
+    "description": "16-car N700S Shinkansen train for Tōkaidō and Sanyō high-speed services. Manufacturer: Hitachi / Nippon Sharyo.",
     "stats": {
       "maxAcceleration": 0.85,
       "maxDeceleration": 1.0,
       "maxSpeed": 79.17,
       "maxSpeedLocalStation": 79.17,
       "capacityPerCar": 83,
+      "seatsPerCar": 83,
+      "doorsPerCarPerSide": 2,
       "carLength": 25.0,
       "minCars": 16,
       "maxCars": 16,
@@ -121,7 +130,12 @@
       "Nippon Sharyo"
     ],
     "compatibleTrackTypes": [
-      "high-speed-rail"
+      "high-speed-rail",
+      "jp-n700s-shinkansen",
+      "jp-500-shinkansen",
+      "jp-700-rail-star",
+      "jp-n700-7000-sakura",
+      "jp-n700a-shinkansen"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -138,13 +152,15 @@
   {
     "id": "jp-n700-7000-sakura",
     "name": "JP N700-7000 Sakura",
-    "description": "8-car N700-7000/8000 Shinkansen train for Sany\u014d and Ky\u016bsh\u016b Mizuho/Sakura services. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo.",
+    "description": "8-car N700-7000/8000 Shinkansen train for Sanyō and Kyūshū Mizuho/Sakura services. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo.",
     "stats": {
       "maxAcceleration": 0.75,
       "maxDeceleration": 1.0,
       "maxSpeed": 83.33,
       "maxSpeedLocalStation": 83.33,
       "capacityPerCar": 68,
+      "seatsPerCar": 68,
+      "doorsPerCarPerSide": 2,
       "carLength": 25.0,
       "minCars": 8,
       "maxCars": 8,
@@ -190,7 +206,12 @@
       "Nippon Sharyo"
     ],
     "compatibleTrackTypes": [
-      "high-speed-rail"
+      "high-speed-rail",
+      "jp-n700-7000-sakura",
+      "jp-500-shinkansen",
+      "jp-700-rail-star",
+      "jp-n700a-shinkansen",
+      "jp-n700s-shinkansen"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -207,13 +228,15 @@
   {
     "id": "jp-n700s-8000-kamome",
     "name": "JP N700S-8000 Kamome",
-    "description": "6-car N700S-8000 Shinkansen train for Nishi-Ky\u016bsh\u016b Kamome services. Manufacturer: Hitachi / Nippon Sharyo.",
+    "description": "6-car N700S-8000 Shinkansen train for Nishi-Kyūshū Kamome services. Manufacturer: Hitachi / Nippon Sharyo.",
     "stats": {
       "maxAcceleration": 0.85,
       "maxDeceleration": 1.0,
       "maxSpeed": 72.22,
       "maxSpeedLocalStation": 72.22,
       "capacityPerCar": 65,
+      "seatsPerCar": 65,
+      "doorsPerCarPerSide": 2,
       "carLength": 25.0,
       "minCars": 6,
       "maxCars": 6,
@@ -257,7 +280,8 @@
       "Nippon Sharyo"
     ],
     "compatibleTrackTypes": [
-      "high-speed-rail"
+      "high-speed-rail",
+      "jp-n700s-8000-kamome"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -274,13 +298,15 @@
   {
     "id": "jp-500-shinkansen",
     "name": "JP 500 Shinkansen",
-    "description": "8-car 500 Series Shinkansen train used on Sany\u014d Kodama services. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo.",
+    "description": "8-car 500 Series Shinkansen train used on Sanyō Kodama services. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo.",
     "stats": {
       "maxAcceleration": 0.85,
       "maxDeceleration": 1.0,
       "maxSpeed": 79.17,
       "maxSpeedLocalStation": 79.17,
       "capacityPerCar": 69,
+      "seatsPerCar": 69,
+      "doorsPerCarPerSide": 2,
       "carLength": 25.0,
       "minCars": 8,
       "maxCars": 8,
@@ -326,7 +352,12 @@
       "Nippon Sharyo"
     ],
     "compatibleTrackTypes": [
-      "high-speed-rail"
+      "high-speed-rail",
+      "jp-500-shinkansen",
+      "jp-700-rail-star",
+      "jp-n700-7000-sakura",
+      "jp-n700a-shinkansen",
+      "jp-n700s-shinkansen"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -343,13 +374,15 @@
   {
     "id": "jp-700-rail-star",
     "name": "JP 700 Rail Star",
-    "description": "8-car 700 Series Rail Star Shinkansen train used on Sany\u014d services. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo.",
+    "description": "8-car 700 Series Rail Star Shinkansen train used on Sanyō services. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo.",
     "stats": {
       "maxAcceleration": 0.85,
       "maxDeceleration": 1.0,
       "maxSpeed": 79.17,
       "maxSpeedLocalStation": 79.17,
       "capacityPerCar": 71,
+      "seatsPerCar": 71,
+      "doorsPerCarPerSide": 2,
       "carLength": 25.0,
       "minCars": 8,
       "maxCars": 8,
@@ -395,7 +428,12 @@
       "Nippon Sharyo"
     ],
     "compatibleTrackTypes": [
-      "high-speed-rail"
+      "high-speed-rail",
+      "jp-700-rail-star",
+      "jp-500-shinkansen",
+      "jp-n700-7000-sakura",
+      "jp-n700a-shinkansen",
+      "jp-n700s-shinkansen"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -412,13 +450,15 @@
   {
     "id": "jp-800-shinkansen",
     "name": "JP 800 Shinkansen",
-    "description": "6-car 800 Series Shinkansen train for Ky\u016bsh\u016b Shinkansen services. Manufacturer: Hitachi.",
+    "description": "6-car 800 Series Shinkansen train for Kyūshū Shinkansen services. Manufacturer: Hitachi.",
     "stats": {
       "maxAcceleration": 0.85,
       "maxDeceleration": 1.0,
       "maxSpeed": 72.22,
       "maxSpeedLocalStation": 72.22,
       "capacityPerCar": 65,
+      "seatsPerCar": 65,
+      "doorsPerCarPerSide": 2,
       "carLength": 25.0,
       "minCars": 6,
       "maxCars": 6,
@@ -461,7 +501,8 @@
       "Hitachi"
     ],
     "compatibleTrackTypes": [
-      "high-speed-rail"
+      "high-speed-rail",
+      "jp-800-shinkansen"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -478,13 +519,15 @@
   {
     "id": "jp-e5-shinkansen",
     "name": "JP E5 Shinkansen",
-    "description": "10-car E5 Series Shinkansen train for T\u014dhoku and Hokkaid\u014d high-speed services. Manufacturer: Hitachi / Kawasaki Heavy Industries.",
+    "description": "10-car E5 Series Shinkansen train for Tōhoku and Hokkaidō high-speed services. Manufacturer: Hitachi / Kawasaki Heavy Industries.",
     "stats": {
       "maxAcceleration": 0.75,
       "maxDeceleration": 1.0,
       "maxSpeed": 88.89,
       "maxSpeedLocalStation": 88.89,
       "capacityPerCar": 73,
+      "seatsPerCar": 73,
+      "doorsPerCarPerSide": 2,
       "carLength": 25.0,
       "minCars": 10,
       "maxCars": 10,
@@ -528,7 +571,15 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "high-speed-rail"
+      "high-speed-rail",
+      "jp-e5-shinkansen",
+      "jp-e2-shinkansen",
+      "jp-e3-tsubasa",
+      "jp-e6-komachi",
+      "jp-e7-shinkansen",
+      "jp-e8-tsubasa",
+      "jp-h5-shinkansen",
+      "jp-w7-shinkansen"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -545,13 +596,15 @@
   {
     "id": "jp-h5-shinkansen",
     "name": "JP H5 Shinkansen",
-    "description": "10-car H5 Series Shinkansen train for Hokkaid\u014d and T\u014dhoku high-speed services. Manufacturer: Hitachi / Kawasaki Heavy Industries.",
+    "description": "10-car H5 Series Shinkansen train for Hokkaidō and Tōhoku high-speed services. Manufacturer: Hitachi / Kawasaki Heavy Industries.",
     "stats": {
       "maxAcceleration": 0.75,
       "maxDeceleration": 1.0,
       "maxSpeed": 88.89,
       "maxSpeedLocalStation": 88.89,
       "capacityPerCar": 73,
+      "seatsPerCar": 73,
+      "doorsPerCarPerSide": 2,
       "carLength": 25.0,
       "minCars": 10,
       "maxCars": 10,
@@ -595,7 +648,15 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "high-speed-rail"
+      "high-speed-rail",
+      "jp-h5-shinkansen",
+      "jp-e2-shinkansen",
+      "jp-e3-tsubasa",
+      "jp-e5-shinkansen",
+      "jp-e6-komachi",
+      "jp-e7-shinkansen",
+      "jp-e8-tsubasa",
+      "jp-w7-shinkansen"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -619,6 +680,8 @@
       "maxSpeed": 88.89,
       "maxSpeedLocalStation": 88.89,
       "capacityPerCar": 48,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 2,
       "carLength": 20.5,
       "minCars": 7,
       "maxCars": 7,
@@ -662,7 +725,15 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "high-speed-rail"
+      "high-speed-rail",
+      "jp-e6-komachi",
+      "jp-e2-shinkansen",
+      "jp-e3-tsubasa",
+      "jp-e5-shinkansen",
+      "jp-e7-shinkansen",
+      "jp-e8-tsubasa",
+      "jp-h5-shinkansen",
+      "jp-w7-shinkansen"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -679,13 +750,15 @@
   {
     "id": "jp-e7-shinkansen",
     "name": "JP E7 Shinkansen",
-    "description": "12-car E7 Series Shinkansen train for Hokuriku and J\u014detsu high-speed services. Manufacturer: Hitachi / Kawasaki Railcar Manufacturing / J-TREC.",
+    "description": "12-car E7 Series Shinkansen train for Hokuriku and Jōetsu high-speed services. Manufacturer: Hitachi / Kawasaki Railcar Manufacturing / J-TREC.",
     "stats": {
       "maxAcceleration": 0.85,
       "maxDeceleration": 1.0,
       "maxSpeed": 72.22,
       "maxSpeedLocalStation": 72.22,
       "capacityPerCar": 78,
+      "seatsPerCar": 78,
+      "doorsPerCarPerSide": 2,
       "carLength": 25.0,
       "minCars": 12,
       "maxCars": 12,
@@ -730,7 +803,15 @@
       "J-TREC"
     ],
     "compatibleTrackTypes": [
-      "high-speed-rail"
+      "high-speed-rail",
+      "jp-e7-shinkansen",
+      "jp-e2-shinkansen",
+      "jp-e3-tsubasa",
+      "jp-e5-shinkansen",
+      "jp-e6-komachi",
+      "jp-e8-tsubasa",
+      "jp-h5-shinkansen",
+      "jp-w7-shinkansen"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -754,6 +835,8 @@
       "maxSpeed": 72.22,
       "maxSpeedLocalStation": 72.22,
       "capacityPerCar": 78,
+      "seatsPerCar": 78,
+      "doorsPerCarPerSide": 2,
       "carLength": 25.0,
       "minCars": 12,
       "maxCars": 12,
@@ -798,7 +881,15 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "high-speed-rail"
+      "high-speed-rail",
+      "jp-w7-shinkansen",
+      "jp-e2-shinkansen",
+      "jp-e3-tsubasa",
+      "jp-e5-shinkansen",
+      "jp-e6-komachi",
+      "jp-e7-shinkansen",
+      "jp-e8-tsubasa",
+      "jp-h5-shinkansen"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -822,6 +913,8 @@
       "maxSpeed": 83.33,
       "maxSpeedLocalStation": 83.33,
       "capacityPerCar": 50,
+      "seatsPerCar": 50,
+      "doorsPerCarPerSide": 2,
       "carLength": 20.5,
       "minCars": 7,
       "maxCars": 7,
@@ -864,7 +957,15 @@
       "Hitachi"
     ],
     "compatibleTrackTypes": [
-      "high-speed-rail"
+      "high-speed-rail",
+      "jp-e8-tsubasa",
+      "jp-e2-shinkansen",
+      "jp-e3-tsubasa",
+      "jp-e5-shinkansen",
+      "jp-e6-komachi",
+      "jp-e7-shinkansen",
+      "jp-h5-shinkansen",
+      "jp-w7-shinkansen"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -888,6 +989,8 @@
       "maxSpeed": 76.39,
       "maxSpeedLocalStation": 76.39,
       "capacityPerCar": 50,
+      "seatsPerCar": 50,
+      "doorsPerCarPerSide": 2,
       "carLength": 20.5,
       "minCars": 7,
       "maxCars": 7,
@@ -931,7 +1034,15 @@
       "Tokyu Car"
     ],
     "compatibleTrackTypes": [
-      "high-speed-rail"
+      "high-speed-rail",
+      "jp-e3-tsubasa",
+      "jp-e2-shinkansen",
+      "jp-e5-shinkansen",
+      "jp-e6-komachi",
+      "jp-e7-shinkansen",
+      "jp-e8-tsubasa",
+      "jp-h5-shinkansen",
+      "jp-w7-shinkansen"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -948,13 +1059,15 @@
   {
     "id": "jp-e2-shinkansen",
     "name": "JP E2 Shinkansen",
-    "description": "10-car E2 Series Shinkansen train for T\u014dhoku and J\u014detsu legacy high-speed services. Manufacturer: Hitachi / Kawasaki Heavy Industries / Tokyu Car.",
+    "description": "10-car E2 Series Shinkansen train for Tōhoku and Jōetsu legacy high-speed services. Manufacturer: Hitachi / Kawasaki Heavy Industries / Tokyu Car.",
     "stats": {
       "maxAcceleration": 0.85,
       "maxDeceleration": 1.0,
       "maxSpeed": 76.39,
       "maxSpeedLocalStation": 76.39,
       "capacityPerCar": 81,
+      "seatsPerCar": 81,
+      "doorsPerCarPerSide": 2,
       "carLength": 25.0,
       "minCars": 10,
       "maxCars": 10,
@@ -999,7 +1112,15 @@
       "Tokyu Car"
     ],
     "compatibleTrackTypes": [
-      "high-speed-rail"
+      "high-speed-rail",
+      "jp-e2-shinkansen",
+      "jp-e3-tsubasa",
+      "jp-e5-shinkansen",
+      "jp-e6-komachi",
+      "jp-e7-shinkansen",
+      "jp-e8-tsubasa",
+      "jp-h5-shinkansen",
+      "jp-w7-shinkansen"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -1023,6 +1144,8 @@
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 38,
+      "seatsPerCar": 38,
+      "doorsPerCarPerSide": 1,
       "carLength": 21.3,
       "minCars": 7,
       "maxCars": 7,
@@ -1066,7 +1189,14 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "intercity-rail"
+      "intercity-rail",
+      "jp-285-sunrise",
+      "jp-271-haruka",
+      "jp-273-yakumo",
+      "jp-281-haruka",
+      "jp-287-limited-express",
+      "jp-289-limited-express",
+      "jp-683-thunderbird"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -1090,6 +1220,8 @@
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 16.0,
       "capacityPerCar": 55,
+      "seatsPerCar": 52,
+      "doorsPerCarPerSide": 1,
       "carLength": 20.0,
       "minCars": 4,
       "maxCars": 4,
@@ -1132,7 +1264,14 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "intercity-rail"
+      "intercity-rail",
+      "jp-273-yakumo",
+      "jp-271-haruka",
+      "jp-281-haruka",
+      "jp-285-sunrise",
+      "jp-287-limited-express",
+      "jp-289-limited-express",
+      "jp-683-thunderbird"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -1156,6 +1295,8 @@
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 16.0,
       "capacityPerCar": 50,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 1,
       "carLength": 20.0,
       "minCars": 6,
       "maxCars": 6,
@@ -1199,7 +1340,14 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "intercity-rail"
+      "intercity-rail",
+      "jp-281-haruka",
+      "jp-271-haruka",
+      "jp-273-yakumo",
+      "jp-285-sunrise",
+      "jp-287-limited-express",
+      "jp-289-limited-express",
+      "jp-683-thunderbird"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -1223,6 +1371,8 @@
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 16.0,
       "capacityPerCar": 49,
+      "seatsPerCar": 46,
+      "doorsPerCarPerSide": 1,
       "carLength": 20.0,
       "minCars": 3,
       "maxCars": 3,
@@ -1265,7 +1415,14 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "intercity-rail"
+      "intercity-rail",
+      "jp-271-haruka",
+      "jp-273-yakumo",
+      "jp-281-haruka",
+      "jp-285-sunrise",
+      "jp-287-limited-express",
+      "jp-289-limited-express",
+      "jp-683-thunderbird"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -1282,13 +1439,15 @@
   {
     "id": "jp-287-limited-express",
     "name": "JP 287 Limited Express",
-    "description": "287 Series limited express EMU used on Kuroshio, K\u014dnotori, Kinosaki, Maizuru, Hashidate and related services. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo.",
+    "description": "287 Series limited express EMU used on Kuroshio, Kōnotori, Kinosaki, Maizuru, Hashidate and related services. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo.",
     "stats": {
       "maxAcceleration": 0.85,
       "maxDeceleration": 1.1,
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 16.0,
       "capacityPerCar": 55,
+      "seatsPerCar": 52,
+      "doorsPerCarPerSide": 1,
       "carLength": 20.0,
       "minCars": 6,
       "maxCars": 6,
@@ -1332,7 +1491,14 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "intercity-rail"
+      "intercity-rail",
+      "jp-287-limited-express",
+      "jp-271-haruka",
+      "jp-273-yakumo",
+      "jp-281-haruka",
+      "jp-285-sunrise",
+      "jp-289-limited-express",
+      "jp-683-thunderbird"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -1349,13 +1515,15 @@
   {
     "id": "jp-289-limited-express",
     "name": "JP 289 Limited Express",
-    "description": "289 Series limited express EMU used on Kuroshio, K\u014dnotori, Kinosaki and related services. Manufacturer: Hitachi / Kawasaki Heavy Industries.",
+    "description": "289 Series limited express EMU used on Kuroshio, Kōnotori, Kinosaki and related services. Manufacturer: Hitachi / Kawasaki Heavy Industries.",
     "stats": {
       "maxAcceleration": 0.85,
       "maxDeceleration": 1.1,
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 16.0,
       "capacityPerCar": 55,
+      "seatsPerCar": 52,
+      "doorsPerCarPerSide": 1,
       "carLength": 20.0,
       "minCars": 6,
       "maxCars": 6,
@@ -1399,7 +1567,14 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "intercity-rail"
+      "intercity-rail",
+      "jp-289-limited-express",
+      "jp-271-haruka",
+      "jp-273-yakumo",
+      "jp-281-haruka",
+      "jp-285-sunrise",
+      "jp-287-limited-express",
+      "jp-683-thunderbird"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -1423,6 +1598,8 @@
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 16.0,
       "capacityPerCar": 55,
+      "seatsPerCar": 52,
+      "doorsPerCarPerSide": 1,
       "carLength": 20.0,
       "minCars": 9,
       "maxCars": 9,
@@ -1466,7 +1643,14 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "intercity-rail"
+      "intercity-rail",
+      "jp-683-thunderbird",
+      "jp-271-haruka",
+      "jp-273-yakumo",
+      "jp-281-haruka",
+      "jp-285-sunrise",
+      "jp-287-limited-express",
+      "jp-289-limited-express"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -1490,6 +1674,8 @@
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 16.0,
       "capacityPerCar": 55,
+      "seatsPerCar": 52,
+      "doorsPerCarPerSide": 1,
       "carLength": 20.0,
       "minCars": 6,
       "maxCars": 6,
@@ -1532,7 +1718,8 @@
       "J-TREC"
     ],
     "compatibleTrackTypes": [
-      "intercity-rail"
+      "intercity-rail",
+      "jp-385-shinano"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -1548,14 +1735,16 @@
   },
   {
     "id": "jp-261-hokkaido",
-    "name": "JP 261 Hokkaid\u014d",
-    "description": "KiHa 261 series diesel limited express train for Hokkaid\u014d intercity services. Manufacturer: Fuji Heavy Industries / Niigata Transys.",
+    "name": "JP 261 Hokkaidō",
+    "description": "KiHa 261 series diesel limited express train for Hokkaidō intercity services. Manufacturer: Fuji Heavy Industries / Niigata Transys.",
     "stats": {
       "maxAcceleration": 0.85,
       "maxDeceleration": 1.1,
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 16.0,
       "capacityPerCar": 50,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 1,
       "carLength": 21.3,
       "minCars": 6,
       "maxCars": 6,
@@ -1599,7 +1788,8 @@
       "Niigata Transys"
     ],
     "compatibleTrackTypes": [
-      "intercity-rail"
+      "intercity-rail",
+      "jp-261-hokkaido"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -1623,6 +1813,8 @@
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 16.0,
       "capacityPerCar": 50,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 1,
       "carLength": 20.0,
       "minCars": 2,
       "maxCars": 2,
@@ -1665,7 +1857,8 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "intercity-rail"
+      "intercity-rail",
+      "jp-8600-shikoku"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -1689,6 +1882,8 @@
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 14.0,
       "capacityPerCar": 145,
+      "seatsPerCar": 54,
+      "doorsPerCarPerSide": 3,
       "carLength": 20.0,
       "minCars": 2,
       "maxCars": 6,
@@ -1734,7 +1929,13 @@
       "Hitachi"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail"
+      "commuter-rail",
+      "jp-jnr-115-emu",
+      "jp-jnr-113-emu",
+      "jp-jnr-117-emu",
+      "jp-jnr-211-emu",
+      "jp-jnr-213-emu",
+      "jp-jnr-415-emu"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -1758,6 +1959,8 @@
       "maxSpeed": 26.39,
       "maxSpeedLocalStation": 12.0,
       "capacityPerCar": 100,
+      "seatsPerCar": 44,
+      "doorsPerCarPerSide": 2,
       "carLength": 21.3,
       "minCars": 1,
       "maxCars": 6,
@@ -1802,7 +2005,8 @@
       "Fuji Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "regional-rail"
+      "regional-rail",
+      "jp-jnr-kiha40-dmu"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 280000,
@@ -1826,6 +2030,8 @@
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 14.0,
       "capacityPerCar": 145,
+      "seatsPerCar": 54,
+      "doorsPerCarPerSide": 3,
       "carLength": 20.0,
       "minCars": 4,
       "maxCars": 12,
@@ -1871,7 +2077,13 @@
       "Hitachi"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail"
+      "commuter-rail",
+      "jp-jnr-415-emu",
+      "jp-jnr-113-emu",
+      "jp-jnr-115-emu",
+      "jp-jnr-117-emu",
+      "jp-jnr-211-emu",
+      "jp-jnr-213-emu"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -1895,6 +2107,8 @@
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 14.0,
       "capacityPerCar": 130,
+      "seatsPerCar": 60,
+      "doorsPerCarPerSide": 2,
       "carLength": 20.0,
       "minCars": 2,
       "maxCars": 6,
@@ -1941,7 +2155,13 @@
       "Tokyu Car"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail"
+      "commuter-rail",
+      "jp-jnr-213-emu",
+      "jp-jnr-113-emu",
+      "jp-jnr-115-emu",
+      "jp-jnr-117-emu",
+      "jp-jnr-211-emu",
+      "jp-jnr-415-emu"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -1965,6 +2185,8 @@
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 14.0,
       "capacityPerCar": 145,
+      "seatsPerCar": 54,
+      "doorsPerCarPerSide": 3,
       "carLength": 20.0,
       "minCars": 4,
       "maxCars": 12,
@@ -2010,7 +2232,13 @@
       "Hitachi"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail"
+      "commuter-rail",
+      "jp-jnr-113-emu",
+      "jp-jnr-115-emu",
+      "jp-jnr-117-emu",
+      "jp-jnr-211-emu",
+      "jp-jnr-213-emu",
+      "jp-jnr-415-emu"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -2034,6 +2262,8 @@
       "maxSpeed": 31.94,
       "maxSpeedLocalStation": 14.0,
       "capacityPerCar": 130,
+      "seatsPerCar": 64,
+      "doorsPerCarPerSide": 2,
       "carLength": 20.0,
       "minCars": 4,
       "maxCars": 8,
@@ -2078,7 +2308,13 @@
       "Nippon Sharyo"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail"
+      "commuter-rail",
+      "jp-jnr-117-emu",
+      "jp-jnr-113-emu",
+      "jp-jnr-115-emu",
+      "jp-jnr-211-emu",
+      "jp-jnr-213-emu",
+      "jp-jnr-415-emu"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -2102,6 +2338,8 @@
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 14.0,
       "capacityPerCar": 150,
+      "seatsPerCar": 54,
+      "doorsPerCarPerSide": 3,
       "carLength": 20.0,
       "minCars": 3,
       "maxCars": 10,
@@ -2147,7 +2385,13 @@
       "Nippon Sharyo"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail"
+      "commuter-rail",
+      "jp-jnr-211-emu",
+      "jp-jnr-113-emu",
+      "jp-jnr-115-emu",
+      "jp-jnr-117-emu",
+      "jp-jnr-213-emu",
+      "jp-jnr-415-emu"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,

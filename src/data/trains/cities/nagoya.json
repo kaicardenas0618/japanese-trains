@@ -8,7 +8,9 @@
       "maxDeceleration": 1.1,
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
-      "capacityPerCar": 150,
+      "capacityPerCar": 291,
+      "seatsPerCar": 56,
+      "doorsPerCarPerSide": 3,
       "carLength": 20.0,
       "minCars": 2,
       "maxCars": 10,
@@ -52,7 +54,9 @@
       "Nippon Sharyo"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail"
+      "commuter-rail",
+      "jrc-313-emu",
+      "jrc-315-emu"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -75,7 +79,9 @@
       "maxDeceleration": 1.1,
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
-      "capacityPerCar": 55,
+      "capacityPerCar": 50,
+      "seatsPerCar": 50,
+      "doorsPerCarPerSide": 1,
       "carLength": 19.0,
       "minCars": 6,
       "maxCars": 6,
@@ -118,7 +124,11 @@
       "Nippon Sharyo"
     ],
     "compatibleTrackTypes": [
-      "intercity-rail"
+      "intercity-rail",
+      "mei-1000-limited-express",
+      "mei-6000-emu",
+      "mei-9500-emu",
+      "ngy-n3000-tsurumai-subway"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -141,7 +151,9 @@
       "maxDeceleration": 1.1,
       "maxSpeed": 27.78,
       "maxSpeedLocalStation": 27.78,
-      "capacityPerCar": 145,
+      "capacityPerCar": 254,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 3,
       "carLength": 18.9,
       "minCars": 2,
       "maxCars": 6,
@@ -184,7 +196,11 @@
       "Nippon Sharyo"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail"
+      "commuter-rail",
+      "mei-6000-emu",
+      "mei-1000-limited-express",
+      "mei-9500-emu",
+      "ngy-n3000-tsurumai-subway"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -207,7 +223,9 @@
       "maxDeceleration": 1.1,
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
-      "capacityPerCar": 145,
+      "capacityPerCar": 257,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 3,
       "carLength": 19.0,
       "minCars": 2,
       "maxCars": 4,
@@ -250,7 +268,11 @@
       "Nippon Sharyo"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail"
+      "commuter-rail",
+      "mei-9500-emu",
+      "mei-1000-limited-express",
+      "mei-6000-emu",
+      "ngy-n3000-tsurumai-subway"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -273,7 +295,9 @@
       "maxDeceleration": 1.1,
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
-      "capacityPerCar": 150,
+      "capacityPerCar": 291,
+      "seatsPerCar": 56,
+      "doorsPerCarPerSide": 3,
       "carLength": 20.0,
       "minCars": 4,
       "maxCars": 10,
@@ -316,7 +340,9 @@
       "Nippon Sharyo"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail"
+      "commuter-rail",
+      "jrc-315-emu",
+      "jrc-313-emu"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -339,7 +365,9 @@
       "maxDeceleration": 1.15,
       "maxSpeed": 18.06,
       "maxSpeedLocalStation": 18.06,
-      "capacityPerCar": 115,
+      "capacityPerCar": 253,
+      "seatsPerCar": 40,
+      "doorsPerCarPerSide": 4,
       "carLength": 15.6,
       "minCars": 6,
       "maxCars": 6,
@@ -382,7 +410,8 @@
       "Nippon Sharyo"
     ],
     "compatibleTrackTypes": [
-      "heavy-metro"
+      "heavy-metro",
+      "ngy-n1000-higashiyama-subway"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -405,7 +434,9 @@
       "maxDeceleration": 1.15,
       "maxSpeed": 27.78,
       "maxSpeedLocalStation": 27.78,
-      "capacityPerCar": 145,
+      "capacityPerCar": 361,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 4,
       "carLength": 20.0,
       "minCars": 6,
       "maxCars": 6,
@@ -449,7 +480,11 @@
       "Hitachi"
     ],
     "compatibleTrackTypes": [
-      "heavy-metro"
+      "heavy-metro",
+      "ngy-n3000-tsurumai-subway",
+      "mei-1000-limited-express",
+      "mei-6000-emu",
+      "mei-9500-emu"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -465,14 +500,16 @@
   },
   {
     "id": "ngy-6050-sakura-dori-subway",
-    "name": "NGY 6050 Sakura-d\u014dri Subway",
-    "description": "Nagoya Subway 6050 series train for the Sakura-d\u014dri Line. Manufacturer: Nippon Sharyo.",
+    "name": "NGY 6050 Sakura-dōri Subway",
+    "description": "Nagoya Subway 6050 series train for the Sakura-dōri Line. Manufacturer: Nippon Sharyo.",
     "stats": {
       "maxAcceleration": 1.0,
       "maxDeceleration": 1.15,
       "maxSpeed": 20.83,
       "maxSpeedLocalStation": 20.83,
-      "capacityPerCar": 145,
+      "capacityPerCar": 361,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 4,
       "carLength": 20.0,
       "minCars": 5,
       "maxCars": 5,
@@ -515,7 +552,8 @@
       "Nippon Sharyo"
     ],
     "compatibleTrackTypes": [
-      "heavy-metro"
+      "heavy-metro",
+      "ngy-6050-sakura-dori-subway"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -538,7 +576,9 @@
       "maxDeceleration": 1.15,
       "maxSpeed": 27.78,
       "maxSpeedLocalStation": 27.78,
-      "capacityPerCar": 90,
+      "capacityPerCar": 240,
+      "seatsPerCar": 30,
+      "doorsPerCarPerSide": 2,
       "carLength": 14.0,
       "minCars": 3,
       "maxCars": 3,
@@ -581,7 +621,8 @@
       "Nippon Sharyo"
     ],
     "compatibleTrackTypes": [
-      "maglev"
+      "maglev",
+      "ngy-linimo-100-maglev"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 450000,

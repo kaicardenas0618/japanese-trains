@@ -8,7 +8,9 @@
       "maxDeceleration": 1.15,
       "maxSpeed": 25.0,
       "maxSpeedLocalStation": 25.0,
-      "capacityPerCar": 142,
+      "capacityPerCar": 379,
+      "seatsPerCar": 42,
+      "doorsPerCarPerSide": 4,
       "carLength": 20.0,
       "minCars": 6,
       "maxCars": 6,
@@ -55,7 +57,12 @@
       "Hitachi"
     ],
     "compatibleTrackTypes": [
-      "heavy-metro"
+      "heavy-metro",
+      "fko-1000-subway",
+      "fko-2000-subway",
+      "jrk-103-1500-emu",
+      "jrk-303-emu",
+      "jrk-305-emu"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -78,7 +85,9 @@
       "maxDeceleration": 1.1,
       "maxSpeed": 25.0,
       "maxSpeedLocalStation": 25.0,
-      "capacityPerCar": 145,
+      "capacityPerCar": 276,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 4,
       "carLength": 20.0,
       "minCars": 3,
       "maxCars": 6,
@@ -122,7 +131,12 @@
       "Nippon Sharyo"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail"
+      "commuter-rail",
+      "jrk-103-1500-emu",
+      "fko-1000-subway",
+      "fko-2000-subway",
+      "jrk-303-emu",
+      "jrk-305-emu"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -145,7 +159,9 @@
       "maxDeceleration": 1.1,
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 30.56,
-      "capacityPerCar": 140,
+      "capacityPerCar": 266,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 3,
       "carLength": 19.5,
       "minCars": 3,
       "maxCars": 6,
@@ -189,7 +205,10 @@
       "Nippon Sharyo"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail"
+      "commuter-rail",
+      "nis-commuter-emu",
+      "nis-3000-emu",
+      "nis-9000-emu"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -212,7 +231,9 @@
       "maxDeceleration": 1.2,
       "maxSpeed": 22.22,
       "maxSpeedLocalStation": 22.22,
-      "capacityPerCar": 90,
+      "capacityPerCar": 130,
+      "seatsPerCar": 40,
+      "doorsPerCarPerSide": 2,
       "carLength": 13.0,
       "minCars": 2,
       "maxCars": 3,
@@ -255,7 +276,8 @@
       "Nippon Sharyo"
     ],
     "compatibleTrackTypes": [
-      "tram"
+      "tram",
+      "nis-1000-tram"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 180000,
@@ -278,7 +300,9 @@
       "maxDeceleration": 1.15,
       "maxSpeed": 25.0,
       "maxSpeedLocalStation": 25.0,
-      "capacityPerCar": 142,
+      "capacityPerCar": 379,
+      "seatsPerCar": 42,
+      "doorsPerCarPerSide": 4,
       "carLength": 20.0,
       "minCars": 6,
       "maxCars": 6,
@@ -321,7 +345,12 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "heavy-metro"
+      "heavy-metro",
+      "fko-2000-subway",
+      "fko-1000-subway",
+      "jrk-103-1500-emu",
+      "jrk-303-emu",
+      "jrk-305-emu"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -344,7 +373,9 @@
       "maxDeceleration": 1.15,
       "maxSpeed": 19.44,
       "maxSpeedLocalStation": 19.44,
-      "capacityPerCar": 115,
+      "capacityPerCar": 269,
+      "seatsPerCar": 36,
+      "doorsPerCarPerSide": 4,
       "carLength": 16.5,
       "minCars": 4,
       "maxCars": 4,
@@ -387,7 +418,8 @@
       "Hitachi"
     ],
     "compatibleTrackTypes": [
-      "linear-metro"
+      "linear-metro",
+      "fko-3000-subway"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -410,7 +442,9 @@
       "maxDeceleration": 1.1,
       "maxSpeed": 25.0,
       "maxSpeedLocalStation": 25.0,
-      "capacityPerCar": 145,
+      "capacityPerCar": 368,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 4,
       "carLength": 20.0,
       "minCars": 6,
       "maxCars": 6,
@@ -453,7 +487,12 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "heavy-metro"
+      "heavy-metro",
+      "jrk-303-emu",
+      "fko-1000-subway",
+      "fko-2000-subway",
+      "jrk-103-1500-emu",
+      "jrk-305-emu"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -476,7 +515,9 @@
       "maxDeceleration": 1.1,
       "maxSpeed": 25.0,
       "maxSpeedLocalStation": 25.0,
-      "capacityPerCar": 145,
+      "capacityPerCar": 368,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 4,
       "carLength": 20.0,
       "minCars": 6,
       "maxCars": 6,
@@ -519,7 +560,12 @@
       "Hitachi"
     ],
     "compatibleTrackTypes": [
-      "heavy-metro"
+      "heavy-metro",
+      "jrk-305-emu",
+      "fko-1000-subway",
+      "fko-2000-subway",
+      "jrk-103-1500-emu",
+      "jrk-303-emu"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -542,7 +588,9 @@
       "maxDeceleration": 1.1,
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 30.56,
-      "capacityPerCar": 118,
+      "capacityPerCar": 266,
+      "seatsPerCar": 44,
+      "doorsPerCarPerSide": 3,
       "carLength": 19.5,
       "minCars": 2,
       "maxCars": 6,
@@ -585,7 +633,10 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail"
+      "commuter-rail",
+      "nis-3000-emu",
+      "nis-9000-emu",
+      "nis-commuter-emu"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -608,7 +659,9 @@
       "maxDeceleration": 1.1,
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 30.56,
-      "capacityPerCar": 118,
+      "capacityPerCar": 266,
+      "seatsPerCar": 44,
+      "doorsPerCarPerSide": 3,
       "carLength": 19.5,
       "minCars": 2,
       "maxCars": 6,
@@ -651,7 +704,10 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail"
+      "commuter-rail",
+      "nis-9000-emu",
+      "nis-3000-emu",
+      "nis-commuter-emu"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,

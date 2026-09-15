@@ -2,13 +2,15 @@
   {
     "id": "jre-701-emu",
     "name": "JRE 701 EMU",
-    "description": "JR East 701 series AC regional EMU for T\u014dhoku local services. Manufacturer: Kawasaki Heavy Industries / Tokyu Car.",
+    "description": "JR East 701 series AC regional EMU for Tōhoku local services. Manufacturer: Kawasaki Heavy Industries / Tokyu Car.",
     "stats": {
       "maxAcceleration": 0.95,
       "maxDeceleration": 1.1,
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 30.56,
-      "capacityPerCar": 145,
+      "capacityPerCar": 291,
+      "seatsPerCar": 54,
+      "doorsPerCarPerSide": 3,
       "carLength": 20.0,
       "minCars": 2,
       "maxCars": 6,
@@ -52,7 +54,14 @@
       "Tokyu Car"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail"
+      "commuter-rail",
+      "jre-701-emu",
+      "jre-719-emu",
+      "jre-e721-emu",
+      "jre-gv-e400-demu",
+      "jre-hb-e210-hybrid",
+      "jre-kiha110-dmu",
+      "sat-sat721-emu"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -69,13 +78,15 @@
   {
     "id": "jre-e721-emu",
     "name": "JRE E721 EMU",
-    "description": "JR East E721 series AC regional EMU for Sendai and T\u014dhoku services. Manufacturer: J-TREC.",
+    "description": "JR East E721 series AC regional EMU for Sendai and Tōhoku services. Manufacturer: J-TREC.",
     "stats": {
       "maxAcceleration": 0.95,
       "maxDeceleration": 1.1,
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
-      "capacityPerCar": 145,
+      "capacityPerCar": 291,
+      "seatsPerCar": 52,
+      "doorsPerCarPerSide": 3,
       "carLength": 20.0,
       "minCars": 2,
       "maxCars": 6,
@@ -118,7 +129,14 @@
       "J-TREC"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail"
+      "commuter-rail",
+      "jre-e721-emu",
+      "jre-701-emu",
+      "jre-719-emu",
+      "jre-gv-e400-demu",
+      "jre-hb-e210-hybrid",
+      "jre-kiha110-dmu",
+      "sat-sat721-emu"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -135,13 +153,15 @@
   {
     "id": "jre-kiha110-dmu",
     "name": "JRE KiHa110 DMU",
-    "description": "JR East KiHa 100/110 series regional diesel railcar for rural T\u014dhoku lines. Manufacturer: Fuji Heavy Industries / Niigata Transys.",
+    "description": "JR East KiHa 100/110 series regional diesel railcar for rural Tōhoku lines. Manufacturer: Fuji Heavy Industries / Niigata Transys.",
     "stats": {
       "maxAcceleration": 0.75,
       "maxDeceleration": 0.95,
       "maxSpeed": 27.78,
       "maxSpeedLocalStation": 27.78,
-      "capacityPerCar": 100,
+      "capacityPerCar": 286,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 2,
       "carLength": 20.0,
       "minCars": 1,
       "maxCars": 6,
@@ -185,7 +205,14 @@
       "Niigata Transys"
     ],
     "compatibleTrackTypes": [
-      "regional-rail"
+      "regional-rail",
+      "jre-kiha110-dmu",
+      "jre-701-emu",
+      "jre-719-emu",
+      "jre-e721-emu",
+      "jre-gv-e400-demu",
+      "jre-hb-e210-hybrid",
+      "sat-sat721-emu"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 280000,
@@ -208,7 +235,9 @@
       "maxDeceleration": 0.95,
       "maxSpeed": 27.78,
       "maxSpeedLocalStation": 27.78,
-      "capacityPerCar": 100,
+      "capacityPerCar": 276,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 2,
       "carLength": 20.0,
       "minCars": 1,
       "maxCars": 2,
@@ -251,7 +280,14 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "regional-rail"
+      "regional-rail",
+      "jre-gv-e400-demu",
+      "jre-701-emu",
+      "jre-719-emu",
+      "jre-e721-emu",
+      "jre-hb-e210-hybrid",
+      "jre-kiha110-dmu",
+      "sat-sat721-emu"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 280000,
@@ -268,13 +304,15 @@
   {
     "id": "jre-719-emu",
     "name": "JRE 719 EMU",
-    "description": "JR East 719 series AC regional EMU formerly common across T\u014dhoku. Manufacturer: Tokyu Car / Kawasaki Heavy Industries.",
+    "description": "JR East 719 series AC regional EMU formerly common across Tōhoku. Manufacturer: Tokyu Car / Kawasaki Heavy Industries.",
     "stats": {
       "maxAcceleration": 0.95,
       "maxDeceleration": 1.1,
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 30.56,
-      "capacityPerCar": 140,
+      "capacityPerCar": 291,
+      "seatsPerCar": 52,
+      "doorsPerCarPerSide": 2,
       "carLength": 20.0,
       "minCars": 2,
       "maxCars": 6,
@@ -318,7 +356,14 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail"
+      "commuter-rail",
+      "jre-719-emu",
+      "jre-701-emu",
+      "jre-e721-emu",
+      "jre-gv-e400-demu",
+      "jre-hb-e210-hybrid",
+      "jre-kiha110-dmu",
+      "sat-sat721-emu"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -341,7 +386,9 @@
       "maxDeceleration": 0.95,
       "maxSpeed": 27.78,
       "maxSpeedLocalStation": 27.78,
-      "capacityPerCar": 100,
+      "capacityPerCar": 276,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 2,
       "carLength": 20.0,
       "minCars": 2,
       "maxCars": 4,
@@ -384,7 +431,14 @@
       "J-TREC"
     ],
     "compatibleTrackTypes": [
-      "regional-rail"
+      "regional-rail",
+      "jre-hb-e210-hybrid",
+      "jre-701-emu",
+      "jre-719-emu",
+      "jre-e721-emu",
+      "jre-gv-e400-demu",
+      "jre-kiha110-dmu",
+      "sat-sat721-emu"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 280000,
@@ -407,7 +461,9 @@
       "maxDeceleration": 1.1,
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
-      "capacityPerCar": 145,
+      "capacityPerCar": 291,
+      "seatsPerCar": 52,
+      "doorsPerCarPerSide": 3,
       "carLength": 20.0,
       "minCars": 2,
       "maxCars": 4,
@@ -450,7 +506,14 @@
       "J-TREC"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail"
+      "commuter-rail",
+      "sat-sat721-emu",
+      "jre-701-emu",
+      "jre-719-emu",
+      "jre-e721-emu",
+      "jre-gv-e400-demu",
+      "jre-hb-e210-hybrid",
+      "jre-kiha110-dmu"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,

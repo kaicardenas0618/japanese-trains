@@ -8,7 +8,9 @@
       "maxDeceleration": 0.95,
       "maxSpeed": 27.78,
       "maxSpeedLocalStation": 27.78,
-      "capacityPerCar": 100,
+      "capacityPerCar": 305,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 2,
       "carLength": 21.3,
       "minCars": 2,
       "maxCars": 4,
@@ -51,7 +53,9 @@
       "Niigata Transys"
     ],
     "compatibleTrackTypes": [
-      "regional-rail"
+      "regional-rail",
+      "jrw-kiha126-dmu",
+      "jrw-kiha187-limited-express"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 280000,
@@ -74,7 +78,9 @@
       "maxDeceleration": 1.1,
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
-      "capacityPerCar": 45,
+      "capacityPerCar": 44,
+      "seatsPerCar": 44,
+      "doorsPerCarPerSide": 1,
       "carLength": 21.3,
       "minCars": 2,
       "maxCars": 4,
@@ -117,7 +123,9 @@
       "Niigata Transys"
     ],
     "compatibleTrackTypes": [
-      "intercity-rail"
+      "intercity-rail",
+      "jrw-kiha187-limited-express",
+      "jrw-kiha126-dmu"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -140,7 +148,9 @@
       "maxDeceleration": 1.1,
       "maxSpeed": 25.0,
       "maxSpeedLocalStation": 25.0,
-      "capacityPerCar": 100,
+      "capacityPerCar": 249,
+      "seatsPerCar": 40,
+      "doorsPerCarPerSide": 2,
       "carLength": 18.0,
       "minCars": 1,
       "maxCars": 2,
@@ -183,7 +193,10 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail"
+      "commuter-rail",
+      "ich-7000-emu",
+      "ich-1000-emu",
+      "ich-5000-emu"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -206,7 +219,9 @@
       "maxDeceleration": 1.1,
       "maxSpeed": 25.0,
       "maxSpeedLocalStation": 25.0,
-      "capacityPerCar": 120,
+      "capacityPerCar": 249,
+      "seatsPerCar": 44,
+      "doorsPerCarPerSide": 3,
       "carLength": 18.0,
       "minCars": 2,
       "maxCars": 2,
@@ -249,7 +264,10 @@
       "Tokyu Car"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail"
+      "commuter-rail",
+      "ich-1000-emu",
+      "ich-5000-emu",
+      "ich-7000-emu"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -272,7 +290,9 @@
       "maxDeceleration": 1.1,
       "maxSpeed": 25.0,
       "maxSpeedLocalStation": 25.0,
-      "capacityPerCar": 110,
+      "capacityPerCar": 249,
+      "seatsPerCar": 42,
+      "doorsPerCarPerSide": 3,
       "carLength": 18.0,
       "minCars": 2,
       "maxCars": 2,
@@ -315,7 +335,10 @@
       "Tokyu Car"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail"
+      "commuter-rail",
+      "ich-5000-emu",
+      "ich-1000-emu",
+      "ich-7000-emu"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
