@@ -53,8 +53,6 @@
       "Niigata Transys"
     ],
     "compatibleTrackTypes": [
-      "regional-rail",
-      "jrw-kiha126-dmu",
       "jrw-kiha187-limited-express",
       "jp-285-sunrise",
       "jp-273-yakumo",
@@ -101,7 +99,8 @@
       "kob-jr-321-urban",
       "kob-jr-225-kansai",
       "jrc-313-emu",
-      "jrc-315-emu"
+      "jrc-315-emu",
+      "tyo-e233-urban"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 280000,
@@ -169,8 +168,6 @@
       "Niigata Transys"
     ],
     "compatibleTrackTypes": [
-      "intercity-rail",
-      "jrw-kiha187-limited-express",
       "jrw-kiha126-dmu",
       "jp-285-sunrise",
       "jp-273-yakumo",
@@ -217,7 +214,8 @@
       "kob-jr-321-urban",
       "kob-jr-225-kansai",
       "jrc-313-emu",
-      "jrc-315-emu"
+      "jrc-315-emu",
+      "tyo-e233-urban"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -285,8 +283,6 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail",
-      "ich-7000-emu",
       "ich-1000-emu",
       "ich-5000-emu"
     ],
@@ -356,8 +352,6 @@
       "Tokyu Car"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail",
-      "ich-1000-emu",
       "ich-5000-emu",
       "ich-7000-emu"
     ],
@@ -427,8 +421,6 @@
       "Tokyu Car"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail",
-      "ich-5000-emu",
       "ich-1000-emu",
       "ich-7000-emu"
     ],

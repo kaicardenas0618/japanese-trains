@@ -54,8 +54,6 @@
       "Tokyu Car"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail",
-      "jre-701-emu",
       "jre-719-emu",
       "jre-e721-emu",
       "jre-gv-e400-demu",
@@ -106,7 +104,8 @@
       "jrc-313-emu",
       "jrc-315-emu",
       "jrw-kiha126-dmu",
-      "jrw-kiha187-limited-express"
+      "jrw-kiha187-limited-express",
+      "tyo-e233-urban"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -174,8 +173,6 @@
       "J-TREC"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail",
-      "jre-e721-emu",
       "jre-701-emu",
       "jre-719-emu",
       "jre-gv-e400-demu",
@@ -226,7 +223,8 @@
       "jrc-313-emu",
       "jrc-315-emu",
       "jrw-kiha126-dmu",
-      "jrw-kiha187-limited-express"
+      "jrw-kiha187-limited-express",
+      "tyo-e233-urban"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -295,8 +293,6 @@
       "Niigata Transys"
     ],
     "compatibleTrackTypes": [
-      "regional-rail",
-      "jre-kiha110-dmu",
       "jre-701-emu",
       "jre-719-emu",
       "jre-e721-emu",
@@ -370,8 +366,6 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "regional-rail",
-      "jre-gv-e400-demu",
       "jre-701-emu",
       "jre-719-emu",
       "jre-e721-emu",
@@ -446,8 +440,6 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail",
-      "jre-719-emu",
       "jre-701-emu",
       "jre-e721-emu",
       "jre-gv-e400-demu",
@@ -498,7 +490,8 @@
       "jrc-313-emu",
       "jrc-315-emu",
       "jrw-kiha126-dmu",
-      "jrw-kiha187-limited-express"
+      "jrw-kiha187-limited-express",
+      "tyo-e233-urban"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -566,8 +559,6 @@
       "J-TREC"
     ],
     "compatibleTrackTypes": [
-      "regional-rail",
-      "jre-hb-e210-hybrid",
       "jre-701-emu",
       "jre-719-emu",
       "jre-e721-emu",
@@ -641,8 +632,6 @@
       "J-TREC"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail",
-      "sat-sat721-emu",
       "jre-701-emu",
       "jre-719-emu",
       "jre-e721-emu",

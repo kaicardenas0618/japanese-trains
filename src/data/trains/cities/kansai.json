@@ -55,8 +55,6 @@
       "Nippon Sharyo"
     ],
     "compatibleTrackTypes": [
-      "heavy-metro",
-      "osa-21-midosuji",
       "osa-30000-midosuji"
     ],
     "allowGradeCrossing": true,
@@ -125,8 +123,6 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "heavy-metro",
-      "osa-30000-midosuji",
       "osa-21-midosuji"
     ],
     "allowGradeCrossing": true,
@@ -196,8 +192,6 @@
       "Nippon Sharyo"
     ],
     "compatibleTrackTypes": [
-      "heavy-metro",
-      "osa-22-tanimachi",
       "osa-30000-tanimachi"
     ],
     "allowGradeCrossing": true,
@@ -266,8 +260,6 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "heavy-metro",
-      "osa-30000-tanimachi",
       "osa-22-tanimachi"
     ],
     "allowGradeCrossing": true,
@@ -336,10 +328,7 @@
       "Kinki Sharyo",
       "Nippon Sharyo"
     ],
-    "compatibleTrackTypes": [
-      "heavy-metro",
-      "osa-23-yotsubashi"
-    ],
+    "compatibleTrackTypes": [],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
     "gradeCrossingMaintenancePerYear": 9000,
@@ -406,8 +395,6 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "heavy-metro",
-      "osa-30000a-chuo",
       "osa-400-chuo"
     ],
     "allowGradeCrossing": true,
@@ -476,8 +463,6 @@
       "Hitachi"
     ],
     "compatibleTrackTypes": [
-      "heavy-metro",
-      "osa-400-chuo",
       "osa-30000a-chuo"
     ],
     "allowGradeCrossing": true,
@@ -545,10 +530,7 @@
     "Manufacturer": [
       "Kinki Sharyo"
     ],
-    "compatibleTrackTypes": [
-      "heavy-metro",
-      "osa-25-sennichimae"
-    ],
+    "compatibleTrackTypes": [],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
     "gradeCrossingMaintenancePerYear": 9000,
@@ -615,10 +597,7 @@
       "Kinki Sharyo",
       "Kawasaki Heavy Industries"
     ],
-    "compatibleTrackTypes": [
-      "heavy-metro",
-      "osa-66-sakaisuji"
-    ],
+    "compatibleTrackTypes": [],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
     "gradeCrossingMaintenancePerYear": 9000,
@@ -685,10 +664,7 @@
       "Kinki Sharyo",
       "Kawasaki Heavy Industries"
     ],
-    "compatibleTrackTypes": [
-      "linear-metro",
-      "osa-70-nagahori-linear"
-    ],
+    "compatibleTrackTypes": [],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
     "gradeCrossingMaintenancePerYear": 9000,
@@ -755,10 +731,7 @@
       "Kinki Sharyo",
       "Kawasaki Heavy Industries"
     ],
-    "compatibleTrackTypes": [
-      "linear-metro",
-      "osa-80-imazatosuji-linear"
-    ],
+    "compatibleTrackTypes": [],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
     "gradeCrossingMaintenancePerYear": 9000,
@@ -824,10 +797,7 @@
     "Manufacturer": [
       "Niigata Transys"
     ],
-    "compatibleTrackTypes": [
-      "automated-guideway",
-      "osa-new-tram-200"
-    ],
+    "compatibleTrackTypes": [],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
     "gradeCrossingMaintenancePerYear": 8000,
@@ -893,10 +863,7 @@
     "Manufacturer": [
       "Alna Sharyo"
     ],
-    "compatibleTrackTypes": [
-      "tram",
-      "osa-hankai-1001-tram"
-    ],
+    "compatibleTrackTypes": [],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 180000,
     "gradeCrossingMaintenancePerYear": 5000,
@@ -963,8 +930,6 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail",
-      "osa-jr-323-loop",
       "kob-jr-207-urban",
       "kob-jr-225-kansai",
       "kob-jr-321-urban",
@@ -1011,7 +976,8 @@
       "jrc-313-emu",
       "jrc-315-emu",
       "jrw-kiha126-dmu",
-      "jrw-kiha187-limited-express"
+      "jrw-kiha187-limited-express",
+      "tyo-e233-urban"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -1080,8 +1046,6 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail",
-      "osa-jr-225-kansai",
       "kob-jr-207-urban",
       "kob-jr-225-kansai",
       "kob-jr-321-urban",
@@ -1128,7 +1092,8 @@
       "jrc-313-emu",
       "jrc-315-emu",
       "jrw-kiha126-dmu",
-      "jrw-kiha187-limited-express"
+      "jrw-kiha187-limited-express",
+      "tyo-e233-urban"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -1196,8 +1161,6 @@
       "Tokyu Car"
     ],
     "compatibleTrackTypes": [
-      "intercity-rail",
-      "osa-nankai-50000-rapit",
       "kh-3000-emu",
       "kh-8000-emu",
       "kh-commuter-emu"
@@ -1269,8 +1232,6 @@
       "Hitachi"
     ],
     "compatibleTrackTypes": [
-      "heavy-metro",
-      "kyo-10-karasuma",
       "kyo-20-karasuma",
       "kyo-kintetsu-3200",
       "kyo-kintetsu-3220"
@@ -1341,8 +1302,6 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "heavy-metro",
-      "kyo-20-karasuma",
       "kyo-10-karasuma",
       "kyo-kintetsu-3200",
       "kyo-kintetsu-3220"
@@ -1413,8 +1372,6 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "heavy-metro",
-      "kyo-50-tozai",
       "kyo-keihan-800-keishin"
     ],
     "allowGradeCrossing": true,
@@ -1483,9 +1440,6 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "tram",
-      "kyo-keihan-800-keishin",
-      "light-rail",
       "kyo-50-tozai"
     ],
     "allowGradeCrossing": true,
@@ -1554,8 +1508,6 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "heavy-metro",
-      "kyo-kintetsu-3200",
       "kt-generic-commuter-emu",
       "kyo-10-karasuma",
       "kyo-20-karasuma",
@@ -1627,8 +1579,6 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "heavy-metro",
-      "kyo-kintetsu-3220",
       "kt-generic-commuter-emu",
       "kyo-10-karasuma",
       "kyo-20-karasuma",
@@ -1700,8 +1650,6 @@
       "Mukogawa Sharyo"
     ],
     "compatibleTrackTypes": [
-      "tram",
-      "kyo-randen-2001-tram",
       "kyo-randen-600-tram"
     ],
     "allowGradeCrossing": true,
@@ -1770,8 +1718,6 @@
       "Mukogawa Sharyo"
     ],
     "compatibleTrackTypes": [
-      "tram",
-      "kyo-randen-600-tram",
       "kyo-randen-2001-tram"
     ],
     "allowGradeCrossing": true,
@@ -1839,10 +1785,7 @@
     "Manufacturer": [
       "Mukogawa Sharyo"
     ],
-    "compatibleTrackTypes": [
-      "commuter-rail",
-      "kyo-eizan-900-kirara"
-    ],
+    "compatibleTrackTypes": [],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
     "gradeCrossingMaintenancePerYear": 8000,
@@ -1910,8 +1853,6 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail",
-      "kyo-jr-221-kansai",
       "kob-jr-207-urban",
       "kob-jr-225-kansai",
       "kob-jr-321-urban",
@@ -1958,7 +1899,8 @@
       "jrc-313-emu",
       "jrc-315-emu",
       "jrw-kiha126-dmu",
-      "jrw-kiha187-limited-express"
+      "jrw-kiha187-limited-express",
+      "tyo-e233-urban"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -2027,8 +1969,6 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail",
-      "kyo-jr-225-kansai",
       "kob-jr-207-urban",
       "kob-jr-225-kansai",
       "kob-jr-321-urban",
@@ -2075,7 +2015,8 @@
       "jrc-313-emu",
       "jrc-315-emu",
       "jrw-kiha126-dmu",
-      "jrw-kiha187-limited-express"
+      "jrw-kiha187-limited-express",
+      "tyo-e233-urban"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -2144,8 +2085,6 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail",
-      "kyo-jr-321-urban",
       "kob-jr-207-urban",
       "kob-jr-225-kansai",
       "kob-jr-321-urban",
@@ -2192,7 +2131,8 @@
       "jrc-313-emu",
       "jrc-315-emu",
       "jrw-kiha126-dmu",
-      "jrw-kiha187-limited-express"
+      "jrw-kiha187-limited-express",
+      "tyo-e233-urban"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -2260,8 +2200,6 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "heavy-metro",
-      "kob-1000-seishin",
       "kob-2000-seishin",
       "kob-3000-seishin",
       "kob-6000-seishin",
@@ -2333,8 +2271,6 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "heavy-metro",
-      "kob-2000-seishin",
       "kob-1000-seishin",
       "kob-3000-seishin",
       "kob-6000-seishin",
@@ -2406,8 +2342,6 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "heavy-metro",
-      "kob-3000-seishin",
       "kob-1000-seishin",
       "kob-2000-seishin",
       "kob-6000-seishin",
@@ -2479,8 +2413,6 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "heavy-metro",
-      "kob-6000-seishin",
       "kob-1000-seishin",
       "kob-2000-seishin",
       "kob-3000-seishin",
@@ -2552,8 +2484,6 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "heavy-metro",
-      "kob-7000-hokushin",
       "kob-1000-seishin",
       "kob-2000-seishin",
       "kob-3000-seishin",
@@ -2624,10 +2554,7 @@
     "Manufacturer": [
       "Kawasaki Heavy Industries"
     ],
-    "compatibleTrackTypes": [
-      "linear-metro",
-      "kob-5000-kaigan-linear"
-    ],
+    "compatibleTrackTypes": [],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
     "gradeCrossingMaintenancePerYear": 9000,
@@ -2693,10 +2620,7 @@
     "Manufacturer": [
       "Kawasaki Heavy Industries"
     ],
-    "compatibleTrackTypes": [
-      "automated-guideway",
-      "kob-port-liner-2000"
-    ],
+    "compatibleTrackTypes": [],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
     "gradeCrossingMaintenancePerYear": 8000,
@@ -2762,10 +2686,7 @@
     "Manufacturer": [
       "Kawasaki Heavy Industries"
     ],
-    "compatibleTrackTypes": [
-      "automated-guideway",
-      "kob-rokko-3000"
-    ],
+    "compatibleTrackTypes": [],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
     "gradeCrossingMaintenancePerYear": 8000,
@@ -2834,8 +2755,6 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail",
-      "kob-jr-207-urban",
       "kob-jr-225-kansai",
       "kob-jr-321-urban",
       "kyo-jr-221-kansai",
@@ -2882,7 +2801,8 @@
       "jrc-313-emu",
       "jrc-315-emu",
       "jrw-kiha126-dmu",
-      "jrw-kiha187-limited-express"
+      "jrw-kiha187-limited-express",
+      "tyo-e233-urban"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -2951,8 +2871,6 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail",
-      "kob-jr-321-urban",
       "kob-jr-207-urban",
       "kob-jr-225-kansai",
       "kyo-jr-221-kansai",
@@ -2999,7 +2917,8 @@
       "jrc-313-emu",
       "jrc-315-emu",
       "jrw-kiha126-dmu",
-      "jrw-kiha187-limited-express"
+      "jrw-kiha187-limited-express",
+      "tyo-e233-urban"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -3068,8 +2987,6 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail",
-      "kob-jr-225-kansai",
       "kob-jr-207-urban",
       "kob-jr-321-urban",
       "kyo-jr-221-kansai",
@@ -3116,7 +3033,8 @@
       "jrc-313-emu",
       "jrc-315-emu",
       "jrw-kiha126-dmu",
-      "jrw-kiha187-limited-express"
+      "jrw-kiha187-limited-express",
+      "tyo-e233-urban"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -3184,8 +3102,6 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail",
-      "kob-hanshin-1000",
       "hn-1000-emu",
       "hn-9300-emu",
       "kob-sanyo-6000",
@@ -3256,10 +3172,7 @@
     "Manufacturer": [
       "Hitachi"
     ],
-    "compatibleTrackTypes": [
-      "commuter-rail",
-      "kob-hankyu-1000"
-    ],
+    "compatibleTrackTypes": [],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
     "gradeCrossingMaintenancePerYear": 8000,
@@ -3326,8 +3239,6 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail",
-      "kob-sanyo-6000",
       "hn-1000-emu",
       "hn-9300-emu",
       "kob-hanshin-1000",
@@ -3399,8 +3310,6 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail",
-      "kt-generic-commuter-emu",
       "hn-1000-emu",
       "hn-9300-emu",
       "kob-hanshin-1000",
@@ -3477,8 +3386,6 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail",
-      "kh-commuter-emu",
       "kh-3000-emu",
       "kh-8000-emu",
       "osa-nankai-50000-rapit"
@@ -3549,8 +3456,6 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "intercity-rail",
-      "kh-3000-emu",
       "kh-8000-emu",
       "kh-commuter-emu",
       "osa-nankai-50000-rapit"
@@ -3621,8 +3526,6 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "intercity-rail",
-      "kt-21000-urban-liner-limited-express",
       "kt-50000-shimakaze-limited-express",
       "kt-generic-commuter-emu"
     ],
@@ -3692,8 +3595,6 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "intercity-rail",
-      "kt-50000-shimakaze-limited-express",
       "kt-21000-urban-liner-limited-express",
       "kt-generic-commuter-emu"
     ],
@@ -3763,8 +3664,6 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "intercity-rail",
-      "kh-8000-emu",
       "kh-3000-emu",
       "kh-commuter-emu",
       "osa-nankai-50000-rapit"
@@ -3835,8 +3734,6 @@
       "Hitachi"
     ],
     "compatibleTrackTypes": [
-      "intercity-rail",
-      "hn-9300-emu",
       "hn-1000-emu",
       "kob-hanshin-1000",
       "kob-sanyo-6000",
@@ -3908,8 +3805,6 @@
       "Hitachi"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail",
-      "hn-1000-emu",
       "hn-9300-emu",
       "kob-hanshin-1000",
       "kob-sanyo-6000",

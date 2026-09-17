@@ -56,8 +56,6 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "high-speed-rail",
-      "jp-n700a-shinkansen",
       "jp-500-shinkansen",
       "jp-700-rail-star",
       "jp-n700-7000-sakura",
@@ -130,8 +128,6 @@
       "Nippon Sharyo"
     ],
     "compatibleTrackTypes": [
-      "high-speed-rail",
-      "jp-n700s-shinkansen",
       "jp-500-shinkansen",
       "jp-700-rail-star",
       "jp-n700-7000-sakura",
@@ -206,8 +202,6 @@
       "Nippon Sharyo"
     ],
     "compatibleTrackTypes": [
-      "high-speed-rail",
-      "jp-n700-7000-sakura",
       "jp-500-shinkansen",
       "jp-700-rail-star",
       "jp-n700a-shinkansen",
@@ -279,10 +273,7 @@
       "Hitachi",
       "Nippon Sharyo"
     ],
-    "compatibleTrackTypes": [
-      "high-speed-rail",
-      "jp-n700s-8000-kamome"
-    ],
+    "compatibleTrackTypes": [],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
     "gradeCrossingMaintenancePerYear": 18000,
@@ -352,8 +343,6 @@
       "Nippon Sharyo"
     ],
     "compatibleTrackTypes": [
-      "high-speed-rail",
-      "jp-500-shinkansen",
       "jp-700-rail-star",
       "jp-n700-7000-sakura",
       "jp-n700a-shinkansen",
@@ -428,8 +417,6 @@
       "Nippon Sharyo"
     ],
     "compatibleTrackTypes": [
-      "high-speed-rail",
-      "jp-700-rail-star",
       "jp-500-shinkansen",
       "jp-n700-7000-sakura",
       "jp-n700a-shinkansen",
@@ -500,10 +487,7 @@
     "Manufacturer": [
       "Hitachi"
     ],
-    "compatibleTrackTypes": [
-      "high-speed-rail",
-      "jp-800-shinkansen"
-    ],
+    "compatibleTrackTypes": [],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
     "gradeCrossingMaintenancePerYear": 18000,
@@ -571,8 +555,6 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "high-speed-rail",
-      "jp-e5-shinkansen",
       "jp-e2-shinkansen",
       "jp-e3-tsubasa",
       "jp-e6-komachi",
@@ -648,8 +630,6 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "high-speed-rail",
-      "jp-h5-shinkansen",
       "jp-e2-shinkansen",
       "jp-e3-tsubasa",
       "jp-e5-shinkansen",
@@ -725,8 +705,6 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "high-speed-rail",
-      "jp-e6-komachi",
       "jp-e2-shinkansen",
       "jp-e3-tsubasa",
       "jp-e5-shinkansen",
@@ -803,8 +781,6 @@
       "J-TREC"
     ],
     "compatibleTrackTypes": [
-      "high-speed-rail",
-      "jp-e7-shinkansen",
       "jp-e2-shinkansen",
       "jp-e3-tsubasa",
       "jp-e5-shinkansen",
@@ -881,8 +857,6 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "high-speed-rail",
-      "jp-w7-shinkansen",
       "jp-e2-shinkansen",
       "jp-e3-tsubasa",
       "jp-e5-shinkansen",
@@ -957,8 +931,6 @@
       "Hitachi"
     ],
     "compatibleTrackTypes": [
-      "high-speed-rail",
-      "jp-e8-tsubasa",
       "jp-e2-shinkansen",
       "jp-e3-tsubasa",
       "jp-e5-shinkansen",
@@ -1034,8 +1006,6 @@
       "Tokyu Car"
     ],
     "compatibleTrackTypes": [
-      "high-speed-rail",
-      "jp-e3-tsubasa",
       "jp-e2-shinkansen",
       "jp-e5-shinkansen",
       "jp-e6-komachi",
@@ -1112,8 +1082,6 @@
       "Tokyu Car"
     ],
     "compatibleTrackTypes": [
-      "high-speed-rail",
-      "jp-e2-shinkansen",
       "jp-e3-tsubasa",
       "jp-e5-shinkansen",
       "jp-e6-komachi",
@@ -1189,8 +1157,6 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "intercity-rail",
-      "jp-285-sunrise",
       "jp-271-haruka",
       "jp-273-yakumo",
       "jp-281-haruka",
@@ -1237,7 +1203,8 @@
       "jrc-313-emu",
       "jrc-315-emu",
       "jrw-kiha126-dmu",
-      "jrw-kiha187-limited-express"
+      "jrw-kiha187-limited-express",
+      "tyo-e233-urban"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -1305,8 +1272,6 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "intercity-rail",
-      "jp-273-yakumo",
       "jp-271-haruka",
       "jp-281-haruka",
       "jp-285-sunrise",
@@ -1353,7 +1318,8 @@
       "jrc-313-emu",
       "jrc-315-emu",
       "jrw-kiha126-dmu",
-      "jrw-kiha187-limited-express"
+      "jrw-kiha187-limited-express",
+      "tyo-e233-urban"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -1422,8 +1388,6 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "intercity-rail",
-      "jp-281-haruka",
       "jp-271-haruka",
       "jp-273-yakumo",
       "jp-285-sunrise",
@@ -1470,7 +1434,8 @@
       "jrc-313-emu",
       "jrc-315-emu",
       "jrw-kiha126-dmu",
-      "jrw-kiha187-limited-express"
+      "jrw-kiha187-limited-express",
+      "tyo-e233-urban"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -1538,8 +1503,6 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "intercity-rail",
-      "jp-271-haruka",
       "jp-273-yakumo",
       "jp-281-haruka",
       "jp-285-sunrise",
@@ -1586,7 +1549,8 @@
       "jrc-313-emu",
       "jrc-315-emu",
       "jrw-kiha126-dmu",
-      "jrw-kiha187-limited-express"
+      "jrw-kiha187-limited-express",
+      "tyo-e233-urban"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -1655,8 +1619,6 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "intercity-rail",
-      "jp-287-limited-express",
       "jp-271-haruka",
       "jp-273-yakumo",
       "jp-281-haruka",
@@ -1703,7 +1665,8 @@
       "jrc-313-emu",
       "jrc-315-emu",
       "jrw-kiha126-dmu",
-      "jrw-kiha187-limited-express"
+      "jrw-kiha187-limited-express",
+      "tyo-e233-urban"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -1772,8 +1735,6 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "intercity-rail",
-      "jp-289-limited-express",
       "jp-271-haruka",
       "jp-273-yakumo",
       "jp-281-haruka",
@@ -1820,7 +1781,8 @@
       "jrc-313-emu",
       "jrc-315-emu",
       "jrw-kiha126-dmu",
-      "jrw-kiha187-limited-express"
+      "jrw-kiha187-limited-express",
+      "tyo-e233-urban"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -1889,8 +1851,6 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "intercity-rail",
-      "jp-683-thunderbird",
       "jp-271-haruka",
       "jp-273-yakumo",
       "jp-281-haruka",
@@ -1937,7 +1897,8 @@
       "jrc-313-emu",
       "jrc-315-emu",
       "jrw-kiha126-dmu",
-      "jrw-kiha187-limited-express"
+      "jrw-kiha187-limited-express",
+      "tyo-e233-urban"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -2005,8 +1966,6 @@
       "J-TREC"
     ],
     "compatibleTrackTypes": [
-      "intercity-rail",
-      "jp-385-shinano",
       "jp-285-sunrise",
       "jp-273-yakumo",
       "jp-281-haruka",
@@ -2053,7 +2012,8 @@
       "jrc-313-emu",
       "jrc-315-emu",
       "jrw-kiha126-dmu",
-      "jrw-kiha187-limited-express"
+      "jrw-kiha187-limited-express",
+      "tyo-e233-urban"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -2121,10 +2081,7 @@
       "Fuji Heavy Industries",
       "Niigata Transys"
     ],
-    "compatibleTrackTypes": [
-      "intercity-rail",
-      "jp-261-hokkaido"
-    ],
+    "compatibleTrackTypes": [],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
     "gradeCrossingMaintenancePerYear": 9000,
@@ -2191,8 +2148,6 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "intercity-rail",
-      "jp-8600-shikoku",
       "jp-285-sunrise",
       "jp-273-yakumo",
       "jp-281-haruka",
@@ -2239,7 +2194,8 @@
       "jrc-313-emu",
       "jrc-315-emu",
       "jrw-kiha126-dmu",
-      "jrw-kiha187-limited-express"
+      "jrw-kiha187-limited-express",
+      "tyo-e233-urban"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -2310,8 +2266,6 @@
       "Hitachi"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail",
-      "jp-jnr-115-emu",
       "jp-jnr-113-emu",
       "jp-jnr-117-emu",
       "jp-jnr-211-emu",
@@ -2358,7 +2312,8 @@
       "jrc-313-emu",
       "jrc-315-emu",
       "jrw-kiha126-dmu",
-      "jrw-kiha187-limited-express"
+      "jrw-kiha187-limited-express",
+      "tyo-e233-urban"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -2427,10 +2382,7 @@
       "Niigata Tekko",
       "Fuji Heavy Industries"
     ],
-    "compatibleTrackTypes": [
-      "regional-rail",
-      "jp-jnr-kiha40-dmu"
-    ],
+    "compatibleTrackTypes": [],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 280000,
     "gradeCrossingMaintenancePerYear": 7000,
@@ -2500,8 +2452,6 @@
       "Hitachi"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail",
-      "jp-jnr-415-emu",
       "jp-jnr-113-emu",
       "jp-jnr-115-emu",
       "jp-jnr-117-emu",
@@ -2548,7 +2498,8 @@
       "jrc-313-emu",
       "jrc-315-emu",
       "jrw-kiha126-dmu",
-      "jrw-kiha187-limited-express"
+      "jrw-kiha187-limited-express",
+      "tyo-e233-urban"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -2620,8 +2571,6 @@
       "Tokyu Car"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail",
-      "jp-jnr-213-emu",
       "jp-jnr-113-emu",
       "jp-jnr-115-emu",
       "jp-jnr-117-emu",
@@ -2668,7 +2617,8 @@
       "jrc-313-emu",
       "jrc-315-emu",
       "jrw-kiha126-dmu",
-      "jrw-kiha187-limited-express"
+      "jrw-kiha187-limited-express",
+      "tyo-e233-urban"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -2739,8 +2689,6 @@
       "Hitachi"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail",
-      "jp-jnr-113-emu",
       "jp-jnr-115-emu",
       "jp-jnr-117-emu",
       "jp-jnr-211-emu",
@@ -2787,7 +2735,8 @@
       "jrc-313-emu",
       "jrc-315-emu",
       "jrw-kiha126-dmu",
-      "jrw-kiha187-limited-express"
+      "jrw-kiha187-limited-express",
+      "tyo-e233-urban"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -2857,8 +2806,6 @@
       "Nippon Sharyo"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail",
-      "jp-jnr-117-emu",
       "jp-jnr-113-emu",
       "jp-jnr-115-emu",
       "jp-jnr-211-emu",
@@ -2905,7 +2852,8 @@
       "jrc-313-emu",
       "jrc-315-emu",
       "jrw-kiha126-dmu",
-      "jrw-kiha187-limited-express"
+      "jrw-kiha187-limited-express",
+      "tyo-e233-urban"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -2976,8 +2924,6 @@
       "Nippon Sharyo"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail",
-      "jp-jnr-211-emu",
       "jp-jnr-113-emu",
       "jp-jnr-115-emu",
       "jp-jnr-117-emu",
@@ -3024,7 +2970,8 @@
       "jrc-313-emu",
       "jrc-315-emu",
       "jrw-kiha126-dmu",
-      "jrw-kiha187-limited-express"
+      "jrw-kiha187-limited-express",
+      "tyo-e233-urban"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,

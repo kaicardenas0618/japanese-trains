@@ -55,8 +55,6 @@
       "Toyo Denki"
     ],
     "compatibleTrackTypes": [
-      "tram",
-      "hrd-5100-green-mover-tram",
       "hrd-1000-green-mover-lex-tram",
       "hrd-1900-tram",
       "hrd-5200-green-mover-apex-tram",
@@ -128,8 +126,6 @@
       "Naniwa Koki"
     ],
     "compatibleTrackTypes": [
-      "tram",
-      "hrd-1900-tram",
       "hrd-1000-green-mover-lex-tram",
       "hrd-5100-green-mover-tram",
       "hrd-5200-green-mover-apex-tram",
@@ -201,8 +197,6 @@
       "Kisha Seizo"
     ],
     "compatibleTrackTypes": [
-      "tram",
-      "hrd-650-tram",
       "hrd-1000-green-mover-lex-tram",
       "hrd-1900-tram",
       "hrd-5100-green-mover-tram",
@@ -276,8 +270,6 @@
       "Toyo Denki"
     ],
     "compatibleTrackTypes": [
-      "tram",
-      "hrd-1000-green-mover-lex-tram",
       "hrd-1900-tram",
       "hrd-5100-green-mover-tram",
       "hrd-5200-green-mover-apex-tram",
@@ -351,8 +343,6 @@
       "Toyo Denki"
     ],
     "compatibleTrackTypes": [
-      "tram",
-      "hrd-5200-green-mover-apex-tram",
       "hrd-1000-green-mover-lex-tram",
       "hrd-1900-tram",
       "hrd-5100-green-mover-tram",
@@ -424,10 +414,7 @@
       "Mitsubishi Heavy Industries",
       "Niigata Engineering"
     ],
-    "compatibleTrackTypes": [
-      "automated-guideway",
-      "ast-6000-astram-agt"
-    ],
+    "compatibleTrackTypes": [],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
     "gradeCrossingMaintenancePerYear": 8000,
@@ -495,8 +482,6 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail",
-      "jrw-227-red-wing-emu",
       "jp-285-sunrise",
       "jp-273-yakumo",
       "jp-281-haruka",
@@ -543,7 +528,8 @@
       "jrc-313-emu",
       "jrc-315-emu",
       "jrw-kiha126-dmu",
-      "jrw-kiha187-limited-express"
+      "jrw-kiha187-limited-express",
+      "tyo-e233-urban"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,

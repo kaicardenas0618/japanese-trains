@@ -53,8 +53,6 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "regional-rail",
-      "jrh-h100-demu",
       "jrh-721-emu",
       "jrh-733-emu",
       "jrh-737-emu",
@@ -127,8 +125,6 @@
       "Fuji Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "regional-rail",
-      "jrh-kiha150-dmu",
       "jrh-721-emu",
       "jrh-733-emu",
       "jrh-737-emu",
@@ -202,8 +198,6 @@
       "Hitachi"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail",
-      "jrh-721-emu",
       "jrh-733-emu",
       "jrh-737-emu",
       "jrh-789-limited-express",
@@ -252,7 +246,8 @@
       "jrc-313-emu",
       "jrc-315-emu",
       "jrw-kiha126-dmu",
-      "jrw-kiha187-limited-express"
+      "jrw-kiha187-limited-express",
+      "tyo-e233-urban"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -320,8 +315,6 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail",
-      "jrh-733-emu",
       "jrh-721-emu",
       "jrh-737-emu",
       "jrh-789-limited-express",
@@ -370,7 +363,8 @@
       "jrc-313-emu",
       "jrc-315-emu",
       "jrw-kiha126-dmu",
-      "jrw-kiha187-limited-express"
+      "jrw-kiha187-limited-express",
+      "tyo-e233-urban"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -438,8 +432,6 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail",
-      "jrh-737-emu",
       "jrh-721-emu",
       "jrh-733-emu",
       "jrh-789-limited-express",
@@ -488,7 +480,8 @@
       "jrc-313-emu",
       "jrc-315-emu",
       "jrw-kiha126-dmu",
-      "jrw-kiha187-limited-express"
+      "jrw-kiha187-limited-express",
+      "tyo-e233-urban"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -557,8 +550,6 @@
       "Hitachi"
     ],
     "compatibleTrackTypes": [
-      "intercity-rail",
-      "jrh-789-limited-express",
       "jrh-721-emu",
       "jrh-733-emu",
       "jrh-737-emu",
@@ -607,7 +598,8 @@
       "jrc-313-emu",
       "jrc-315-emu",
       "jrw-kiha126-dmu",
-      "jrw-kiha187-limited-express"
+      "jrw-kiha187-limited-express",
+      "tyo-e233-urban"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,

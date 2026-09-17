@@ -53,8 +53,6 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail",
-      "spk-731-emu",
       "spk-735-emu",
       "jp-285-sunrise",
       "jp-273-yakumo",
@@ -101,7 +99,8 @@
       "jrc-313-emu",
       "jrc-315-emu",
       "jrw-kiha126-dmu",
-      "jrw-kiha187-limited-express"
+      "jrw-kiha187-limited-express",
+      "tyo-e233-urban"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -169,8 +168,6 @@
       "Hitachi"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail",
-      "spk-735-emu",
       "spk-731-emu",
       "jp-285-sunrise",
       "jp-273-yakumo",
@@ -217,7 +214,8 @@
       "jrc-313-emu",
       "jrc-315-emu",
       "jrw-kiha126-dmu",
-      "jrw-kiha187-limited-express"
+      "jrw-kiha187-limited-express",
+      "tyo-e233-urban"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -284,10 +282,7 @@
     "Manufacturer": [
       "Kawasaki Heavy Industries"
     ],
-    "compatibleTrackTypes": [
-      "heavy-metro",
-      "spk-sapporo-5000-subway"
-    ],
+    "compatibleTrackTypes": [],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
     "gradeCrossingMaintenancePerYear": 9000,
@@ -354,8 +349,6 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "heavy-metro",
-      "spk-sapporo-8000-subway",
       "spk-sapporo-9000-subway"
     ],
     "allowGradeCrossing": true,
@@ -424,8 +417,6 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "heavy-metro",
-      "spk-sapporo-9000-subway",
       "spk-sapporo-8000-subway"
     ],
     "allowGradeCrossing": true,
@@ -494,8 +485,6 @@
       "Alna Sharyo"
     ],
     "compatibleTrackTypes": [
-      "tram",
-      "spk-a1200-polaris-tram",
       "spk-1100-sirius-tram"
     ],
     "allowGradeCrossing": true,
@@ -564,8 +553,6 @@
       "Alna Sharyo"
     ],
     "compatibleTrackTypes": [
-      "tram",
-      "spk-1100-sirius-tram",
       "spk-a1200-polaris-tram"
     ],
     "allowGradeCrossing": true,

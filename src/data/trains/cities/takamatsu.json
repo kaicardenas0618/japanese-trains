@@ -54,8 +54,6 @@
       "Tokyu Car"
     ],
     "compatibleTrackTypes": [
-      "tram",
-      "ktd-1300-emu",
       "ktd-1080-emu",
       "ktd-1200-emu"
     ],
@@ -126,8 +124,6 @@
       "Tokyu Car"
     ],
     "compatibleTrackTypes": [
-      "tram",
-      "ktd-1200-emu",
       "ktd-1080-emu",
       "ktd-1300-emu"
     ],
@@ -198,8 +194,6 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "tram",
-      "ktd-1080-emu",
       "ktd-1200-emu",
       "ktd-1300-emu"
     ],
@@ -270,8 +264,6 @@
       "JR Shikoku"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail",
-      "jrs-7200-emu",
       "jrs-2600-dmu",
       "jp-285-sunrise",
       "jp-273-yakumo",
@@ -319,7 +311,8 @@
       "jrc-313-emu",
       "jrc-315-emu",
       "jrw-kiha126-dmu",
-      "jrw-kiha187-limited-express"
+      "jrw-kiha187-limited-express",
+      "tyo-e233-urban"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -387,8 +380,6 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "intercity-rail",
-      "jrs-2600-dmu",
       "jrs-7200-emu"
     ],
     "allowGradeCrossing": true,

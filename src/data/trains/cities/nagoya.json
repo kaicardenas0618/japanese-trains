@@ -54,8 +54,6 @@
       "Nippon Sharyo"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail",
-      "jrc-313-emu",
       "jrc-315-emu",
       "jp-285-sunrise",
       "jp-273-yakumo",
@@ -102,7 +100,8 @@
       "kob-jr-321-urban",
       "kob-jr-225-kansai",
       "jrw-kiha126-dmu",
-      "jrw-kiha187-limited-express"
+      "jrw-kiha187-limited-express",
+      "tyo-e233-urban"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -170,8 +169,6 @@
       "Nippon Sharyo"
     ],
     "compatibleTrackTypes": [
-      "intercity-rail",
-      "mei-1000-limited-express",
       "mei-6000-emu",
       "mei-9500-emu",
       "ngy-n3000-tsurumai-subway"
@@ -242,8 +239,6 @@
       "Nippon Sharyo"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail",
-      "mei-6000-emu",
       "mei-1000-limited-express",
       "mei-9500-emu",
       "ngy-n3000-tsurumai-subway"
@@ -314,8 +309,6 @@
       "Nippon Sharyo"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail",
-      "mei-9500-emu",
       "mei-1000-limited-express",
       "mei-6000-emu",
       "ngy-n3000-tsurumai-subway"
@@ -386,8 +379,6 @@
       "Nippon Sharyo"
     ],
     "compatibleTrackTypes": [
-      "commuter-rail",
-      "jrc-315-emu",
       "jrc-313-emu",
       "jp-285-sunrise",
       "jp-273-yakumo",
@@ -434,7 +425,8 @@
       "kob-jr-321-urban",
       "kob-jr-225-kansai",
       "jrw-kiha126-dmu",
-      "jrw-kiha187-limited-express"
+      "jrw-kiha187-limited-express",
+      "tyo-e233-urban"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -501,10 +493,7 @@
     "Manufacturer": [
       "Nippon Sharyo"
     ],
-    "compatibleTrackTypes": [
-      "heavy-metro",
-      "ngy-n1000-higashiyama-subway"
-    ],
+    "compatibleTrackTypes": [],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
     "gradeCrossingMaintenancePerYear": 9000,
@@ -572,8 +561,6 @@
       "Hitachi"
     ],
     "compatibleTrackTypes": [
-      "heavy-metro",
-      "ngy-n3000-tsurumai-subway",
       "mei-1000-limited-express",
       "mei-6000-emu",
       "mei-9500-emu"
@@ -643,10 +630,7 @@
     "Manufacturer": [
       "Nippon Sharyo"
     ],
-    "compatibleTrackTypes": [
-      "heavy-metro",
-      "ngy-6050-sakura-dori-subway"
-    ],
+    "compatibleTrackTypes": [],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
     "gradeCrossingMaintenancePerYear": 9000,
@@ -712,10 +696,7 @@
     "Manufacturer": [
       "Nippon Sharyo"
     ],
-    "compatibleTrackTypes": [
-      "maglev",
-      "ngy-linimo-100-maglev"
-    ],
+    "compatibleTrackTypes": [],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 450000,
     "gradeCrossingMaintenancePerYear": 10000,
