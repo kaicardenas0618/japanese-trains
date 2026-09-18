@@ -101,7 +101,15 @@
       "kob-jr-225-kansai",
       "jrw-kiha126-dmu",
       "jrw-kiha187-limited-express",
-      "tyo-e233-urban"
+      "tyo-e233-urban",
+      "tkk-1000-emu",
+      "tkk-2020-emu",
+      "tkk-5050-emu",
+      "tyo-9000-namboku",
+      "tyo-13000-hibiya",
+      "tyo-17000-yurakucho-fukutoshin",
+      "tyo-15000-tozai",
+      "tyo-e231-urban"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -426,7 +434,15 @@
       "kob-jr-225-kansai",
       "jrw-kiha126-dmu",
       "jrw-kiha187-limited-express",
-      "tyo-e233-urban"
+      "tyo-e233-urban",
+      "tkk-1000-emu",
+      "tkk-2020-emu",
+      "tkk-5050-emu",
+      "tyo-9000-namboku",
+      "tyo-13000-hibiya",
+      "tyo-17000-yurakucho-fukutoshin",
+      "tyo-15000-tozai",
+      "tyo-e231-urban"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
