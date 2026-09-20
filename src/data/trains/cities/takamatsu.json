@@ -25,7 +25,7 @@
       "carOperationalCostPerHour": 26,
       "scissorsCrossoverCost": 16000000,
       "trackClearance": 1.0,
-      "maxLateralAcceleration": 0.85,
+      "maxLateralAcceleration": 1.275,
       "minTurnRadius": 70,
       "minStationTurnRadius": 700,
       "maxSlopePercentage": 3.5,
@@ -61,10 +61,10 @@
     "gradeCrossingBaseCost": 180000,
     "gradeCrossingMaintenancePerYear": 5000,
     "gradeCrossingTphLimit": {
-      "highway": 10,
-      "major": 16,
-      "medium": 22,
-      "minor": 30
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
     },
     "portalCost": 3500000,
     "rampCost": 1750000
@@ -95,7 +95,7 @@
       "carOperationalCostPerHour": 26,
       "scissorsCrossoverCost": 16000000,
       "trackClearance": 1.0,
-      "maxLateralAcceleration": 0.85,
+      "maxLateralAcceleration": 1.275,
       "minTurnRadius": 70,
       "minStationTurnRadius": 700,
       "maxSlopePercentage": 3.5,
@@ -131,10 +131,10 @@
     "gradeCrossingBaseCost": 180000,
     "gradeCrossingMaintenancePerYear": 5000,
     "gradeCrossingTphLimit": {
-      "highway": 10,
-      "major": 16,
-      "medium": 22,
-      "minor": 30
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
     },
     "portalCost": 3500000,
     "rampCost": 1750000
@@ -165,7 +165,7 @@
       "carOperationalCostPerHour": 26,
       "scissorsCrossoverCost": 16000000,
       "trackClearance": 1.0,
-      "maxLateralAcceleration": 0.85,
+      "maxLateralAcceleration": 1.275,
       "minTurnRadius": 70,
       "minStationTurnRadius": 700,
       "maxSlopePercentage": 3.5,
@@ -201,10 +201,10 @@
     "gradeCrossingBaseCost": 180000,
     "gradeCrossingMaintenancePerYear": 5000,
     "gradeCrossingTphLimit": {
-      "highway": 10,
-      "major": 16,
-      "medium": 22,
-      "minor": 30
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
     },
     "portalCost": 3500000,
     "rampCost": 1750000
@@ -235,7 +235,7 @@
       "carOperationalCostPerHour": 26,
       "scissorsCrossoverCost": 16000000,
       "trackClearance": 1.0,
-      "maxLateralAcceleration": 0.85,
+      "maxLateralAcceleration": 1.275,
       "minTurnRadius": 70,
       "minStationTurnRadius": 700,
       "maxSlopePercentage": 3.5,
@@ -326,10 +326,10 @@
     "gradeCrossingBaseCost": 300000,
     "gradeCrossingMaintenancePerYear": 8000,
     "gradeCrossingTphLimit": {
-      "highway": 8,
-      "major": 12,
-      "medium": 16,
-      "minor": 22
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
     },
     "portalCost": 10000000,
     "rampCost": 5000000
@@ -360,7 +360,7 @@
       "carOperationalCostPerHour": 32,
       "scissorsCrossoverCost": 22000000,
       "trackClearance": 1.15,
-      "maxLateralAcceleration": 0.75,
+      "maxLateralAcceleration": 1.125,
       "minTurnRadius": 70,
       "minStationTurnRadius": 1200,
       "maxSlopePercentage": 3.5,
@@ -394,10 +394,10 @@
     "gradeCrossingBaseCost": 350000,
     "gradeCrossingMaintenancePerYear": 9000,
     "gradeCrossingTphLimit": {
-      "highway": 6,
-      "major": 10,
-      "medium": 14,
-      "minor": 18
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
     },
     "portalCost": 11000000,
     "rampCost": 5500000

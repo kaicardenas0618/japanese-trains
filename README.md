@@ -2,9 +2,9 @@
 
 Subway Builder Japanese Trains is a mod for Subway Builder that adds trains from cities around Japan. This pack contains rolling stock from the following Japanese cities, with more planned.
 
-## Currently Available Trains (175)
+## Currently Available Trains (176)
 
-#### National (32)
+#### National (33)
 
 |Name|Description|Manufacturer|Top Speed (km/h)|Maximum Capacity|
 |-|-|-|-|-|
@@ -40,6 +40,7 @@ Subway Builder Japanese Trains is a mod for Subway Builder that adds trains from
 |JP JNR 113 EMU|JNR 113 series DC suburban EMU. Broad national legacy suburban profile for areas not covered by newer stock. Manufacturer: JNR / Nippon Sharyo / Kawasaki Heavy Industries / Hitachi.|JNR / Nippon Sharyo / Kawasaki Heavy Industries / Hitachi|110|1740|
 |JP JNR 117 EMU|JNR 117 series two-door suburban EMU used on rapid and regional services. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo.|Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo|115|1040|
 |JP JNR 211 EMU|JNR 211 series suburban EMU. Later JNR stainless-steel regional and suburban stock. Manufacturer: JNR / Kawasaki Heavy Industries / Tokyu Car / Nippon Sharyo.|JNR / Kawasaki Heavy Industries / Tokyu Car / Nippon Sharyo|110|1500|
+|JP L0 Chuo Shinkansen|8-car L0 series SCMaglev train for the Chuo Shinkansen high-speed maglev line linking Tokyo, Nagoya, and Osaka. Manufacturer: Hitachi / Kawasaki Heavy Industries / Nippon Sharyo.|Hitachi / Kawasaki Heavy Industries / Nippon Sharyo|500|544|
 
 #### Fukuoka (10)
 
