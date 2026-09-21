@@ -113,7 +113,8 @@
       "tyo-13000-hibiya",
       "tyo-17000-yurakucho-fukutoshin",
       "tyo-15000-tozai",
-      "tyo-e231-urban"
+      "tyo-e231-urban",
+      "osa-jr-223-kansai"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -240,7 +241,8 @@
       "tyo-13000-hibiya",
       "tyo-17000-yurakucho-fukutoshin",
       "tyo-15000-tozai",
-      "tyo-e231-urban"
+      "tyo-e231-urban",
+      "osa-jr-223-kansai"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -515,7 +517,8 @@
       "tyo-13000-hibiya",
       "tyo-17000-yurakucho-fukutoshin",
       "tyo-15000-tozai",
-      "tyo-e231-urban"
+      "tyo-e231-urban",
+      "osa-jr-223-kansai"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,

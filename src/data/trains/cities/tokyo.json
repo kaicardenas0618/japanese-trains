@@ -312,7 +312,14 @@
       "tyo-9000-namboku",
       "tyo-17000-yurakucho-fukutoshin",
       "tyo-15000-tozai",
-      "tyo-e231-urban"
+      "tyo-e231-urban",
+      "tyo-tobu-100-spacia",
+      "tyo-tobu-500-revaty",
+      "tyo-tobu-50000-commuter",
+      "tyo-tobu-10000-commuter",
+      "tyo-tobu-8000-commuter",
+      "tyo-tobu-n100-spacia-x",
+      "osa-jr-223-kansai"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -435,7 +442,8 @@
       "tyo-9000-namboku",
       "tyo-13000-hibiya",
       "tyo-17000-yurakucho-fukutoshin",
-      "tyo-e231-urban"
+      "tyo-e231-urban",
+      "osa-jr-223-kansai"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -628,7 +636,11 @@
       "tyo-9000-namboku",
       "tyo-13000-hibiya",
       "tyo-15000-tozai",
-      "tyo-e231-urban"
+      "tyo-e231-urban",
+      "osa-jr-223-kansai",
+      "tyo-seibu-40000-commuter",
+      "tyo-seibu-30000-commuter",
+      "tyo-seibu-20000-commuter"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -696,7 +708,13 @@
       "Hitachi"
     ],
     "compatibleTrackTypes": [
-      "tkk-2020-emu"
+      "tkk-2020-emu",
+      "tyo-tobu-100-spacia",
+      "tyo-tobu-500-revaty",
+      "tyo-tobu-50000-commuter",
+      "tyo-tobu-10000-commuter",
+      "tyo-tobu-8000-commuter",
+      "tyo-tobu-n100-spacia-x"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -821,7 +839,8 @@
       "tyo-13000-hibiya",
       "tyo-17000-yurakucho-fukutoshin",
       "tyo-15000-tozai",
-      "tyo-e231-urban"
+      "tyo-e231-urban",
+      "osa-jr-223-kansai"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -1482,7 +1501,8 @@
       "tyo-13000-hibiya",
       "tyo-17000-yurakucho-fukutoshin",
       "tyo-15000-tozai",
-      "tyo-e231-urban"
+      "tyo-e231-urban",
+      "osa-jr-223-kansai"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -1609,7 +1629,8 @@
       "tyo-13000-hibiya",
       "tyo-17000-yurakucho-fukutoshin",
       "tyo-15000-tozai",
-      "tyo-e231-urban"
+      "tyo-e231-urban",
+      "osa-jr-223-kansai"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -1732,7 +1753,8 @@
       "tyo-13000-hibiya",
       "tyo-17000-yurakucho-fukutoshin",
       "tyo-15000-tozai",
-      "tyo-e231-urban"
+      "tyo-e231-urban",
+      "osa-jr-223-kansai"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -1856,7 +1878,8 @@
       "tyo-9000-namboku",
       "tyo-13000-hibiya",
       "tyo-17000-yurakucho-fukutoshin",
-      "tyo-e231-urban"
+      "tyo-e231-urban",
+      "osa-jr-223-kansai"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -1980,7 +2003,8 @@
       "tyo-9000-namboku",
       "tyo-13000-hibiya",
       "tyo-17000-yurakucho-fukutoshin",
-      "tyo-e231-commuter"
+      "tyo-e231-commuter",
+      "osa-jr-223-kansai"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -2104,7 +2128,8 @@
       "tyo-9000-namboku",
       "tyo-13000-hibiya",
       "tyo-17000-yurakucho-fukutoshin",
-      "tyo-e231-urban"
+      "tyo-e231-urban",
+      "osa-jr-223-kansai"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -2229,7 +2254,8 @@
       "tyo-13000-hibiya",
       "tyo-17000-yurakucho-fukutoshin",
       "tyo-15000-tozai",
-      "tyo-e231-urban"
+      "tyo-e231-urban",
+      "osa-jr-223-kansai"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -2354,7 +2380,8 @@
       "tyo-13000-hibiya",
       "tyo-17000-yurakucho-fukutoshin",
       "tyo-15000-tozai",
-      "tyo-e231-urban"
+      "tyo-e231-urban",
+      "osa-jr-223-kansai"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -2371,7 +2398,7 @@
   {
     "id": "tyo-e259-narita-express",
     "name": "TYO E259 Narita Express",
-    "description": "JR East E259 series 6-car airport limited express train. Used on Narita Express services. Manufacturer: Kinki Sharyo / Tokyu Car.",
+    "description": "JR East E259 series 6/12-car airport limited express train. Used on Narita Express services. Manufacturer: Kinki Sharyo / Tokyu Car.",
     "stats": {
       "maxAcceleration": 0.85,
       "maxDeceleration": 1.1,
@@ -2478,7 +2505,8 @@
       "tyo-13000-hibiya",
       "tyo-17000-yurakucho-fukutoshin",
       "tyo-15000-tozai",
-      "tyo-e231-urban"
+      "tyo-e231-urban",
+      "osa-jr-223-kansai"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -2696,6 +2724,220 @@
     "rampCost": 5500000
   },
   {
+    "id": "tyo-seibu-40000-commuter",
+    "name": "TYO Seibu 40000 Commuter",
+    "description": "Seibu 40000 series commuter/S-TRAIN EMU. Used on the Ikebukuro Line, with through-service to the Yurakucho and Fukutoshin lines and onward to Tōkyū Tōyoko services. Manufacturer: J-TREC.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.2,
+      "maxSpeed": 29.17,
+      "maxSpeedLocalStation": 29.17,
+      "capacityPerCar": 296,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 3,
+      "carLength": 20,
+      "minCars": 10,
+      "maxCars": 10,
+      "carsPerCarSet": 10,
+      "carCost": 3400000,
+      "trainWidth": 2.85,
+      "minStationLength": 200,
+      "maxStationLength": 210,
+      "baseTrackCost": 32000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 27,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.275,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 12.5
+    },
+    "appearance": {
+      "color": "#F8B62D"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85,
+      "TRENCHED": 0.58,
+      "RAMP": 0.57
+    },
+    "Manufacturer": [
+      "J-TREC"
+    ],
+    "compatibleTrackTypes": [
+      "tyo-17000-yurakucho-fukutoshin",
+      "tkk-5050-emu",
+      "tyo-seibu-30000-commuter",
+      "tyo-seibu-20000-commuter"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
+  },
+  {
+    "id": "tyo-seibu-30000-commuter",
+    "name": "TYO Seibu 30000 Commuter",
+    "description": "Seibu 30000 series \"Smile Train\" commuter EMU. Used on the Ikebukuro Line, with through-service to the Yurakucho and Fukutoshin lines and onward to Tōkyū Tōyoko services. Manufacturer: Kawasaki Heavy Industries / J-TREC.",
+    "stats": {
+      "maxAcceleration": 0.8,
+      "maxDeceleration": 1.15,
+      "maxSpeed": 29.17,
+      "maxSpeedLocalStation": 29.17,
+      "capacityPerCar": 290,
+      "seatsPerCar": 50,
+      "doorsPerCarPerSide": 4,
+      "carLength": 20,
+      "minCars": 6,
+      "maxCars": 10,
+      "carsPerCarSet": 2,
+      "carCost": 3100000,
+      "trainWidth": 2.85,
+      "minStationLength": 120,
+      "maxStationLength": 210,
+      "baseTrackCost": 32000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 360,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.2,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 32,
+      "crossoverSpeed": 12.5
+    },
+    "appearance": {
+      "color": "#8DC63F"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85,
+      "TRENCHED": 0.58,
+      "RAMP": 0.57
+    },
+    "Manufacturer": [
+      "Kawasaki Heavy Industries",
+      "J-TREC"
+    ],
+    "compatibleTrackTypes": [
+      "tyo-17000-yurakucho-fukutoshin",
+      "tkk-5050-emu",
+      "tyo-seibu-40000-commuter",
+      "tyo-seibu-20000-commuter"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
+  },
+  {
+    "id": "tyo-seibu-20000-commuter",
+    "name": "TYO Seibu 20000 Commuter",
+    "description": "Seibu 20000 series commuter EMU. Used on the Ikebukuro and Shinjuku lines, with through-service to the Yurakucho and Fukutoshin lines and onward to Tōkyū Tōyoko services. Manufacturer: Tokyu Car.",
+    "stats": {
+      "maxAcceleration": 0.75,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 29.17,
+      "maxSpeedLocalStation": 29.17,
+      "capacityPerCar": 285,
+      "seatsPerCar": 52,
+      "doorsPerCarPerSide": 4,
+      "carLength": 20,
+      "minCars": 6,
+      "maxCars": 10,
+      "carsPerCarSet": 2,
+      "carCost": 2900000,
+      "trainWidth": 2.85,
+      "minStationLength": 120,
+      "maxStationLength": 210,
+      "baseTrackCost": 32000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 340,
+      "carOperationalCostPerHour": 24,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.125,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 12.5
+    },
+    "appearance": {
+      "color": "#0075C2"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85,
+      "TRENCHED": 0.58,
+      "RAMP": 0.57
+    },
+    "Manufacturer": [
+      "Tokyu Car"
+    ],
+    "compatibleTrackTypes": [
+      "tyo-17000-yurakucho-fukutoshin",
+      "tkk-5050-emu",
+      "tyo-seibu-40000-commuter",
+      "tyo-seibu-30000-commuter"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
+  },
+  {
     "id": "tyo-tobu-n100-spacia-x",
     "name": "TYO Tobu N100 Spacia X",
     "description": "Tobu N100 series Spacia X limited express train. Manufacturer: Hitachi.",
@@ -2748,7 +2990,15 @@
     "Manufacturer": [
       "Hitachi"
     ],
-    "compatibleTrackTypes": [],
+    "compatibleTrackTypes": [
+      "tyo-tobu-100-spacia",
+      "tyo-tobu-500-revaty",
+      "tyo-tobu-50000-commuter",
+      "tyo-tobu-10000-commuter",
+      "tyo-tobu-8000-commuter",
+      "tyo-13000-hibiya",
+      "tyo-18000-hanzomon"
+    ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
     "gradeCrossingMaintenancePerYear": 9000,
@@ -2760,6 +3010,377 @@
     },
     "portalCost": 11000000,
     "rampCost": 5500000
+  },
+  {
+    "id": "tyo-tobu-100-spacia",
+    "name": "TYO Tobu 100 Spacia",
+    "description": "Tobu 100 series Spacia limited express train. Used on Kegon and Kinu services. Manufacturer: Alna Koki / Tobu Railway.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 33.33,
+      "maxSpeedLocalStation": 33.33,
+      "capacityPerCar": 48,
+      "seatsPerCar": 44,
+      "doorsPerCarPerSide": 1,
+      "carLength": 20,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 3200000,
+      "trainWidth": 2.87,
+      "minStationLength": 120,
+      "maxStationLength": 130,
+      "baseTrackCost": 32000,
+      "baseStationCost": 65000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.275,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 50,
+      "turnaroundTimeSeconds": 70,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 20,
+      "crossoverSpeed": 12.5
+    },
+    "appearance": {
+      "color": "#D4A017"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
+    },
+    "Manufacturer": [
+      "Alna Koki",
+      "Tobu Railway"
+    ],
+    "compatibleTrackTypes": [
+      "tyo-13000-hibiya",
+      "tyo-18000-hanzomon",
+      "tyo-tobu-n100-spacia-x",
+      "tyo-tobu-500-revaty",
+      "tyo-tobu-50000-commuter",
+      "tyo-tobu-10000-commuter",
+      "tyo-tobu-8000-commuter"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 11000000,
+    "rampCost": 5500000
+  },
+  {
+    "id": "tyo-tobu-500-revaty",
+    "name": "TYO Tobu 500 Revaty",
+    "description": "Tobu 500 series Revaty limited express train. Used on Revaty Kegon and Revaty Aizu services, with through-service to the Hanzomon Line. Manufacturer: Hitachi.",
+    "stats": {
+      "maxAcceleration": 0.9,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 33.33,
+      "maxSpeedLocalStation": 33.33,
+      "capacityPerCar": 50,
+      "seatsPerCar": 44,
+      "doorsPerCarPerSide": 1,
+      "carLength": 20,
+      "minCars": 3,
+      "maxCars": 9,
+      "carsPerCarSet": 3,
+      "carCost": 3200000,
+      "trainWidth": 2.83,
+      "minStationLength": 60,
+      "maxStationLength": 180,
+      "baseTrackCost": 32000,
+      "baseStationCost": 65000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.275,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 50,
+      "turnaroundTimeSeconds": 70,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 20,
+      "crossoverSpeed": 12.5
+    },
+    "appearance": {
+      "color": "#1B3A6B"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
+    },
+    "Manufacturer": [
+      "Hitachi"
+    ],
+    "compatibleTrackTypes": [
+      "tyo-13000-hibiya",
+      "tyo-18000-hanzomon",
+      "tyo-tobu-n100-spacia-x",
+      "tyo-tobu-100-spacia",
+      "tyo-tobu-50000-commuter",
+      "tyo-tobu-10000-commuter",
+      "tyo-tobu-8000-commuter"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 11000000,
+    "rampCost": 5500000
+  },
+  {
+    "id": "tyo-tobu-50000-commuter",
+    "name": "TYO Tobu 50000 Commuter",
+    "description": "Tobu 50000/50050/50070 series commuter train family. Used on the Tojo, Isesaki and Skytree lines, with through-service to the Hibiya and Hanzomon lines. Manufacturer: Hitachi.",
+    "stats": {
+      "maxAcceleration": 0.85,
+      "maxDeceleration": 1.25,
+      "maxSpeed": 27.78,
+      "maxSpeedLocalStation": 27.78,
+      "capacityPerCar": 300,
+      "seatsPerCar": 56,
+      "doorsPerCarPerSide": 4,
+      "carLength": 20,
+      "minCars": 2,
+      "maxCars": 10,
+      "carsPerCarSet": 1,
+      "carCost": 3200000,
+      "trainWidth": 2.85,
+      "minStationLength": 100,
+      "maxStationLength": 210,
+      "baseTrackCost": 32000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.275,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 60,
+      "crossoverSpeed": 12.5
+    },
+    "appearance": {
+      "color": "#0068B7"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
+    },
+    "Manufacturer": [
+      "Hitachi"
+    ],
+    "compatibleTrackTypes": [
+      "tyo-13000-hibiya",
+      "tyo-18000-hanzomon",
+      "tyo-tobu-n100-spacia-x",
+      "tyo-tobu-100-spacia",
+      "tyo-tobu-500-revaty",
+      "tyo-tobu-10000-commuter",
+      "tyo-tobu-8000-commuter"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
+  },
+  {
+    "id": "tyo-tobu-10000-commuter",
+    "name": "TYO Tobu 10000/10030 Commuter",
+    "description": "Tobu 10000 and 10030 series commuter train family. Used on the Tojo, Isesaki and Skytree lines, with through-service to the Hibiya and Hanzomon lines. Manufacturer: Tobu Railway.",
+    "stats": {
+      "maxAcceleration": 0.8,
+      "maxDeceleration": 1.2,
+      "maxSpeed": 27.78,
+      "maxSpeedLocalStation": 27.78,
+      "capacityPerCar": 290,
+      "seatsPerCar": 58,
+      "doorsPerCarPerSide": 4,
+      "carLength": 20,
+      "minCars": 2,
+      "maxCars": 10,
+      "carsPerCarSet": 1,
+      "carCost": 3000000,
+      "trainWidth": 2.85,
+      "minStationLength": 100,
+      "maxStationLength": 210,
+      "baseTrackCost": 32000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 360,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.2,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 56,
+      "crossoverSpeed": 12.5
+    },
+    "appearance": {
+      "color": "#3E7CB1"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
+    },
+    "Manufacturer": [
+      "Tobu Railway"
+    ],
+    "compatibleTrackTypes": [
+      "tyo-13000-hibiya",
+      "tyo-18000-hanzomon",
+      "tyo-tobu-n100-spacia-x",
+      "tyo-tobu-100-spacia",
+      "tyo-tobu-500-revaty",
+      "tyo-tobu-50000-commuter",
+      "tyo-tobu-8000-commuter"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
+  },
+  {
+    "id": "tyo-tobu-8000-commuter",
+    "name": "TYO Tobu 8000 Commuter",
+    "description": "Tobu 8000 series commuter train. Legacy commuter EMU used across the Tobu network, with through-service to the Hibiya and Hanzomon lines. Manufacturer: Tobu Railway.",
+    "stats": {
+      "maxAcceleration": 0.75,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 25.0,
+      "maxSpeedLocalStation": 25.0,
+      "capacityPerCar": 280,
+      "seatsPerCar": 54,
+      "doorsPerCarPerSide": 4,
+      "carLength": 20,
+      "minCars": 2,
+      "maxCars": 8,
+      "carsPerCarSet": 1,
+      "carCost": 2700000,
+      "trainWidth": 2.85,
+      "minStationLength": 100,
+      "maxStationLength": 168,
+      "baseTrackCost": 32000,
+      "baseStationCost": 78000000,
+      "trainOperationalCostPerHour": 320,
+      "carOperationalCostPerHour": 23,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.125,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 3.8,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 48,
+      "crossoverSpeed": 12.5
+    },
+    "appearance": {
+      "color": "#E8590C"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
+    },
+    "Manufacturer": [
+      "Tobu Railway"
+    ],
+    "compatibleTrackTypes": [
+      "tyo-13000-hibiya",
+      "tyo-18000-hanzomon",
+      "tyo-tobu-n100-spacia-x",
+      "tyo-tobu-100-spacia",
+      "tyo-tobu-500-revaty",
+      "tyo-tobu-50000-commuter",
+      "tyo-tobu-10000-commuter"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
   },
   {
     "id": "kq-new-1000-emu",
@@ -2942,7 +3563,8 @@
       "tyo-13000-hibiya",
       "tyo-17000-yurakucho-fukutoshin",
       "tyo-15000-tozai",
-      "tyo-e231-urban"
+      "tyo-e231-urban",
+      "osa-jr-223-kansai"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -3137,7 +3759,8 @@
       "tyo-13000-hibiya",
       "tyo-17000-yurakucho-fukutoshin",
       "tyo-15000-tozai",
-      "tyo-e231-urban"
+      "tyo-e231-urban",
+      "osa-jr-223-kansai"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -3261,7 +3884,11 @@
       "tyo-9000-namboku",
       "tyo-13000-hibiya",
       "tyo-15000-tozai",
-      "tyo-e231-urban"
+      "tyo-e231-urban",
+      "osa-jr-223-kansai",
+      "tyo-seibu-40000-commuter",
+      "tyo-seibu-30000-commuter",
+      "tyo-seibu-20000-commuter"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,

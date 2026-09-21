@@ -2,7 +2,7 @@
 
 Subway Builder Japanese Trains is a mod for Subway Builder that adds trains from cities around Japan. This pack contains rolling stock from the following Japanese cities, with more planned.
 
-## Currently Available Trains (176)
+## Currently Available Trains (185)
 
 #### National (33)
 
@@ -10,19 +10,20 @@ Subway Builder Japanese Trains is a mod for Subway Builder that adds trains from
 |-|-|-|-|-|
 |JP N700A Shinkansen|16-car N700A Shinkansen train for Tōkaidō and Sanyō high-speed services. Manufacturer: Hitachi / Nippon Sharyo / Kawasaki Heavy Industries / Kinki Sharyo.|Hitachi / Nippon Sharyo / Kawasaki Heavy Industries / Kinki Sharyo|285|1328|
 |JP N700S Shinkansen|16-car N700S Shinkansen train for Tōkaidō and Sanyō high-speed services. Manufacturer: Hitachi / Nippon Sharyo.|Hitachi / Nippon Sharyo|285|1328|
-|JP N700-7000 Sakura|8-car N700-7000/8000 Shinkansen train for Sanyō and Kyūshū Mizuho/Sakura services. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo.|Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo|300|544|
-|JP N700S-8000 Kamome|6-car N700S-8000 Shinkansen train for Nishi-Kyūshū Kamome services. Manufacturer: Hitachi / Nippon Sharyo.|Hitachi / Nippon Sharyo|260|390|
-|JP 500 Shinkansen|8-car 500 Series Shinkansen train used on Sanyō Kodama services. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo.|Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo|285|552|
-|JP 700 Rail Star|8-car 700 Series Rail Star Shinkansen train used on Sanyō services. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo.|Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo|285|568|
-|JP 800 Shinkansen|6-car 800 Series Shinkansen train for Kyūshū Shinkansen services. Manufacturer: Hitachi.|Hitachi|260|390|
-|JP E5 Shinkansen|10-car E5 Series Shinkansen train for Tōhoku and Hokkaidō high-speed services. Manufacturer: Hitachi / Kawasaki Heavy Industries.|Hitachi / Kawasaki Heavy Industries|320|730|
-|JP H5 Shinkansen|10-car H5 Series Shinkansen train for Hokkaidō and Tōhoku high-speed services. Manufacturer: Hitachi / Kawasaki Heavy Industries.|Hitachi / Kawasaki Heavy Industries|320|730|
-|JP E6 Komachi|7-car E6 Series mini-Shinkansen train for Akita Komachi services. Manufacturer: Hitachi / Kawasaki Heavy Industries.|Hitachi / Kawasaki Heavy Industries|320|336|
-|JP E7 Shinkansen|12-car E7 Series Shinkansen train for Hokuriku and Jōetsu high-speed services. Manufacturer: Hitachi / Kawasaki Railcar Manufacturing / J-TREC.|Hitachi / Kawasaki Railcar Manufacturing / J-TREC|260|936|
-|JP W7 Shinkansen|12-car W7 Series Shinkansen train for Hokuriku high-speed services. Manufacturer: Hitachi / Kawasaki Railcar Manufacturing / Kinki Sharyo.|Hitachi / Kawasaki Railcar Manufacturing / Kinki Sharyo|260|936|
-|JP E8 Tsubasa|7-car E8 Series mini-Shinkansen train for Yamagata Tsubasa services. Manufacturer: Hitachi.|Hitachi|300|350|
-|JP E3 Tsubasa|7-car E3 Series mini-Shinkansen train for Yamagata Shinkansen services. Manufacturer: Kawasaki Heavy Industries / Tokyu Car.|Kawasaki Heavy Industries / Tokyu Car|275|350|
-|JP E2 Shinkansen|10-car E2 Series Shinkansen train for Tōhoku and Jōetsu legacy high-speed services. Manufacturer: Hitachi / Kawasaki Heavy Industries / Tokyu Car.|Hitachi / Kawasaki Heavy Industries / Tokyu Car|275|810|
+|JP N700-7000 Sakura|8-car N700-7000/8000 Shinkansen train for Sanyō and Kyūshū Mizuho/Sakura services. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo.|Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo|300|1088|
+|JP N700S-8000 Kamome|6-car N700S-8000 Shinkansen train for Nishi-Kyūshū Kamome services. Manufacturer: Hitachi / Nippon Sharyo.|Hitachi / Nippon Sharyo|260|1040|
+|JP 500 Shinkansen|8-car 500 Series Shinkansen train used on Sanyō Kodama services. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo.|Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo|285|1104|
+|JP 700 Rail Star|8-car 700 Series Rail Star Shinkansen train used on Sanyō services. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo.|Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo|285|1136|
+|JP 800 Shinkansen|6-car 800 Series Shinkansen train for Kyūshū Shinkansen services. Manufacturer: Hitachi.|Hitachi|260|1040|
+|JP E5 Shinkansen|10-car E5 Series Shinkansen train for Tōhoku and Hokkaidō high-speed services. Manufacturer: Hitachi / Kawasaki Heavy Industries.|Hitachi / Kawasaki Heavy Industries|320|1168|
+|JP H5 Shinkansen|10-car H5 Series Shinkansen train for Hokkaidō and Tōhoku high-speed services. Manufacturer: Hitachi / Kawasaki Heavy Industries.|Hitachi / Kawasaki Heavy Industries|320|1168|
+|JP E6 Komachi|7-car E6 Series mini-Shinkansen train for Akita Komachi services. Manufacturer: Hitachi / Kawasaki Heavy Industries.|Hitachi / Kawasaki Heavy Industries|320|768|
+|JP E7 Shinkansen|12-car E7 Series Shinkansen train for Hokuriku and Jōetsu high-speed services. Manufacturer: Hitachi / Kawasaki Railcar Manufacturing / J-TREC.|Hitachi / Kawasaki Railcar Manufacturing / J-TREC|260|1248|
+|JP W7 Shinkansen|12-car W7 Series Shinkansen train for Hokuriku high-speed services. Manufacturer: Hitachi / Kawasaki Railcar Manufacturing / Kinki Sharyo.|Hitachi / Kawasaki Railcar Manufacturing / Kinki Sharyo|260|1248|
+|JP E8 Tsubasa|7-car E8 Series mini-Shinkansen train for Yamagata Tsubasa services. Manufacturer: Hitachi.|Hitachi|300|800|
+|JP E3 Tsubasa|7-car E3 Series mini-Shinkansen train for Yamagata Shinkansen services. Manufacturer: Kawasaki Heavy Industries / Tokyu Car.|Kawasaki Heavy Industries / Tokyu Car|275|800|
+|JP E2 Shinkansen|10-car E2 Series Shinkansen train for Tōhoku and Jōetsu legacy high-speed services. Manufacturer: Hitachi / Kawasaki Heavy Industries / Tokyu Car.|Hitachi / Kawasaki Heavy Industries / Tokyu Car|275|1296|
+|JP L0 Chuo Shinkansen|8-car L0 series SCMaglev train for the Chuo Shinkansen high-speed maglev line linking Tokyo, Nagoya, and Osaka. Manufacturer: Hitachi / Kawasaki Heavy Industries / Nippon Sharyo.|Hitachi / Kawasaki Heavy Industries / Nippon Sharyo|500|544|
 |JP 285 Sunrise|7-car 285 Series overnight EMU used on Sunrise Seto and Sunrise Izumo services. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo.|Kawasaki Heavy Industries / Kinki Sharyo|130|266|
 |JP 273 Yakumo|4-car 273 Series limited express EMU used on Yakumo services. Manufacturer: Kinki Sharyo.|Kinki Sharyo|120|220|
 |JP 281 Haruka|6-car 281 Series airport limited express EMU used on Haruka services. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo.|Kawasaki Heavy Industries / Kinki Sharyo|130|300|
@@ -40,7 +41,6 @@ Subway Builder Japanese Trains is a mod for Subway Builder that adds trains from
 |JP JNR 113 EMU|JNR 113 series DC suburban EMU. Broad national legacy suburban profile for areas not covered by newer stock. Manufacturer: JNR / Nippon Sharyo / Kawasaki Heavy Industries / Hitachi.|JNR / Nippon Sharyo / Kawasaki Heavy Industries / Hitachi|110|1740|
 |JP JNR 117 EMU|JNR 117 series two-door suburban EMU used on rapid and regional services. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo.|Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo|115|1040|
 |JP JNR 211 EMU|JNR 211 series suburban EMU. Later JNR stainless-steel regional and suburban stock. Manufacturer: JNR / Kawasaki Heavy Industries / Tokyu Car / Nippon Sharyo.|JNR / Kawasaki Heavy Industries / Tokyu Car / Nippon Sharyo|110|1500|
-|JP L0 Chuo Shinkansen|8-car L0 series SCMaglev train for the Chuo Shinkansen high-speed maglev line linking Tokyo, Nagoya, and Osaka. Manufacturer: Hitachi / Kawasaki Heavy Industries / Nippon Sharyo.|Hitachi / Kawasaki Heavy Industries / Nippon Sharyo|500|544|
 
 #### Fukuoka (10)
 
@@ -80,7 +80,7 @@ Subway Builder Japanese Trains is a mod for Subway Builder that adds trains from
 |JRH 737 EMU|JR Hokkaido 737 series two-car AC EMU for regional electrified services. Manufacturer: Kawasaki Heavy Industries.|Kawasaki Heavy Industries|120|1108|
 |JRH 789 Limited Express|JR Hokkaido 789 series AC limited express EMU for Hokkaidō intercity services. Manufacturer: Kawasaki Heavy Industries / Hitachi.|Kawasaki Heavy Industries / Hitachi|140|416|
 
-#### Kansai (50)
+#### Kansai (51)
 
 |Name|Description|Manufacturer|Top Speed (km/h)|Maximum Capacity|
 |-|-|-|-|-|
@@ -97,6 +97,7 @@ Subway Builder Japanese Trains is a mod for Subway Builder that adds trains from
 |OSA 80 Imazatosuji Linear|Osaka Metro 80 series 4-car linear-motor train. Used on the Imazatosuji Line. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries.|Kinki Sharyo / Kawasaki Heavy Industries|70|1016|
 |OSA New Tram 200|Osaka Metro 200 series automated people mover train. Used on the Nanko Port Town Line. Manufacturer: Niigata Transys.|Niigata Transys|55|320|
 |OSA Hankai 1001 Tram|Hankai 1001 series low-floor tram. Used on Osaka/Sakai street tram services. Manufacturer: Alna Sharyo.|Alna Sharyo|50|162|
+|OSA JR 223 Kansai|JR West 223 series suburban train. Used on Kansai Airport Rapid and New Rapid (Shinkaisoku) services. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo.|Kawasaki Heavy Industries / Kinki Sharyo|130|3348|
 |OSA JR 323 Loop|JR West 323 series 8-car commuter train. Used on the Osaka Loop Line. Manufacturer: Kinki Sharyo.|Kinki Sharyo|120|2328|
 |OSA JR 225 Kansai|JR West 225 series suburban train. Used on major Kansai rapid services. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries.|Kinki Sharyo / Kawasaki Heavy Industries|130|2328|
 |OSA Nankai 50000 Rapit|Nankai 50000 series Rapit airport limited express train. Manufacturer: Tokyu Car.|Tokyu Car|120|228|
@@ -193,7 +194,7 @@ Subway Builder Japanese Trains is a mod for Subway Builder that adds trains from
 |JRE HB-E210 Hybrid|JR East HB-E210 hybrid DMU for Sendai-area regional services. Manufacturer: J-TREC.|J-TREC|100|1104|
 |SAT SAT721 EMU|Sendai Airport Transit SAT721 series EMU based on the E721 family. Manufacturer: J-TREC.|J-TREC|120|1164|
 
-#### Tokyo (37)
+#### Tokyo (45)
 
 |Name|Description|Manufacturer|Top Speed (km/h)|Maximum Capacity|
 |-|-|-|-|-|
@@ -215,7 +216,7 @@ Subway Builder Japanese Trains is a mod for Subway Builder that adds trains from
 |TYO Yurikamome 7300|Yurikamome 7300 series automated guideway train. Manufacturer: Mitsubishi Heavy Industries / Niigata Transys.|Mitsubishi Heavy Industries / Niigata Transys|60|924|
 |TYO Monorail 10000|Tokyo Monorail 10000 series airport monorail train. Manufacturer: Hitachi.|Hitachi|80|1350|
 |TYO E235 Yamanote|JR East E235 series 11-car commuter train. Used on the Yamanote Line. Manufacturer: J-TREC.|J-TREC|95|4510|
-|TYO E233 Commuter|JR East E233 series commuter train family. Used on major Tokyo-area lines. Manufacturer: J-TREC / Tokyu Car / Kawasaki Heavy Industries.|J-TREC / Tokyu Car / Kawasaki Heavy Industries|120|3600|
+|TYO E233 Commuter|JR East E233 series commuter train family. Used on major Tokyo-area lines. Manufacturer: J-TREC / Tokyu Car / Kawasaki Heavy Industries.|J-TREC / Tokyu Car / Kawasaki Heavy Industries|120|4500|
 |TYO E233 Urban|JR East E233 series commuter train. Used on inner Tokyo commuter lines. Manufacturer: J-TREC.|J-TREC|95|4100|
 |TYO E231 Suburban|JR East E231 series commuter train family. Used on major outer Tokyo-area lines. Manufacturer: Tokyu Car / Kawasaki Heavy Industries.|Tokyu Car / Kawasaki Heavy Industries|120|4500|
 |TYO E231 Urban|JR East E231 series commuter train family. Used on major Tokyo-area lines. Manufacturer: Tokyu Car / Kawasaki Heavy Industries.|Tokyu Car / Kawasaki Heavy Industries|95|4000|
@@ -226,10 +227,18 @@ Subway Builder Japanese Trains is a mod for Subway Builder that adds trains from
 |TYO Keisei AE Skyliner|Keisei AE series 8-car airport limited express train. Used on Skyliner services to Narita Airport. Manufacturer: Nippon Sharyo.|Nippon Sharyo|160|400|
 |TYO Odakyu 70000 GSE|Odakyu 70000 series GSE Romancecar limited express train. Manufacturer: Nippon Sharyo.|Nippon Sharyo|110|399|
 |TYO Seibu 001 Laview|Seibu 001 series Laview limited express train. Manufacturer: Hitachi.|Hitachi|120|424|
+|TYO Seibu 40000 Commuter|Seibu 40000 series commuter/S-TRAIN EMU. Used on the Ikebukuro Line, with through-service to the Yurakucho and Fukutoshin lines and onward to Tōkyū Tōyoko services. Manufacturer: J-TREC.|J-TREC|105|2960|
+|TYO Seibu 30000 Commuter|Seibu 30000 series "Smile Train" commuter EMU. Used on the Ikebukuro Line, with through-service to the Yurakucho and Fukutoshin lines and onward to Tōkyū Tōyoko services. Manufacturer: Kawasaki Heavy Industries / J-TREC.|Kawasaki Heavy Industries / J-TREC|105|2900|
+|TYO Seibu 20000 Commuter|Seibu 20000 series commuter EMU. Used on the Ikebukuro and Shinjuku lines, with through-service to the Yurakucho and Fukutoshin lines and onward to Tōkyū Tōyoko services. Manufacturer: Tokyu Car.|Tokyu Car|105|2850|
 |TYO Tobu N100 Spacia X|Tobu N100 series Spacia X limited express train. Manufacturer: Hitachi.|Hitachi|120|210|
+|TYO Tobu 100 Spacia|Tobu 100 series Spacia limited express train. Used on Kegon and Kinu services. Manufacturer: Alna Koki / Tobu Railway.|Alna Koki / Tobu Railway|120|288|
+|TYO Tobu 500 Revaty|Tobu 500 series Revaty limited express train. Used on Revaty Kegon and Revaty Aizu services, with through-service to the Hanzomon Line. Manufacturer: Hitachi.|Hitachi|120|450|
+|TYO Tobu 50000 Commuter|Tobu 50000/50050/50070 series commuter train family. Used on the Tojo, Isesaki and Skytree lines, with through-service to the Hibiya and Hanzomon lines. Manufacturer: Hitachi.|Hitachi|100|3000|
+|TYO Tobu 10000/10030 Commuter|Tobu 10000 and 10030 series commuter train family. Used on the Tojo, Isesaki and Skytree lines, with through-service to the Hibiya and Hanzomon lines. Manufacturer: Tobu Railway.|Tobu Railway|100|2900|
+|TYO Tobu 8000 Commuter|Tobu 8000 series commuter train. Legacy commuter EMU used across the Tobu network, with through-service to the Hibiya and Hanzomon lines. Manufacturer: Tobu Railway.|Tobu Railway|90|2240|
 |KQ New 1000 EMU|Keikyu New 1000 series commuter EMU for Keikyu, Toei Asakusa, Keisei and airport through services. Manufacturer: Tokyu Car / J-TREC / Kawasaki Heavy Industries.|Tokyu Car / J-TREC / Kawasaki Heavy Industries|120|4272|
 |TKK 1000 EMU|Tokyu 1000 series 3-car commuter EMU for Ikegami and Tamagawa Line service. Manufacturer: Tokyu Car.|Tokyu Car|100|1056|
-|KQ 2100 EMU|Keikyu 2100 series 8-car limited-stop commuter EMU for mainline rapid services. Manufacturer: Kawasaki Heavy Industries / Tokyu Car.|Kawasaki Heavy Industries / Tokyu Car|120|2816|
+|KQ 2100 EMU|Keikyu 2100 series 8-car limited-stop commuter EMU for mainline rapid services. Manufacturer: Kawasaki Heavy Industries / Tokyu Car.|Kawasaki Heavy Industries / Tokyu Car|120|2848|
 |TKK 2020 EMU|Tokyu 2020 series 10-car commuter EMU for Den-en-toshi Line and Hanzōmon through services. Manufacturer: J-TREC.|J-TREC|110|3920|
 |TKK 5050 EMU|Tokyu 5050 series 8/10-car commuter EMU for Tōyoko/Fukutoshin through services. Manufacturer: Tokyu Car / J-TREC.|Tokyu Car / J-TREC|110|3920|
 |KEIO 5000 EMU|Keio 5000 series commuter/paid-seat train for Keio Line services. Manufacturer: J-TREC.|J-TREC|110|3920|
