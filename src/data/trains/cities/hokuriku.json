@@ -1,0 +1,138 @@
+[
+  {
+    "id": "tym-tlr0600-portram-tram",
+    "name": "TYM TLR0600 Portram Tram",
+    "description": "Toyama Chihō Railway (ex-Toyama Light Rail) TLR0600 Portram low-floor articulated LRV, through-running between the Toyamakō Line and the city tram network. Manufacturer: Niigata Transys.",
+    "stats": {
+      "maxAcceleration": 1.1,
+      "maxDeceleration": 1.2,
+      "maxSpeed": 19.44,
+      "maxSpeedLocalStation": 19.44,
+      "capacityPerCar": 160,
+      "seatsPerCar": 28,
+      "doorsPerCarPerSide": 2,
+      "carLength": 18.4,
+      "minCars": 1,
+      "maxCars": 1,
+      "carsPerCarSet": 1,
+      "carCost": 2200000,
+      "trainWidth": 2.65,
+      "minStationLength": 19,
+      "maxStationLength": 28,
+      "baseTrackCost": 15000,
+      "baseStationCost": 8500000,
+      "trainOperationalCostPerHour": 95,
+      "carOperationalCostPerHour": 20,
+      "scissorsCrossoverCost": 5000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.275,
+      "minTurnRadius": 25,
+      "minStationTurnRadius": 80,
+      "maxSlopePercentage": 6.0,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 18,
+      "turnaroundTimeSeconds": 102,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 40,
+      "crossoverSpeed": 4.2
+    },
+    "appearance": {
+      "color": "#C8102E"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 2.8,
+      "STANDARD_TUNNEL": 1.5,
+      "CUT_AND_COVER": 0.8,
+      "AT_GRADE": 0.2,
+      "ELEVATED": 0.6,
+      "TRENCHED": 0.41,
+      "RAMP": 0.38
+    },
+    "Manufacturer": [
+      "Niigata Transys"
+    ],
+    "compatibleTrackTypes": [
+      "tym-9000-centram-tram"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 180000,
+    "gradeCrossingMaintenancePerYear": 5000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 3500000,
+    "rampCost": 1750000
+  },
+  {
+    "id": "tym-9000-centram-tram",
+    "name": "TYM 9000 Centram Tram",
+    "description": "Toyama Chihō Railway 9000 series Centram low-floor articulated tram for the Toyama city tram loop line. Manufacturer: Niigata Transys.",
+    "stats": {
+      "maxAcceleration": 1.1,
+      "maxDeceleration": 1.2,
+      "maxSpeed": 19.44,
+      "maxSpeedLocalStation": 19.44,
+      "capacityPerCar": 160,
+      "seatsPerCar": 28,
+      "doorsPerCarPerSide": 2,
+      "carLength": 8.740,
+      "minCars": 2,
+      "maxCars": 2,
+      "carsPerCarSet": 2,
+      "carCost": 2200000,
+      "trainWidth": 2.65,
+      "minStationLength": 9,
+      "maxStationLength": 28,
+      "baseTrackCost": 15000,
+      "baseStationCost": 8500000,
+      "trainOperationalCostPerHour": 95,
+      "carOperationalCostPerHour": 20,
+      "scissorsCrossoverCost": 5000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.275,
+      "minTurnRadius": 25,
+      "minStationTurnRadius": 80,
+      "maxSlopePercentage": 6.0,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 18,
+      "turnaroundTimeSeconds": 102,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 40,
+      "crossoverSpeed": 4.2
+    },
+    "appearance": {
+      "color": "#7B6469"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 2.8,
+      "STANDARD_TUNNEL": 1.5,
+      "CUT_AND_COVER": 0.8,
+      "AT_GRADE": 0.2,
+      "ELEVATED": 0.6,
+      "TRENCHED": 0.41,
+      "RAMP": 0.38
+    },
+    "Manufacturer": [
+      "Niigata Transys"
+    ],
+    "compatibleTrackTypes": [
+      "tym-tlr0600-portram-tram"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 180000,
+    "gradeCrossingMaintenancePerYear": 5000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 3500000,
+    "rampCost": 1750000
+  }
+]

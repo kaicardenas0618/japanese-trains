@@ -2,7 +2,7 @@
 
 Subway Builder Japanese Trains is a mod for Subway Builder that adds trains from cities around Japan. This pack contains rolling stock from the following Japanese cities, with more planned.
 
-## Currently Available Trains (185)
+## Currently Available Trains (189)
 
 #### National (33)
 
@@ -80,6 +80,13 @@ Subway Builder Japanese Trains is a mod for Subway Builder that adds trains from
 |JRH 737 EMU|JR Hokkaido 737 series two-car AC EMU for regional electrified services. Manufacturer: Kawasaki Heavy Industries.|Kawasaki Heavy Industries|120|1108|
 |JRH 789 Limited Express|JR Hokkaido 789 series AC limited express EMU for Hokkaidō intercity services. Manufacturer: Kawasaki Heavy Industries / Hitachi.|Kawasaki Heavy Industries / Hitachi|140|416|
 
+#### Hokuriku (2)
+
+|Name|Description|Manufacturer|Top Speed (km/h)|Maximum Capacity|
+|-|-|-|-|-|
+|TYM TLR0600 Portram Tram|Toyama Chihō Railway (ex-Toyama Light Rail) TLR0600 Portram low-floor articulated LRV, through-running between the Toyamakō Line and the city tram network. Manufacturer: Niigata Transys.|Niigata Transys|70|160|
+|TYM 9000 Centram Tram|Toyama Chihō Railway 9000 series Centram low-floor articulated tram for the Toyama city tram loop line. Manufacturer: Niigata Transys.|Niigata Transys|70|160|
+
 #### Kansai (51)
 
 |Name|Description|Manufacturer|Top Speed (km/h)|Maximum Capacity|
@@ -150,12 +157,13 @@ Subway Builder Japanese Trains is a mod for Subway Builder that adds trains from
 |NGY 6050 Sakura-dōri Subway|Nagoya Subway 6050 series train for the Sakura-dōri Line. Manufacturer: Nippon Sharyo.|Nippon Sharyo|75|1805|
 |NGY Linimo 100 Maglev|Linimo 100 series urban maglev train for the Aichi Loop area. Manufacturer: Nippon Sharyo.|Nippon Sharyo|100|720|
 
-#### Nakaumi (5)
+#### Nakaumi (6)
 
 |Name|Description|Manufacturer|Top Speed (km/h)|Maximum Capacity|
 |-|-|-|-|-|
 |JRW KiHa126 DMU|JR West KiHa 126 series regional DMU for Sanin/Nakaumi area services. Manufacturer: Niigata Transys.|Niigata Transys|100|1220|
 |JRW KiHa187 Limited Express|JR West KiHa 187 series tilting diesel limited express train for Sanin regional services. Manufacturer: Niigata Transys.|Niigata Transys|120|176|
+|JRW KiHa120 DMU|JR West KiHa 120 series single-car regional DMU for rural Sanin and Chūgoku lines such as the Kisuki Line. Manufacturer: Niigata Tekko / JR West.|Niigata Tekko / JR West|95|699|
 |ICH 7000 EMU|Ichibata Electric Railway 7000 series single-car EMU for Matsue-Izumo local services. Manufacturer: Kinki Sharyo.|Kinki Sharyo|90|498|
 |ICH 1000 EMU|Ichibata Electric Railway 1000 series EMU converted from former Tokyu stock. Manufacturer: Tokyu Car.|Tokyu Car|90|498|
 |ICH 5000 EMU|Ichibata Electric Railway 5000 series EMU for local and excursion services. Manufacturer: Tokyu Car.|Tokyu Car|90|498|
@@ -194,7 +202,7 @@ Subway Builder Japanese Trains is a mod for Subway Builder that adds trains from
 |JRE HB-E210 Hybrid|JR East HB-E210 hybrid DMU for Sendai-area regional services. Manufacturer: J-TREC.|J-TREC|100|1104|
 |SAT SAT721 EMU|Sendai Airport Transit SAT721 series EMU based on the E721 family. Manufacturer: J-TREC.|J-TREC|120|1164|
 
-#### Tokyo (45)
+#### Tokyo (46)
 
 |Name|Description|Manufacturer|Top Speed (km/h)|Maximum Capacity|
 |-|-|-|-|-|
@@ -227,6 +235,7 @@ Subway Builder Japanese Trains is a mod for Subway Builder that adds trains from
 |TYO Keisei AE Skyliner|Keisei AE series 8-car airport limited express train. Used on Skyliner services to Narita Airport. Manufacturer: Nippon Sharyo.|Nippon Sharyo|160|400|
 |TYO Odakyu 70000 GSE|Odakyu 70000 series GSE Romancecar limited express train. Manufacturer: Nippon Sharyo.|Nippon Sharyo|110|399|
 |TYO Seibu 001 Laview|Seibu 001 series Laview limited express train. Manufacturer: Hitachi.|Hitachi|120|424|
+|TYO Seibu 10000 New Red Arrow|Seibu 10000 series New Red Arrow limited express train, used on Koedo services on the Shinjuku Line. Manufacturer: Hitachi.|Hitachi|105|448|
 |TYO Seibu 40000 Commuter|Seibu 40000 series commuter/S-TRAIN EMU. Used on the Ikebukuro Line, with through-service to the Yurakucho and Fukutoshin lines and onward to Tōkyū Tōyoko services. Manufacturer: J-TREC.|J-TREC|105|2960|
 |TYO Seibu 30000 Commuter|Seibu 30000 series "Smile Train" commuter EMU. Used on the Ikebukuro Line, with through-service to the Yurakucho and Fukutoshin lines and onward to Tōkyū Tōyoko services. Manufacturer: Kawasaki Heavy Industries / J-TREC.|Kawasaki Heavy Industries / J-TREC|105|2900|
 |TYO Seibu 20000 Commuter|Seibu 20000 series commuter EMU. Used on the Ikebukuro and Shinjuku lines, with through-service to the Yurakucho and Fukutoshin lines and onward to Tōkyū Tōyoko services. Manufacturer: Tokyu Car.|Tokyu Car|105|2850|
