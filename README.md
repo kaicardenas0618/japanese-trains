@@ -2,7 +2,7 @@
 
 Subway Builder Japanese Trains is a mod for Subway Builder that adds trains from cities around Japan. This pack contains rolling stock from the following Japanese cities, with more planned.
 
-## Currently Available Trains (189)
+## Currently Available Trains (190)
 
 #### National (33)
 
@@ -202,7 +202,7 @@ Subway Builder Japanese Trains is a mod for Subway Builder that adds trains from
 |JRE HB-E210 Hybrid|JR East HB-E210 hybrid DMU for Sendai-area regional services. Manufacturer: J-TREC.|J-TREC|100|1104|
 |SAT SAT721 EMU|Sendai Airport Transit SAT721 series EMU based on the E721 family. Manufacturer: J-TREC.|J-TREC|120|1164|
 
-#### Tokyo (46)
+#### Tokyo (47)
 
 |Name|Description|Manufacturer|Top Speed (km/h)|Maximum Capacity|
 |-|-|-|-|-|
@@ -252,6 +252,7 @@ Subway Builder Japanese Trains is a mod for Subway Builder that adds trains from
 |TKK 5050 EMU|Tokyu 5050 series 8/10-car commuter EMU for Tōyoko/Fukutoshin through services. Manufacturer: Tokyu Car / J-TREC.|Tokyu Car / J-TREC|110|3920|
 |KEIO 5000 EMU|Keio 5000 series commuter/paid-seat train for Keio Line services. Manufacturer: J-TREC.|J-TREC|110|3920|
 |ODQ 3000 EMU|Odakyū 3000 series commuter EMU for Odakyū Line local and express services. Manufacturer: Nippon Sharyo / Tokyu Car / Kawasaki Heavy Industries.|Nippon Sharyo / Tokyu Car / Kawasaki Heavy Industries|100|4060|
+|ODQ 4000 EMU|Odakyū 4000 series 10-car commuter EMU for Odakyū Line services, with through-service to the Tokyo Metro Chiyoda Line and JR Jōban Line. Manufacturer: Tokyu Car / J-TREC / JR East.|Tokyu Car / J-TREC / JR East|100|4060|
 
 
 

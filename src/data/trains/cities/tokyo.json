@@ -515,7 +515,8 @@
     ],
     "compatibleTrackTypes": [
       "odq-3000-emu",
-      "tyo-e233-commuter"
+      "tyo-e233-commuter",
+      "odq-4000-emu"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -1636,7 +1637,8 @@
       "tyo-15000-tozai",
       "tyo-e231-urban",
       "osa-jr-223-kansai",
-      "jrw-kiha120-dmu"
+      "jrw-kiha120-dmu",
+      "odq-4000-emu"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -2656,7 +2658,8 @@
       "Nippon Sharyo"
     ],
     "compatibleTrackTypes": [
-      "odq-3000-emu"
+      "odq-3000-emu",
+      "odq-4000-emu"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -4118,6 +4121,80 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
+      "tyo-16000-chiyoda",
+      "tyo-e233-commuter",
+      "tyo-odakyu-70000-gse",
+      "odq-4000-emu"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
+  },
+  {
+    "id": "odq-4000-emu",
+    "name": "ODQ 4000 EMU",
+    "description": "Odakyū 4000 series 10-car commuter EMU for Odakyū Line services, with through-service to the Tokyo Metro Chiyoda Line and JR Jōban Local Line. Manufacturer: Tokyu Car / J-TREC / JR East.",
+    "stats": {
+      "maxAcceleration": 0.95,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 27.78,
+      "maxSpeedLocalStation": 27.78,
+      "capacityPerCar": 406,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 4,
+      "carLength": 20.0,
+      "minCars": 10,
+      "maxCars": 10,
+      "carsPerCarSet": 10,
+      "carCost": 3200000,
+      "trainWidth": 2.9,
+      "minStationLength": 200,
+      "maxStationLength": 210,
+      "baseTrackCost": 34000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.275,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 50,
+      "turnaroundTimeSeconds": 70,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 12.5
+    },
+    "appearance": {
+      "color": "#005EB8"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85,
+      "TRENCHED": 0.58,
+      "RAMP": 0.57
+    },
+    "Manufacturer": [
+      "Tokyu Car",
+      "J-TREC",
+      "JR East"
+    ],
+    "compatibleTrackTypes": [
+      "odq-3000-emu",
       "tyo-16000-chiyoda",
       "tyo-e233-commuter",
       "tyo-odakyu-70000-gse"
