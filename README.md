@@ -2,6 +2,12 @@
 
 Subway Builder Japanese Trains is a mod for Subway Builder that adds trains from cities around Japan. This pack contains rolling stock from the following Japanese cities, with more planned.
 
+
+
+Trains with a 6 digit code at the end of their names should have their tracks build with the track option with the same code; the first four digits represent gauge in millimeter, the two letters differentiate between different compatibility groups of the same gauge, the last two digits represent top speed in kph; 1067JP-120 will be compatible will all trains with 1067JP at the end of their name and will have a top speed of 120kph.
+
+
+
 ## Currently Available Trains (193)
 
 #### National (34)
