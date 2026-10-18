@@ -1,7 +1,7 @@
 [
   {
     "id": "tym-tlr0600-portram-tram",
-    "name": "TYM TLR0600 Portram Tram",
+    "name": "TYM TLR0600 Portram Tram 1067TC",
     "description": "Toyama Chihō Railway (ex-Toyama Light Rail) TLR0600 Portram low-floor articulated LRV, through-running between the Toyamakō Line and the city tram network. Manufacturer: Niigata Transys.",
     "stats": {
       "maxAcceleration": 1.1,
@@ -53,7 +53,8 @@
       "Niigata Transys"
     ],
     "compatibleTrackTypes": [
-      "tym-9000-centram-tram"
+      "1067TC-40",
+      "1067TC-60"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 180000,
@@ -69,7 +70,7 @@
   },
   {
     "id": "tym-9000-centram-tram",
-    "name": "TYM 9000 Centram Tram",
+    "name": "TYM 9000 Centram Tram 1067TC",
     "description": "Toyama Chihō Railway 9000 series Centram low-floor articulated tram for the Toyama city tram loop line. Manufacturer: Niigata Transys.",
     "stats": {
       "maxAcceleration": 1.1,
@@ -79,7 +80,7 @@
       "capacityPerCar": 160,
       "seatsPerCar": 28,
       "doorsPerCarPerSide": 2,
-      "carLength": 8.740,
+      "carLength": 8.74,
       "minCars": 2,
       "maxCars": 2,
       "carsPerCarSet": 2,
@@ -121,8 +122,137 @@
       "Niigata Transys"
     ],
     "compatibleTrackTypes": [
-      "tym-tlr0600-portram-tram"
+      "1067TC-40",
+      "1067TC-60"
     ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 180000,
+    "gradeCrossingMaintenancePerYear": 5000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 3500000,
+    "rampCost": 1750000
+  },
+  {
+    "id": "1067TC-40",
+    "name": "1067TC-40",
+    "description": "1067mm 40kph track for Toyama Chitetsu city tram and Toyamakō Line use.",
+    "stats": {
+      "maxAcceleration": 9,
+      "maxDeceleration": 9,
+      "maxSpeed": 11.2,
+      "maxSpeedLocalStation": 11.2,
+      "capacityPerCar": 0,
+      "seatsPerCar": 0,
+      "doorsPerCarPerSide": 999,
+      "carLength": 18.4,
+      "minCars": 2,
+      "maxCars": 20,
+      "carsPerCarSet": 1,
+      "carCost": 3200000,
+      "trainWidth": 2.65,
+      "minStationLength": 47,
+      "maxStationLength": 378,
+      "baseTrackCost": 15000,
+      "baseStationCost": 8500000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 5000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.275,
+      "minTurnRadius": 25,
+      "minStationTurnRadius": 80,
+      "maxSlopePercentage": 6.0,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 40,
+      "crossoverSpeed": 4.2
+    },
+    "appearance": {
+      "color": "#C8102E"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 2.8,
+      "STANDARD_TUNNEL": 1.5,
+      "CUT_AND_COVER": 0.8,
+      "AT_GRADE": 0.2,
+      "ELEVATED": 0.6,
+      "TRENCHED": 0.41,
+      "RAMP": 0.38
+    },
+    "Manufacturer": [],
+    "compatibleTrackTypes": [],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 180000,
+    "gradeCrossingMaintenancePerYear": 5000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 3500000,
+    "rampCost": 1750000
+  },
+  {
+    "id": "1067TC-60",
+    "name": "1067TC-60",
+    "description": "1067mm 60kph track for Toyama Chitetsu city tram and Toyamakō Line use.",
+    "stats": {
+      "maxAcceleration": 9,
+      "maxDeceleration": 9,
+      "maxSpeed": 16.7,
+      "maxSpeedLocalStation": 16.7,
+      "capacityPerCar": 0,
+      "seatsPerCar": 0,
+      "doorsPerCarPerSide": 999,
+      "carLength": 18.4,
+      "minCars": 2,
+      "maxCars": 20,
+      "carsPerCarSet": 1,
+      "carCost": 3200000,
+      "trainWidth": 2.65,
+      "minStationLength": 47,
+      "maxStationLength": 378,
+      "baseTrackCost": 15000,
+      "baseStationCost": 8500000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 5000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.275,
+      "minTurnRadius": 25,
+      "minStationTurnRadius": 80,
+      "maxSlopePercentage": 6.0,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 40,
+      "crossoverSpeed": 4.2
+    },
+    "appearance": {
+      "color": "#C8102E"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 2.8,
+      "STANDARD_TUNNEL": 1.5,
+      "CUT_AND_COVER": 0.8,
+      "AT_GRADE": 0.2,
+      "ELEVATED": 0.6,
+      "TRENCHED": 0.41,
+      "RAMP": 0.38
+    },
+    "Manufacturer": [],
+    "compatibleTrackTypes": [],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 180000,
     "gradeCrossingMaintenancePerYear": 5000,

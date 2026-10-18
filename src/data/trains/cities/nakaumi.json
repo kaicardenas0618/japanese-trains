@@ -218,7 +218,7 @@
   },
   {
     "id": "ich-7000-emu",
-    "name": "ICH 7000 EMU",
+    "name": "ICH 7000 EMU 1067IC",
     "description": "Ichibata Electric Railway 7000 series single-car EMU for Matsue-Izumo local services. Manufacturer: Kinki Sharyo.",
     "stats": {
       "maxAcceleration": 0.95,
@@ -270,8 +270,7 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "ich-1000-emu",
-      "ich-5000-emu"
+      "1067IC-85"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -287,7 +286,7 @@
   },
   {
     "id": "ich-1000-emu",
-    "name": "ICH 1000 EMU",
+    "name": "ICH 1000 EMU 1067IC",
     "description": "Ichibata Electric Railway 1000 series EMU converted from former Tokyu stock. Manufacturer: Tokyu Car.",
     "stats": {
       "maxAcceleration": 0.95,
@@ -339,8 +338,7 @@
       "Tokyu Car"
     ],
     "compatibleTrackTypes": [
-      "ich-5000-emu",
-      "ich-7000-emu"
+      "1067IC-85"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -356,7 +354,7 @@
   },
   {
     "id": "ich-5000-emu",
-    "name": "ICH 5000 EMU",
+    "name": "ICH 5000 EMU 1067IC",
     "description": "Ichibata Electric Railway 5000 series EMU for local and excursion services. Manufacturer: Tokyu Car.",
     "stats": {
       "maxAcceleration": 0.95,
@@ -408,9 +406,72 @@
       "Tokyu Car"
     ],
     "compatibleTrackTypes": [
-      "ich-1000-emu",
-      "ich-7000-emu"
+      "1067IC-85"
     ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
+  },
+  {
+    "id": "1067IC-85",
+    "name": "1067IC-85",
+    "description": "1067mm 85kph track for Ichibata Electric Railway use.",
+    "stats": {
+      "maxAcceleration": 9,
+      "maxDeceleration": 9,
+      "maxSpeed": 23.7,
+      "maxSpeedLocalStation": 23.7,
+      "capacityPerCar": 0,
+      "seatsPerCar": 0,
+      "doorsPerCarPerSide": 999,
+      "carLength": 18.0,
+      "minCars": 2,
+      "maxCars": 20,
+      "carsPerCarSet": 1,
+      "carCost": 3200000,
+      "trainWidth": 2.8,
+      "minStationLength": 46,
+      "maxStationLength": 370,
+      "baseTrackCost": 34000,
+      "baseStationCost": 62000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.275,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 6.7
+    },
+    "appearance": {
+      "color": "#F58220"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85,
+      "TRENCHED": 0.58,
+      "RAMP": 0.57
+    },
+    "Manufacturer": [],
+    "compatibleTrackTypes": [],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
     "gradeCrossingMaintenancePerYear": 8000,

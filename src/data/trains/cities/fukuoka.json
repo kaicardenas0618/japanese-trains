@@ -151,7 +151,7 @@
   },
   {
     "id": "nis-commuter-emu",
-    "name": "NIS Commuter EMU",
+    "name": "NIS Commuter EMU 1067NT",
     "description": "Generic Nishitetsu commuter EMU for Tenjin-Omuta Line 3-6 car local and express services. Manufacturer: Kawasaki Heavy Industries / Nippon Sharyo.",
     "stats": {
       "maxAcceleration": 0.95,
@@ -204,8 +204,7 @@
       "Nippon Sharyo"
     ],
     "compatibleTrackTypes": [
-      "nis-3000-emu",
-      "nis-9000-emu"
+      "1067NT-110"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -570,7 +569,7 @@
   },
   {
     "id": "nis-3000-emu",
-    "name": "NIS 3000 EMU",
+    "name": "NIS 3000 EMU 1067NT",
     "description": "Nishitetsu 3000 series commuter EMU for Tenjin-Omuta Line express and local services. Manufacturer: Kawasaki Heavy Industries.",
     "stats": {
       "maxAcceleration": 0.95,
@@ -622,8 +621,7 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "nis-9000-emu",
-      "nis-commuter-emu"
+      "1067NT-110"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -639,7 +637,7 @@
   },
   {
     "id": "nis-9000-emu",
-    "name": "NIS 9000 EMU",
+    "name": "NIS 9000 EMU 1067NT",
     "description": "Nishitetsu 9000 series commuter EMU for Tenjin-Omuta Line express and local services. Manufacturer: Kawasaki Heavy Industries.",
     "stats": {
       "maxAcceleration": 0.95,
@@ -691,9 +689,72 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "nis-3000-emu",
-      "nis-commuter-emu"
+      "1067NT-110"
     ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
+  },
+  {
+    "id": "1067NT-110",
+    "name": "1067NT-110",
+    "description": "1067mm 110kph track for Nishitetsu Tenjin-Ōmuta Line use.",
+    "stats": {
+      "maxAcceleration": 9,
+      "maxDeceleration": 9,
+      "maxSpeed": 30.6,
+      "maxSpeedLocalStation": 30.6,
+      "capacityPerCar": 0,
+      "seatsPerCar": 0,
+      "doorsPerCarPerSide": 999,
+      "carLength": 19.5,
+      "minCars": 2,
+      "maxCars": 20,
+      "carsPerCarSet": 1,
+      "carCost": 3200000,
+      "trainWidth": 2.76,
+      "minStationLength": 49,
+      "maxStationLength": 400,
+      "baseTrackCost": 34000,
+      "baseStationCost": 62000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.275,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 6.7
+    },
+    "appearance": {
+      "color": "#C8102E"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85,
+      "TRENCHED": 0.58,
+      "RAMP": 0.57
+    },
+    "Manufacturer": [],
+    "compatibleTrackTypes": [],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
     "gradeCrossingMaintenancePerYear": 8000,

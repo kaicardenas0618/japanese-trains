@@ -347,7 +347,7 @@
   },
   {
     "id": "spk-a1200-polaris-tram",
-    "name": "SPK A1200 Polaris Tram",
+    "name": "SPK A1200 Polaris Tram 1067SC",
     "description": "Sapporo Streetcar A1200 Polaris low-floor tram. Manufacturer: Alna Sharyo.",
     "stats": {
       "maxAcceleration": 1.1,
@@ -399,7 +399,7 @@
       "Alna Sharyo"
     ],
     "compatibleTrackTypes": [
-      "spk-1100-sirius-tram"
+      "1067SC-40"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 180000,
@@ -415,7 +415,7 @@
   },
   {
     "id": "spk-1100-sirius-tram",
-    "name": "SPK 1100 Sirius Tram",
+    "name": "SPK 1100 Sirius Tram 1067SC",
     "description": "Sapporo Streetcar 1100 series Sirius low-floor tram. Manufacturer: Alna Sharyo.",
     "stats": {
       "maxAcceleration": 1.1,
@@ -467,8 +467,72 @@
       "Alna Sharyo"
     ],
     "compatibleTrackTypes": [
-      "spk-a1200-polaris-tram"
+      "1067SC-40"
     ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 180000,
+    "gradeCrossingMaintenancePerYear": 5000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 3500000,
+    "rampCost": 1750000
+  },
+  {
+    "id": "1067SC-40",
+    "name": "1067SC-40",
+    "description": "1067mm 40kph track for Sapporo Streetcar use.",
+    "stats": {
+      "maxAcceleration": 9,
+      "maxDeceleration": 9,
+      "maxSpeed": 11.2,
+      "maxSpeedLocalStation": 11.2,
+      "capacityPerCar": 0,
+      "seatsPerCar": 0,
+      "doorsPerCarPerSide": 999,
+      "carLength": 17.0,
+      "minCars": 2,
+      "maxCars": 20,
+      "carsPerCarSet": 1,
+      "carCost": 3200000,
+      "trainWidth": 2.3,
+      "minStationLength": 44,
+      "maxStationLength": 350,
+      "baseTrackCost": 15000,
+      "baseStationCost": 8500000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 5000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.275,
+      "minTurnRadius": 25,
+      "minStationTurnRadius": 80,
+      "maxSlopePercentage": 6.0,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 40,
+      "crossoverSpeed": 4.2
+    },
+    "appearance": {
+      "color": "#43B02A"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 2.8,
+      "STANDARD_TUNNEL": 1.5,
+      "CUT_AND_COVER": 0.8,
+      "AT_GRADE": 0.2,
+      "ELEVATED": 0.6,
+      "TRENCHED": 0.41,
+      "RAMP": 0.38
+    },
+    "Manufacturer": [],
+    "compatibleTrackTypes": [],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 180000,
     "gradeCrossingMaintenancePerYear": 5000,

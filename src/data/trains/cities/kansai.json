@@ -1,7 +1,7 @@
 [
   {
     "id": "osa-21-midosuji",
-    "name": "OSA 21 Midosuji",
+    "name": "OSA 21 Midosuji 1435OM",
     "description": "Osaka Metro 21 series 10-car train. Used on the Midosuji Line. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries / Nippon Sharyo.",
     "stats": {
       "maxAcceleration": 1,
@@ -55,7 +55,7 @@
       "Nippon Sharyo"
     ],
     "compatibleTrackTypes": [
-      "osa-30000-midosuji"
+      "1435OM-70"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -71,7 +71,7 @@
   },
   {
     "id": "osa-30000-midosuji",
-    "name": "OSA 30000 Midosuji",
+    "name": "OSA 30000 Midosuji 1435OM",
     "description": "Osaka Metro 30000 series 10-car train. Used on the Midosuji Line. Manufacturer: Kinki Sharyo.",
     "stats": {
       "maxAcceleration": 1,
@@ -123,7 +123,7 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "osa-21-midosuji"
+      "1435OM-70"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -138,8 +138,72 @@
     "rampCost": 4000000
   },
   {
+    "id": "1435OM-70",
+    "name": "1435OM-70",
+    "description": "1435mm 70kph track for Osaka Metro Midosuji Line use.",
+    "stats": {
+      "maxAcceleration": 9,
+      "maxDeceleration": 9,
+      "maxSpeed": 19.5,
+      "maxSpeedLocalStation": 19.5,
+      "capacityPerCar": 0,
+      "seatsPerCar": 0,
+      "doorsPerCarPerSide": 999,
+      "carLength": 18.9,
+      "minCars": 2,
+      "maxCars": 20,
+      "carsPerCarSet": 1,
+      "carCost": 3200000,
+      "trainWidth": 2.89,
+      "minStationLength": 48,
+      "maxStationLength": 388,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.425,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 6.7
+    },
+    "appearance": {
+      "color": "#E5171F"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8,
+      "TRENCHED": 0.54,
+      "RAMP": 0.53
+    },
+    "Manufacturer": [],
+    "compatibleTrackTypes": [],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 8000000,
+    "rampCost": 4000000
+  },
+  {
     "id": "osa-22-tanimachi",
-    "name": "OSA 22 Tanimachi",
+    "name": "OSA 22 Tanimachi 1435OT",
     "description": "Osaka Metro 22 series 6-car train. Used on the Tanimachi Line. Manufacturer: Kinki Sharyo / Nippon Sharyo.",
     "stats": {
       "maxAcceleration": 1,
@@ -192,7 +256,7 @@
       "Nippon Sharyo"
     ],
     "compatibleTrackTypes": [
-      "osa-30000-tanimachi"
+      "1435OT-70"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -208,7 +272,7 @@
   },
   {
     "id": "osa-30000-tanimachi",
-    "name": "OSA 30000 Tanimachi",
+    "name": "OSA 30000 Tanimachi 1435OT",
     "description": "Osaka Metro 30000 series 6-car train. Used on the Tanimachi Line. Manufacturer: Kinki Sharyo.",
     "stats": {
       "maxAcceleration": 1,
@@ -260,8 +324,72 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "osa-22-tanimachi"
+      "1435OT-70"
     ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 8000000,
+    "rampCost": 4000000
+  },
+  {
+    "id": "1435OT-70",
+    "name": "1435OT-70",
+    "description": "1435mm 70kph track for Osaka Metro Tanimachi Line use.",
+    "stats": {
+      "maxAcceleration": 9,
+      "maxDeceleration": 9,
+      "maxSpeed": 19.5,
+      "maxSpeedLocalStation": 19.5,
+      "capacityPerCar": 0,
+      "seatsPerCar": 0,
+      "doorsPerCarPerSide": 999,
+      "carLength": 18.9,
+      "minCars": 2,
+      "maxCars": 20,
+      "carsPerCarSet": 1,
+      "carCost": 3200000,
+      "trainWidth": 2.89,
+      "minStationLength": 48,
+      "maxStationLength": 388,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.425,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 6.7
+    },
+    "appearance": {
+      "color": "#522886"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8,
+      "TRENCHED": 0.54,
+      "RAMP": 0.53
+    },
+    "Manufacturer": [],
+    "compatibleTrackTypes": [],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
     "gradeCrossingMaintenancePerYear": 9000,
@@ -343,7 +471,7 @@
   },
   {
     "id": "osa-30000a-chuo",
-    "name": "OSA 30000A Chuo",
+    "name": "OSA 30000A Chuo 1435OC",
     "description": "Osaka Metro 30000A series 6-car train. Used on the Chuo Line. Manufacturer: Kinki Sharyo.",
     "stats": {
       "maxAcceleration": 1,
@@ -395,7 +523,8 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "osa-400-chuo"
+      "1435OC-70",
+      "1435OC-95"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -411,7 +540,7 @@
   },
   {
     "id": "osa-400-chuo",
-    "name": "OSA 400 Chuo",
+    "name": "OSA 400 Chuo 1435OC",
     "description": "Osaka Metro 400 series 6-car train. New Chuo Line stock for Yumeshima service. Manufacturer: Hitachi.",
     "stats": {
       "maxAcceleration": 1,
@@ -463,8 +592,137 @@
       "Hitachi"
     ],
     "compatibleTrackTypes": [
-      "osa-30000a-chuo"
+      "1435OC-70",
+      "1435OC-95"
     ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 8000000,
+    "rampCost": 4000000
+  },
+  {
+    "id": "1435OC-70",
+    "name": "1435OC-70",
+    "description": "1435mm 70kph track for Osaka Metro Chūō Line and Kintetsu Keihanna Line use.",
+    "stats": {
+      "maxAcceleration": 9,
+      "maxDeceleration": 9,
+      "maxSpeed": 19.5,
+      "maxSpeedLocalStation": 19.5,
+      "capacityPerCar": 0,
+      "seatsPerCar": 0,
+      "doorsPerCarPerSide": 999,
+      "carLength": 18.9,
+      "minCars": 2,
+      "maxCars": 20,
+      "carsPerCarSet": 1,
+      "carCost": 3200000,
+      "trainWidth": 2.89,
+      "minStationLength": 48,
+      "maxStationLength": 388,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.425,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 6.7
+    },
+    "appearance": {
+      "color": "#019A66"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8,
+      "TRENCHED": 0.54,
+      "RAMP": 0.53
+    },
+    "Manufacturer": [],
+    "compatibleTrackTypes": [],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 8000000,
+    "rampCost": 4000000
+  },
+  {
+    "id": "1435OC-95",
+    "name": "1435OC-95",
+    "description": "1435mm 95kph track for Osaka Metro Chūō Line and Kintetsu Keihanna Line use.",
+    "stats": {
+      "maxAcceleration": 9,
+      "maxDeceleration": 9,
+      "maxSpeed": 26.4,
+      "maxSpeedLocalStation": 26.4,
+      "capacityPerCar": 0,
+      "seatsPerCar": 0,
+      "doorsPerCarPerSide": 999,
+      "carLength": 18.9,
+      "minCars": 2,
+      "maxCars": 20,
+      "carsPerCarSet": 1,
+      "carCost": 3200000,
+      "trainWidth": 2.89,
+      "minStationLength": 48,
+      "maxStationLength": 388,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.425,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 6.7
+    },
+    "appearance": {
+      "color": "#019A66"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8,
+      "TRENCHED": 0.54,
+      "RAMP": 0.53
+    },
+    "Manufacturer": [],
+    "compatibleTrackTypes": [],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
     "gradeCrossingMaintenancePerYear": 9000,
@@ -1147,11 +1405,7 @@
     "Manufacturer": [
       "Tokyu Car"
     ],
-    "compatibleTrackTypes": [
-      "kh-3000-emu",
-      "kh-8000-emu",
-      "kh-commuter-emu"
-    ],
+    "compatibleTrackTypes": [],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
     "gradeCrossingMaintenancePerYear": 9000,
@@ -1166,7 +1420,7 @@
   },
   {
     "id": "kyo-10-karasuma",
-    "name": "KYO 10 Karasuma",
+    "name": "KYO 10 Karasuma 1435KK",
     "description": "Kyoto Municipal Subway 10 series 6-car train. Used on the Karasuma Line. Manufacturer: Kinki Sharyo / Hitachi.",
     "stats": {
       "maxAcceleration": 1,
@@ -1219,9 +1473,7 @@
       "Hitachi"
     ],
     "compatibleTrackTypes": [
-      "kyo-20-karasuma",
-      "kyo-kintetsu-3200",
-      "kyo-kintetsu-3220"
+      "1435KK-90"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -1237,7 +1489,7 @@
   },
   {
     "id": "kyo-20-karasuma",
-    "name": "KYO 20 Karasuma",
+    "name": "KYO 20 Karasuma 1435KK",
     "description": "Kyoto Municipal Subway 20 series 6-car train. Newer Karasuma Line stock. Manufacturer: Kinki Sharyo.",
     "stats": {
       "maxAcceleration": 1,
@@ -1289,9 +1541,7 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "kyo-10-karasuma",
-      "kyo-kintetsu-3200",
-      "kyo-kintetsu-3220"
+      "1435KK-90"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -1307,7 +1557,7 @@
   },
   {
     "id": "kyo-50-tozai",
-    "name": "KYO 50 Tozai",
+    "name": "KYO 50 Tozai 1435KE",
     "description": "Kyoto Municipal Subway 50 series 6-car train. Used on the Tozai Line. Manufacturer: Kinki Sharyo.",
     "stats": {
       "maxAcceleration": 1,
@@ -1359,7 +1609,7 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "kyo-keihan-800-keishin"
+      "1435KE-75"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -1375,7 +1625,7 @@
   },
   {
     "id": "kyo-keihan-800-keishin",
-    "name": "KYO Keihan 800 Keishin",
+    "name": "KYO Keihan 800 Keishin 1435KE",
     "description": "Keihan 800 series 4-car train. Runs through Kyoto Subway Tozai Line and Keishin Line. Manufacturer: Kinki Sharyo.",
     "stats": {
       "maxAcceleration": 1,
@@ -1427,7 +1677,7 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "kyo-50-tozai"
+      "1435KE-75"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 220000,
@@ -1442,8 +1692,72 @@
     "rampCost": 2250000
   },
   {
+    "id": "1435KE-75",
+    "name": "1435KE-75",
+    "description": "1435mm 75kph track for Kyoto Subway Tōzai Line and Keihan Keishin Line use.",
+    "stats": {
+      "maxAcceleration": 9,
+      "maxDeceleration": 9,
+      "maxSpeed": 20.9,
+      "maxSpeedLocalStation": 20.9,
+      "capacityPerCar": 0,
+      "seatsPerCar": 0,
+      "doorsPerCarPerSide": 999,
+      "carLength": 16.5,
+      "minCars": 2,
+      "maxCars": 20,
+      "carsPerCarSet": 1,
+      "carCost": 3200000,
+      "trainWidth": 2.49,
+      "minStationLength": 43,
+      "maxStationLength": 340,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.425,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 6.7
+    },
+    "appearance": {
+      "color": "#F58220"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8,
+      "TRENCHED": 0.54,
+      "RAMP": 0.53
+    },
+    "Manufacturer": [],
+    "compatibleTrackTypes": [],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 8000000,
+    "rampCost": 4000000
+  },
+  {
     "id": "kyo-kintetsu-3200",
-    "name": "KYO Kintetsu 3200",
+    "name": "KYO Kintetsu 3200 1435KK/KN",
     "description": "Kintetsu 3200 series 6-car train. Runs through Kyoto Subway Karasuma Line. Manufacturer: Kinki Sharyo.",
     "stats": {
       "maxAcceleration": 1,
@@ -1495,10 +1809,9 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "kt-generic-commuter-emu",
-      "kyo-10-karasuma",
-      "kyo-20-karasuma",
-      "kyo-kintetsu-3220"
+      "1435KK-90",
+      "1435KN-105",
+      "1435KN-130"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -1514,7 +1827,7 @@
   },
   {
     "id": "kyo-kintetsu-3220",
-    "name": "KYO Kintetsu 3220",
+    "name": "KYO Kintetsu 3220 1435KK/KN",
     "description": "Kintetsu 3220 series 6-car train. Runs through Kyoto Subway Karasuma Line. Manufacturer: Kinki Sharyo.",
     "stats": {
       "maxAcceleration": 1,
@@ -1566,10 +1879,9 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "kt-generic-commuter-emu",
-      "kyo-10-karasuma",
-      "kyo-20-karasuma",
-      "kyo-kintetsu-3200"
+      "1435KK-90",
+      "1435KN-105",
+      "1435KN-130"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -1584,8 +1896,72 @@
     "rampCost": 4000000
   },
   {
+    "id": "1435KK-90",
+    "name": "1435KK-90",
+    "description": "1435mm 90kph track for Kyoto Subway Karasuma Line and Kintetsu Kyoto Line through use.",
+    "stats": {
+      "maxAcceleration": 9,
+      "maxDeceleration": 9,
+      "maxSpeed": 25.0,
+      "maxSpeedLocalStation": 25.0,
+      "capacityPerCar": 0,
+      "seatsPerCar": 0,
+      "doorsPerCarPerSide": 999,
+      "carLength": 20,
+      "minCars": 2,
+      "maxCars": 20,
+      "carsPerCarSet": 1,
+      "carCost": 3200000,
+      "trainWidth": 2.8,
+      "minStationLength": 50,
+      "maxStationLength": 410,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.425,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 6.7
+    },
+    "appearance": {
+      "color": "#00843D"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8,
+      "TRENCHED": 0.54,
+      "RAMP": 0.53
+    },
+    "Manufacturer": [],
+    "compatibleTrackTypes": [],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 8000000,
+    "rampCost": 4000000
+  },
+  {
     "id": "kyo-randen-2001-tram",
-    "name": "KYO Randen 2001 Tram",
+    "name": "KYO Randen 2001 Tram 1435KF",
     "description": "Keifuku Randen 2001 series tram. Used on Kyoto street tram services. Manufacturer: Mukogawa Sharyo.",
     "stats": {
       "maxAcceleration": 1.1,
@@ -1637,7 +2013,7 @@
       "Mukogawa Sharyo"
     ],
     "compatibleTrackTypes": [
-      "kyo-randen-600-tram"
+      "1435KF-40"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 180000,
@@ -1653,7 +2029,7 @@
   },
   {
     "id": "kyo-randen-600-tram",
-    "name": "KYO Randen 600 Tram",
+    "name": "KYO Randen 600 Tram 1435KF",
     "description": "Keifuku Randen 600 series tram. Used on Kyoto street tram services. Manufacturer: Mukogawa Sharyo.",
     "stats": {
       "maxAcceleration": 1.1,
@@ -1705,8 +2081,72 @@
       "Mukogawa Sharyo"
     ],
     "compatibleTrackTypes": [
-      "kyo-randen-2001-tram"
+      "1435KF-40"
     ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 180000,
+    "gradeCrossingMaintenancePerYear": 5000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 3500000,
+    "rampCost": 1750000
+  },
+  {
+    "id": "1435KF-40",
+    "name": "1435KF-40",
+    "description": "1435mm 40kph track for Keifuku Randen use.",
+    "stats": {
+      "maxAcceleration": 9,
+      "maxDeceleration": 9,
+      "maxSpeed": 11.2,
+      "maxSpeedLocalStation": 11.2,
+      "capacityPerCar": 0,
+      "seatsPerCar": 0,
+      "doorsPerCarPerSide": 999,
+      "carLength": 15.5,
+      "minCars": 2,
+      "maxCars": 20,
+      "carsPerCarSet": 1,
+      "carCost": 3200000,
+      "trainWidth": 2.6,
+      "minStationLength": 41,
+      "maxStationLength": 320,
+      "baseTrackCost": 15000,
+      "baseStationCost": 8500000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 5000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.275,
+      "minTurnRadius": 25,
+      "minStationTurnRadius": 80,
+      "maxSlopePercentage": 6,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 40,
+      "crossoverSpeed": 4.2
+    },
+    "appearance": {
+      "color": "#5A2D82"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 2.8,
+      "STANDARD_TUNNEL": 1.5,
+      "CUT_AND_COVER": 0.8,
+      "AT_GRADE": 0.2,
+      "ELEVATED": 0.6,
+      "TRENCHED": 0.41,
+      "RAMP": 0.38
+    },
+    "Manufacturer": [],
+    "compatibleTrackTypes": [],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 180000,
     "gradeCrossingMaintenancePerYear": 5000,
@@ -2006,7 +2446,7 @@
   },
   {
     "id": "kob-1000-seishin",
-    "name": "KOB 1000 Seishin",
+    "name": "KOB 1000 Seishin 1435KB",
     "description": "Kobe Municipal Subway 1000 series 6-car train. Older Seishin-Yamate Line stock. Manufacturer: Kawasaki Heavy Industries.",
     "stats": {
       "maxAcceleration": 1,
@@ -2058,10 +2498,7 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "kob-2000-seishin",
-      "kob-3000-seishin",
-      "kob-6000-seishin",
-      "kob-7000-hokushin"
+      "1435KB-90"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -2077,7 +2514,7 @@
   },
   {
     "id": "kob-2000-seishin",
-    "name": "KOB 2000 Seishin",
+    "name": "KOB 2000 Seishin 1435KB",
     "description": "Kobe Municipal Subway 2000 series 6-car train. Seishin-Yamate Line stock. Manufacturer: Kawasaki Heavy Industries.",
     "stats": {
       "maxAcceleration": 1,
@@ -2129,10 +2566,7 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "kob-1000-seishin",
-      "kob-3000-seishin",
-      "kob-6000-seishin",
-      "kob-7000-hokushin"
+      "1435KB-90"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -2148,7 +2582,7 @@
   },
   {
     "id": "kob-3000-seishin",
-    "name": "KOB 3000 Seishin",
+    "name": "KOB 3000 Seishin 1435KB",
     "description": "Kobe Municipal Subway 3000 series 6-car train. Seishin-Yamate Line stock. Manufacturer: Kawasaki Heavy Industries.",
     "stats": {
       "maxAcceleration": 1,
@@ -2200,10 +2634,7 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "kob-1000-seishin",
-      "kob-2000-seishin",
-      "kob-6000-seishin",
-      "kob-7000-hokushin"
+      "1435KB-90"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -2219,7 +2650,7 @@
   },
   {
     "id": "kob-6000-seishin",
-    "name": "KOB 6000 Seishin",
+    "name": "KOB 6000 Seishin 1435KB",
     "description": "Kobe Municipal Subway 6000 series 6-car train. Newer Seishin-Yamate Line stock. Manufacturer: Kawasaki Heavy Industries.",
     "stats": {
       "maxAcceleration": 1,
@@ -2271,10 +2702,7 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "kob-1000-seishin",
-      "kob-2000-seishin",
-      "kob-3000-seishin",
-      "kob-7000-hokushin"
+      "1435KB-90"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -2290,7 +2718,7 @@
   },
   {
     "id": "kob-7000-hokushin",
-    "name": "KOB 7000 Hokushin",
+    "name": "KOB 7000 Hokushin 1435KB",
     "description": "Hokushin/Kobe 7000 series 6-car train. Used on Hokushin and Seishin-Yamate services. Manufacturer: Kawasaki Heavy Industries.",
     "stats": {
       "maxAcceleration": 1,
@@ -2342,11 +2770,72 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "kob-1000-seishin",
-      "kob-2000-seishin",
-      "kob-3000-seishin",
-      "kob-6000-seishin"
+      "1435KB-90"
     ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 8000000,
+    "rampCost": 4000000
+  },
+  {
+    "id": "1435KB-90",
+    "name": "1435KB-90",
+    "description": "1435mm 90kph track for Kobe Subway Seishin-Yamate Line and Hokushin Line use.",
+    "stats": {
+      "maxAcceleration": 9,
+      "maxDeceleration": 9,
+      "maxSpeed": 25.0,
+      "maxSpeedLocalStation": 25.0,
+      "capacityPerCar": 0,
+      "seatsPerCar": 0,
+      "doorsPerCarPerSide": 999,
+      "carLength": 19,
+      "minCars": 2,
+      "maxCars": 20,
+      "carsPerCarSet": 1,
+      "carCost": 3200000,
+      "trainWidth": 2.8,
+      "minStationLength": 48,
+      "maxStationLength": 390,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.425,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 6.7
+    },
+    "appearance": {
+      "color": "#00A3E0"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8,
+      "TRENCHED": 0.54,
+      "RAMP": 0.53
+    },
+    "Manufacturer": [],
+    "compatibleTrackTypes": [],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
     "gradeCrossingMaintenancePerYear": 9000,
@@ -2779,7 +3268,7 @@
   },
   {
     "id": "kob-hanshin-1000",
-    "name": "KOB Hanshin 1000",
+    "name": "KOB Hanshin 1000 1435HS",
     "description": "Hanshin 1000 series commuter train serving Kobe through Namba/Hanshin services. Manufacturer: Kinki Sharyo.",
     "stats": {
       "maxAcceleration": 0.95,
@@ -2831,10 +3320,8 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "hn-1000-emu",
-      "hn-9300-emu",
-      "kob-sanyo-6000",
-      "kt-generic-commuter-emu"
+      "1435HS-106",
+      "1435HS-115"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -2916,7 +3403,7 @@
   },
   {
     "id": "kob-sanyo-6000",
-    "name": "KOB Sanyo 6000",
+    "name": "KOB Sanyo 6000 1435HS",
     "description": "Sanyo Electric Railway 6000 series commuter train serving Kobe-area services. Manufacturer: Kawasaki Heavy Industries.",
     "stats": {
       "maxAcceleration": 0.95,
@@ -2968,10 +3455,8 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "hn-1000-emu",
-      "hn-9300-emu",
-      "kob-hanshin-1000",
-      "kt-generic-commuter-emu"
+      "1435HS-106",
+      "1435HS-115"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -2987,7 +3472,7 @@
   },
   {
     "id": "kt-generic-commuter-emu",
-    "name": "KT Generic Commuter EMU",
+    "name": "KT Generic Commuter EMU 1435KN/HS",
     "description": "Generic Kintetsu commuter EMU for Osaka/Kyoto-area lines. Covers many similar Kintetsu commuter types. Manufacturer: Kinki Sharyo.",
     "stats": {
       "maxAcceleration": 0.95,
@@ -3039,14 +3524,10 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "hn-1000-emu",
-      "hn-9300-emu",
-      "kob-hanshin-1000",
-      "kob-sanyo-6000",
-      "kt-21000-urban-liner-limited-express",
-      "kt-50000-shimakaze-limited-express",
-      "kyo-kintetsu-3200",
-      "kyo-kintetsu-3220"
+      "1435KN-105",
+      "1435KN-130",
+      "1435HS-106",
+      "1435HS-115"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -3062,7 +3543,7 @@
   },
   {
     "id": "kh-commuter-emu",
-    "name": "KH Commuter EMU",
+    "name": "KH Commuter EMU 1435KH",
     "description": "Generic Keihan 8-car commuter EMU for Osaka-Kyoto mainline services. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo.",
     "stats": {
       "maxAcceleration": 0.95,
@@ -3115,9 +3596,7 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "kh-3000-emu",
-      "kh-8000-emu",
-      "osa-nankai-50000-rapit"
+      "1435KH-110"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -3133,7 +3612,7 @@
   },
   {
     "id": "kh-3000-emu",
-    "name": "KH 3000 EMU",
+    "name": "KH 3000 EMU 1435KH",
     "description": "Keihan 3000 series 8-car premium commuter/limited express EMU. Manufacturer: Kawasaki Heavy Industries.",
     "stats": {
       "maxAcceleration": 0.95,
@@ -3185,9 +3664,7 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "kh-8000-emu",
-      "kh-commuter-emu",
-      "osa-nankai-50000-rapit"
+      "1435KH-110"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -3203,7 +3680,7 @@
   },
   {
     "id": "kt-21000-urban-liner-limited-express",
-    "name": "KT 21000 Urban Liner Limited Express",
+    "name": "KT 21000 Urban Liner Limited Express 1435KN",
     "description": "Kintetsu 21000 series Urban Liner limited express EMU for Osaka-Nagoya services. Manufacturer: Kinki Sharyo.",
     "stats": {
       "maxAcceleration": 0.85,
@@ -3255,8 +3732,8 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "kt-50000-shimakaze-limited-express",
-      "kt-generic-commuter-emu"
+      "1435KN-105",
+      "1435KN-130"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -3272,7 +3749,7 @@
   },
   {
     "id": "kt-50000-shimakaze-limited-express",
-    "name": "KT 50000 Shimakaze Limited Express",
+    "name": "KT 50000 Shimakaze Limited Express 1435KN",
     "description": "Kintetsu 50000 series Shimakaze premium limited express EMU. Manufacturer: Kinki Sharyo.",
     "stats": {
       "maxAcceleration": 0.85,
@@ -3324,8 +3801,8 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "kt-21000-urban-liner-limited-express",
-      "kt-generic-commuter-emu"
+      "1435KN-105",
+      "1435KN-130"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -3340,8 +3817,136 @@
     "rampCost": 5500000
   },
   {
+    "id": "1435KN-105",
+    "name": "1435KN-105",
+    "description": "1435mm 105kph track for Kintetsu use.",
+    "stats": {
+      "maxAcceleration": 9,
+      "maxDeceleration": 9,
+      "maxSpeed": 29.2,
+      "maxSpeedLocalStation": 29.2,
+      "capacityPerCar": 0,
+      "seatsPerCar": 0,
+      "doorsPerCarPerSide": 999,
+      "carLength": 21.0,
+      "minCars": 2,
+      "maxCars": 20,
+      "carsPerCarSet": 1,
+      "carCost": 3200000,
+      "trainWidth": 2.8,
+      "minStationLength": 52,
+      "maxStationLength": 430,
+      "baseTrackCost": 34000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.425,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
+    },
+    "appearance": {
+      "color": "#B50000"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85,
+      "TRENCHED": 0.58,
+      "RAMP": 0.57
+    },
+    "Manufacturer": [],
+    "compatibleTrackTypes": [],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
+  },
+  {
+    "id": "1435KN-130",
+    "name": "1435KN-130",
+    "description": "1435mm 130kph track for Kintetsu use.",
+    "stats": {
+      "maxAcceleration": 9,
+      "maxDeceleration": 9,
+      "maxSpeed": 36.2,
+      "maxSpeedLocalStation": 36.2,
+      "capacityPerCar": 0,
+      "seatsPerCar": 0,
+      "doorsPerCarPerSide": 999,
+      "carLength": 21.0,
+      "minCars": 2,
+      "maxCars": 20,
+      "carsPerCarSet": 1,
+      "carCost": 3200000,
+      "trainWidth": 2.8,
+      "minStationLength": 52,
+      "maxStationLength": 430,
+      "baseTrackCost": 34000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.425,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
+    },
+    "appearance": {
+      "color": "#B50000"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85,
+      "TRENCHED": 0.58,
+      "RAMP": 0.57
+    },
+    "Manufacturer": [],
+    "compatibleTrackTypes": [],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
+  },
+  {
     "id": "kh-8000-emu",
-    "name": "KH 8000 EMU",
+    "name": "KH 8000 EMU 1435KH",
     "description": "Keihan 8000 series 8-car limited express EMU for Osaka-Kyoto services. Manufacturer: Kawasaki Heavy Industries.",
     "stats": {
       "maxAcceleration": 0.95,
@@ -3393,9 +3998,7 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "kh-3000-emu",
-      "kh-commuter-emu",
-      "osa-nankai-50000-rapit"
+      "1435KH-110"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -3410,8 +4013,72 @@
     "rampCost": 5500000
   },
   {
+    "id": "1435KH-110",
+    "name": "1435KH-110",
+    "description": "1435mm 110kph track for Keihan Main Line use.",
+    "stats": {
+      "maxAcceleration": 9,
+      "maxDeceleration": 9,
+      "maxSpeed": 30.6,
+      "maxSpeedLocalStation": 30.6,
+      "capacityPerCar": 0,
+      "seatsPerCar": 0,
+      "doorsPerCarPerSide": 999,
+      "carLength": 18.7,
+      "minCars": 2,
+      "maxCars": 20,
+      "carsPerCarSet": 1,
+      "carCost": 3200000,
+      "trainWidth": 2.78,
+      "minStationLength": 48,
+      "maxStationLength": 384,
+      "baseTrackCost": 34000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.275,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 8.3
+    },
+    "appearance": {
+      "color": "#005EB8"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85,
+      "TRENCHED": 0.58,
+      "RAMP": 0.57
+    },
+    "Manufacturer": [],
+    "compatibleTrackTypes": [],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
+  },
+  {
     "id": "hn-9300-emu",
-    "name": "HN 9300 EMU",
+    "name": "HN 9300 EMU 1435HS",
     "description": "Hankyu 9300 series Kyoto Line commuter/limited express EMU. Manufacturer: Hitachi.",
     "stats": {
       "maxAcceleration": 0.95,
@@ -3463,10 +4130,8 @@
       "Hitachi"
     ],
     "compatibleTrackTypes": [
-      "hn-1000-emu",
-      "kob-hanshin-1000",
-      "kob-sanyo-6000",
-      "kt-generic-commuter-emu"
+      "1435HS-106",
+      "1435HS-115"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -3482,7 +4147,7 @@
   },
   {
     "id": "hn-1000-emu",
-    "name": "HN 1000 EMU",
+    "name": "HN 1000 EMU 1435HS",
     "description": "Hankyu 1000 series commuter EMU for Osaka/Kyoto/Kobe-area services. Manufacturer: Hitachi.",
     "stats": {
       "maxAcceleration": 0.95,
@@ -3534,11 +4199,137 @@
       "Hitachi"
     ],
     "compatibleTrackTypes": [
-      "hn-9300-emu",
-      "kob-hanshin-1000",
-      "kob-sanyo-6000",
-      "kt-generic-commuter-emu"
+      "1435HS-106",
+      "1435HS-115"
     ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
+  },
+  {
+    "id": "1435HS-106",
+    "name": "1435HS-106",
+    "description": "1435mm 106kph track for Hanshin, Hankyu, Sanyo and Kintetsu Kobe-area through use.",
+    "stats": {
+      "maxAcceleration": 9,
+      "maxDeceleration": 9,
+      "maxSpeed": 29.5,
+      "maxSpeedLocalStation": 29.5,
+      "capacityPerCar": 0,
+      "seatsPerCar": 0,
+      "doorsPerCarPerSide": 999,
+      "carLength": 20.7,
+      "minCars": 2,
+      "maxCars": 20,
+      "carsPerCarSet": 1,
+      "carCost": 3200000,
+      "trainWidth": 2.8,
+      "minStationLength": 52,
+      "maxStationLength": 424,
+      "baseTrackCost": 34000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.275,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 8.3
+    },
+    "appearance": {
+      "color": "#B50000"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85,
+      "TRENCHED": 0.58,
+      "RAMP": 0.57
+    },
+    "Manufacturer": [],
+    "compatibleTrackTypes": [],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
+  },
+  {
+    "id": "1435HS-115",
+    "name": "1435HS-115",
+    "description": "1435mm 115kph track for Hanshin, Hankyu, Sanyo and Kintetsu Kobe-area through use.",
+    "stats": {
+      "maxAcceleration": 9,
+      "maxDeceleration": 9,
+      "maxSpeed": 32.0,
+      "maxSpeedLocalStation": 32.0,
+      "capacityPerCar": 0,
+      "seatsPerCar": 0,
+      "doorsPerCarPerSide": 999,
+      "carLength": 20.7,
+      "minCars": 2,
+      "maxCars": 20,
+      "carsPerCarSet": 1,
+      "carCost": 3200000,
+      "trainWidth": 2.8,
+      "minStationLength": 52,
+      "maxStationLength": 424,
+      "baseTrackCost": 34000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.275,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 8.3
+    },
+    "appearance": {
+      "color": "#B50000"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85,
+      "TRENCHED": 0.58,
+      "RAMP": 0.57
+    },
+    "Manufacturer": [],
+    "compatibleTrackTypes": [],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
     "gradeCrossingMaintenancePerYear": 8000,

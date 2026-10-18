@@ -1,7 +1,7 @@
 [
   {
     "id": "ktd-1300-emu",
-    "name": "KTD 1300 EMU",
+    "name": "KTD 1300 EMU 1435KD",
     "description": "Kotoden 1300 series local EMU for Takamatsu-area services. Manufacturer: Keikyu / Tokyu Car.",
     "stats": {
       "maxAcceleration": 0.95,
@@ -54,8 +54,7 @@
       "Tokyu Car"
     ],
     "compatibleTrackTypes": [
-      "ktd-1080-emu",
-      "ktd-1200-emu"
+      "1435KD-80"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 180000,
@@ -71,7 +70,7 @@
   },
   {
     "id": "ktd-1200-emu",
-    "name": "KTD 1200 EMU",
+    "name": "KTD 1200 EMU 1435KD",
     "description": "Kotoden 1200 series local EMU for Takamatsu-area services. Manufacturer: Keikyu / Tokyu Car.",
     "stats": {
       "maxAcceleration": 0.95,
@@ -124,8 +123,7 @@
       "Tokyu Car"
     ],
     "compatibleTrackTypes": [
-      "ktd-1080-emu",
-      "ktd-1300-emu"
+      "1435KD-80"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 180000,
@@ -141,7 +139,7 @@
   },
   {
     "id": "ktd-1080-emu",
-    "name": "KTD 1080 EMU",
+    "name": "KTD 1080 EMU 1435KD",
     "description": "Kotoden 1080 series local EMU converted from former Keikyu stock. Manufacturer: Tokyu Car / Kawasaki Heavy Industries.",
     "stats": {
       "maxAcceleration": 0.95,
@@ -194,9 +192,72 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "ktd-1200-emu",
-      "ktd-1300-emu"
+      "1435KD-80"
     ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 180000,
+    "gradeCrossingMaintenancePerYear": 5000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 3500000,
+    "rampCost": 1750000
+  },
+  {
+    "id": "1435KD-80",
+    "name": "1435KD-80",
+    "description": "1435mm 80kph track for Kotoden use.",
+    "stats": {
+      "maxAcceleration": 9,
+      "maxDeceleration": 9,
+      "maxSpeed": 22.3,
+      "maxSpeedLocalStation": 22.3,
+      "capacityPerCar": 0,
+      "seatsPerCar": 0,
+      "doorsPerCarPerSide": 999,
+      "carLength": 18.0,
+      "minCars": 2,
+      "maxCars": 20,
+      "carsPerCarSet": 1,
+      "carCost": 3200000,
+      "trainWidth": 2.74,
+      "minStationLength": 46,
+      "maxStationLength": 370,
+      "baseTrackCost": 34000,
+      "baseStationCost": 62000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.275,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 40,
+      "crossoverSpeed": 4.2
+    },
+    "appearance": {
+      "color": "#F58220"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85,
+      "TRENCHED": 0.58,
+      "RAMP": 0.57
+    },
+    "Manufacturer": [],
+    "compatibleTrackTypes": [],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 180000,
     "gradeCrossingMaintenancePerYear": 5000,

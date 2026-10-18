@@ -1,7 +1,7 @@
 [
   {
     "id": "hrd-5100-green-mover-tram",
-    "name": "HRD 5100 Green Mover Tram",
+    "name": "HRD 5100 Green Mover Tram 1435HD",
     "description": "Hiroden 5100 series Green Mover Max low-floor articulated tram. Manufacturer: Kinki Sharyo / Mitsubishi Heavy Industries / Toyo Denki.",
     "stats": {
       "maxAcceleration": 1.1,
@@ -55,10 +55,8 @@
       "Toyo Denki"
     ],
     "compatibleTrackTypes": [
-      "hrd-1000-green-mover-lex-tram",
-      "hrd-1900-tram",
-      "hrd-5200-green-mover-apex-tram",
-      "hrd-650-tram"
+      "1435HD-40",
+      "1435HD-60"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 180000,
@@ -74,7 +72,7 @@
   },
   {
     "id": "hrd-1900-tram",
-    "name": "HRD 1900 Tram",
+    "name": "HRD 1900 Tram 1435HD",
     "description": "Hiroden 1900 series single-car tram, rebuilt from former Kyoto streetcar stock. Manufacturer: Naniwa Koki.",
     "stats": {
       "maxAcceleration": 1.1,
@@ -126,10 +124,8 @@
       "Naniwa Koki"
     ],
     "compatibleTrackTypes": [
-      "hrd-1000-green-mover-lex-tram",
-      "hrd-5100-green-mover-tram",
-      "hrd-5200-green-mover-apex-tram",
-      "hrd-650-tram"
+      "1435HD-40",
+      "1435HD-60"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 180000,
@@ -145,7 +141,7 @@
   },
   {
     "id": "hrd-650-tram",
-    "name": "HRD 650 Tram",
+    "name": "HRD 650 Tram 1435HD",
     "description": "Hiroden 650 series heritage single-car tram. Manufacturer: Kisha Seizo.",
     "stats": {
       "maxAcceleration": 1.1,
@@ -197,10 +193,8 @@
       "Kisha Seizo"
     ],
     "compatibleTrackTypes": [
-      "hrd-1000-green-mover-lex-tram",
-      "hrd-1900-tram",
-      "hrd-5100-green-mover-tram",
-      "hrd-5200-green-mover-apex-tram"
+      "1435HD-40",
+      "1435HD-60"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 180000,
@@ -216,7 +210,7 @@
   },
   {
     "id": "hrd-1000-green-mover-lex-tram",
-    "name": "HRD 1000 Green Mover Lex Tram",
+    "name": "HRD 1000 Green Mover Lex Tram 1435HD",
     "description": "Hiroden 1000 series Green Mover Lex low-floor articulated tram. Manufacturer: Kinki Sharyo / Mitsubishi Heavy Industries / Toyo Denki.",
     "stats": {
       "maxAcceleration": 1.1,
@@ -270,10 +264,8 @@
       "Toyo Denki"
     ],
     "compatibleTrackTypes": [
-      "hrd-1900-tram",
-      "hrd-5100-green-mover-tram",
-      "hrd-5200-green-mover-apex-tram",
-      "hrd-650-tram"
+      "1435HD-40",
+      "1435HD-60"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 180000,
@@ -289,7 +281,7 @@
   },
   {
     "id": "hrd-5200-green-mover-apex-tram",
-    "name": "HRD 5200 Green Mover Apex Tram",
+    "name": "HRD 5200 Green Mover Apex Tram 1435HD",
     "description": "Hiroden 5200 series Green Mover Apex high-capacity low-floor tram. Manufacturer: Kinki Sharyo / Mitsubishi Heavy Industries / Toyo Denki.",
     "stats": {
       "maxAcceleration": 1.1,
@@ -343,11 +335,137 @@
       "Toyo Denki"
     ],
     "compatibleTrackTypes": [
-      "hrd-1000-green-mover-lex-tram",
-      "hrd-1900-tram",
-      "hrd-5100-green-mover-tram",
-      "hrd-650-tram"
+      "1435HD-40",
+      "1435HD-60"
     ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 180000,
+    "gradeCrossingMaintenancePerYear": 5000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 3500000,
+    "rampCost": 1750000
+  },
+  {
+    "id": "1435HD-40",
+    "name": "1435HD-40",
+    "description": "1435mm 40kph track for Hiroden street tram and Miyajima Line use.",
+    "stats": {
+      "maxAcceleration": 9,
+      "maxDeceleration": 9,
+      "maxSpeed": 11.2,
+      "maxSpeedLocalStation": 11.2,
+      "capacityPerCar": 0,
+      "seatsPerCar": 0,
+      "doorsPerCarPerSide": 999,
+      "carLength": 30.0,
+      "minCars": 2,
+      "maxCars": 20,
+      "carsPerCarSet": 1,
+      "carCost": 3200000,
+      "trainWidth": 2.45,
+      "minStationLength": 70,
+      "maxStationLength": 610,
+      "baseTrackCost": 15000,
+      "baseStationCost": 8500000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 5000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.275,
+      "minTurnRadius": 25,
+      "minStationTurnRadius": 80,
+      "maxSlopePercentage": 6.0,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 40,
+      "crossoverSpeed": 4.2
+    },
+    "appearance": {
+      "color": "#43B02A"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 2.8,
+      "STANDARD_TUNNEL": 1.5,
+      "CUT_AND_COVER": 0.8,
+      "AT_GRADE": 0.2,
+      "ELEVATED": 0.6,
+      "TRENCHED": 0.41,
+      "RAMP": 0.38
+    },
+    "Manufacturer": [],
+    "compatibleTrackTypes": [],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 180000,
+    "gradeCrossingMaintenancePerYear": 5000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 3500000,
+    "rampCost": 1750000
+  },
+  {
+    "id": "1435HD-60",
+    "name": "1435HD-60",
+    "description": "1435mm 60kph track for Hiroden street tram and Miyajima Line use.",
+    "stats": {
+      "maxAcceleration": 9,
+      "maxDeceleration": 9,
+      "maxSpeed": 16.7,
+      "maxSpeedLocalStation": 16.7,
+      "capacityPerCar": 0,
+      "seatsPerCar": 0,
+      "doorsPerCarPerSide": 999,
+      "carLength": 30.0,
+      "minCars": 2,
+      "maxCars": 20,
+      "carsPerCarSet": 1,
+      "carCost": 3200000,
+      "trainWidth": 2.45,
+      "minStationLength": 70,
+      "maxStationLength": 610,
+      "baseTrackCost": 15000,
+      "baseStationCost": 8500000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 5000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.275,
+      "minTurnRadius": 25,
+      "minStationTurnRadius": 80,
+      "maxSlopePercentage": 6.0,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 40,
+      "crossoverSpeed": 4.2
+    },
+    "appearance": {
+      "color": "#43B02A"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 2.8,
+      "STANDARD_TUNNEL": 1.5,
+      "CUT_AND_COVER": 0.8,
+      "AT_GRADE": 0.2,
+      "ELEVATED": 0.6,
+      "TRENCHED": 0.41,
+      "RAMP": 0.38
+    },
+    "Manufacturer": [],
+    "compatibleTrackTypes": [],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 180000,
     "gradeCrossingMaintenancePerYear": 5000,

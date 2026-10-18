@@ -1,7 +1,7 @@
 [
   {
     "id": "jp-n700a-shinkansen",
-    "name": "JP N700A Shinkansen",
+    "name": "JP N700A Shinkansen 1435JP",
     "description": "16-car N700A Shinkansen train for Tōkaidō and Sanyō high-speed services. Manufacturer: Hitachi / Nippon Sharyo / Kawasaki Heavy Industries / Kinki Sharyo.",
     "stats": {
       "maxAcceleration": 0.85,
@@ -56,20 +56,11 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "jp-500-shinkansen",
-      "jp-700-rail-star",
-      "jp-n700-7000-sakura",
-      "jp-n700s-shinkansen",
-      "jp-n700s-8000-kamome",
-      "jp-800-shinkansen",
-      "jp-e5-shinkansen",
-      "jp-h5-shinkansen",
-      "jp-e6-komachi",
-      "jp-e7-shinkansen",
-      "jp-w7-shinkansen",
-      "jp-e8-tsubasa",
-      "jp-e3-tsubasa",
-      "jp-e2-shinkansen"
+      "1435JP-60",
+      "1435JP-100",
+      "1435JP-130",
+      "1435JP-285",
+      "1435JP-320"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -85,7 +76,7 @@
   },
   {
     "id": "jp-n700s-shinkansen",
-    "name": "JP N700S Shinkansen",
+    "name": "JP N700S Shinkansen 1435JP",
     "description": "16-car N700S Shinkansen train for Tōkaidō and Sanyō high-speed services. Manufacturer: Hitachi / Nippon Sharyo.",
     "stats": {
       "maxAcceleration": 0.85,
@@ -138,20 +129,11 @@
       "Nippon Sharyo"
     ],
     "compatibleTrackTypes": [
-      "jp-500-shinkansen",
-      "jp-700-rail-star",
-      "jp-n700-7000-sakura",
-      "jp-n700a-shinkansen",
-      "jp-n700s-8000-kamome",
-      "jp-800-shinkansen",
-      "jp-e5-shinkansen",
-      "jp-h5-shinkansen",
-      "jp-e6-komachi",
-      "jp-e7-shinkansen",
-      "jp-w7-shinkansen",
-      "jp-e8-tsubasa",
-      "jp-e3-tsubasa",
-      "jp-e2-shinkansen"
+      "1435JP-60",
+      "1435JP-100",
+      "1435JP-130",
+      "1435JP-285",
+      "1435JP-320"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -167,7 +149,7 @@
   },
   {
     "id": "jp-n700-7000-sakura",
-    "name": "JP N700-7000 Sakura",
+    "name": "JP N700-7000 Sakura 1435JP",
     "description": "8-car N700-7000/8000 Shinkansen train for Sanyō and Kyūshū Mizuho/Sakura services. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo.",
     "stats": {
       "maxAcceleration": 0.75,
@@ -222,20 +204,11 @@
       "Nippon Sharyo"
     ],
     "compatibleTrackTypes": [
-      "jp-500-shinkansen",
-      "jp-700-rail-star",
-      "jp-n700a-shinkansen",
-      "jp-n700s-shinkansen",
-      "jp-n700s-8000-kamome",
-      "jp-800-shinkansen",
-      "jp-e5-shinkansen",
-      "jp-h5-shinkansen",
-      "jp-e6-komachi",
-      "jp-e7-shinkansen",
-      "jp-w7-shinkansen",
-      "jp-e8-tsubasa",
-      "jp-e3-tsubasa",
-      "jp-e2-shinkansen"
+      "1435JP-60",
+      "1435JP-100",
+      "1435JP-130",
+      "1435JP-285",
+      "1435JP-320"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -251,7 +224,7 @@
   },
   {
     "id": "jp-n700s-8000-kamome",
-    "name": "JP N700S-8000 Kamome",
+    "name": "JP N700S-8000 Kamome 1435JP",
     "description": "6-car N700S-8000 Shinkansen train for Nishi-Kyūshū Kamome services. Manufacturer: Hitachi / Nippon Sharyo.",
     "stats": {
       "maxAcceleration": 0.85,
@@ -304,20 +277,11 @@
       "Nippon Sharyo"
     ],
     "compatibleTrackTypes": [
-      "jp-n700a-shinkansen",
-      "jp-n700s-shinkansen",
-      "jp-n700-7000-sakura",
-      "jp-500-shinkansen",
-      "jp-700-rail-star",
-      "jp-800-shinkansen",
-      "jp-e5-shinkansen",
-      "jp-h5-shinkansen",
-      "jp-e6-komachi",
-      "jp-e7-shinkansen",
-      "jp-w7-shinkansen",
-      "jp-e8-tsubasa",
-      "jp-e3-tsubasa",
-      "jp-e2-shinkansen"
+      "1435JP-60",
+      "1435JP-100",
+      "1435JP-130",
+      "1435JP-285",
+      "1435JP-320"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -333,7 +297,7 @@
   },
   {
     "id": "jp-500-shinkansen",
-    "name": "JP 500 Shinkansen",
+    "name": "JP 500 Shinkansen 1435JP",
     "description": "8-car 500 Series Shinkansen train used on Sanyō Kodama services. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo.",
     "stats": {
       "maxAcceleration": 0.85,
@@ -388,20 +352,11 @@
       "Nippon Sharyo"
     ],
     "compatibleTrackTypes": [
-      "jp-700-rail-star",
-      "jp-n700-7000-sakura",
-      "jp-n700a-shinkansen",
-      "jp-n700s-shinkansen",
-      "jp-n700s-8000-kamome",
-      "jp-800-shinkansen",
-      "jp-e5-shinkansen",
-      "jp-h5-shinkansen",
-      "jp-e6-komachi",
-      "jp-e7-shinkansen",
-      "jp-w7-shinkansen",
-      "jp-e8-tsubasa",
-      "jp-e3-tsubasa",
-      "jp-e2-shinkansen"
+      "1435JP-60",
+      "1435JP-100",
+      "1435JP-130",
+      "1435JP-285",
+      "1435JP-320"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -417,7 +372,7 @@
   },
   {
     "id": "jp-700-rail-star",
-    "name": "JP 700 Rail Star",
+    "name": "JP 700 Rail Star 1435JP",
     "description": "8-car 700 Series Rail Star Shinkansen train used on Sanyō services. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo.",
     "stats": {
       "maxAcceleration": 0.85,
@@ -472,20 +427,11 @@
       "Nippon Sharyo"
     ],
     "compatibleTrackTypes": [
-      "jp-500-shinkansen",
-      "jp-n700-7000-sakura",
-      "jp-n700a-shinkansen",
-      "jp-n700s-shinkansen",
-      "jp-n700s-8000-kamome",
-      "jp-800-shinkansen",
-      "jp-e5-shinkansen",
-      "jp-h5-shinkansen",
-      "jp-e6-komachi",
-      "jp-e7-shinkansen",
-      "jp-w7-shinkansen",
-      "jp-e8-tsubasa",
-      "jp-e3-tsubasa",
-      "jp-e2-shinkansen"
+      "1435JP-60",
+      "1435JP-100",
+      "1435JP-130",
+      "1435JP-285",
+      "1435JP-320"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -501,7 +447,7 @@
   },
   {
     "id": "jp-800-shinkansen",
-    "name": "JP 800 Shinkansen",
+    "name": "JP 800 Shinkansen 1435JP",
     "description": "6-car 800 Series Shinkansen train for Kyūshū Shinkansen services. Manufacturer: Hitachi.",
     "stats": {
       "maxAcceleration": 0.85,
@@ -553,20 +499,11 @@
       "Hitachi"
     ],
     "compatibleTrackTypes": [
-      "jp-n700a-shinkansen",
-      "jp-n700s-shinkansen",
-      "jp-n700-7000-sakura",
-      "jp-n700s-8000-kamome",
-      "jp-500-shinkansen",
-      "jp-700-rail-star",
-      "jp-e5-shinkansen",
-      "jp-h5-shinkansen",
-      "jp-e6-komachi",
-      "jp-e7-shinkansen",
-      "jp-w7-shinkansen",
-      "jp-e8-tsubasa",
-      "jp-e3-tsubasa",
-      "jp-e2-shinkansen"
+      "1435JP-60",
+      "1435JP-100",
+      "1435JP-130",
+      "1435JP-285",
+      "1435JP-320"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -582,7 +519,7 @@
   },
   {
     "id": "jp-e5-shinkansen",
-    "name": "JP E5 Shinkansen",
+    "name": "JP E5 Shinkansen 1435JP",
     "description": "10-car E5 Series Shinkansen train for Tōhoku and Hokkaidō high-speed services. Manufacturer: Hitachi / Kawasaki Heavy Industries.",
     "stats": {
       "maxAcceleration": 0.75,
@@ -635,20 +572,11 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "jp-e2-shinkansen",
-      "jp-e3-tsubasa",
-      "jp-e6-komachi",
-      "jp-e7-shinkansen",
-      "jp-e8-tsubasa",
-      "jp-h5-shinkansen",
-      "jp-w7-shinkansen",
-      "jp-n700a-shinkansen",
-      "jp-n700s-shinkansen",
-      "jp-n700-7000-sakura",
-      "jp-n700s-8000-kamome",
-      "jp-500-shinkansen",
-      "jp-700-rail-star",
-      "jp-800-shinkansen"
+      "1435JP-60",
+      "1435JP-100",
+      "1435JP-130",
+      "1435JP-285",
+      "1435JP-320"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -664,7 +592,7 @@
   },
   {
     "id": "jp-h5-shinkansen",
-    "name": "JP H5 Shinkansen",
+    "name": "JP H5 Shinkansen 1435JP",
     "description": "10-car H5 Series Shinkansen train for Hokkaidō and Tōhoku high-speed services. Manufacturer: Hitachi / Kawasaki Heavy Industries.",
     "stats": {
       "maxAcceleration": 0.75,
@@ -717,20 +645,11 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "jp-e2-shinkansen",
-      "jp-e3-tsubasa",
-      "jp-e5-shinkansen",
-      "jp-e6-komachi",
-      "jp-e7-shinkansen",
-      "jp-e8-tsubasa",
-      "jp-w7-shinkansen",
-      "jp-n700a-shinkansen",
-      "jp-n700s-shinkansen",
-      "jp-n700-7000-sakura",
-      "jp-n700s-8000-kamome",
-      "jp-500-shinkansen",
-      "jp-700-rail-star",
-      "jp-800-shinkansen"
+      "1435JP-60",
+      "1435JP-100",
+      "1435JP-130",
+      "1435JP-285",
+      "1435JP-320"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -746,7 +665,7 @@
   },
   {
     "id": "jp-e6-komachi",
-    "name": "JP E6 Komachi",
+    "name": "JP E6 Komachi 1435JP",
     "description": "7-car E6 Series mini-Shinkansen train for Akita Komachi services. Manufacturer: Hitachi / Kawasaki Heavy Industries.",
     "stats": {
       "maxAcceleration": 0.75,
@@ -799,20 +718,11 @@
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [
-      "jp-e2-shinkansen",
-      "jp-e3-tsubasa",
-      "jp-e5-shinkansen",
-      "jp-e7-shinkansen",
-      "jp-e8-tsubasa",
-      "jp-h5-shinkansen",
-      "jp-w7-shinkansen",
-      "jp-n700a-shinkansen",
-      "jp-n700s-shinkansen",
-      "jp-n700-7000-sakura",
-      "jp-n700s-8000-kamome",
-      "jp-500-shinkansen",
-      "jp-700-rail-star",
-      "jp-800-shinkansen"
+      "1435JP-60",
+      "1435JP-100",
+      "1435JP-130",
+      "1435JP-285",
+      "1435JP-320"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -828,7 +738,7 @@
   },
   {
     "id": "jp-e7-shinkansen",
-    "name": "JP E7 Shinkansen",
+    "name": "JP E7 Shinkansen 1435JP",
     "description": "12-car E7 Series Shinkansen train for Hokuriku and Jōetsu high-speed services. Manufacturer: Hitachi / Kawasaki Railcar Manufacturing / J-TREC.",
     "stats": {
       "maxAcceleration": 0.85,
@@ -882,20 +792,11 @@
       "J-TREC"
     ],
     "compatibleTrackTypes": [
-      "jp-e2-shinkansen",
-      "jp-e3-tsubasa",
-      "jp-e5-shinkansen",
-      "jp-e6-komachi",
-      "jp-e8-tsubasa",
-      "jp-h5-shinkansen",
-      "jp-w7-shinkansen",
-      "jp-n700a-shinkansen",
-      "jp-n700s-shinkansen",
-      "jp-n700-7000-sakura",
-      "jp-n700s-8000-kamome",
-      "jp-500-shinkansen",
-      "jp-700-rail-star",
-      "jp-800-shinkansen"
+      "1435JP-60",
+      "1435JP-100",
+      "1435JP-130",
+      "1435JP-285",
+      "1435JP-320"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -911,7 +812,7 @@
   },
   {
     "id": "jp-w7-shinkansen",
-    "name": "JP W7 Shinkansen",
+    "name": "JP W7 Shinkansen 1435JP",
     "description": "12-car W7 Series Shinkansen train for Hokuriku high-speed services. Manufacturer: Hitachi / Kawasaki Railcar Manufacturing / Kinki Sharyo.",
     "stats": {
       "maxAcceleration": 0.85,
@@ -965,20 +866,11 @@
       "Kinki Sharyo"
     ],
     "compatibleTrackTypes": [
-      "jp-e2-shinkansen",
-      "jp-e3-tsubasa",
-      "jp-e5-shinkansen",
-      "jp-e6-komachi",
-      "jp-e7-shinkansen",
-      "jp-e8-tsubasa",
-      "jp-h5-shinkansen",
-      "jp-n700a-shinkansen",
-      "jp-n700s-shinkansen",
-      "jp-n700-7000-sakura",
-      "jp-n700s-8000-kamome",
-      "jp-500-shinkansen",
-      "jp-700-rail-star",
-      "jp-800-shinkansen"
+      "1435JP-60",
+      "1435JP-100",
+      "1435JP-130",
+      "1435JP-285",
+      "1435JP-320"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -994,7 +886,7 @@
   },
   {
     "id": "jp-e8-tsubasa",
-    "name": "JP E8 Tsubasa",
+    "name": "JP E8 Tsubasa 1435JP",
     "description": "7-car E8 Series mini-Shinkansen train for Yamagata Tsubasa services. Manufacturer: Hitachi.",
     "stats": {
       "maxAcceleration": 0.75,
@@ -1046,20 +938,11 @@
       "Hitachi"
     ],
     "compatibleTrackTypes": [
-      "jp-e2-shinkansen",
-      "jp-e3-tsubasa",
-      "jp-e5-shinkansen",
-      "jp-e6-komachi",
-      "jp-e7-shinkansen",
-      "jp-h5-shinkansen",
-      "jp-w7-shinkansen",
-      "jp-n700a-shinkansen",
-      "jp-n700s-shinkansen",
-      "jp-n700-7000-sakura",
-      "jp-n700s-8000-kamome",
-      "jp-500-shinkansen",
-      "jp-700-rail-star",
-      "jp-800-shinkansen"
+      "1435JP-60",
+      "1435JP-100",
+      "1435JP-130",
+      "1435JP-285",
+      "1435JP-320"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -1075,7 +958,7 @@
   },
   {
     "id": "jp-e3-tsubasa",
-    "name": "JP E3 Tsubasa",
+    "name": "JP E3 Tsubasa 1435JP",
     "description": "7-car E3 Series mini-Shinkansen train for Yamagata Shinkansen services. Manufacturer: Kawasaki Heavy Industries / Tokyu Car.",
     "stats": {
       "maxAcceleration": 0.85,
@@ -1128,20 +1011,11 @@
       "Tokyu Car"
     ],
     "compatibleTrackTypes": [
-      "jp-e2-shinkansen",
-      "jp-e5-shinkansen",
-      "jp-e6-komachi",
-      "jp-e7-shinkansen",
-      "jp-e8-tsubasa",
-      "jp-h5-shinkansen",
-      "jp-w7-shinkansen",
-      "jp-n700a-shinkansen",
-      "jp-n700s-shinkansen",
-      "jp-n700-7000-sakura",
-      "jp-n700s-8000-kamome",
-      "jp-500-shinkansen",
-      "jp-700-rail-star",
-      "jp-800-shinkansen"
+      "1435JP-60",
+      "1435JP-100",
+      "1435JP-130",
+      "1435JP-285",
+      "1435JP-320"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -1157,7 +1031,7 @@
   },
   {
     "id": "jp-e2-shinkansen",
-    "name": "JP E2 Shinkansen",
+    "name": "JP E2 Shinkansen 1435JP",
     "description": "10-car E2 Series Shinkansen train for Tōhoku and Jōetsu legacy high-speed services. Manufacturer: Hitachi / Kawasaki Heavy Industries / Tokyu Car.",
     "stats": {
       "maxAcceleration": 0.85,
@@ -1211,21 +1085,335 @@
       "Tokyu Car"
     ],
     "compatibleTrackTypes": [
-      "jp-e3-tsubasa",
-      "jp-e5-shinkansen",
-      "jp-e6-komachi",
-      "jp-e7-shinkansen",
-      "jp-e8-tsubasa",
-      "jp-h5-shinkansen",
-      "jp-w7-shinkansen",
-      "jp-n700a-shinkansen",
-      "jp-n700s-shinkansen",
-      "jp-n700-7000-sakura",
-      "jp-n700s-8000-kamome",
-      "jp-500-shinkansen",
-      "jp-700-rail-star",
-      "jp-800-shinkansen"
+      "1435JP-60",
+      "1435JP-100",
+      "1435JP-130",
+      "1435JP-285",
+      "1435JP-320"
     ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 900000,
+    "gradeCrossingMaintenancePerYear": 18000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 20000000,
+    "rampCost": 10000000
+  },
+  {
+    "id": "1435JP-60",
+    "name": "1435JP-60",
+    "description": "1435mm 60kph track for Shinkansen use.",
+    "stats": {
+      "maxAcceleration": 9,
+      "maxDeceleration": 9,
+      "maxSpeed": 16.7,
+      "maxSpeedLocalStation": 16.7,
+      "capacityPerCar": 0,
+      "seatsPerCar": 0,
+      "doorsPerCarPerSide": 99,
+      "carLength": 25.0,
+      "minCars": 2,
+      "maxCars": 20,
+      "carsPerCarSet": 1,
+      "carCost": 7560000,
+      "trainWidth": 3.36,
+      "minStationLength": 60,
+      "maxStationLength": 510,
+      "baseTrackCost": 82000,
+      "baseStationCost": 260000000,
+      "trainOperationalCostPerHour": 1250,
+      "carOperationalCostPerHour": 52,
+      "scissorsCrossoverCost": 37000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.9,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 2.8,
+      "parallelTrackSpacing": 3,
+      "stopTimeSeconds": 120,
+      "turnaroundTimeSeconds": 0,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 20,
+      "crossoverSpeed": 11.1
+    },
+    "appearance": {
+      "color": "#B50000"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 5.4,
+      "STANDARD_TUNNEL": 2.9,
+      "CUT_AND_COVER": 1.5,
+      "AT_GRADE": 0.65,
+      "ELEVATED": 1.35,
+      "TRENCHED": 0.95,
+      "RAMP": 0.97
+    },
+    "Manufacturer": [],
+    "compatibleTrackTypes": [],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 900000,
+    "gradeCrossingMaintenancePerYear": 18000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 20000000,
+    "rampCost": 10000000
+  },
+  {
+    "id": "1435JP-100",
+    "name": "1435JP-100",
+    "description": "1435mm 100kph track for Shinkansen use.",
+    "stats": {
+      "maxAcceleration": 9,
+      "maxDeceleration": 9,
+      "maxSpeed": 27.8,
+      "maxSpeedLocalStation": 27.8,
+      "capacityPerCar": 0,
+      "seatsPerCar": 0,
+      "doorsPerCarPerSide": 99,
+      "carLength": 25.0,
+      "minCars": 2,
+      "maxCars": 20,
+      "carsPerCarSet": 1,
+      "carCost": 7560000,
+      "trainWidth": 3.36,
+      "minStationLength": 60,
+      "maxStationLength": 510,
+      "baseTrackCost": 82000,
+      "baseStationCost": 260000000,
+      "trainOperationalCostPerHour": 1250,
+      "carOperationalCostPerHour": 52,
+      "scissorsCrossoverCost": 37000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.9,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 2.8,
+      "parallelTrackSpacing": 3,
+      "stopTimeSeconds": 120,
+      "turnaroundTimeSeconds": 0,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 20,
+      "crossoverSpeed": 11.1
+    },
+    "appearance": {
+      "color": "#B50000"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 5.4,
+      "STANDARD_TUNNEL": 2.9,
+      "CUT_AND_COVER": 1.5,
+      "AT_GRADE": 0.65,
+      "ELEVATED": 1.35,
+      "TRENCHED": 0.95,
+      "RAMP": 0.97
+    },
+    "Manufacturer": [],
+    "compatibleTrackTypes": [],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 900000,
+    "gradeCrossingMaintenancePerYear": 18000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 20000000,
+    "rampCost": 10000000
+  },
+  {
+    "id": "1435JP-130",
+    "name": "1435JP-130",
+    "description": "1435mm 130kph track for Shinkansen use.",
+    "stats": {
+      "maxAcceleration": 9,
+      "maxDeceleration": 9,
+      "maxSpeed": 36.1,
+      "maxSpeedLocalStation": 36.1,
+      "capacityPerCar": 0,
+      "seatsPerCar": 0,
+      "doorsPerCarPerSide": 99,
+      "carLength": 25.0,
+      "minCars": 2,
+      "maxCars": 20,
+      "carsPerCarSet": 1,
+      "carCost": 7560000,
+      "trainWidth": 3.36,
+      "minStationLength": 60,
+      "maxStationLength": 510,
+      "baseTrackCost": 82000,
+      "baseStationCost": 260000000,
+      "trainOperationalCostPerHour": 1250,
+      "carOperationalCostPerHour": 52,
+      "scissorsCrossoverCost": 37000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.9,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 2.8,
+      "parallelTrackSpacing": 3,
+      "stopTimeSeconds": 120,
+      "turnaroundTimeSeconds": 0,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 20,
+      "crossoverSpeed": 11.1
+    },
+    "appearance": {
+      "color": "#B50000"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 5.4,
+      "STANDARD_TUNNEL": 2.9,
+      "CUT_AND_COVER": 1.5,
+      "AT_GRADE": 0.65,
+      "ELEVATED": 1.35,
+      "TRENCHED": 0.95,
+      "RAMP": 0.97
+    },
+    "Manufacturer": [],
+    "compatibleTrackTypes": [],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 900000,
+    "gradeCrossingMaintenancePerYear": 18000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 20000000,
+    "rampCost": 10000000
+  },
+  {
+    "id": "1435JP-285",
+    "name": "1435JP-285",
+    "description": "1435mm 285kph track for Shinkansen use.",
+    "stats": {
+      "maxAcceleration": 9,
+      "maxDeceleration": 9,
+      "maxSpeed": 79.2,
+      "maxSpeedLocalStation": 79.2,
+      "capacityPerCar": 0,
+      "seatsPerCar": 0,
+      "doorsPerCarPerSide": 99,
+      "carLength": 25.0,
+      "minCars": 2,
+      "maxCars": 20,
+      "carsPerCarSet": 1,
+      "carCost": 7560000,
+      "trainWidth": 3.36,
+      "minStationLength": 60,
+      "maxStationLength": 510,
+      "baseTrackCost": 82000,
+      "baseStationCost": 260000000,
+      "trainOperationalCostPerHour": 1250,
+      "carOperationalCostPerHour": 52,
+      "scissorsCrossoverCost": 37000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.9,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 2.8,
+      "parallelTrackSpacing": 3,
+      "stopTimeSeconds": 120,
+      "turnaroundTimeSeconds": 0,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 20,
+      "crossoverSpeed": 11.1
+    },
+    "appearance": {
+      "color": "#B50000"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 5.4,
+      "STANDARD_TUNNEL": 2.9,
+      "CUT_AND_COVER": 1.5,
+      "AT_GRADE": 0.65,
+      "ELEVATED": 1.35,
+      "TRENCHED": 0.95,
+      "RAMP": 0.97
+    },
+    "Manufacturer": [
+      "Hitachi",
+      "Nippon Sharyo"
+    ],
+    "compatibleTrackTypes": [],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 900000,
+    "gradeCrossingMaintenancePerYear": 18000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 20000000,
+    "rampCost": 10000000
+  },
+  {
+    "id": "1435JP-320",
+    "name": "1435JP-320",
+    "description": "1435mm 320kph track for Shinkansen use.",
+    "stats": {
+      "maxAcceleration": 9,
+      "maxDeceleration": 9,
+      "maxSpeed": 88.9,
+      "maxSpeedLocalStation": 88.9,
+      "capacityPerCar": 0,
+      "seatsPerCar": 0,
+      "doorsPerCarPerSide": 99,
+      "carLength": 25.0,
+      "minCars": 2,
+      "maxCars": 20,
+      "carsPerCarSet": 1,
+      "carCost": 7560000,
+      "trainWidth": 3.36,
+      "minStationLength": 60,
+      "maxStationLength": 510,
+      "baseTrackCost": 82000,
+      "baseStationCost": 260000000,
+      "trainOperationalCostPerHour": 1250,
+      "carOperationalCostPerHour": 52,
+      "scissorsCrossoverCost": 37000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.9,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 2.8,
+      "parallelTrackSpacing": 3,
+      "stopTimeSeconds": 120,
+      "turnaroundTimeSeconds": 0,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 20,
+      "crossoverSpeed": 11.1
+    },
+    "appearance": {
+      "color": "#B50000"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 5.4,
+      "STANDARD_TUNNEL": 2.9,
+      "CUT_AND_COVER": 1.5,
+      "AT_GRADE": 0.65,
+      "ELEVATED": 1.35,
+      "TRENCHED": 0.95,
+      "RAMP": 0.97
+    },
+    "Manufacturer": [],
+    "compatibleTrackTypes": [],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
     "gradeCrossingMaintenancePerYear": 18000,

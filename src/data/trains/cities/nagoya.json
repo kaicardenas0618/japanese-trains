@@ -74,7 +74,7 @@
   },
   {
     "id": "mei-1000-limited-express",
-    "name": "MEI 1000 Limited Express",
+    "name": "MEI 1000 Limited Express 1067MN",
     "description": "Meitetsu 1000 series Panorama Super limited express EMU. Manufacturer: Nippon Sharyo.",
     "stats": {
       "maxAcceleration": 0.85,
@@ -126,9 +126,8 @@
       "Nippon Sharyo"
     ],
     "compatibleTrackTypes": [
-      "mei-6000-emu",
-      "mei-9500-emu",
-      "ngy-n3000-tsurumai-subway"
+      "1067MN-75",
+      "1067MN-120"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -144,7 +143,7 @@
   },
   {
     "id": "mei-6000-emu",
-    "name": "MEI 6000 EMU",
+    "name": "MEI 6000 EMU 1067MN",
     "description": "Meitetsu 6000 series commuter EMU for Nagoya-area local and express services. Manufacturer: Nippon Sharyo.",
     "stats": {
       "maxAcceleration": 0.95,
@@ -196,9 +195,8 @@
       "Nippon Sharyo"
     ],
     "compatibleTrackTypes": [
-      "mei-1000-limited-express",
-      "mei-9500-emu",
-      "ngy-n3000-tsurumai-subway"
+      "1067MN-75",
+      "1067MN-120"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -214,7 +212,7 @@
   },
   {
     "id": "mei-9500-emu",
-    "name": "MEI 9500 EMU",
+    "name": "MEI 9500 EMU 1067MN",
     "description": "Meitetsu 9500/9100 series modern commuter EMU for Nagoya-area services. Manufacturer: Nippon Sharyo.",
     "stats": {
       "maxAcceleration": 0.95,
@@ -266,9 +264,8 @@
       "Nippon Sharyo"
     ],
     "compatibleTrackTypes": [
-      "mei-1000-limited-express",
-      "mei-6000-emu",
-      "ngy-n3000-tsurumai-subway"
+      "1067MN-75",
+      "1067MN-120"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -422,7 +419,7 @@
   },
   {
     "id": "ngy-n3000-tsurumai-subway",
-    "name": "NGY N3000 Tsurumai Subway",
+    "name": "NGY N3000 Tsurumai Subway 1067MN",
     "description": "Nagoya Subway N3000 series train for the Tsurumai Line. Manufacturer: Nippon Sharyo / Hitachi.",
     "stats": {
       "maxAcceleration": 1.0,
@@ -475,9 +472,8 @@
       "Hitachi"
     ],
     "compatibleTrackTypes": [
-      "mei-1000-limited-express",
-      "mei-6000-emu",
-      "mei-9500-emu"
+      "1067MN-75",
+      "1067MN-120"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -490,6 +486,134 @@
     },
     "portalCost": 8000000,
     "rampCost": 4000000
+  },
+  {
+    "id": "1067MN-75",
+    "name": "1067MN-75",
+    "description": "1067mm 75kph track for Meitetsu and Nagoya Subway Tsurumai Line use.",
+    "stats": {
+      "maxAcceleration": 9,
+      "maxDeceleration": 9,
+      "maxSpeed": 20.9,
+      "maxSpeedLocalStation": 20.9,
+      "capacityPerCar": 0,
+      "seatsPerCar": 0,
+      "doorsPerCarPerSide": 999,
+      "carLength": 20.0,
+      "minCars": 2,
+      "maxCars": 20,
+      "carsPerCarSet": 1,
+      "carCost": 3200000,
+      "trainWidth": 2.75,
+      "minStationLength": 50,
+      "maxStationLength": 410,
+      "baseTrackCost": 45000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 22000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.425,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
+    },
+    "appearance": {
+      "color": "#C8102E"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
+    },
+    "Manufacturer": [],
+    "compatibleTrackTypes": [],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 11000000,
+    "rampCost": 5500000
+  },
+  {
+    "id": "1067MN-120",
+    "name": "1067MN-120",
+    "description": "1067mm 120kph track for Meitetsu and Nagoya Subway Tsurumai Line use.",
+    "stats": {
+      "maxAcceleration": 9,
+      "maxDeceleration": 9,
+      "maxSpeed": 33.4,
+      "maxSpeedLocalStation": 33.4,
+      "capacityPerCar": 0,
+      "seatsPerCar": 0,
+      "doorsPerCarPerSide": 999,
+      "carLength": 20.0,
+      "minCars": 2,
+      "maxCars": 20,
+      "carsPerCarSet": 1,
+      "carCost": 3200000,
+      "trainWidth": 2.75,
+      "minStationLength": 50,
+      "maxStationLength": 410,
+      "baseTrackCost": 45000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 22000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.425,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
+    },
+    "appearance": {
+      "color": "#C8102E"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
+    },
+    "Manufacturer": [],
+    "compatibleTrackTypes": [],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 11000000,
+    "rampCost": 5500000
   },
   {
     "id": "ngy-6050-sakura-dori-subway",
