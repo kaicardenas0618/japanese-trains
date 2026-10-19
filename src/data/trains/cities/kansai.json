@@ -138,9 +138,421 @@
     "rampCost": 4000000
   },
   {
+    "id": "osa-22-tanimachi",
+    "name": "OSA 22 Tanimachi 1435OM",
+    "description": "Osaka Metro 22 series 6-car train. Used on the Tanimachi Line. Manufacturer: Kinki Sharyo / Nippon Sharyo.",
+    "stats": {
+      "maxAcceleration": 1,
+      "maxDeceleration": 1.15,
+      "maxSpeed": 19.44,
+      "maxSpeedLocalStation": 19.44,
+      "capacityPerCar": 358,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 4,
+      "carLength": 18.9,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 3000000,
+      "trainWidth": 2.89,
+      "minStationLength": 113,
+      "maxStationLength": 121,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.425,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 32,
+      "turnaroundTimeSeconds": 88,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 6.7
+    },
+    "appearance": {
+      "color": "#522886"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8,
+      "TRENCHED": 0.54,
+      "RAMP": 0.53
+    },
+    "Manufacturer": [
+      "Kinki Sharyo",
+      "Nippon Sharyo"
+    ],
+    "compatibleTrackTypes": [
+      "1435OM-70"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 8000000,
+    "rampCost": 4000000
+  },
+  {
+    "id": "osa-30000-tanimachi",
+    "name": "OSA 30000 Tanimachi 1435OM",
+    "description": "Osaka Metro 30000 series 6-car train. Used on the Tanimachi Line. Manufacturer: Kinki Sharyo.",
+    "stats": {
+      "maxAcceleration": 1,
+      "maxDeceleration": 1.15,
+      "maxSpeed": 19.44,
+      "maxSpeedLocalStation": 19.44,
+      "capacityPerCar": 358,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 4,
+      "carLength": 18.9,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 3000000,
+      "trainWidth": 2.89,
+      "minStationLength": 113,
+      "maxStationLength": 121,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.425,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 32,
+      "turnaroundTimeSeconds": 88,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 6.7
+    },
+    "appearance": {
+      "color": "#522886"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8,
+      "TRENCHED": 0.54,
+      "RAMP": 0.53
+    },
+    "Manufacturer": [
+      "Kinki Sharyo"
+    ],
+    "compatibleTrackTypes": [
+      "1435OM-70"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 8000000,
+    "rampCost": 4000000
+  },
+  {
+    "id": "osa-23-yotsubashi",
+    "name": "OSA 23 Yotsubashi 1435OM",
+    "description": "Osaka Metro 23 series 6-car train. Used on the Yotsubashi Line. Manufacturer: Kinki Sharyo / Nippon Sharyo.",
+    "stats": {
+      "maxAcceleration": 1,
+      "maxDeceleration": 1.15,
+      "maxSpeed": 19.44,
+      "maxSpeedLocalStation": 19.44,
+      "capacityPerCar": 358,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 4,
+      "carLength": 18.9,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 3000000,
+      "trainWidth": 2.89,
+      "minStationLength": 113,
+      "maxStationLength": 121,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.425,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 32,
+      "turnaroundTimeSeconds": 88,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 6.7
+    },
+    "appearance": {
+      "color": "#0078BA"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8,
+      "TRENCHED": 0.54,
+      "RAMP": 0.53
+    },
+    "Manufacturer": [
+      "Kinki Sharyo",
+      "Nippon Sharyo"
+    ],
+    "compatibleTrackTypes": [
+      "1435OM-70"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 8000000,
+    "rampCost": 4000000
+  },
+  {
+    "id": "osa-30000a-chuo",
+    "name": "OSA 30000A Chuo 1435OM",
+    "description": "Osaka Metro 30000A series 6-car train. Used on the Chuo Line. Manufacturer: Kinki Sharyo.",
+    "stats": {
+      "maxAcceleration": 1,
+      "maxDeceleration": 1.15,
+      "maxSpeed": 26.39,
+      "maxSpeedLocalStation": 26.39,
+      "capacityPerCar": 358,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 4,
+      "carLength": 18.9,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 3000000,
+      "trainWidth": 2.89,
+      "minStationLength": 113,
+      "maxStationLength": 121,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.425,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 32,
+      "turnaroundTimeSeconds": 88,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 6.7
+    },
+    "appearance": {
+      "color": "#019A66"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8,
+      "TRENCHED": 0.54,
+      "RAMP": 0.53
+    },
+    "Manufacturer": [
+      "Kinki Sharyo"
+    ],
+    "compatibleTrackTypes": [
+      "1435OM-70",
+      "1435OM-95"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 8000000,
+    "rampCost": 4000000
+  },
+  {
+    "id": "osa-400-chuo",
+    "name": "OSA 400 Chuo 1435OM",
+    "description": "Osaka Metro 400 series 6-car train. New Chuo Line stock for Yumeshima service. Manufacturer: Hitachi.",
+    "stats": {
+      "maxAcceleration": 1,
+      "maxDeceleration": 1.15,
+      "maxSpeed": 26.39,
+      "maxSpeedLocalStation": 26.39,
+      "capacityPerCar": 358,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 4,
+      "carLength": 18.9,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 3000000,
+      "trainWidth": 2.89,
+      "minStationLength": 113,
+      "maxStationLength": 121,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.425,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 32,
+      "turnaroundTimeSeconds": 88,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 6.7
+    },
+    "appearance": {
+      "color": "#019A66"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8,
+      "TRENCHED": 0.54,
+      "RAMP": 0.53
+    },
+    "Manufacturer": [
+      "Hitachi"
+    ],
+    "compatibleTrackTypes": [
+      "1435OM-70",
+      "1435OM-95"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 8000000,
+    "rampCost": 4000000
+  },
+  {
+    "id": "osa-25-sennichimae",
+    "name": "OSA 25 Sennichimae 1435OM",
+    "description": "Osaka Metro 25 series 4-car train. Used on the Sennichimae Line. Manufacturer: Kinki Sharyo.",
+    "stats": {
+      "maxAcceleration": 1,
+      "maxDeceleration": 1.15,
+      "maxSpeed": 19.44,
+      "maxSpeedLocalStation": 19.44,
+      "capacityPerCar": 358,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 4,
+      "carLength": 18.9,
+      "minCars": 4,
+      "maxCars": 4,
+      "carsPerCarSet": 4,
+      "carCost": 3000000,
+      "trainWidth": 2.89,
+      "minStationLength": 76,
+      "maxStationLength": 84,
+      "baseTrackCost": 32000,
+      "baseStationCost": 42000000,
+      "trainOperationalCostPerHour": 190,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.425,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 32,
+      "turnaroundTimeSeconds": 88,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 6.7
+    },
+    "appearance": {
+      "color": "#E44D93"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8,
+      "TRENCHED": 0.54,
+      "RAMP": 0.53
+    },
+    "Manufacturer": [
+      "Kinki Sharyo"
+    ],
+    "compatibleTrackTypes": [
+      "1435OM-70"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 8000000,
+    "rampCost": 4000000
+  },
+  {
     "id": "1435OM-70",
     "name": "1435OM-70",
-    "description": "1435mm 70kph track for Osaka Metro Midosuji Line use.",
+    "description": "1435mm 70kph track for Osaka Metro Midōsuji, Yotsubashi, Tanimachi, Chūō and Sennichimae Lines use.",
     "stats": {
       "maxAcceleration": 9,
       "maxDeceleration": 9,
@@ -202,478 +614,8 @@
     "rampCost": 4000000
   },
   {
-    "id": "osa-22-tanimachi",
-    "name": "OSA 22 Tanimachi 1435OT",
-    "description": "Osaka Metro 22 series 6-car train. Used on the Tanimachi Line. Manufacturer: Kinki Sharyo / Nippon Sharyo.",
-    "stats": {
-      "maxAcceleration": 1,
-      "maxDeceleration": 1.15,
-      "maxSpeed": 19.44,
-      "maxSpeedLocalStation": 19.44,
-      "capacityPerCar": 358,
-      "seatsPerCar": 48,
-      "doorsPerCarPerSide": 4,
-      "carLength": 18.9,
-      "minCars": 6,
-      "maxCars": 6,
-      "carsPerCarSet": 6,
-      "carCost": 3000000,
-      "trainWidth": 2.89,
-      "minStationLength": 113,
-      "maxStationLength": 121,
-      "baseTrackCost": 32000,
-      "baseStationCost": 56000000,
-      "trainOperationalCostPerHour": 250,
-      "carOperationalCostPerHour": 25,
-      "scissorsCrossoverCost": 15000000,
-      "trackClearance": 1,
-      "maxLateralAcceleration": 1.425,
-      "minTurnRadius": 35,
-      "minStationTurnRadius": 420,
-      "maxSlopePercentage": 3.8,
-      "parallelTrackSpacing": 1.965,
-      "stopTimeSeconds": 32,
-      "turnaroundTimeSeconds": 88,
-      "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0,
-      "tphLimit": 36,
-      "crossoverSpeed": 6.7
-    },
-    "appearance": {
-      "color": "#522886"
-    },
-    "elevationMultipliers": {
-      "DEEP_BORE": 4,
-      "STANDARD_TUNNEL": 2,
-      "CUT_AND_COVER": 1,
-      "AT_GRADE": 0.3,
-      "ELEVATED": 0.8,
-      "TRENCHED": 0.54,
-      "RAMP": 0.53
-    },
-    "Manufacturer": [
-      "Kinki Sharyo",
-      "Nippon Sharyo"
-    ],
-    "compatibleTrackTypes": [
-      "1435OT-70"
-    ],
-    "allowGradeCrossing": true,
-    "gradeCrossingBaseCost": 350000,
-    "gradeCrossingMaintenancePerYear": 9000,
-    "gradeCrossingTphLimit": {
-      "highway": 999,
-      "major": 999,
-      "medium": 999,
-      "minor": 999
-    },
-    "portalCost": 8000000,
-    "rampCost": 4000000
-  },
-  {
-    "id": "osa-30000-tanimachi",
-    "name": "OSA 30000 Tanimachi 1435OT",
-    "description": "Osaka Metro 30000 series 6-car train. Used on the Tanimachi Line. Manufacturer: Kinki Sharyo.",
-    "stats": {
-      "maxAcceleration": 1,
-      "maxDeceleration": 1.15,
-      "maxSpeed": 19.44,
-      "maxSpeedLocalStation": 19.44,
-      "capacityPerCar": 358,
-      "seatsPerCar": 48,
-      "doorsPerCarPerSide": 4,
-      "carLength": 18.9,
-      "minCars": 6,
-      "maxCars": 6,
-      "carsPerCarSet": 6,
-      "carCost": 3000000,
-      "trainWidth": 2.89,
-      "minStationLength": 113,
-      "maxStationLength": 121,
-      "baseTrackCost": 32000,
-      "baseStationCost": 56000000,
-      "trainOperationalCostPerHour": 250,
-      "carOperationalCostPerHour": 25,
-      "scissorsCrossoverCost": 15000000,
-      "trackClearance": 1,
-      "maxLateralAcceleration": 1.425,
-      "minTurnRadius": 35,
-      "minStationTurnRadius": 420,
-      "maxSlopePercentage": 3.8,
-      "parallelTrackSpacing": 1.965,
-      "stopTimeSeconds": 32,
-      "turnaroundTimeSeconds": 88,
-      "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0,
-      "tphLimit": 36,
-      "crossoverSpeed": 6.7
-    },
-    "appearance": {
-      "color": "#522886"
-    },
-    "elevationMultipliers": {
-      "DEEP_BORE": 4,
-      "STANDARD_TUNNEL": 2,
-      "CUT_AND_COVER": 1,
-      "AT_GRADE": 0.3,
-      "ELEVATED": 0.8,
-      "TRENCHED": 0.54,
-      "RAMP": 0.53
-    },
-    "Manufacturer": [
-      "Kinki Sharyo"
-    ],
-    "compatibleTrackTypes": [
-      "1435OT-70"
-    ],
-    "allowGradeCrossing": true,
-    "gradeCrossingBaseCost": 350000,
-    "gradeCrossingMaintenancePerYear": 9000,
-    "gradeCrossingTphLimit": {
-      "highway": 999,
-      "major": 999,
-      "medium": 999,
-      "minor": 999
-    },
-    "portalCost": 8000000,
-    "rampCost": 4000000
-  },
-  {
-    "id": "1435OT-70",
-    "name": "1435OT-70",
-    "description": "1435mm 70kph track for Osaka Metro Tanimachi Line use.",
-    "stats": {
-      "maxAcceleration": 9,
-      "maxDeceleration": 9,
-      "maxSpeed": 19.5,
-      "maxSpeedLocalStation": 19.5,
-      "capacityPerCar": 0,
-      "seatsPerCar": 0,
-      "doorsPerCarPerSide": 999,
-      "carLength": 18.9,
-      "minCars": 2,
-      "maxCars": 20,
-      "carsPerCarSet": 1,
-      "carCost": 3200000,
-      "trainWidth": 2.89,
-      "minStationLength": 48,
-      "maxStationLength": 388,
-      "baseTrackCost": 32000,
-      "baseStationCost": 56000000,
-      "trainOperationalCostPerHour": 380,
-      "carOperationalCostPerHour": 26,
-      "scissorsCrossoverCost": 15000000,
-      "trackClearance": 1,
-      "maxLateralAcceleration": 1.425,
-      "minTurnRadius": 35,
-      "minStationTurnRadius": 420,
-      "maxSlopePercentage": 3.8,
-      "parallelTrackSpacing": 1.965,
-      "stopTimeSeconds": 30,
-      "turnaroundTimeSeconds": 90,
-      "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0,
-      "tphLimit": 36,
-      "crossoverSpeed": 6.7
-    },
-    "appearance": {
-      "color": "#522886"
-    },
-    "elevationMultipliers": {
-      "DEEP_BORE": 4,
-      "STANDARD_TUNNEL": 2,
-      "CUT_AND_COVER": 1,
-      "AT_GRADE": 0.3,
-      "ELEVATED": 0.8,
-      "TRENCHED": 0.54,
-      "RAMP": 0.53
-    },
-    "Manufacturer": [],
-    "compatibleTrackTypes": [],
-    "allowGradeCrossing": true,
-    "gradeCrossingBaseCost": 350000,
-    "gradeCrossingMaintenancePerYear": 9000,
-    "gradeCrossingTphLimit": {
-      "highway": 999,
-      "major": 999,
-      "medium": 999,
-      "minor": 999
-    },
-    "portalCost": 8000000,
-    "rampCost": 4000000
-  },
-  {
-    "id": "osa-23-yotsubashi",
-    "name": "OSA 23 Yotsubashi",
-    "description": "Osaka Metro 23 series 6-car train. Used on the Yotsubashi Line. Manufacturer: Kinki Sharyo / Nippon Sharyo.",
-    "stats": {
-      "maxAcceleration": 1,
-      "maxDeceleration": 1.15,
-      "maxSpeed": 19.44,
-      "maxSpeedLocalStation": 19.44,
-      "capacityPerCar": 358,
-      "seatsPerCar": 48,
-      "doorsPerCarPerSide": 4,
-      "carLength": 18.9,
-      "minCars": 6,
-      "maxCars": 6,
-      "carsPerCarSet": 6,
-      "carCost": 3000000,
-      "trainWidth": 2.89,
-      "minStationLength": 113,
-      "maxStationLength": 121,
-      "baseTrackCost": 32000,
-      "baseStationCost": 56000000,
-      "trainOperationalCostPerHour": 250,
-      "carOperationalCostPerHour": 25,
-      "scissorsCrossoverCost": 15000000,
-      "trackClearance": 1,
-      "maxLateralAcceleration": 1.425,
-      "minTurnRadius": 35,
-      "minStationTurnRadius": 420,
-      "maxSlopePercentage": 3.8,
-      "parallelTrackSpacing": 1.965,
-      "stopTimeSeconds": 32,
-      "turnaroundTimeSeconds": 88,
-      "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0,
-      "tphLimit": 36,
-      "crossoverSpeed": 6.7
-    },
-    "appearance": {
-      "color": "#0078BA"
-    },
-    "elevationMultipliers": {
-      "DEEP_BORE": 4,
-      "STANDARD_TUNNEL": 2,
-      "CUT_AND_COVER": 1,
-      "AT_GRADE": 0.3,
-      "ELEVATED": 0.8,
-      "TRENCHED": 0.54,
-      "RAMP": 0.53
-    },
-    "Manufacturer": [
-      "Kinki Sharyo",
-      "Nippon Sharyo"
-    ],
-    "compatibleTrackTypes": [],
-    "allowGradeCrossing": true,
-    "gradeCrossingBaseCost": 350000,
-    "gradeCrossingMaintenancePerYear": 9000,
-    "gradeCrossingTphLimit": {
-      "highway": 999,
-      "major": 999,
-      "medium": 999,
-      "minor": 999
-    },
-    "portalCost": 8000000,
-    "rampCost": 4000000
-  },
-  {
-    "id": "osa-30000a-chuo",
-    "name": "OSA 30000A Chuo 1435OC",
-    "description": "Osaka Metro 30000A series 6-car train. Used on the Chuo Line. Manufacturer: Kinki Sharyo.",
-    "stats": {
-      "maxAcceleration": 1,
-      "maxDeceleration": 1.15,
-      "maxSpeed": 26.39,
-      "maxSpeedLocalStation": 26.39,
-      "capacityPerCar": 358,
-      "seatsPerCar": 48,
-      "doorsPerCarPerSide": 4,
-      "carLength": 18.9,
-      "minCars": 6,
-      "maxCars": 6,
-      "carsPerCarSet": 6,
-      "carCost": 3000000,
-      "trainWidth": 2.89,
-      "minStationLength": 113,
-      "maxStationLength": 121,
-      "baseTrackCost": 32000,
-      "baseStationCost": 56000000,
-      "trainOperationalCostPerHour": 250,
-      "carOperationalCostPerHour": 25,
-      "scissorsCrossoverCost": 15000000,
-      "trackClearance": 1,
-      "maxLateralAcceleration": 1.425,
-      "minTurnRadius": 35,
-      "minStationTurnRadius": 420,
-      "maxSlopePercentage": 3.8,
-      "parallelTrackSpacing": 1.965,
-      "stopTimeSeconds": 32,
-      "turnaroundTimeSeconds": 88,
-      "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0,
-      "tphLimit": 36,
-      "crossoverSpeed": 6.7
-    },
-    "appearance": {
-      "color": "#019A66"
-    },
-    "elevationMultipliers": {
-      "DEEP_BORE": 4,
-      "STANDARD_TUNNEL": 2,
-      "CUT_AND_COVER": 1,
-      "AT_GRADE": 0.3,
-      "ELEVATED": 0.8,
-      "TRENCHED": 0.54,
-      "RAMP": 0.53
-    },
-    "Manufacturer": [
-      "Kinki Sharyo"
-    ],
-    "compatibleTrackTypes": [
-      "1435OC-70",
-      "1435OC-95"
-    ],
-    "allowGradeCrossing": true,
-    "gradeCrossingBaseCost": 350000,
-    "gradeCrossingMaintenancePerYear": 9000,
-    "gradeCrossingTphLimit": {
-      "highway": 999,
-      "major": 999,
-      "medium": 999,
-      "minor": 999
-    },
-    "portalCost": 8000000,
-    "rampCost": 4000000
-  },
-  {
-    "id": "osa-400-chuo",
-    "name": "OSA 400 Chuo 1435OC",
-    "description": "Osaka Metro 400 series 6-car train. New Chuo Line stock for Yumeshima service. Manufacturer: Hitachi.",
-    "stats": {
-      "maxAcceleration": 1,
-      "maxDeceleration": 1.15,
-      "maxSpeed": 26.39,
-      "maxSpeedLocalStation": 26.39,
-      "capacityPerCar": 358,
-      "seatsPerCar": 48,
-      "doorsPerCarPerSide": 4,
-      "carLength": 18.9,
-      "minCars": 6,
-      "maxCars": 6,
-      "carsPerCarSet": 6,
-      "carCost": 3000000,
-      "trainWidth": 2.89,
-      "minStationLength": 113,
-      "maxStationLength": 121,
-      "baseTrackCost": 32000,
-      "baseStationCost": 56000000,
-      "trainOperationalCostPerHour": 250,
-      "carOperationalCostPerHour": 25,
-      "scissorsCrossoverCost": 15000000,
-      "trackClearance": 1,
-      "maxLateralAcceleration": 1.425,
-      "minTurnRadius": 35,
-      "minStationTurnRadius": 420,
-      "maxSlopePercentage": 3.8,
-      "parallelTrackSpacing": 1.965,
-      "stopTimeSeconds": 32,
-      "turnaroundTimeSeconds": 88,
-      "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0,
-      "tphLimit": 36,
-      "crossoverSpeed": 6.7
-    },
-    "appearance": {
-      "color": "#019A66"
-    },
-    "elevationMultipliers": {
-      "DEEP_BORE": 4,
-      "STANDARD_TUNNEL": 2,
-      "CUT_AND_COVER": 1,
-      "AT_GRADE": 0.3,
-      "ELEVATED": 0.8,
-      "TRENCHED": 0.54,
-      "RAMP": 0.53
-    },
-    "Manufacturer": [
-      "Hitachi"
-    ],
-    "compatibleTrackTypes": [
-      "1435OC-70",
-      "1435OC-95"
-    ],
-    "allowGradeCrossing": true,
-    "gradeCrossingBaseCost": 350000,
-    "gradeCrossingMaintenancePerYear": 9000,
-    "gradeCrossingTphLimit": {
-      "highway": 999,
-      "major": 999,
-      "medium": 999,
-      "minor": 999
-    },
-    "portalCost": 8000000,
-    "rampCost": 4000000
-  },
-  {
-    "id": "1435OC-70",
-    "name": "1435OC-70",
-    "description": "1435mm 70kph track for Osaka Metro Chūō Line and Kintetsu Keihanna Line use.",
-    "stats": {
-      "maxAcceleration": 9,
-      "maxDeceleration": 9,
-      "maxSpeed": 19.5,
-      "maxSpeedLocalStation": 19.5,
-      "capacityPerCar": 0,
-      "seatsPerCar": 0,
-      "doorsPerCarPerSide": 999,
-      "carLength": 18.9,
-      "minCars": 2,
-      "maxCars": 20,
-      "carsPerCarSet": 1,
-      "carCost": 3200000,
-      "trainWidth": 2.89,
-      "minStationLength": 48,
-      "maxStationLength": 388,
-      "baseTrackCost": 32000,
-      "baseStationCost": 56000000,
-      "trainOperationalCostPerHour": 380,
-      "carOperationalCostPerHour": 26,
-      "scissorsCrossoverCost": 15000000,
-      "trackClearance": 1,
-      "maxLateralAcceleration": 1.425,
-      "minTurnRadius": 35,
-      "minStationTurnRadius": 420,
-      "maxSlopePercentage": 3.8,
-      "parallelTrackSpacing": 1.965,
-      "stopTimeSeconds": 30,
-      "turnaroundTimeSeconds": 90,
-      "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0,
-      "tphLimit": 36,
-      "crossoverSpeed": 6.7
-    },
-    "appearance": {
-      "color": "#019A66"
-    },
-    "elevationMultipliers": {
-      "DEEP_BORE": 4,
-      "STANDARD_TUNNEL": 2,
-      "CUT_AND_COVER": 1,
-      "AT_GRADE": 0.3,
-      "ELEVATED": 0.8,
-      "TRENCHED": 0.54,
-      "RAMP": 0.53
-    },
-    "Manufacturer": [],
-    "compatibleTrackTypes": [],
-    "allowGradeCrossing": true,
-    "gradeCrossingBaseCost": 350000,
-    "gradeCrossingMaintenancePerYear": 9000,
-    "gradeCrossingTphLimit": {
-      "highway": 999,
-      "major": 999,
-      "medium": 999,
-      "minor": 999
-    },
-    "portalCost": 8000000,
-    "rampCost": 4000000
-  },
-  {
-    "id": "1435OC-95",
-    "name": "1435OC-95",
+    "id": "1435OM-95",
+    "name": "1435OM-95",
     "description": "1435mm 95kph track for Osaka Metro Chūō Line and Kintetsu Keihanna Line use.",
     "stats": {
       "maxAcceleration": 9,
@@ -736,74 +678,8 @@
     "rampCost": 4000000
   },
   {
-    "id": "osa-25-sennichimae",
-    "name": "OSA 25 Sennichimae",
-    "description": "Osaka Metro 25 series 4-car train. Used on the Sennichimae Line. Manufacturer: Kinki Sharyo.",
-    "stats": {
-      "maxAcceleration": 1,
-      "maxDeceleration": 1.15,
-      "maxSpeed": 19.44,
-      "maxSpeedLocalStation": 19.44,
-      "capacityPerCar": 358,
-      "seatsPerCar": 48,
-      "doorsPerCarPerSide": 4,
-      "carLength": 18.9,
-      "minCars": 4,
-      "maxCars": 4,
-      "carsPerCarSet": 4,
-      "carCost": 3000000,
-      "trainWidth": 2.89,
-      "minStationLength": 76,
-      "maxStationLength": 84,
-      "baseTrackCost": 32000,
-      "baseStationCost": 42000000,
-      "trainOperationalCostPerHour": 190,
-      "carOperationalCostPerHour": 25,
-      "scissorsCrossoverCost": 15000000,
-      "trackClearance": 1,
-      "maxLateralAcceleration": 1.425,
-      "minTurnRadius": 35,
-      "minStationTurnRadius": 420,
-      "maxSlopePercentage": 3.8,
-      "parallelTrackSpacing": 1.965,
-      "stopTimeSeconds": 32,
-      "turnaroundTimeSeconds": 88,
-      "trackMaintenanceCostPerMeter": 0,
-      "stationMaintenanceCostPerYear": 0,
-      "tphLimit": 36,
-      "crossoverSpeed": 6.7
-    },
-    "appearance": {
-      "color": "#E44D93"
-    },
-    "elevationMultipliers": {
-      "DEEP_BORE": 4,
-      "STANDARD_TUNNEL": 2,
-      "CUT_AND_COVER": 1,
-      "AT_GRADE": 0.3,
-      "ELEVATED": 0.8,
-      "TRENCHED": 0.54,
-      "RAMP": 0.53
-    },
-    "Manufacturer": [
-      "Kinki Sharyo"
-    ],
-    "compatibleTrackTypes": [],
-    "allowGradeCrossing": true,
-    "gradeCrossingBaseCost": 350000,
-    "gradeCrossingMaintenancePerYear": 9000,
-    "gradeCrossingTphLimit": {
-      "highway": 999,
-      "major": 999,
-      "medium": 999,
-      "minor": 999
-    },
-    "portalCost": 8000000,
-    "rampCost": 4000000
-  },
-  {
     "id": "osa-66-sakaisuji",
-    "name": "OSA 66 Sakaisuji",
+    "name": "OSA 66 Sakaisuji 1435SH",
     "description": "Osaka Metro 66 series 8-car train. Used on the Sakaisuji Line and Hankyu through services. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries.",
     "stats": {
       "maxAcceleration": 1,
@@ -855,6 +731,137 @@
       "Kinki Sharyo",
       "Kawasaki Heavy Industries"
     ],
+    "compatibleTrackTypes": [
+      "1435SH-70",
+      "1435SH-115"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 8000000,
+    "rampCost": 4000000
+  },
+  {
+    "id": "1435SH-70",
+    "name": "1435SH-70",
+    "description": "1435mm 70kph track for Osaka Metro Sakaisuji Line and Hankyu through use.",
+    "stats": {
+      "maxAcceleration": 9,
+      "maxDeceleration": 9,
+      "maxSpeed": 19.5,
+      "maxSpeedLocalStation": 19.5,
+      "capacityPerCar": 0,
+      "seatsPerCar": 0,
+      "doorsPerCarPerSide": 999,
+      "carLength": 19.0,
+      "minCars": 2,
+      "maxCars": 20,
+      "carsPerCarSet": 1,
+      "carCost": 3200000,
+      "trainWidth": 2.8,
+      "minStationLength": 48,
+      "maxStationLength": 390,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.425,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
+    },
+    "appearance": {
+      "color": "#814721"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8,
+      "TRENCHED": 0.54,
+      "RAMP": 0.53
+    },
+    "Manufacturer": [],
+    "compatibleTrackTypes": [],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 8000000,
+    "rampCost": 4000000
+  },
+  {
+    "id": "1435SH-115",
+    "name": "1435SH-115",
+    "description": "1435mm 115kph track for Hankyu and Osaka Metro Sakaisuji Line through use.",
+    "stats": {
+      "maxAcceleration": 9,
+      "maxDeceleration": 9,
+      "maxSpeed": 32.0,
+      "maxSpeedLocalStation": 32.0,
+      "capacityPerCar": 0,
+      "seatsPerCar": 0,
+      "doorsPerCarPerSide": 999,
+      "carLength": 19.0,
+      "minCars": 2,
+      "maxCars": 20,
+      "carsPerCarSet": 1,
+      "carCost": 3200000,
+      "trainWidth": 2.8,
+      "minStationLength": 48,
+      "maxStationLength": 390,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.425,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 8.3
+    },
+    "appearance": {
+      "color": "#814721"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8,
+      "TRENCHED": 0.54,
+      "RAMP": 0.53
+    },
+    "Manufacturer": [],
     "compatibleTrackTypes": [],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -870,7 +877,7 @@
   },
   {
     "id": "osa-70-nagahori-linear",
-    "name": "OSA 70 Nagahori Linear",
+    "name": "OSA 70 Nagahori Linear 1435OL",
     "description": "Osaka Metro 70 series 4-car linear-motor train. Used on the Nagahori Tsurumi-ryokuchi Line. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries.",
     "stats": {
       "maxAcceleration": 1,
@@ -922,7 +929,9 @@
       "Kinki Sharyo",
       "Kawasaki Heavy Industries"
     ],
-    "compatibleTrackTypes": [],
+    "compatibleTrackTypes": [
+      "1435OL-70"
+    ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
     "gradeCrossingMaintenancePerYear": 9000,
@@ -937,7 +946,7 @@
   },
   {
     "id": "osa-80-imazatosuji-linear",
-    "name": "OSA 80 Imazatosuji Linear",
+    "name": "OSA 80 Imazatosuji Linear 1435OL",
     "description": "Osaka Metro 80 series 4-car linear-motor train. Used on the Imazatosuji Line. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries.",
     "stats": {
       "maxAcceleration": 1,
@@ -989,6 +998,72 @@
       "Kinki Sharyo",
       "Kawasaki Heavy Industries"
     ],
+    "compatibleTrackTypes": [
+      "1435OL-70"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 7000000,
+    "rampCost": 3500000
+  },
+  {
+    "id": "1435OL-70",
+    "name": "1435OL-70",
+    "description": "1435mm 70kph track for Osaka Metro Nagahori Tsurumi-ryokuchi and Imazatosuji linear-motor Lines use.",
+    "stats": {
+      "maxAcceleration": 9,
+      "maxDeceleration": 9,
+      "maxSpeed": 19.5,
+      "maxSpeedLocalStation": 19.5,
+      "capacityPerCar": 0,
+      "seatsPerCar": 0,
+      "doorsPerCarPerSide": 999,
+      "carLength": 15.6,
+      "minCars": 2,
+      "maxCars": 20,
+      "carsPerCarSet": 1,
+      "carCost": 3200000,
+      "trainWidth": 2.49,
+      "minStationLength": 42,
+      "maxStationLength": 322,
+      "baseTrackCost": 30000,
+      "baseStationCost": 47000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 13500000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.35,
+      "minTurnRadius": 45,
+      "minStationTurnRadius": 380,
+      "maxSlopePercentage": 5.5,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 34,
+      "crossoverSpeed": 6.7
+    },
+    "appearance": {
+      "color": "#A9CC51"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 3.8,
+      "STANDARD_TUNNEL": 1.9,
+      "CUT_AND_COVER": 0.95,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.75,
+      "TRENCHED": 0.53,
+      "RAMP": 0.5
+    },
+    "Manufacturer": [],
     "compatibleTrackTypes": [],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -3337,7 +3412,7 @@
   },
   {
     "id": "kob-hankyu-1000",
-    "name": "KOB Hankyu 1000",
+    "name": "KOB Hankyu 1000 1435SH",
     "description": "Hankyu 1000 series commuter train serving Kobe Line services. Manufacturer: Hitachi.",
     "stats": {
       "maxAcceleration": 0.95,
@@ -3388,7 +3463,10 @@
     "Manufacturer": [
       "Hitachi"
     ],
-    "compatibleTrackTypes": [],
+    "compatibleTrackTypes": [
+      "1435SH-70",
+      "1435SH-115"
+    ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
     "gradeCrossingMaintenancePerYear": 8000,
@@ -4078,7 +4156,7 @@
   },
   {
     "id": "hn-9300-emu",
-    "name": "HN 9300 EMU 1435HS",
+    "name": "HN 9300 EMU 1435HS/SH",
     "description": "Hankyu 9300 series Kyoto Line commuter/limited express EMU. Manufacturer: Hitachi.",
     "stats": {
       "maxAcceleration": 0.95,
@@ -4131,7 +4209,9 @@
     ],
     "compatibleTrackTypes": [
       "1435HS-106",
-      "1435HS-115"
+      "1435HS-115",
+      "1435SH-70",
+      "1435SH-115"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -4147,7 +4227,7 @@
   },
   {
     "id": "hn-1000-emu",
-    "name": "HN 1000 EMU 1435HS",
+    "name": "HN 1000 EMU 1435HS/SH",
     "description": "Hankyu 1000 series commuter EMU for Osaka/Kyoto/Kobe-area services. Manufacturer: Hitachi.",
     "stats": {
       "maxAcceleration": 0.95,
@@ -4200,7 +4280,9 @@
     ],
     "compatibleTrackTypes": [
       "1435HS-106",
-      "1435HS-115"
+      "1435HS-115",
+      "1435SH-70",
+      "1435SH-115"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,

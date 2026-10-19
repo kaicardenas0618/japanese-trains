@@ -2,12 +2,6 @@
 
 Subway Builder Japanese Trains is a mod for Subway Builder that adds trains from cities around Japan. This pack contains rolling stock from the following Japanese cities, with more planned.
 
-
-
-Trains with a 6 digit code at the end of their names should have their tracks build with the track option with the same code; the first four digits represent gauge in millimeter, the two letters differentiate between different compatibility groups of the same gauge, the last two digits represent top speed in kph; 1067JP-120 will be compatible will all trains with 1067JP at the end of their name and will have a top speed of 120kph.
-
-
-
 ## Currently Available Trains (193)
 
 #### National (34)
@@ -100,15 +94,15 @@ Trains with a 6 digit code at the end of their names should have their tracks bu
 |-|-|-|-|-|
 |OSA 21 Midosuji 1435OM|Osaka Metro 21 series 10-car train. Used on the Midosuji Line. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries / Nippon Sharyo.|Kinki Sharyo / Kawasaki Heavy Industries / Nippon Sharyo|70|3580|
 |OSA 30000 Midosuji 1435OM|Osaka Metro 30000 series 10-car train. Used on the Midosuji Line. Manufacturer: Kinki Sharyo.|Kinki Sharyo|70|3580|
-|OSA 22 Tanimachi 1435OT|Osaka Metro 22 series 6-car train. Used on the Tanimachi Line. Manufacturer: Kinki Sharyo / Nippon Sharyo.|Kinki Sharyo / Nippon Sharyo|70|2148|
-|OSA 30000 Tanimachi 1435OT|Osaka Metro 30000 series 6-car train. Used on the Tanimachi Line. Manufacturer: Kinki Sharyo.|Kinki Sharyo|70|2148|
-|OSA 23 Yotsubashi|Osaka Metro 23 series 6-car train. Used on the Yotsubashi Line. Manufacturer: Kinki Sharyo / Nippon Sharyo.|Kinki Sharyo / Nippon Sharyo|70|2148|
-|OSA 30000A Chuo 1435OC|Osaka Metro 30000A series 6-car train. Used on the Chuo Line. Manufacturer: Kinki Sharyo.|Kinki Sharyo|95|2148|
-|OSA 400 Chuo 1435OC|Osaka Metro 400 series 6-car train. New Chuo Line stock for Yumeshima service. Manufacturer: Hitachi.|Hitachi|95|2148|
-|OSA 25 Sennichimae|Osaka Metro 25 series 4-car train. Used on the Sennichimae Line. Manufacturer: Kinki Sharyo.|Kinki Sharyo|70|1432|
-|OSA 66 Sakaisuji|Osaka Metro 66 series 8-car train. Used on the Sakaisuji Line and Hankyu through services. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries.|Kinki Sharyo / Kawasaki Heavy Industries|110|2768|
-|OSA 70 Nagahori Linear|Osaka Metro 70 series 4-car linear-motor train. Used on the Nagahori Tsurumi-ryokuchi Line. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries.|Kinki Sharyo / Kawasaki Heavy Industries|70|1016|
-|OSA 80 Imazatosuji Linear|Osaka Metro 80 series 4-car linear-motor train. Used on the Imazatosuji Line. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries.|Kinki Sharyo / Kawasaki Heavy Industries|70|1016|
+|OSA 22 Tanimachi 1435OM|Osaka Metro 22 series 6-car train. Used on the Tanimachi Line. Manufacturer: Kinki Sharyo / Nippon Sharyo.|Kinki Sharyo / Nippon Sharyo|70|2148|
+|OSA 30000 Tanimachi 1435OM|Osaka Metro 30000 series 6-car train. Used on the Tanimachi Line. Manufacturer: Kinki Sharyo.|Kinki Sharyo|70|2148|
+|OSA 23 Yotsubashi 1435OM|Osaka Metro 23 series 6-car train. Used on the Yotsubashi Line. Manufacturer: Kinki Sharyo / Nippon Sharyo.|Kinki Sharyo / Nippon Sharyo|70|2148|
+|OSA 30000A Chuo 1435OM|Osaka Metro 30000A series 6-car train. Used on the Chuo Line. Manufacturer: Kinki Sharyo.|Kinki Sharyo|95|2148|
+|OSA 400 Chuo 1435OM|Osaka Metro 400 series 6-car train. New Chuo Line stock for Yumeshima service. Manufacturer: Hitachi.|Hitachi|95|2148|
+|OSA 25 Sennichimae 1435OM|Osaka Metro 25 series 4-car train. Used on the Sennichimae Line. Manufacturer: Kinki Sharyo.|Kinki Sharyo|70|1432|
+|OSA 66 Sakaisuji 1435SH|Osaka Metro 66 series 8-car train. Used on the Sakaisuji Line and Hankyu through services. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries.|Kinki Sharyo / Kawasaki Heavy Industries|110|2768|
+|OSA 70 Nagahori Linear 1435OL|Osaka Metro 70 series 4-car linear-motor train. Used on the Nagahori Tsurumi-ryokuchi Line. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries.|Kinki Sharyo / Kawasaki Heavy Industries|70|1016|
+|OSA 80 Imazatosuji Linear 1435OL|Osaka Metro 80 series 4-car linear-motor train. Used on the Imazatosuji Line. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries.|Kinki Sharyo / Kawasaki Heavy Industries|70|1016|
 |OSA New Tram 200|Osaka Metro 200 series automated people mover train. Used on the Nanko Port Town Line. Manufacturer: Niigata Transys.|Niigata Transys|55|320|
 |OSA Hankai 1001 Tram|Hankai 1001 series low-floor tram. Used on Osaka/Sakai street tram services. Manufacturer: Alna Sharyo.|Alna Sharyo|50|162|
 |OSA JR 223 Kansai 1067JP|JR West 223 series suburban train. Used on Kansai Airport Rapid and New Rapid (Shinkaisoku) services. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo.|Kawasaki Heavy Industries / Kinki Sharyo|130|3348|
@@ -139,7 +133,7 @@ Trains with a 6 digit code at the end of their names should have their tracks bu
 |KOB JR 321 Urban 1067JP|JR West 321 series commuter train serving Kobe-area local services. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries.|Kinki Sharyo / Kawasaki Heavy Industries|120|2037|
 |KOB JR 225 Kansai 1067JP|JR West 225 series suburban train serving Kobe-area rapid services. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries.|Kinki Sharyo / Kawasaki Heavy Industries|130|2328|
 |KOB Hanshin 1000 1435HS|Hanshin 1000 series commuter train serving Kobe through Namba/Hanshin services. Manufacturer: Kinki Sharyo.|Kinki Sharyo|106|2620|
-|KOB Hankyu 1000|Hankyu 1000 series commuter train serving Kobe Line services. Manufacturer: Hitachi.|Hitachi|115|2056|
+|KOB Hankyu 1000 1435SH|Hankyu 1000 series commuter train serving Kobe Line services. Manufacturer: Hitachi.|Hitachi|115|2056|
 |KOB Sanyo 6000 1435HS|Sanyo Electric Railway 6000 series commuter train serving Kobe-area services. Manufacturer: Kawasaki Heavy Industries.|Kawasaki Heavy Industries|110|1048|
 |KT Generic Commuter EMU 1435KN/HS|Generic Kintetsu commuter EMU for Osaka/Kyoto-area lines. Covers many similar Kintetsu commuter types. Manufacturer: Kinki Sharyo.|Kinki Sharyo|105|2860|
 |KH Commuter EMU 1435KH|Generic Keihan 8-car commuter EMU for Osaka-Kyoto mainline services. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo.|Kawasaki Heavy Industries / Kinki Sharyo|110|2048|
@@ -147,8 +141,8 @@ Trains with a 6 digit code at the end of their names should have their tracks bu
 |KT 21000 Urban Liner Limited Express 1435KN|Kintetsu 21000 series Urban Liner limited express EMU for Osaka-Nagoya services. Manufacturer: Kinki Sharyo.|Kinki Sharyo|130|448|
 |KT 50000 Shimakaze Limited Express 1435KN|Kintetsu 50000 series Shimakaze premium limited express EMU. Manufacturer: Kinki Sharyo.|Kinki Sharyo|130|144|
 |KH 8000 EMU 1435KH|Keihan 8000 series 8-car limited express EMU for Osaka-Kyoto services. Manufacturer: Kawasaki Heavy Industries.|Kawasaki Heavy Industries|110|368|
-|HN 9300 EMU 1435HS|Hankyu 9300 series Kyoto Line commuter/limited express EMU. Manufacturer: Hitachi.|Hitachi|115|416|
-|HN 1000 EMU 1435HS|Hankyu 1000 series commuter EMU for Osaka/Kyoto/Kobe-area services. Manufacturer: Hitachi.|Hitachi|115|2064|
+|HN 9300 EMU 1435HS/SH|Hankyu 9300 series Kyoto Line commuter/limited express EMU. Manufacturer: Hitachi.|Hitachi|115|416|
+|HN 1000 EMU 1435HS/SH|Hankyu 1000 series commuter EMU for Osaka/Kyoto/Kobe-area services. Manufacturer: Hitachi.|Hitachi|115|2064|
 
 #### Nagoya (9)
 
