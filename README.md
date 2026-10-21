@@ -2,7 +2,7 @@
 
 Subway Builder Japanese Trains is a mod for Subway Builder that adds trains from cities around Japan. This pack contains rolling stock from the following Japanese cities, with more planned.
 
-## Currently Available Trains (193)
+## Currently Available Trains (195)
 
 #### National (34)
 
@@ -92,8 +92,8 @@ Subway Builder Japanese Trains is a mod for Subway Builder that adds trains from
 
 |Name|Description|Manufacturer|Top Speed (km/h)|Maximum Capacity|
 |-|-|-|-|-|
-|OSA 21 Midosuji 1435OM|Osaka Metro 21 series 10-car train. Used on the Midosuji Line. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries / Nippon Sharyo.|Kinki Sharyo / Kawasaki Heavy Industries / Nippon Sharyo|70|3580|
-|OSA 30000 Midosuji 1435OM|Osaka Metro 30000 series 10-car train. Used on the Midosuji Line. Manufacturer: Kinki Sharyo.|Kinki Sharyo|70|3580|
+|OSA 21 Midosuji 1435OM/OL|Osaka Metro 21 series 10-car train. Used on the Midosuji Line. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries / Nippon Sharyo.|Kinki Sharyo / Kawasaki Heavy Industries / Nippon Sharyo|70|3580|
+|OSA 30000 Midosuji 1435OM/OL|Osaka Metro 30000 series 10-car train. Used on the Midosuji Line. Manufacturer: Kinki Sharyo.|Kinki Sharyo|70|3580|
 |OSA 22 Tanimachi 1435OM|Osaka Metro 22 series 6-car train. Used on the Tanimachi Line. Manufacturer: Kinki Sharyo / Nippon Sharyo.|Kinki Sharyo / Nippon Sharyo|70|2148|
 |OSA 30000 Tanimachi 1435OM|Osaka Metro 30000 series 6-car train. Used on the Tanimachi Line. Manufacturer: Kinki Sharyo.|Kinki Sharyo|70|2148|
 |OSA 23 Yotsubashi 1435OM|Osaka Metro 23 series 6-car train. Used on the Yotsubashi Line. Manufacturer: Kinki Sharyo / Nippon Sharyo.|Kinki Sharyo / Nippon Sharyo|70|2148|
@@ -101,8 +101,8 @@ Subway Builder Japanese Trains is a mod for Subway Builder that adds trains from
 |OSA 400 Chuo 1435OM|Osaka Metro 400 series 6-car train. New Chuo Line stock for Yumeshima service. Manufacturer: Hitachi.|Hitachi|95|2148|
 |OSA 25 Sennichimae 1435OM|Osaka Metro 25 series 4-car train. Used on the Sennichimae Line. Manufacturer: Kinki Sharyo.|Kinki Sharyo|70|1432|
 |OSA 66 Sakaisuji 1435SH|Osaka Metro 66 series 8-car train. Used on the Sakaisuji Line and Hankyu through services. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries.|Kinki Sharyo / Kawasaki Heavy Industries|110|2768|
-|OSA 70 Nagahori Linear 1435OL|Osaka Metro 70 series 4-car linear-motor train. Used on the Nagahori Tsurumi-ryokuchi Line. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries.|Kinki Sharyo / Kawasaki Heavy Industries|70|1016|
-|OSA 80 Imazatosuji Linear 1435OL|Osaka Metro 80 series 4-car linear-motor train. Used on the Imazatosuji Line. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries.|Kinki Sharyo / Kawasaki Heavy Industries|70|1016|
+|OSA 70 Nagahori Linear 1435OL/OM|Osaka Metro 70 series 4-car linear-motor train. Used on the Nagahori Tsurumi-ryokuchi Line. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries.|Kinki Sharyo / Kawasaki Heavy Industries|70|1016|
+|OSA 80 Imazatosuji Linear 1435OL/OM|Osaka Metro 80 series 4-car linear-motor train. Used on the Imazatosuji Line. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries.|Kinki Sharyo / Kawasaki Heavy Industries|70|1016|
 |OSA New Tram 200|Osaka Metro 200 series automated people mover train. Used on the Nanko Port Town Line. Manufacturer: Niigata Transys.|Niigata Transys|55|320|
 |OSA Hankai 1001 Tram|Hankai 1001 series low-floor tram. Used on Osaka/Sakai street tram services. Manufacturer: Alna Sharyo.|Alna Sharyo|50|162|
 |OSA JR 223 Kansai 1067JP|JR West 223 series suburban train. Used on Kansai Airport Rapid and New Rapid (Shinkaisoku) services. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo.|Kawasaki Heavy Industries / Kinki Sharyo|130|3348|
@@ -149,9 +149,9 @@ Subway Builder Japanese Trains is a mod for Subway Builder that adds trains from
 |Name|Description|Manufacturer|Top Speed (km/h)|Maximum Capacity|
 |-|-|-|-|-|
 |JRC 313 EMU 1067JP|JR Central 313 series suburban EMU for Nagoya-area regional and rapid services. Manufacturer: Kinki Sharyo / Nippon Sharyo.|Kinki Sharyo / Nippon Sharyo|120|2910|
-|MEI 1000 Limited Express 1067MN|Meitetsu 1000 series Panorama Super limited express EMU. Manufacturer: Nippon Sharyo.|Nippon Sharyo|120|300|
-|MEI 6000 EMU 1067MN|Meitetsu 6000 series commuter EMU for Nagoya-area local and express services. Manufacturer: Nippon Sharyo.|Nippon Sharyo|100|1524|
-|MEI 9500 EMU 1067MN|Meitetsu 9500/9100 series modern commuter EMU for Nagoya-area services. Manufacturer: Nippon Sharyo.|Nippon Sharyo|120|1028|
+|MEI 1000 Limited Express 1067MN/JP|Meitetsu 1000 series Panorama Super limited express EMU. Manufacturer: Nippon Sharyo.|Nippon Sharyo|120|300|
+|MEI 6000 EMU 1067MN/JP|Meitetsu 6000 series commuter EMU for Nagoya-area local and express services. Manufacturer: Nippon Sharyo.|Nippon Sharyo|100|1524|
+|MEI 9500 EMU 1067MN/JP|Meitetsu 9500/9100 series modern commuter EMU for Nagoya-area services. Manufacturer: Nippon Sharyo.|Nippon Sharyo|120|1028|
 |JRC 315 EMU 1067JP|JR Central 315 series commuter EMU for Nagoya-area mainline services. Manufacturer: Nippon Sharyo.|Nippon Sharyo|120|2910|
 |NGY N1000 Higashiyama Subway|Nagoya Subway N1000 series train for the Higashiyama Line. Manufacturer: Nippon Sharyo.|Nippon Sharyo|65|1518|
 |NGY N3000 Tsurumai Subway 1067MN|Nagoya Subway N3000 series train for the Tsurumai Line. Manufacturer: Nippon Sharyo / Hitachi.|Nippon Sharyo / Hitachi|100|2166|
@@ -203,7 +203,7 @@ Subway Builder Japanese Trains is a mod for Subway Builder that adds trains from
 |JRE HB-E210 Hybrid|JR East HB-E210 hybrid DMU for Sendai-area regional services. Manufacturer: J-TREC.|J-TREC|100|1104|
 |SAT SAT721 EMU|Sendai Airport Transit SAT721 series EMU based on the E721 family. Manufacturer: J-TREC.|J-TREC|120|1164|
 
-#### Tokyo (49)
+#### Tokyo (51)
 
 |Name|Description|Manufacturer|Top Speed (km/h)|Maximum Capacity|
 |-|-|-|-|-|
@@ -231,6 +231,8 @@ Subway Builder Japanese Trains is a mod for Subway Builder that adds trains from
 |TYO E231 Suburban 1067JP|JR East E231 series commuter train family. Used on major outer Tokyo-area lines. Manufacturer: Tokyu Car / Kawasaki Heavy Industries.|Tokyu Car / Kawasaki Heavy Industries|120|4500|
 |TYO E231 Urban 1067JP|JR East E231 series commuter train family. Used on major Tokyo-area lines. Manufacturer: Tokyu Car / Kawasaki Heavy Industries.|Tokyu Car / Kawasaki Heavy Industries|95|4000|
 |TYO E217 Commuter 1067JP|JR East E217 series commuter train. Used on Yokosuka Sobu line. Manufacturer: Tokyu Car / Kawasaki Heavy Industries.|Tokyu Car / Kawasaki Heavy Industries|120|4500|
+|TYO 209 Chiba 1067JP|JR East 209-2000/2100 series 4/6-car commuter EMU, converted from former Keihin-Tōhoku stock, for Chiba-area local services including the Narita and Kashima lines. Manufacturer: Kawasaki Heavy Industries / Tokyu Car / JR East.|Kawasaki Heavy Industries / Tokyu Car / JR East|120|3000|
+|TYO 205 Tsurumi 1067JP|JR East 205-1100 series 3-car commuter EMU, rebuilt from 205-0 stock, for Tsurumi Line services in Kawasaki and Yokohama. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo / Tokyu Car.|Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo / Tokyu Car|120|1140|
 |TYO E531 Commuter 1067JP|JR East E531 series commuter train. Used on the Joban Rapid line. Manufacturer: J-TREC / Tokyu Car / Kawasaki Heavy Industries.|J-TREC / Tokyu Car / Kawasaki Heavy Industries|130|4500|
 |TYO E257 Limited Express 1067JP|JR East E257 series 2 to 9 car limited express train. Used on Azusa, Kaiji, Odoriko, Shōnan and more Express services. Manufacturer: Hitachi / Kinki Sharyo / Tokyu Car.|Hitachi / Kinki Sharyo / Tokyu Car|120|868|
 |TYO E259 Narita Express 1067JP|JR East E259 series 6/12-car airport limited express train. Used on Narita Express services. Manufacturer: Kinki Sharyo / Tokyu Car.|Kinki Sharyo / Tokyu Car|130|576|

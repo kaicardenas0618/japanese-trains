@@ -6,7 +6,7 @@
 import { trains } from './data/trains';
 
 const MOD_ID = 'japanese-trains';
-const MOD_VERSION = 'v5.0.1';
+const MOD_VERSION = 'v5.0.2';
 const TAG = '[Japanese Trains]';
 
 const api = window.SubwayBuilderAPI;
@@ -14,7 +14,7 @@ const api = window.SubwayBuilderAPI;
 if (!api) {
   console.error(`${TAG} SubwayBuilderAPI not found.`);
 } else {
-  console.log(`${TAG} v${MOD_VERSION} | API v${api.version}`);
+  console.log(`${TAG} ${MOD_VERSION} | API v${api.version}`);
 
   let initialized = false;
 

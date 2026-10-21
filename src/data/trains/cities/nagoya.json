@@ -74,7 +74,7 @@
   },
   {
     "id": "mei-1000-limited-express",
-    "name": "MEI 1000 Limited Express 1067MN",
+    "name": "MEI 1000 Limited Express 1067MN/JP",
     "description": "Meitetsu 1000 series Panorama Super limited express EMU. Manufacturer: Nippon Sharyo.",
     "stats": {
       "maxAcceleration": 0.85,
@@ -127,7 +127,12 @@
     ],
     "compatibleTrackTypes": [
       "1067MN-75",
-      "1067MN-120"
+      "1067MN-120",
+      "1067JP-95",
+      "1067JP-100",
+      "1067JP-110",
+      "1067JP-120",
+      "1067JP-130"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -143,7 +148,7 @@
   },
   {
     "id": "mei-6000-emu",
-    "name": "MEI 6000 EMU 1067MN",
+    "name": "MEI 6000 EMU 1067MN/JP",
     "description": "Meitetsu 6000 series commuter EMU for Nagoya-area local and express services. Manufacturer: Nippon Sharyo.",
     "stats": {
       "maxAcceleration": 0.95,
@@ -196,7 +201,12 @@
     ],
     "compatibleTrackTypes": [
       "1067MN-75",
-      "1067MN-120"
+      "1067MN-120",
+      "1067JP-95",
+      "1067JP-100",
+      "1067JP-110",
+      "1067JP-120",
+      "1067JP-130"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -212,7 +222,7 @@
   },
   {
     "id": "mei-9500-emu",
-    "name": "MEI 9500 EMU 1067MN",
+    "name": "MEI 9500 EMU 1067MN/JP",
     "description": "Meitetsu 9500/9100 series modern commuter EMU for Nagoya-area services. Manufacturer: Nippon Sharyo.",
     "stats": {
       "maxAcceleration": 0.95,
@@ -265,7 +275,12 @@
     ],
     "compatibleTrackTypes": [
       "1067MN-75",
-      "1067MN-120"
+      "1067MN-120",
+      "1067JP-95",
+      "1067JP-100",
+      "1067JP-110",
+      "1067JP-120",
+      "1067JP-130"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,

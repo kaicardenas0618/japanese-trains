@@ -1772,6 +1772,156 @@
     "rampCost": 5000000
   },
   {
+    "id": "tyo-209-chiba",
+    "name": "TYO 209 Chiba 1067JP",
+    "description": "JR East 209-2000/2100 series 4/6-car commuter EMU, converted from former Keihin-Tōhoku stock, for Chiba-area local services including the Narita and Kashima lines. Manufacturer: Kawasaki Heavy Industries / Tokyu Car / JR East.",
+    "stats": {
+      "maxAcceleration": 0.69,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 33.4,
+      "maxSpeedLocalStation": 33.4,
+      "capacityPerCar": 300,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 4,
+      "carLength": 20,
+      "minCars": 4,
+      "maxCars": 10,
+      "carsPerCarSet": 2,
+      "carCost": 3200000,
+      "trainWidth": 2.87,
+      "minStationLength": 80,
+      "maxStationLength": 210,
+      "baseTrackCost": 32000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.275,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 60,
+      "crossoverSpeed": 12.5
+    },
+    "appearance": {
+      "color": "#F3D03E"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
+    },
+    "Manufacturer": [
+      "Kawasaki Heavy Industries",
+      "Tokyu Car",
+      "JR East"
+    ],
+    "compatibleTrackTypes": [
+      "1067JP-95",
+      "1067JP-100",
+      "1067JP-110",
+      "1067JP-120",
+      "1067JP-130"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
+  },
+  {
+    "id": "tyo-205-tsurumi",
+    "name": "TYO 205 Tsurumi 1067JP",
+    "description": "JR East 205-1100 series 3-car commuter EMU, rebuilt from 205-0 stock, for Tsurumi Line services in Kawasaki and Yokohama. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo / Tokyu Car.",
+    "stats": {
+      "maxAcceleration": 0.69,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 33.4,
+      "maxSpeedLocalStation": 33.4,
+      "capacityPerCar": 380,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 4,
+      "carLength": 20,
+      "minCars": 3,
+      "maxCars": 3,
+      "carsPerCarSet": 3,
+      "carCost": 3200000,
+      "trainWidth": 2.8,
+      "minStationLength": 60,
+      "maxStationLength": 70,
+      "baseTrackCost": 32000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.275,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 60,
+      "crossoverSpeed": 12.5
+    },
+    "appearance": {
+      "color": "#005EB8"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
+    },
+    "Manufacturer": [
+      "Hitachi",
+      "Kawasaki Heavy Industries",
+      "Kinki Sharyo",
+      "Nippon Sharyo",
+      "Tokyu Car"
+    ],
+    "compatibleTrackTypes": [
+      "1067JP-95",
+      "1067JP-100",
+      "1067JP-110",
+      "1067JP-120",
+      "1067JP-130"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
+  },
+  {
     "id": "tyo-e531-commuter",
     "name": "TYO E531 Commuter 1067JP",
     "description": "JR East E531 series commuter train. Used on the Joban Rapid line. Manufacturer: J-TREC / Tokyu Car / Kawasaki Heavy Industries.",

@@ -377,7 +377,7 @@
       "carLength": 21.3,
       "minCars": 5,
       "maxCars": 8,
-      "carsPerCarSet": 1,
+      "carsPerCarSet": 5,
       "carCost": 4300000,
       "trainWidth": 2.8,
       "minStationLength": 106,
