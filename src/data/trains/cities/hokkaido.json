@@ -365,7 +365,7 @@
   {
     "id": "jrh-789-limited-express",
     "name": "JRH 789 Limited Express 1067JP",
-    "description": "JR Hokkaido 789 series AC limited express EMU for Hokkaidō intercity services. Manufacturer: Kawasaki Heavy Industries / Hitachi.",
+    "description": "JR Hokkaido 789 series AC limited express EMU for Hokkaido intercity services. Manufacturer: Kawasaki Heavy Industries / Hitachi.",
     "stats": {
       "maxAcceleration": 0.85,
       "maxDeceleration": 1.1,

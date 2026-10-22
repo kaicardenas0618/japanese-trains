@@ -2,7 +2,7 @@
   {
     "id": "tym-tlr0600-portram-tram",
     "name": "TYM TLR0600 Portram Tram 1067TC",
-    "description": "Toyama Chihō Railway (ex-Toyama Light Rail) TLR0600 Portram low-floor articulated LRV, through-running between the Toyamakō Line and the city tram network. Manufacturer: Niigata Transys.",
+    "description": "Toyama Chiho Railway (ex-Toyama Light Rail) TLR0600 Portram low-floor articulated LRV, through-running between the Toyamako Line and the city tram network. Manufacturer: Niigata Transys.",
     "stats": {
       "maxAcceleration": 1.1,
       "maxDeceleration": 1.2,
@@ -71,7 +71,7 @@
   {
     "id": "tym-9000-centram-tram",
     "name": "TYM 9000 Centram Tram 1067TC",
-    "description": "Toyama Chihō Railway 9000 series Centram low-floor articulated tram for the Toyama city tram loop line. Manufacturer: Niigata Transys.",
+    "description": "Toyama Chiho Railway 9000 series Centram low-floor articulated tram for the Toyama city tram loop line. Manufacturer: Niigata Transys.",
     "stats": {
       "maxAcceleration": 1.1,
       "maxDeceleration": 1.2,
@@ -140,7 +140,7 @@
   {
     "id": "1067TC-40",
     "name": "1067TC-40",
-    "description": "1067mm 40kph track for Toyama Chitetsu city tram and Toyamakō Line use.",
+    "description": "1067mm 40kph track for Toyama Chitetsu city tram and Toyamako Line use.",
     "stats": {
       "maxAcceleration": 9,
       "maxDeceleration": 9,
@@ -204,7 +204,7 @@
   {
     "id": "1067TC-60",
     "name": "1067TC-60",
-    "description": "1067mm 60kph track for Toyama Chitetsu city tram and Toyamakō Line use.",
+    "description": "1067mm 60kph track for Toyama Chitetsu city tram and Toyamako Line use.",
     "stats": {
       "maxAcceleration": 9,
       "maxDeceleration": 9,

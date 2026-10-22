@@ -554,7 +554,7 @@
   {
     "id": "1435OM-70",
     "name": "1435OM-70",
-    "description": "1435mm 70kph track for Osaka Metro Midōsuji, Yotsubashi, Tanimachi, Chūō and Sennichimae Lines use.",
+    "description": "1435mm 70kph track for Osaka Metro Midosuji, Yotsubashi, Tanimachi, Chuo and Sennichimae Lines use.",
     "stats": {
       "maxAcceleration": 9,
       "maxDeceleration": 9,
@@ -618,7 +618,7 @@
   {
     "id": "1435OM-95",
     "name": "1435OM-95",
-    "description": "1435mm 95kph track for Osaka Metro Chūō Line and Kintetsu Keihanna Line use.",
+    "description": "1435mm 95kph track for Osaka Metro Chuo Line and Kintetsu Keihanna Line use.",
     "stats": {
       "maxAcceleration": 9,
       "maxDeceleration": 9,
@@ -1773,7 +1773,7 @@
   {
     "id": "1435KE-75",
     "name": "1435KE-75",
-    "description": "1435mm 75kph track for Kyoto Subway Tōzai Line and Keihan Keishin Line use.",
+    "description": "1435mm 75kph track for Kyoto Subway Tozai Line and Keihan Keishin Line use.",
     "stats": {
       "maxAcceleration": 9,
       "maxDeceleration": 9,

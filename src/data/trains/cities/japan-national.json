@@ -2,7 +2,7 @@
   {
     "id": "jp-n700a-shinkansen",
     "name": "JP N700A Shinkansen 1435JP",
-    "description": "16-car N700A Shinkansen train for Tōkaidō and Sanyō high-speed services. Manufacturer: Hitachi / Nippon Sharyo / Kawasaki Heavy Industries / Kinki Sharyo.",
+    "description": "16-car N700A Shinkansen train for Tokaido and Sanyo high-speed services. Manufacturer: Hitachi / Nippon Sharyo / Kawasaki Heavy Industries / Kinki Sharyo.",
     "stats": {
       "maxAcceleration": 0.85,
       "maxDeceleration": 1.0,
@@ -77,7 +77,7 @@
   {
     "id": "jp-n700s-shinkansen",
     "name": "JP N700S Shinkansen 1435JP",
-    "description": "16-car N700S Shinkansen train for Tōkaidō and Sanyō high-speed services. Manufacturer: Hitachi / Nippon Sharyo.",
+    "description": "16-car N700S Shinkansen train for Tokaido and Sanyo high-speed services. Manufacturer: Hitachi / Nippon Sharyo.",
     "stats": {
       "maxAcceleration": 0.85,
       "maxDeceleration": 1.0,
@@ -150,7 +150,7 @@
   {
     "id": "jp-n700-7000-sakura",
     "name": "JP N700-7000 Sakura 1435JP",
-    "description": "8-car N700-7000/8000 Shinkansen train for Sanyō and Kyūshū Mizuho/Sakura services. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo.",
+    "description": "8-car N700-7000/8000 Shinkansen train for Sanyo and Kyushu Mizuho/Sakura services. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo.",
     "stats": {
       "maxAcceleration": 0.75,
       "maxDeceleration": 1.0,
@@ -225,7 +225,7 @@
   {
     "id": "jp-n700s-8000-kamome",
     "name": "JP N700S-8000 Kamome 1435JP",
-    "description": "6-car N700S-8000 Shinkansen train for Nishi-Kyūshū Kamome services. Manufacturer: Hitachi / Nippon Sharyo.",
+    "description": "6-car N700S-8000 Shinkansen train for Nishi-Kyushu Kamome services. Manufacturer: Hitachi / Nippon Sharyo.",
     "stats": {
       "maxAcceleration": 0.85,
       "maxDeceleration": 1.0,
@@ -298,7 +298,7 @@
   {
     "id": "jp-500-shinkansen",
     "name": "JP 500 Shinkansen 1435JP",
-    "description": "8-car 500 Series Shinkansen train used on Sanyō Kodama services. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo.",
+    "description": "8-car 500 Series Shinkansen train used on Sanyo Kodama services. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo.",
     "stats": {
       "maxAcceleration": 0.85,
       "maxDeceleration": 1.0,
@@ -373,7 +373,7 @@
   {
     "id": "jp-700-rail-star",
     "name": "JP 700 Rail Star 1435JP",
-    "description": "8-car 700 Series Rail Star Shinkansen train used on Sanyō services. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo.",
+    "description": "8-car 700 Series Rail Star Shinkansen train used on Sanyo services. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo.",
     "stats": {
       "maxAcceleration": 0.85,
       "maxDeceleration": 1.0,
@@ -448,7 +448,7 @@
   {
     "id": "jp-800-shinkansen",
     "name": "JP 800 Shinkansen 1435JP",
-    "description": "6-car 800 Series Shinkansen train for Kyūshū Shinkansen services. Manufacturer: Hitachi.",
+    "description": "6-car 800 Series Shinkansen train for Kyushu Shinkansen services. Manufacturer: Hitachi.",
     "stats": {
       "maxAcceleration": 0.85,
       "maxDeceleration": 1.0,
@@ -520,7 +520,7 @@
   {
     "id": "jp-e5-shinkansen",
     "name": "JP E5 Shinkansen 1435JP",
-    "description": "10-car E5 Series Shinkansen train for Tōhoku and Hokkaidō high-speed services. Manufacturer: Hitachi / Kawasaki Heavy Industries.",
+    "description": "10-car E5 Series Shinkansen train for Tohoku and Hokkaido high-speed services. Manufacturer: Hitachi / Kawasaki Heavy Industries.",
     "stats": {
       "maxAcceleration": 0.75,
       "maxDeceleration": 1.0,
@@ -593,7 +593,7 @@
   {
     "id": "jp-h5-shinkansen",
     "name": "JP H5 Shinkansen 1435JP",
-    "description": "10-car H5 Series Shinkansen train for Hokkaidō and Tōhoku high-speed services. Manufacturer: Hitachi / Kawasaki Heavy Industries.",
+    "description": "10-car H5 Series Shinkansen train for Hokkaido and Tohoku high-speed services. Manufacturer: Hitachi / Kawasaki Heavy Industries.",
     "stats": {
       "maxAcceleration": 0.75,
       "maxDeceleration": 1.0,
@@ -739,7 +739,7 @@
   {
     "id": "jp-e7-shinkansen",
     "name": "JP E7 Shinkansen 1435JP",
-    "description": "12-car E7 Series Shinkansen train for Hokuriku and Jōetsu high-speed services. Manufacturer: Hitachi / Kawasaki Railcar Manufacturing / J-TREC.",
+    "description": "12-car E7 Series Shinkansen train for Hokuriku and Joetsu high-speed services. Manufacturer: Hitachi / Kawasaki Railcar Manufacturing / J-TREC.",
     "stats": {
       "maxAcceleration": 0.85,
       "maxDeceleration": 1.0,
@@ -1032,7 +1032,7 @@
   {
     "id": "jp-e2-shinkansen",
     "name": "JP E2 Shinkansen 1435JP",
-    "description": "10-car E2 Series Shinkansen train for Tōhoku and Jōetsu legacy high-speed services. Manufacturer: Hitachi / Kawasaki Heavy Industries / Tokyu Car.",
+    "description": "10-car E2 Series Shinkansen train for Tohoku and Joetsu legacy high-speed services. Manufacturer: Hitachi / Kawasaki Heavy Industries / Tokyu Car.",
     "stats": {
       "maxAcceleration": 0.85,
       "maxDeceleration": 1.0,
@@ -1787,7 +1787,7 @@
   {
     "id": "jp-287-limited-express",
     "name": "JP 287 Limited Express 1067JP",
-    "description": "287 Series limited express EMU used on Kuroshio, Kōnotori, Kinosaki, Maizuru, Hashidate and related services. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo.",
+    "description": "287 Series limited express EMU used on Kuroshio, Konotori, Kinosaki, Maizuru, Hashidate and related services. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo.",
     "stats": {
       "maxAcceleration": 0.85,
       "maxDeceleration": 1.1,
@@ -1860,7 +1860,7 @@
   {
     "id": "jp-289-limited-express",
     "name": "JP 289 Limited Express 1067JP",
-    "description": "289 Series limited express EMU used on Kuroshio, Kōnotori, Kinosaki and related services. Manufacturer: Hitachi / Kawasaki Heavy Industries.",
+    "description": "289 Series limited express EMU used on Kuroshio, Konotori, Kinosaki and related services. Manufacturer: Hitachi / Kawasaki Heavy Industries.",
     "stats": {
       "maxAcceleration": 0.85,
       "maxDeceleration": 1.1,
@@ -2077,8 +2077,8 @@
   },
   {
     "id": "jp-261-hokkaido",
-    "name": "JP 261 Hokkaidō",
-    "description": "KiHa 261 series diesel limited express train for Hokkaidō intercity services. Manufacturer: Fuji Heavy Industries / Niigata Transys.",
+    "name": "JP 261 Hokkaido",
+    "description": "KiHa 261 series diesel limited express train for Hokkaido intercity services. Manufacturer: Fuji Heavy Industries / Niigata Transys.",
     "stats": {
       "maxAcceleration": 0.85,
       "maxDeceleration": 1.1,

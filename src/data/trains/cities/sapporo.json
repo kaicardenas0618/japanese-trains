@@ -212,7 +212,7 @@
   {
     "id": "spk-sapporo-8000-subway",
     "name": "SPK Sapporo 8000 Subway",
-    "description": "Sapporo Municipal Subway 8000 series rubber-tired train for the Tōzai Line. Manufacturer: Kawasaki Heavy Industries.",
+    "description": "Sapporo Municipal Subway 8000 series rubber-tired train for the Tozai Line. Manufacturer: Kawasaki Heavy Industries.",
     "stats": {
       "maxAcceleration": 1.0,
       "maxDeceleration": 1.15,
@@ -280,7 +280,7 @@
   {
     "id": "spk-sapporo-9000-subway",
     "name": "SPK Sapporo 9000 Subway",
-    "description": "Sapporo Municipal Subway 9000 series rubber-tired train for the Tōhō Line. Manufacturer: Kawasaki Heavy Industries.",
+    "description": "Sapporo Municipal Subway 9000 series rubber-tired train for the Toho Line. Manufacturer: Kawasaki Heavy Industries.",
     "stats": {
       "maxAcceleration": 1.0,
       "maxDeceleration": 1.15,

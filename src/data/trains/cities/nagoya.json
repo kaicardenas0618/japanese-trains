@@ -632,8 +632,8 @@
   },
   {
     "id": "ngy-6050-sakura-dori-subway",
-    "name": "NGY 6050 Sakura-dōri Subway",
-    "description": "Nagoya Subway 6050 series train for the Sakura-dōri Line. Manufacturer: Nippon Sharyo.",
+    "name": "NGY 6050 Sakura-dori Subway",
+    "description": "Nagoya Subway 6050 series train for the Sakura-dori Line. Manufacturer: Nippon Sharyo.",
     "stats": {
       "maxAcceleration": 1.0,
       "maxDeceleration": 1.15,

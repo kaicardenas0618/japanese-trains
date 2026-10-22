@@ -146,7 +146,7 @@
   {
     "id": "jrw-kiha120-dmu",
     "name": "JRW KiHa120 DMU 1067JP",
-    "description": "JR West KiHa 120 series single-car regional DMU for rural Sanin and Chūgoku lines such as the Kisuki Line. Manufacturer: Niigata Tekko / JR West.",
+    "description": "JR West KiHa 120 series single-car regional DMU for rural Sanin and Chugoku lines such as the Kisuki Line. Manufacturer: Niigata Tekko / JR West.",
     "stats": {
       "maxAcceleration": 0.75,
       "maxDeceleration": 0.95,
