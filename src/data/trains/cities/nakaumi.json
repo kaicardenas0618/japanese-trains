@@ -152,7 +152,7 @@
       "maxDeceleration": 0.95,
       "maxSpeed": 26.39,
       "maxSpeedLocalStation": 26.39,
-      "capacityPerCar": 233,
+      "capacityPerCar": 241,
       "seatsPerCar": 36,
       "doorsPerCarPerSide": 2,
       "carLength": 16.3,
