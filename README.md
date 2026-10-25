@@ -2,7 +2,7 @@
 
 Subway Builder Japanese Trains is a mod for Subway Builder that adds trains from cities around Japan. This pack contains rolling stock from the following Japanese cities, with more planned.
 
-## Currently Available Trains (200)
+## Currently Available Trains (201)
 
 #### National (34)
 
@@ -203,7 +203,7 @@ Subway Builder Japanese Trains is a mod for Subway Builder that adds trains from
 |JRE HB-E210 Hybrid|JR East HB-E210 hybrid DMU for Sendai-area regional services. Manufacturer: J-TREC.|J-TREC|100|1104|
 |SAT SAT721 EMU|Sendai Airport Transit SAT721 series EMU based on the E721 family. Manufacturer: J-TREC.|J-TREC|120|1164|
 
-#### Tokyo (56)
+#### Tokyo (57)
 
 |Name|Description|Manufacturer|Top Speed (km/h)|Maximum Capacity|
 |-|-|-|-|-|
@@ -220,7 +220,8 @@ Subway Builder Japanese Trains is a mod for Subway Builder that adds trains from
 |TYO 6500 Mita 1067JP/MB/MI/TQ|Toei 6500 series 8-car train. Used on the Mita Line. Manufacturer: Kinki Sharyo.|Kinki Sharyo|110|2944|
 |TYO 10-300 Shinjuku 1372KT|Toei 10-300 series 10-car train. Used on the Shinjuku Line. Manufacturer: J-TREC.|J-TREC|120|3680|
 |TYO 12-600 Oedo Linear|Toei 12-600 series 8-car linear-motor train. Used on the Oedo Line. Manufacturer: Kawasaki Heavy Industries / Nippon Sharyo.|Kawasaki Heavy Industries / Nippon Sharyo|70|2184|
-|TYO Toden 8800 Tram|Tokyo Sakura Tram 8800 series streetcar. Manufacturer: Alna Sharyo.|Alna Sharyo|40|120|
+|TYO Toden 8800 Tram 1372TD|Tokyo Sakura Tram 8800 series streetcar. Manufacturer: Alna Sharyo.|Alna Sharyo|40|120|
+|TYO Toden 9000 Tram 1372TD|Tokyo Sakura Tram 9000 series retro-style streetcar for the Toden Arakawa Line. Manufacturer: Alna Sharyo.|Alna Sharyo|40|117|
 |TYO Nippori Liner 330|Nippori-Toneri Liner 330 series automated guideway train. Manufacturer: Niigata Transys.|Niigata Transys|60|440|
 |TYO Yurikamome 7300|Yurikamome 7300 series automated guideway train. Manufacturer: Mitsubishi Heavy Industries / Niigata Transys.|Mitsubishi Heavy Industries / Niigata Transys|60|546|
 |TYO New Shuttle 2000|Saitama New Shuttle 2000 series 6-car rubber-tyred AGT train for the Ina Line between Omiya and Uchijuku. Manufacturer: Kawasaki Heavy Industries.|Kawasaki Heavy Industries|60|492|

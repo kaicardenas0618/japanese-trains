@@ -1004,7 +1004,7 @@
   },
   {
     "id": "tyo-toden-8800-tram",
-    "name": "TYO Toden 8800 Tram",
+    "name": "TYO Toden 8800 Tram 1372TD",
     "description": "Tokyo Sakura Tram 8800 series streetcar. Manufacturer: Alna Sharyo.",
     "stats": {
       "maxAcceleration": 1.1,
@@ -1032,7 +1032,7 @@
       "minTurnRadius": 25,
       "minStationTurnRadius": 80,
       "maxSlopePercentage": 6,
-      "parallelTrackSpacing": 1.965,
+      "parallelTrackSpacing": 1.628,
       "stopTimeSeconds": 45,
       "turnaroundTimeSeconds": 45,
       "trackMaintenanceCostPerMeter": 0,
@@ -1055,6 +1055,140 @@
     "Manufacturer": [
       "Alna Sharyo"
     ],
+    "compatibleTrackTypes": [
+      "1372TD-40"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 180000,
+    "gradeCrossingMaintenancePerYear": 5000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 3500000,
+    "rampCost": 1750000
+  },
+  {
+    "id": "tyo-toden-9000-tram",
+    "name": "TYO Toden 9000 Tram 1372TD",
+    "description": "Tokyo Sakura Tram 9000 series retro-style streetcar for the Toden Arakawa Line. Manufacturer: Alna Sharyo.",
+    "stats": {
+      "maxAcceleration": 1.1,
+      "maxDeceleration": 1.2,
+      "maxSpeed": 11.11,
+      "maxSpeedLocalStation": 11.11,
+      "capacityPerCar": 117,
+      "seatsPerCar": 22,
+      "doorsPerCarPerSide": 2,
+      "carLength": 13,
+      "minCars": 1,
+      "maxCars": 1,
+      "carsPerCarSet": 1,
+      "carCost": 2400000,
+      "trainWidth": 2.2,
+      "minStationLength": 13,
+      "maxStationLength": 21,
+      "baseTrackCost": 15000,
+      "baseStationCost": 8500000,
+      "trainOperationalCostPerHour": 95,
+      "carOperationalCostPerHour": 20,
+      "scissorsCrossoverCost": 5000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.275,
+      "minTurnRadius": 25,
+      "minStationTurnRadius": 80,
+      "maxSlopePercentage": 6,
+      "parallelTrackSpacing": 1.628,
+      "stopTimeSeconds": 45,
+      "turnaroundTimeSeconds": 45,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 34,
+      "crossoverSpeed": 12.5
+    },
+    "appearance": {
+      "color": "#8B1E2D"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 2.8,
+      "STANDARD_TUNNEL": 1.5,
+      "CUT_AND_COVER": 0.8,
+      "AT_GRADE": 0.2,
+      "ELEVATED": 0.6,
+      "TRENCHED": 0.41,
+      "RAMP": 0.38
+    },
+    "Manufacturer": [
+      "Alna Sharyo"
+    ],
+    "compatibleTrackTypes": [
+      "1372TD-40"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 180000,
+    "gradeCrossingMaintenancePerYear": 5000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 3500000,
+    "rampCost": 1750000
+  },
+  {
+    "id": "1372TD-40",
+    "name": "1372TD-40",
+    "description": "1372mm 40kph track for Toden Arakawa Line use.",
+    "stats": {
+      "maxAcceleration": 9,
+      "maxDeceleration": 9,
+      "maxSpeed": 11.2,
+      "maxSpeedLocalStation": 11.2,
+      "capacityPerCar": 0,
+      "seatsPerCar": 0,
+      "doorsPerCarPerSide": 999,
+      "carLength": 13,
+      "minCars": 2,
+      "maxCars": 20,
+      "carsPerCarSet": 1,
+      "carCost": 3200000,
+      "trainWidth": 2.2,
+      "minStationLength": 36,
+      "maxStationLength": 270,
+      "baseTrackCost": 15000,
+      "baseStationCost": 8500000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 5000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.275,
+      "minTurnRadius": 25,
+      "minStationTurnRadius": 80,
+      "maxSlopePercentage": 6,
+      "parallelTrackSpacing": 1.628,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 34,
+      "crossoverSpeed": 12.5
+    },
+    "appearance": {
+      "color": "#43B02A"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 2.8,
+      "STANDARD_TUNNEL": 1.5,
+      "CUT_AND_COVER": 0.8,
+      "AT_GRADE": 0.2,
+      "ELEVATED": 0.6,
+      "TRENCHED": 0.41,
+      "RAMP": 0.38
+    },
+    "Manufacturer": [],
     "compatibleTrackTypes": [],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 180000,
