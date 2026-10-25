@@ -86,7 +86,7 @@
       "carsPerCarSet": 2,
       "carCost": 2200000,
       "trainWidth": 2.65,
-      "minStationLength": 9,
+      "minStationLength": 18,
       "maxStationLength": 28,
       "baseTrackCost": 15000,
       "baseStationCost": 8500000,

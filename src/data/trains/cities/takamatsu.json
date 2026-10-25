@@ -6,8 +6,8 @@
     "stats": {
       "maxAcceleration": 0.95,
       "maxDeceleration": 1.1,
-      "maxSpeed": 22.22,
-      "maxSpeedLocalStation": 22.22,
+      "maxSpeed": 30.56,
+      "maxSpeedLocalStation": 30.56,
       "capacityPerCar": 243,
       "seatsPerCar": 44,
       "doorsPerCarPerSide": 3,
@@ -75,8 +75,8 @@
     "stats": {
       "maxAcceleration": 0.95,
       "maxDeceleration": 1.1,
-      "maxSpeed": 22.22,
-      "maxSpeedLocalStation": 22.22,
+      "maxSpeed": 33.33,
+      "maxSpeedLocalStation": 33.33,
       "capacityPerCar": 243,
       "seatsPerCar": 44,
       "doorsPerCarPerSide": 3,
@@ -144,8 +144,8 @@
     "stats": {
       "maxAcceleration": 0.95,
       "maxDeceleration": 1.1,
-      "maxSpeed": 22.22,
-      "maxSpeedLocalStation": 22.22,
+      "maxSpeed": 30.56,
+      "maxSpeedLocalStation": 30.56,
       "capacityPerCar": 243,
       "seatsPerCar": 44,
       "doorsPerCarPerSide": 3,
@@ -350,8 +350,8 @@
     "stats": {
       "maxAcceleration": 0.85,
       "maxDeceleration": 1.1,
-      "maxSpeed": 36.11,
-      "maxSpeedLocalStation": 36.11,
+      "maxSpeed": 33.33,
+      "maxSpeedLocalStation": 33.33,
       "capacityPerCar": 48,
       "seatsPerCar": 48,
       "doorsPerCarPerSide": 1,

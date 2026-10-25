@@ -6,8 +6,8 @@
     "stats": {
       "maxAcceleration": 1.1,
       "maxDeceleration": 1.2,
-      "maxSpeed": 19.44,
-      "maxSpeedLocalStation": 19.44,
+      "maxSpeed": 22.22,
+      "maxSpeedLocalStation": 22.22,
       "capacityPerCar": 302,
       "seatsPerCar": 54,
       "doorsPerCarPerSide": 4,
@@ -215,8 +215,8 @@
     "stats": {
       "maxAcceleration": 1.1,
       "maxDeceleration": 1.2,
-      "maxSpeed": 19.44,
-      "maxSpeedLocalStation": 19.44,
+      "maxSpeed": 22.22,
+      "maxSpeedLocalStation": 22.22,
       "capacityPerCar": 186,
       "seatsPerCar": 28,
       "doorsPerCarPerSide": 3,
@@ -286,8 +286,8 @@
     "stats": {
       "maxAcceleration": 1.1,
       "maxDeceleration": 1.2,
-      "maxSpeed": 19.44,
-      "maxSpeedLocalStation": 19.44,
+      "maxSpeed": 22.22,
+      "maxSpeedLocalStation": 22.22,
       "capacityPerCar": 301,
       "seatsPerCar": 50,
       "doorsPerCarPerSide": 4,

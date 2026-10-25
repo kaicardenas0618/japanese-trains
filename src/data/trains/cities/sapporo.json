@@ -2,12 +2,12 @@
   {
     "id": "spk-731-emu",
     "name": "SPK 731 EMU 1067JP",
-    "description": "JR Hokkaido 731 series 3-car commuter EMU for Sapporo-area services. Manufacturer: Kawasaki Heavy Industries.",
+    "description": "JR Hokkaido 731 series 3/6-car commuter EMU for Sapporo-area services. Manufacturer: Kawasaki Heavy Industries.",
     "stats": {
       "maxAcceleration": 0.95,
       "maxDeceleration": 1.1,
-      "maxSpeed": 33.33,
-      "maxSpeedLocalStation": 33.33,
+      "maxSpeed": 36.11,
+      "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 295,
       "seatsPerCar": 52,
       "doorsPerCarPerSide": 3,
@@ -74,12 +74,12 @@
   {
     "id": "spk-735-emu",
     "name": "SPK 735 EMU 1067JP",
-    "description": "JR Hokkaido 735 series 3-car commuter EMU for Sapporo-area services. Manufacturer: Hitachi.",
+    "description": "JR Hokkaido 735 series 3/6-car commuter EMU for Sapporo-area services. Manufacturer: Hitachi.",
     "stats": {
       "maxAcceleration": 0.95,
       "maxDeceleration": 1.1,
-      "maxSpeed": 33.33,
-      "maxSpeedLocalStation": 33.33,
+      "maxSpeed": 36.11,
+      "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 295,
       "seatsPerCar": 52,
       "doorsPerCarPerSide": 3,
