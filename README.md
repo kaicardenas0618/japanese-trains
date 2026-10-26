@@ -2,6 +2,70 @@
 
 Subway Builder Japanese Trains is a mod for Subway Builder that adds trains from cities around Japan. This pack contains rolling stock from the following Japanese cities, with more planned.
 
+## Track Types
+
+Each line has its own track type, named `{gauge}{line code}-{speed}`.
+Initial builds should be done with a track option where applicable, compatible tracks are listed at the end of the train name; e.g. JP N700A Shinkansen 1435JP is compatible with 1435JP-60, 1435JP-100, 1435JP-130, 1435JP-285, and 1435JP-320.
+Specific trains can be chosen afterwards in the route menu.
+
+|Track|Line|Top Speed (km/h)|
+|-|-|-|
+|1435JP-60|Shinkansen|60|
+|1435JP-100|Shinkansen|100|
+|1435JP-130|Shinkansen|130|
+|1435JP-285|Shinkansen|285|
+|1435JP-320|Shinkansen|320|
+|1067NT-110|Nishitetsu Tenjin-Omuta Line|110|
+|1435HD-40|Hiroden street tram and Miyajima Line|40|
+|1435HD-60|Hiroden street tram and Miyajima Line|60|
+|1067TC-40|Toyama Chitetsu city tram and Toyamako Line|40|
+|1067TC-60|Toyama Chitetsu city tram and Toyamako Line|60|
+|1435OM-70|Osaka Metro Midosuji, Yotsubashi, Tanimachi, Chuo and Sennichimae Lines|70|
+|1435OM-95|Osaka Metro Chuo Line and Kintetsu Keihanna Line|95|
+|1435SH-70|Osaka Metro Sakaisuji Line and Hankyu (through services)|70|
+|1435SH-115|Hankyu and Osaka Metro Sakaisuji Line (through services)|115|
+|1435OL-70|Osaka Metro Nagahori Tsurumi-ryokuchi and Imazatosuji linear-motor Lines|70|
+|1435KE-75|Kyoto Subway Tozai Line and Keihan Keishin Line|75|
+|1435KK-90|Kyoto Subway Karasuma Line and Kintetsu Kyoto Line (through services)|90|
+|1435KF-40|Keifuku Randen|40|
+|1435KB-90|Kobe Subway Seishin-Yamate Line and Hokushin Line|90|
+|1435KN-105|Kintetsu|105|
+|1435KN-130|Kintetsu|130|
+|1435KH-110|Keihan Main Line|110|
+|1435HS-106|Hanshin, Hankyu, Sanyo and Kintetsu Kobe-area (through services)|106|
+|1435HS-115|Hanshin, Hankyu, Sanyo and Kintetsu Kobe-area (through services)|115|
+|1067MN-75|Meitetsu and Nagoya Subway Tsurumai Line|75|
+|1067MN-120|Meitetsu and Nagoya Subway Tsurumai Line|120|
+|1067IC-85|Ichibata Electric Railway|85|
+|1067SC-40|Sapporo Streetcar|40|
+|1435KD-80|Kotoden|80|
+|1435TM-75|Tokyo Metro Marunouchi Line|75|
+|1372TD-40|Toden Arakawa Line|40|
+|1067JP-95|JR main lines|90|
+|1067JP-100|JR main lines|100|
+|1067JP-110|JR main lines|110|
+|1067JP-120|JR main lines|120|
+|1067JP-130|JR main lines|130|
+|1067MH-80|Tokyo Metro Hibiya Line (through services)|80|
+|1067MT-100|Tokyo Metro Tozai Line|100|
+|1067MC-80|Tokyo Metro Chiyoda Line (through services)|80|
+|1067MF-80|Tokyo Metro Yurakucho and Fukutoshin Lines (through services)|80|
+|1067MZ-80|Tokyo Metro Hanzomon Line (through services)|80|
+|1067MB-80|Tokyo Metro Namboku Line (through services)|80|
+|1067MI-75|Toei Mita Line (through services)|75|
+|1067TB-100|Tobu|100|
+|1067TB-120|Tobu|120|
+|1067SB-105|Seibu|105|
+|1067OD-110|Odakyu|110|
+|1067TQ-80|Tokyu|80|
+|1067TQ-110|Tokyu|110|
+|1067TX-130|Tsukuba Express|130|
+|1435TK-70|Toei Asakusa, Keisei and Keikyu (through services)|70|
+|1435TK-120|Toei Asakusa, Keisei and Keikyu (through services)|120|
+|1435TK-160|Toei Asakusa, Keisei and Keikyu (through services)|160|
+|1372KT-75|Toei Shinjuku Line and Keio Line (through services)|75|
+|1372KT-100|Toei Shinjuku Line and Keio Line (through services)|100|
+
 ## Currently Available Trains (202)
 
 #### National (34)
