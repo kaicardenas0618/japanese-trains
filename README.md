@@ -1,6 +1,6 @@
 # Subway Builder Japanese Trains
 
-Subway Builder Japanese Trains is a mod for Subway Builder that adds trains from cities around Japan. This pack contains rolling stock from the following Japanese cities, with more planned.
+Subway Builder Japanese Trains is a mod for Subway Builder that adds trains from cities around Japan. All available train and track options are listed below.
 
 ## Track Types
 
