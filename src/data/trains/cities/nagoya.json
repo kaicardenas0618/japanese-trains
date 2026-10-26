@@ -553,7 +553,14 @@
       "RAMP": 0.65
     },
     "Manufacturer": [],
-    "compatibleTrackTypes": [],
+    "compatibleTrackTypes": [
+      "1067JP-95",
+      "1067JP-100",
+      "1067JP-110",
+      "1067JP-120",
+      "1067JP-130",
+      "1067MN-120"
+    ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
     "gradeCrossingMaintenancePerYear": 9000,
@@ -617,7 +624,14 @@
       "RAMP": 0.65
     },
     "Manufacturer": [],
-    "compatibleTrackTypes": [],
+    "compatibleTrackTypes": [
+      "1067JP-95",
+      "1067JP-100",
+      "1067JP-110",
+      "1067JP-120",
+      "1067JP-130",
+      "1067MN-75"
+    ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
     "gradeCrossingMaintenancePerYear": 9000,

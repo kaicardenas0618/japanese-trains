@@ -401,7 +401,9 @@
       "RAMP": 0.38
     },
     "Manufacturer": [],
-    "compatibleTrackTypes": [],
+    "compatibleTrackTypes": [
+      "1435HD-60"
+    ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 180000,
     "gradeCrossingMaintenancePerYear": 5000,
@@ -465,7 +467,9 @@
       "RAMP": 0.38
     },
     "Manufacturer": [],
-    "compatibleTrackTypes": [],
+    "compatibleTrackTypes": [
+      "1435HD-40"
+    ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 180000,
     "gradeCrossingMaintenancePerYear": 5000,

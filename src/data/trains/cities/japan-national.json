@@ -1154,7 +1154,12 @@
       "RAMP": 0.97
     },
     "Manufacturer": [],
-    "compatibleTrackTypes": [],
+    "compatibleTrackTypes": [
+      "1435JP-100",
+      "1435JP-130",
+      "1435JP-285",
+      "1435JP-320"
+    ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
     "gradeCrossingMaintenancePerYear": 18000,
@@ -1218,7 +1223,12 @@
       "RAMP": 0.97
     },
     "Manufacturer": [],
-    "compatibleTrackTypes": [],
+    "compatibleTrackTypes": [
+      "1435JP-60",
+      "1435JP-130",
+      "1435JP-285",
+      "1435JP-320"
+    ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
     "gradeCrossingMaintenancePerYear": 18000,
@@ -1282,7 +1292,12 @@
       "RAMP": 0.97
     },
     "Manufacturer": [],
-    "compatibleTrackTypes": [],
+    "compatibleTrackTypes": [
+      "1435JP-60",
+      "1435JP-100",
+      "1435JP-285",
+      "1435JP-320"
+    ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
     "gradeCrossingMaintenancePerYear": 18000,
@@ -1349,7 +1364,12 @@
       "Hitachi",
       "Nippon Sharyo"
     ],
-    "compatibleTrackTypes": [],
+    "compatibleTrackTypes": [
+      "1435JP-60",
+      "1435JP-100",
+      "1435JP-130",
+      "1435JP-320"
+    ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
     "gradeCrossingMaintenancePerYear": 18000,
@@ -1413,7 +1433,12 @@
       "RAMP": 0.97
     },
     "Manufacturer": [],
-    "compatibleTrackTypes": [],
+    "compatibleTrackTypes": [
+      "1435JP-60",
+      "1435JP-100",
+      "1435JP-130",
+      "1435JP-285"
+    ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
     "gradeCrossingMaintenancePerYear": 18000,

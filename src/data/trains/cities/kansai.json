@@ -602,7 +602,10 @@
       "RAMP": 0.53
     },
     "Manufacturer": [],
-    "compatibleTrackTypes": [],
+    "compatibleTrackTypes": [
+      "1435OL-70",
+      "1435OM-95"
+    ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
     "gradeCrossingMaintenancePerYear": 9000,
@@ -666,7 +669,9 @@
       "RAMP": 0.53
     },
     "Manufacturer": [],
-    "compatibleTrackTypes": [],
+    "compatibleTrackTypes": [
+      "1435OM-70"
+    ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
     "gradeCrossingMaintenancePerYear": 9000,
@@ -800,7 +805,11 @@
       "RAMP": 0.53
     },
     "Manufacturer": [],
-    "compatibleTrackTypes": [],
+    "compatibleTrackTypes": [
+      "1435HS-106",
+      "1435HS-115",
+      "1435SH-115"
+    ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
     "gradeCrossingMaintenancePerYear": 9000,
@@ -864,7 +873,11 @@
       "RAMP": 0.53
     },
     "Manufacturer": [],
-    "compatibleTrackTypes": [],
+    "compatibleTrackTypes": [
+      "1435HS-106",
+      "1435HS-115",
+      "1435SH-70"
+    ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
     "gradeCrossingMaintenancePerYear": 9000,
@@ -1068,7 +1081,9 @@
       "RAMP": 0.5
     },
     "Manufacturer": [],
-    "compatibleTrackTypes": [],
+    "compatibleTrackTypes": [
+      "1435OM-70"
+    ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
     "gradeCrossingMaintenancePerYear": 9000,
@@ -2025,7 +2040,10 @@
       "RAMP": 0.53
     },
     "Manufacturer": [],
-    "compatibleTrackTypes": [],
+    "compatibleTrackTypes": [
+      "1435KN-105",
+      "1435KN-130"
+    ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
     "gradeCrossingMaintenancePerYear": 9000,
@@ -3949,7 +3967,12 @@
       "RAMP": 0.57
     },
     "Manufacturer": [],
-    "compatibleTrackTypes": [],
+    "compatibleTrackTypes": [
+      "1435HS-106",
+      "1435HS-115",
+      "1435KK-90",
+      "1435KN-130"
+    ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
     "gradeCrossingMaintenancePerYear": 8000,
@@ -4013,7 +4036,12 @@
       "RAMP": 0.57
     },
     "Manufacturer": [],
-    "compatibleTrackTypes": [],
+    "compatibleTrackTypes": [
+      "1435HS-106",
+      "1435HS-115",
+      "1435KK-90",
+      "1435KN-105"
+    ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
     "gradeCrossingMaintenancePerYear": 8000,
@@ -4351,7 +4379,13 @@
       "RAMP": 0.57
     },
     "Manufacturer": [],
-    "compatibleTrackTypes": [],
+    "compatibleTrackTypes": [
+      "1435HS-115",
+      "1435KN-105",
+      "1435KN-130",
+      "1435SH-70",
+      "1435SH-115"
+    ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
     "gradeCrossingMaintenancePerYear": 8000,
@@ -4415,7 +4449,13 @@
       "RAMP": 0.57
     },
     "Manufacturer": [],
-    "compatibleTrackTypes": [],
+    "compatibleTrackTypes": [
+      "1435HS-106",
+      "1435KN-105",
+      "1435KN-130",
+      "1435SH-70",
+      "1435SH-115"
+    ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
     "gradeCrossingMaintenancePerYear": 8000,

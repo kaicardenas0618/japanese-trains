@@ -188,7 +188,9 @@
       "RAMP": 0.38
     },
     "Manufacturer": [],
-    "compatibleTrackTypes": [],
+    "compatibleTrackTypes": [
+      "1067TC-60"
+    ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 180000,
     "gradeCrossingMaintenancePerYear": 5000,
@@ -252,7 +254,9 @@
       "RAMP": 0.38
     },
     "Manufacturer": [],
-    "compatibleTrackTypes": [],
+    "compatibleTrackTypes": [
+      "1067TC-40"
+    ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 180000,
     "gradeCrossingMaintenancePerYear": 5000,
