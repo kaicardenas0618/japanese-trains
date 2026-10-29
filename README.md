@@ -66,7 +66,7 @@ Specific trains can be chosen afterwards in the route menu.
 |1435TK-160|Toei Asakusa, Keisei and Keikyu (through services)|160|
 |1435TM-75|Tokyo Metro Marunouchi Line|75|
 
-## Currently Available Trains (202)
+## Currently Available Trains (206)
 
 #### National (34)
 
@@ -79,7 +79,7 @@ Specific trains can be chosen afterwards in the route menu.
 |JP 500 Shinkansen 1435JP|8-car 500 Series Shinkansen train used on Sanyo Kodama services. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo.|Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo|320|1104|
 |JP 700 Rail Star 1435JP|8-car 700 Series Rail Star Shinkansen train used on Sanyo services. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo.|Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo|300|1136|
 |JP 800 Shinkansen 1435JP|6-car 800 Series Shinkansen train for Kyushu Shinkansen services. Manufacturer: Hitachi.|Hitachi|285|1040|
-|JP E5 Shinkansen 1435JP|10-car E5 Series Shinkansen train for Tohoku and Hokkaido high-speed services. Manufacturer: Hitachi / Kawasaki Heavy Industries.|Hitachi / Kawasaki Heavy Industries|320|1168|
+|JP E5 Shinkansen 1435JP|10-car E5 Series Shinkansen train for Tohoku and Hokkaido high-speed services. Manufacturer: Hitachi / Kawasaki Heavy Industries.|Hitachi / Kawasaki Heavy Industries|320|1241|
 |JP H5 Shinkansen 1435JP|10-car H5 Series Shinkansen train for Hokkaido and Tohoku high-speed services. Manufacturer: Hitachi / Kawasaki Heavy Industries.|Hitachi / Kawasaki Heavy Industries|320|1168|
 |JP E6 Komachi 1435JP|7-car E6 Series mini-Shinkansen train for Akita Komachi services. Manufacturer: Hitachi / Kawasaki Heavy Industries.|Hitachi / Kawasaki Heavy Industries|320|768|
 |JP E7 Shinkansen 1435JP|12-car E7 Series Shinkansen train for Hokuriku and Joetsu high-speed services. Manufacturer: Hitachi / Kawasaki Railcar Manufacturing / J-TREC.|Hitachi / Kawasaki Railcar Manufacturing / J-TREC|275|1248|
@@ -152,7 +152,7 @@ Specific trains can be chosen afterwards in the route menu.
 |TYM TLR0600 Portram Tram 1067TC|Toyama Chiho Railway (ex-Toyama Light Rail) TLR0600 Portram low-floor articulated LRV, through-running between the Toyamako Line and the city tram network. Manufacturer: Niigata Transys.|Niigata Transys|70|199|
 |TYM 9000 Centram Tram 1067TC|Toyama Chiho Railway 9000 series Centram low-floor articulated tram for the Toyama city tram loop line. Manufacturer: Niigata Transys.|Niigata Transys|70|194|
 
-#### Kansai (51)
+#### Kansai (53)
 
 |Name|Description|Manufacturer|Top Speed (km/h)|Maximum Capacity|
 |-|-|-|-|-|
@@ -172,7 +172,9 @@ Specific trains can be chosen afterwards in the route menu.
 |OSA JR 223 Kansai 1067JP|JR West 223 series suburban train. Used on Kansai Airport Rapid and New Rapid (Shinkaisoku) services. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo.|Kawasaki Heavy Industries / Kinki Sharyo|130|3492|
 |OSA JR 323 Loop 1067JP|JR West 323 series 8-car commuter train. Used on the Osaka Loop Line. Manufacturer: Kinki Sharyo.|Kinki Sharyo|120|2704|
 |OSA JR 225 Kansai 1067JP|JR West 225 series suburban train. Used on major Kansai rapid services. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries.|Kinki Sharyo / Kawasaki Heavy Industries|130|2328|
-|OSA Nankai 50000 Rapit|Nankai 50000 series Rapit airport limited express train. Manufacturer: Tokyu Car.|Tokyu Car|120|228|
+|OSA Nankai 50000 Rapit 1067JP|Nankai 50000 series Rapit airport limited express train. Manufacturer: Tokyu Car.|Tokyu Car|120|228|
+|OSA Nankai 8300 Commuter 1067JP|Nankai 8300 series 2/4-car commuter EMU, coupled up to 8 cars, for Nankai Main, Airport and Koya Line services. Manufacturer: Kinki Sharyo.|Kinki Sharyo|120|2320|
+|OSA Monorail 3000|Osaka Monorail 3000 series 4-car straddle-beam monorail train for the Main Line between Osaka Airport and Kadoma-shi and the Saito Line. Manufacturer: Hitachi.|Hitachi|75|736|
 |KYO 10 Karasuma 1435KK|Kyoto Municipal Subway 10 series 6-car train. Used on the Karasuma Line. Manufacturer: Kinki Sharyo / Hitachi.|Kinki Sharyo / Hitachi|105|2172|
 |KYO 20 Karasuma 1435KK|Kyoto Municipal Subway 20 series 6-car train. Newer Karasuma Line stock. Manufacturer: Kinki Sharyo.|Kinki Sharyo|105|2172|
 |KYO 50 Tozai 1435KE|Kyoto Municipal Subway 50 series 6-car train. Used on the Tozai Line. Manufacturer: Kinki Sharyo.|Kinki Sharyo|75|1584|
@@ -233,6 +235,12 @@ Specific trains can be chosen afterwards in the route menu.
 |ICH 1000 EMU 1067IC|Ichibata Electric Railway 1000 series EMU converted from former Tokyu stock. Manufacturer: Tokyu Car.|Tokyu Car|120|498|
 |ICH 5000 EMU 1067IC|Ichibata Electric Railway 5000 series EMU for local and excursion services. Manufacturer: Tokyu Car.|Tokyu Car|105|498|
 
+#### Okinawa (1)
+
+|Name|Description|Manufacturer|Top Speed (km/h)|Maximum Capacity|
+|-|-|-|-|-|
+|OKA Yui Rail 1000 Monorail|Okinawa Urban Monorail (Yui Rail) 1000 series 2/3-car straddle-beam monorail train for Naha Airport-Tedako-Uranishi services. Manufacturer: Hitachi / Kawasaki Heavy Industries.|Hitachi / Kawasaki Heavy Industries|65|525|
+
 #### Sapporo (7)
 
 |Name|Description|Manufacturer|Top Speed (km/h)|Maximum Capacity|
@@ -267,7 +275,7 @@ Specific trains can be chosen afterwards in the route menu.
 |JRE HB-E210 Hybrid|JR East HB-E210 hybrid DMU for Sendai-area regional services. Manufacturer: J-TREC.|J-TREC|100|1104|
 |SAT SAT721 EMU|Sendai Airport Transit SAT721 series EMU based on the E721 family. Manufacturer: J-TREC.|J-TREC|120|1164|
 
-#### Tokyo (58)
+#### Tokyo (59)
 
 |Name|Description|Manufacturer|Top Speed (km/h)|Maximum Capacity|
 |-|-|-|-|-|
@@ -290,6 +298,7 @@ Specific trains can be chosen afterwards in the route menu.
 |TYO Yurikamome 7300|Yurikamome 7300 series automated guideway train. Manufacturer: Mitsubishi Heavy Industries / Niigata Transys.|Mitsubishi Heavy Industries / Niigata Transys|60|546|
 |TYO New Shuttle 2000|Saitama New Shuttle 2000 series 6-car rubber-tyred AGT train for the Ina Line between Omiya and Uchijuku. Manufacturer: Kawasaki Heavy Industries.|Kawasaki Heavy Industries|70|492|
 |TYO Monorail 10000|Tokyo Monorail 10000 series airport monorail train. Manufacturer: Hitachi.|Hitachi|90|1116|
+|TYO Shonan Monorail 5000|Shonan Monorail 5000 series 3-car suspended monorail train for the Enoshima Line between Ofuna and Shonan-Enoshima. Manufacturer: Mitsubishi Heavy Industries.|Mitsubishi Heavy Industries|75|438|
 |TYO E235-0 1067JP|JR East E235-0 series 11-car commuter train. Used on the Yamanote Line. Manufacturer: J-TREC.|J-TREC|130|3740|
 |TYO E235-1000 1067JP|JR East E235-1000 series 11/15-car commuter train. Used on the Yokosuka and Sobu Rapid lines. Manufacturer: J-TREC.|J-TREC|130|4365|
 |TYO E233 Commuter 1067JP/MC|JR East E233 series commuter train family. Used on major Tokyo-area lines. Manufacturer: J-TREC / Tokyu Car / Kawasaki Heavy Industries.|J-TREC / Tokyu Car / Kawasaki Heavy Industries|130|4350|

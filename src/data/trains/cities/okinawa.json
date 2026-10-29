@@ -1,0 +1,69 @@
+[
+  {
+    "id": "oka-yui-rail-1000",
+    "name": "OKA Yui Rail 1000 Monorail",
+    "description": "Okinawa Urban Monorail (Yui Rail) 1000 series 2/3-car straddle-beam monorail train for Naha Airport-Tedako-Uranishi services. Manufacturer: Hitachi / Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 1.1,
+      "maxDeceleration": 1.2,
+      "maxSpeed": 18.06,
+      "maxSpeedLocalStation": 18.06,
+      "capacityPerCar": 175,
+      "seatsPerCar": 27,
+      "doorsPerCarPerSide": 2,
+      "carLength": 14.37,
+      "minCars": 2,
+      "maxCars": 3,
+      "carsPerCarSet": 1,
+      "carCost": 1800000,
+      "trainWidth": 2.98,
+      "minStationLength": 29,
+      "maxStationLength": 54,
+      "baseTrackCost": 22000,
+      "baseStationCost": 30000000,
+      "trainOperationalCostPerHour": 130,
+      "carOperationalCostPerHour": 14,
+      "scissorsCrossoverCost": 9000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.275,
+      "minTurnRadius": 25,
+      "minStationTurnRadius": 120,
+      "maxSlopePercentage": 6,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 20,
+      "turnaroundTimeSeconds": 20,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 12.5
+    },
+    "appearance": {
+      "color": "#009FE8"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 3.6,
+      "STANDARD_TUNNEL": 1.8,
+      "CUT_AND_COVER": 0.9,
+      "AT_GRADE": 0.28,
+      "ELEVATED": 0.7,
+      "TRENCHED": 0.5,
+      "RAMP": 0.47
+    },
+    "Manufacturer": [
+      "Hitachi",
+      "Kawasaki Heavy Industries"
+    ],
+    "compatibleTrackTypes": [],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 450000,
+    "gradeCrossingMaintenancePerYear": 10000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 6000000,
+    "rampCost": 3000000
+  }
+]

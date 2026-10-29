@@ -1448,7 +1448,7 @@
   },
   {
     "id": "osa-nankai-50000-rapit",
-    "name": "OSA Nankai 50000 Rapit",
+    "name": "OSA Nankai 50000 Rapit 1067JP",
     "description": "Nankai 50000 series Rapit airport limited express train. Manufacturer: Tokyu Car.",
     "stats": {
       "maxAcceleration": 0.85,
@@ -1499,7 +1499,13 @@
     "Manufacturer": [
       "Tokyu Car"
     ],
-    "compatibleTrackTypes": [],
+    "compatibleTrackTypes": [
+      "1067JP-95",
+      "1067JP-100",
+      "1067JP-110",
+      "1067JP-120",
+      "1067JP-130"
+    ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
     "gradeCrossingMaintenancePerYear": 9000,
@@ -1511,6 +1517,144 @@
     },
     "portalCost": 11000000,
     "rampCost": 5500000
+  },
+  {
+    "id": "osa-nankai-8300-commuter",
+    "name": "OSA Nankai 8300 Commuter 1067JP",
+    "description": "Nankai 8300 series 2/4-car commuter EMU, coupled up to 8 cars, for Nankai Main, Airport and Koya Line services. Manufacturer: Kinki Sharyo.",
+    "stats": {
+      "maxAcceleration": 0.95,
+      "maxDeceleration": 1.1,
+      "maxSpeed": 33.33,
+      "maxSpeedLocalStation": 33.33,
+      "capacityPerCar": 290,
+      "seatsPerCar": 44,
+      "doorsPerCarPerSide": 4,
+      "carLength": 20.7,
+      "minCars": 2,
+      "maxCars": 8,
+      "carsPerCarSet": 2,
+      "carCost": 3800000,
+      "trainWidth": 2.83,
+      "minStationLength": 42,
+      "maxStationLength": 176,
+      "baseTrackCost": 45000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 360,
+      "carOperationalCostPerHour": 30,
+      "scissorsCrossoverCost": 22000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.05,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1200,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 45,
+      "turnaroundTimeSeconds": 70,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 28,
+      "crossoverSpeed": 6.7
+    },
+    "appearance": {
+      "color": "#F58220"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
+    },
+    "Manufacturer": [
+      "Kinki Sharyo"
+    ],
+    "compatibleTrackTypes": [
+      "1067JP-95",
+      "1067JP-100",
+      "1067JP-110",
+      "1067JP-120",
+      "1067JP-130"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
+  },
+  {
+    "id": "osa-monorail-3000",
+    "name": "OSA Monorail 3000",
+    "description": "Osaka Monorail 3000 series 4-car straddle-beam monorail train for the Main Line between Osaka Airport and Kadoma-shi and the Saito Line. Manufacturer: Hitachi.",
+    "stats": {
+      "maxAcceleration": 1.1,
+      "maxDeceleration": 1.2,
+      "maxSpeed": 20.83,
+      "maxSpeedLocalStation": 20.83,
+      "capacityPerCar": 184,
+      "seatsPerCar": 31,
+      "doorsPerCarPerSide": 2,
+      "carLength": 15.05,
+      "minCars": 4,
+      "maxCars": 4,
+      "carsPerCarSet": 4,
+      "carCost": 1800000,
+      "trainWidth": 2.98,
+      "minStationLength": 61,
+      "maxStationLength": 71,
+      "baseTrackCost": 22000,
+      "baseStationCost": 30000000,
+      "trainOperationalCostPerHour": 130,
+      "carOperationalCostPerHour": 14,
+      "scissorsCrossoverCost": 9000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.275,
+      "minTurnRadius": 25,
+      "minStationTurnRadius": 120,
+      "maxSlopePercentage": 6,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 20,
+      "turnaroundTimeSeconds": 20,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 12.5
+    },
+    "appearance": {
+      "color": "#0072BC"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 3.6,
+      "STANDARD_TUNNEL": 1.8,
+      "CUT_AND_COVER": 0.9,
+      "AT_GRADE": 0.28,
+      "ELEVATED": 0.7,
+      "TRENCHED": 0.5,
+      "RAMP": 0.47
+    },
+    "Manufacturer": [
+      "Hitachi"
+    ],
+    "compatibleTrackTypes": [],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 450000,
+    "gradeCrossingMaintenancePerYear": 10000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 6000000,
+    "rampCost": 3000000
   },
   {
     "id": "kyo-10-karasuma",

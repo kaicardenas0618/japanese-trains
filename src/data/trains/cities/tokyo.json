@@ -1468,6 +1468,72 @@
     "rampCost": 3000000
   },
   {
+    "id": "tyo-shonan-monorail-5000",
+    "name": "TYO Shonan Monorail 5000",
+    "description": "Shonan Monorail 5000 series 3-car suspended monorail train for the Enoshima Line between Ofuna and Shonan-Enoshima. Manufacturer: Mitsubishi Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 1.1,
+      "maxDeceleration": 1.2,
+      "maxSpeed": 20.83,
+      "maxSpeedLocalStation": 20.83,
+      "capacityPerCar": 146,
+      "seatsPerCar": 29,
+      "doorsPerCarPerSide": 2,
+      "carLength": 13.42,
+      "minCars": 3,
+      "maxCars": 3,
+      "carsPerCarSet": 3,
+      "carCost": 1800000,
+      "trainWidth": 2.65,
+      "minStationLength": 41,
+      "maxStationLength": 51,
+      "baseTrackCost": 22000,
+      "baseStationCost": 30000000,
+      "trainOperationalCostPerHour": 130,
+      "carOperationalCostPerHour": 14,
+      "scissorsCrossoverCost": 9000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.275,
+      "minTurnRadius": 25,
+      "minStationTurnRadius": 120,
+      "maxSlopePercentage": 6,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 20,
+      "turnaroundTimeSeconds": 20,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 12.5
+    },
+    "appearance": {
+      "color": "#C8102E"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 3.6,
+      "STANDARD_TUNNEL": 1.8,
+      "CUT_AND_COVER": 0.9,
+      "AT_GRADE": 0.28,
+      "ELEVATED": 0.7,
+      "TRENCHED": 0.5,
+      "RAMP": 0.47
+    },
+    "Manufacturer": [
+      "Mitsubishi Heavy Industries"
+    ],
+    "compatibleTrackTypes": [],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 450000,
+    "gradeCrossingMaintenancePerYear": 10000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 6000000,
+    "rampCost": 3000000
+  },
+  {
     "id": "tyo-e235-yamanote",
     "name": "TYO E235-0 1067JP",
     "description": "JR East E235-0 series 11-car commuter train. Used on the Yamanote Line. Manufacturer: J-TREC.",
