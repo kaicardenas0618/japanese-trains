@@ -4,8 +4,15 @@
     "name": "KTD 1300 EMU 1435KD",
     "description": "Kotoden 1300 series local EMU for Takamatsu-area services. Manufacturer: Keikyu / Tokyu Car.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.833,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.833,
+        "a1": 0.833,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 30.56,
       "capacityPerCar": 243,
@@ -73,8 +80,15 @@
     "name": "KTD 1200 EMU 1435KD",
     "description": "Kotoden 1200 series local EMU for Takamatsu-area services. Manufacturer: Keikyu / Tokyu Car.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.75,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.75,
+        "a1": 0.75,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
       "capacityPerCar": 243,
@@ -142,8 +156,15 @@
     "name": "KTD 1080 EMU 1435KD",
     "description": "Kotoden 1080 series local EMU converted from former Keikyu stock. Manufacturer: Tokyu Car / Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.833,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.833,
+        "a1": 0.833,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 30.56,
       "capacityPerCar": 243,
@@ -275,8 +296,15 @@
     "name": "JRS 7200 EMU 1067JP",
     "description": "JR Shikoku 7200 series regional EMU for Takamatsu-area local services. Manufacturer: JNR / JR Shikoku.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.833,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.833,
+        "a1": 0.833,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 30.56,
       "capacityPerCar": 291,
@@ -348,8 +376,15 @@
     "name": "JRS 2600 DMU",
     "description": "JR Shikoku 2600 series limited express DMU for Takamatsu-area intercity services. Manufacturer: Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 0.85,
+      "maxAcceleration": 0.556,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.556,
+        "a1": 0.556,
+        "v1": 13.89,
+        "v2": 27.78,
+        "exponent": 2
+      },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
       "capacityPerCar": 48,

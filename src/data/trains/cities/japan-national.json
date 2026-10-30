@@ -4,8 +4,15 @@
     "name": "JP N700A Shinkansen 1435JP",
     "description": "16-car N700A Shinkansen train for Tokaido and Sanyo high-speed services. Manufacturer: Hitachi / Nippon Sharyo / Kawasaki Heavy Industries / Kinki Sharyo.",
     "stats": {
-      "maxAcceleration": 0.85,
+      "maxAcceleration": 0.722,
       "maxDeceleration": 1.0,
+      "accelerationCurve": {
+        "a0": 0.722,
+        "a1": 0.722,
+        "v1": 19.44,
+        "v2": 55.56,
+        "exponent": 1.5
+      },
       "maxSpeed": 83.33,
       "maxSpeedLocalStation": 83.33,
       "capacityPerCar": 83,
@@ -79,8 +86,15 @@
     "name": "JP N700S Shinkansen 1435JP",
     "description": "16-car N700S Shinkansen train for Tokaido and Sanyo high-speed services. Manufacturer: Hitachi / Nippon Sharyo.",
     "stats": {
-      "maxAcceleration": 0.85,
+      "maxAcceleration": 0.722,
       "maxDeceleration": 1.0,
+      "accelerationCurve": {
+        "a0": 0.722,
+        "a1": 0.722,
+        "v1": 19.44,
+        "v2": 55.56,
+        "exponent": 1.5
+      },
       "maxSpeed": 100.0,
       "maxSpeedLocalStation": 100.0,
       "capacityPerCar": 83,
@@ -152,8 +166,15 @@
     "name": "JP N700-7000 Sakura 1435JP",
     "description": "8-car N700-7000/8000 Shinkansen train for Sanyo and Kyushu Mizuho/Sakura services. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo.",
     "stats": {
-      "maxAcceleration": 0.75,
+      "maxAcceleration": 0.722,
       "maxDeceleration": 1.0,
+      "accelerationCurve": {
+        "a0": 0.722,
+        "a1": 0.722,
+        "v1": 19.44,
+        "v2": 55.56,
+        "exponent": 1.5
+      },
       "maxSpeed": 83.33,
       "maxSpeedLocalStation": 83.33,
       "capacityPerCar": 68,
@@ -227,8 +248,15 @@
     "name": "JP N700S-8000 Kamome 1435JP",
     "description": "6-car N700S-8000 Shinkansen train for Nishi-Kyushu Kamome services. Manufacturer: Hitachi / Nippon Sharyo.",
     "stats": {
-      "maxAcceleration": 0.85,
+      "maxAcceleration": 0.722,
       "maxDeceleration": 1.0,
+      "accelerationCurve": {
+        "a0": 0.722,
+        "a1": 0.722,
+        "v1": 19.44,
+        "v2": 55.56,
+        "exponent": 1.5
+      },
       "maxSpeed": 83.33,
       "maxSpeedLocalStation": 83.33,
       "capacityPerCar": 65,
@@ -300,8 +328,15 @@
     "name": "JP 500 Shinkansen 1435JP",
     "description": "8-car 500 Series Shinkansen train used on Sanyo Kodama services. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo.",
     "stats": {
-      "maxAcceleration": 0.85,
+      "maxAcceleration": 0.444,
       "maxDeceleration": 1.0,
+      "accelerationCurve": {
+        "a0": 0.444,
+        "a1": 0.444,
+        "v1": 19.44,
+        "v2": 55.56,
+        "exponent": 1.5
+      },
       "maxSpeed": 88.89,
       "maxSpeedLocalStation": 88.89,
       "capacityPerCar": 69,
@@ -375,8 +410,15 @@
     "name": "JP 700 Rail Star 1435JP",
     "description": "8-car 700 Series Rail Star Shinkansen train used on Sanyo services. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo.",
     "stats": {
-      "maxAcceleration": 0.85,
+      "maxAcceleration": 0.556,
       "maxDeceleration": 1.0,
+      "accelerationCurve": {
+        "a0": 0.556,
+        "a1": 0.556,
+        "v1": 19.44,
+        "v2": 55.56,
+        "exponent": 1.5
+      },
       "maxSpeed": 83.33,
       "maxSpeedLocalStation": 83.33,
       "capacityPerCar": 71,
@@ -450,8 +492,15 @@
     "name": "JP 800 Shinkansen 1435JP",
     "description": "6-car 800 Series Shinkansen train for Kyushu Shinkansen services. Manufacturer: Hitachi.",
     "stats": {
-      "maxAcceleration": 0.85,
+      "maxAcceleration": 0.694,
       "maxDeceleration": 1.0,
+      "accelerationCurve": {
+        "a0": 0.694,
+        "a1": 0.694,
+        "v1": 19.44,
+        "v2": 55.56,
+        "exponent": 1.5
+      },
       "maxSpeed": 79.17,
       "maxSpeedLocalStation": 79.17,
       "capacityPerCar": 65,
@@ -522,8 +571,15 @@
     "name": "JP E5 Shinkansen 1435JP",
     "description": "10-car E5 Series Shinkansen train for Tohoku and Hokkaido high-speed services. Manufacturer: Hitachi / Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 0.75,
+      "maxAcceleration": 0.475,
       "maxDeceleration": 1.0,
+      "accelerationCurve": {
+        "a0": 0.475,
+        "a1": 0.475,
+        "v1": 19.44,
+        "v2": 55.56,
+        "exponent": 1.5
+      },
       "maxSpeed": 88.89,
       "maxSpeedLocalStation": 88.89,
       "capacityPerCar": 73,
@@ -595,8 +651,15 @@
     "name": "JP H5 Shinkansen 1435JP",
     "description": "10-car H5 Series Shinkansen train for Hokkaido and Tohoku high-speed services. Manufacturer: Hitachi / Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 0.75,
+      "maxAcceleration": 0.475,
       "maxDeceleration": 1.0,
+      "accelerationCurve": {
+        "a0": 0.475,
+        "a1": 0.475,
+        "v1": 19.44,
+        "v2": 55.56,
+        "exponent": 1.5
+      },
       "maxSpeed": 88.89,
       "maxSpeedLocalStation": 88.89,
       "capacityPerCar": 73,
@@ -668,8 +731,15 @@
     "name": "JP E6 Komachi 1435JP",
     "description": "7-car E6 Series mini-Shinkansen train for Akita Komachi services. Manufacturer: Hitachi / Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 0.75,
+      "maxAcceleration": 0.475,
       "maxDeceleration": 1.0,
+      "accelerationCurve": {
+        "a0": 0.475,
+        "a1": 0.475,
+        "v1": 19.44,
+        "v2": 55.56,
+        "exponent": 1.5
+      },
       "maxSpeed": 88.89,
       "maxSpeedLocalStation": 88.89,
       "capacityPerCar": 48,
@@ -741,8 +811,15 @@
     "name": "JP E7 Shinkansen 1435JP",
     "description": "12-car E7 Series Shinkansen train for Hokuriku and Joetsu high-speed services. Manufacturer: Hitachi / Kawasaki Railcar Manufacturing / J-TREC.",
     "stats": {
-      "maxAcceleration": 0.85,
+      "maxAcceleration": 0.444,
       "maxDeceleration": 1.0,
+      "accelerationCurve": {
+        "a0": 0.444,
+        "a1": 0.444,
+        "v1": 19.44,
+        "v2": 55.56,
+        "exponent": 1.5
+      },
       "maxSpeed": 76.39,
       "maxSpeedLocalStation": 76.39,
       "capacityPerCar": 78,
@@ -815,8 +892,15 @@
     "name": "JP W7 Shinkansen 1435JP",
     "description": "12-car W7 Series Shinkansen train for Hokuriku high-speed services. Manufacturer: Hitachi / Kawasaki Railcar Manufacturing / Kinki Sharyo.",
     "stats": {
-      "maxAcceleration": 0.85,
+      "maxAcceleration": 0.444,
       "maxDeceleration": 1.0,
+      "accelerationCurve": {
+        "a0": 0.444,
+        "a1": 0.444,
+        "v1": 19.44,
+        "v2": 55.56,
+        "exponent": 1.5
+      },
       "maxSpeed": 76.39,
       "maxSpeedLocalStation": 76.39,
       "capacityPerCar": 78,
@@ -889,8 +973,15 @@
     "name": "JP E8 Tsubasa 1435JP",
     "description": "7-car E8 Series mini-Shinkansen train for Yamagata Tsubasa services. Manufacturer: Hitachi.",
     "stats": {
-      "maxAcceleration": 0.75,
+      "maxAcceleration": 0.475,
       "maxDeceleration": 1.0,
+      "accelerationCurve": {
+        "a0": 0.475,
+        "a1": 0.475,
+        "v1": 19.44,
+        "v2": 55.56,
+        "exponent": 1.5
+      },
       "maxSpeed": 83.33,
       "maxSpeedLocalStation": 83.33,
       "capacityPerCar": 50,
@@ -961,8 +1052,15 @@
     "name": "JP E3 Tsubasa 1435JP",
     "description": "7-car E3 Series mini-Shinkansen train for Yamagata Shinkansen services. Manufacturer: Kawasaki Heavy Industries / Tokyu Car.",
     "stats": {
-      "maxAcceleration": 0.85,
+      "maxAcceleration": 0.444,
       "maxDeceleration": 1.0,
+      "accelerationCurve": {
+        "a0": 0.444,
+        "a1": 0.444,
+        "v1": 19.44,
+        "v2": 55.56,
+        "exponent": 1.5
+      },
       "maxSpeed": 87.5,
       "maxSpeedLocalStation": 87.5,
       "capacityPerCar": 50,
@@ -1034,8 +1132,15 @@
     "name": "JP E2 Shinkansen 1435JP",
     "description": "10-car E2 Series Shinkansen train for Tohoku and Joetsu legacy high-speed services. Manufacturer: Hitachi / Kawasaki Heavy Industries / Tokyu Car.",
     "stats": {
-      "maxAcceleration": 0.85,
+      "maxAcceleration": 0.444,
       "maxDeceleration": 1.0,
+      "accelerationCurve": {
+        "a0": 0.444,
+        "a1": 0.444,
+        "v1": 19.44,
+        "v2": 55.56,
+        "exponent": 1.5
+      },
       "maxSpeed": 87.5,
       "maxSpeedLocalStation": 87.5,
       "capacityPerCar": 81,
@@ -1456,8 +1561,15 @@
     "name": "JP L0 Chuo Shinkansen",
     "description": "8-car L0 series SCMaglev train for the Chuo Shinkansen high-speed maglev line linking Tokyo, Nagoya, and Osaka. Manufacturer: Hitachi / Kawasaki Heavy Industries / Nippon Sharyo.",
     "stats": {
-      "maxAcceleration": 0.9,
+      "maxAcceleration": 0.694,
       "maxDeceleration": 1.05,
+      "accelerationCurve": {
+        "a0": 0.694,
+        "a1": 0.694,
+        "v1": 41.67,
+        "v2": 111.11,
+        "exponent": 1.5
+      },
       "maxSpeed": 152.78,
       "maxSpeedLocalStation": 152.78,
       "capacityPerCar": 68,
@@ -1524,8 +1636,15 @@
     "name": "JP 285 Sunrise 1067JP",
     "description": "7-car 285 Series overnight EMU used on Sunrise Seto and Sunrise Izumo services. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo.",
     "stats": {
-      "maxAcceleration": 0.85,
+      "maxAcceleration": 0.5,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.5,
+        "a1": 0.5,
+        "v1": 13.89,
+        "v2": 27.78,
+        "exponent": 2
+      },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 38,
@@ -1597,8 +1716,15 @@
     "name": "JP 273 Yakumo 1067JP",
     "description": "4-car 273 Series limited express EMU used on Yakumo services. Manufacturer: Kinki Sharyo.",
     "stats": {
-      "maxAcceleration": 0.85,
+      "maxAcceleration": 0.444,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.444,
+        "a1": 0.444,
+        "v1": 13.89,
+        "v2": 27.78,
+        "exponent": 2
+      },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 52,
@@ -1669,8 +1795,15 @@
     "name": "JP 281 Haruka 1067JP",
     "description": "6-car 281 Series airport limited express EMU used on Haruka services. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo.",
     "stats": {
-      "maxAcceleration": 0.85,
+      "maxAcceleration": 0.5,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.5,
+        "a1": 0.5,
+        "v1": 13.89,
+        "v2": 27.78,
+        "exponent": 2
+      },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 48,
@@ -1742,8 +1875,15 @@
     "name": "JP 271 Haruka 1067JP",
     "description": "3-car 271 Series airport limited express EMU used on Haruka services. Manufacturer: Kinki Sharyo.",
     "stats": {
-      "maxAcceleration": 0.85,
+      "maxAcceleration": 0.556,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.556,
+        "a1": 0.556,
+        "v1": 13.89,
+        "v2": 27.78,
+        "exponent": 2
+      },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 46,
@@ -1814,8 +1954,15 @@
     "name": "JP 287 Limited Express 1067JP",
     "description": "287 Series limited express EMU used on Kuroshio, Konotori, Kinosaki, Maizuru, Hashidate and related services. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo.",
     "stats": {
-      "maxAcceleration": 0.85,
+      "maxAcceleration": 0.444,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.444,
+        "a1": 0.444,
+        "v1": 13.89,
+        "v2": 27.78,
+        "exponent": 2
+      },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 52,
@@ -1887,8 +2034,15 @@
     "name": "JP 289 Limited Express 1067JP",
     "description": "289 Series limited express EMU used on Kuroshio, Konotori, Kinosaki and related services. Manufacturer: Hitachi / Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 0.85,
+      "maxAcceleration": 0.444,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.444,
+        "a1": 0.444,
+        "v1": 13.89,
+        "v2": 27.78,
+        "exponent": 2
+      },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 52,
@@ -1960,8 +2114,15 @@
     "name": "JP 683 Thunderbird 1067JP",
     "description": "683 Series limited express EMU used on Thunderbird and other interregional services. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo.",
     "stats": {
-      "maxAcceleration": 0.85,
+      "maxAcceleration": 0.5,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.5,
+        "a1": 0.5,
+        "v1": 13.89,
+        "v2": 27.78,
+        "exponent": 2
+      },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 52,
@@ -2033,8 +2194,15 @@
     "name": "JP 385 Shinano 1067JP",
     "description": "385 Series limited express EMU profile for Shinano-type interregional services. Manufacturer: J-TREC.",
     "stats": {
-      "maxAcceleration": 0.85,
+      "maxAcceleration": 0.583,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.583,
+        "a1": 0.583,
+        "v1": 13.89,
+        "v2": 27.78,
+        "exponent": 2
+      },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 52,
@@ -2105,8 +2273,15 @@
     "name": "JP 261 Hokkaido",
     "description": "KiHa 261 series diesel limited express train for Hokkaido intercity services. Manufacturer: Fuji Heavy Industries / Niigata Transys.",
     "stats": {
-      "maxAcceleration": 0.85,
+      "maxAcceleration": 0.611,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.611,
+        "a1": 0.611,
+        "v1": 13.89,
+        "v2": 27.78,
+        "exponent": 2
+      },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 48,
@@ -2172,8 +2347,15 @@
     "name": "JP 8600 Shikoku 1067JP",
     "description": "8600 Series limited express EMU for Shikoku intercity services. Manufacturer: Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 0.85,
+      "maxAcceleration": 0.556,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.556,
+        "a1": 0.556,
+        "v1": 13.89,
+        "v2": 27.78,
+        "exponent": 2
+      },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 48,
@@ -2244,8 +2426,15 @@
     "name": "JP JNR 115 EMU 1067JP",
     "description": "JNR 115 series DC suburban EMU. Rural/regional representative set, excluding former long urban commuter operations. Manufacturer: JNR / Nippon Sharyo / Kawasaki Heavy Industries / Hitachi.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.444,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.444,
+        "a1": 0.444,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 27.78,
       "maxSpeedLocalStation": 27.78,
       "capacityPerCar": 291,
@@ -2319,8 +2508,15 @@
     "name": "JP JNR KiHa40 DMU",
     "description": "JNR KiHa 40 series rural diesel railcar. Ubiquitous countryside stock, modeled for 1-6 car local formations. Manufacturer: JNR / Niigata Tekko / Fuji Heavy Industries.",
     "stats": {
-      "maxAcceleration": 0.75,
+      "maxAcceleration": 0.417,
       "maxDeceleration": 0.95,
+      "accelerationCurve": {
+        "a0": 0.417,
+        "a1": 0.417,
+        "v1": 6.94,
+        "v2": 16.67,
+        "exponent": 1.5
+      },
       "maxSpeed": 26.39,
       "maxSpeedLocalStation": 26.39,
       "capacityPerCar": 309,
@@ -2387,8 +2583,15 @@
     "name": "JP JNR 415 EMU 1067JP",
     "description": "JNR 415 series AC/DC suburban EMU. The commuter workhorse of AC-electrified regions. Manufacturer: JNR / Nippon Sharyo / Kawasaki Heavy Industries / Hitachi.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.444,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.444,
+        "a1": 0.444,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 27.78,
       "maxSpeedLocalStation": 27.78,
       "capacityPerCar": 291,
@@ -2462,8 +2665,15 @@
     "name": "JP JNR 213 EMU 1067JP",
     "description": "JNR 213 series suburban EMU. Two-door regional EMU used by JR West and JR Central. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo / Tokyu Car.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.389,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.389,
+        "a1": 0.389,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 30.56,
       "capacityPerCar": 290,
@@ -2538,8 +2748,15 @@
     "name": "JP JNR 113 EMU 1067JP",
     "description": "JNR 113 series DC suburban EMU. Broad national legacy suburban profile for areas not covered by newer stock. Manufacturer: JNR / Nippon Sharyo / Kawasaki Heavy Industries / Hitachi.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.444,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.444,
+        "a1": 0.444,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 30.56,
       "capacityPerCar": 291,
@@ -2613,8 +2830,15 @@
     "name": "JP JNR 117 EMU 1067JP",
     "description": "JNR 117 series two-door suburban EMU used on rapid and regional services. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.556,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.556,
+        "a1": 0.556,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 31.94,
       "maxSpeedLocalStation": 31.94,
       "capacityPerCar": 290,
@@ -2687,8 +2911,15 @@
     "name": "JP JNR 211 EMU 1067JP",
     "description": "JNR 211 series suburban EMU. Later JNR stainless-steel regional and suburban stock. Manufacturer: JNR / Kawasaki Heavy Industries / Tokyu Car / Nippon Sharyo.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.833,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.833,
+        "a1": 0.833,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 30.56,
       "capacityPerCar": 291,
@@ -2762,8 +2993,15 @@
     "name": "JP JRF EF210 1067JP",
     "description": "JR Freight EF210 electric freight locomotive. Manufacturer: Mitsubishi Electric / Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.306,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.306,
+        "a1": 0.306,
+        "v1": 16.53,
+        "v2": 27.78,
+        "exponent": 2
+      },
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 30.56,
       "capacityPerCar": 0,

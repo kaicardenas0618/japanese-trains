@@ -4,8 +4,15 @@
     "name": "JRW KiHa126 DMU 1067JP",
     "description": "JR West KiHa 126 series regional DMU for Sanin/Nakaumi area services. Manufacturer: Niigata Transys.",
     "stats": {
-      "maxAcceleration": 0.75,
+      "maxAcceleration": 0.583,
       "maxDeceleration": 0.95,
+      "accelerationCurve": {
+        "a0": 0.583,
+        "a1": 0.583,
+        "v1": 6.94,
+        "v2": 16.67,
+        "exponent": 1.5
+      },
       "maxSpeed": 27.78,
       "maxSpeedLocalStation": 27.78,
       "capacityPerCar": 305,
@@ -76,8 +83,15 @@
     "name": "JRW KiHa187 Limited Express 1067JP",
     "description": "JR West KiHa 187 series tilting diesel limited express train for Sanin regional services. Manufacturer: Niigata Transys.",
     "stats": {
-      "maxAcceleration": 0.85,
+      "maxAcceleration": 0.556,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.556,
+        "a1": 0.556,
+        "v1": 13.89,
+        "v2": 27.78,
+        "exponent": 2
+      },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
       "capacityPerCar": 44,
@@ -148,8 +162,15 @@
     "name": "JRW KiHa120 DMU 1067JP",
     "description": "JR West KiHa 120 series single-car regional DMU for rural Sanin and Chugoku lines such as the Kisuki Line. Manufacturer: Niigata Tekko / JR West.",
     "stats": {
-      "maxAcceleration": 0.75,
+      "maxAcceleration": 0.5,
       "maxDeceleration": 0.95,
+      "accelerationCurve": {
+        "a0": 0.5,
+        "a1": 0.5,
+        "v1": 6.94,
+        "v2": 16.67,
+        "exponent": 1.5
+      },
       "maxSpeed": 26.39,
       "maxSpeedLocalStation": 26.39,
       "capacityPerCar": 241,
@@ -221,8 +242,15 @@
     "name": "ICH 7000 EMU 1067IC",
     "description": "Ichibata Electric Railway 7000 series single-car EMU for Matsue-Izumo local services. Manufacturer: Kinki Sharyo.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.694,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.694,
+        "a1": 0.694,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 25.0,
       "maxSpeedLocalStation": 25.0,
       "capacityPerCar": 249,
@@ -289,8 +317,15 @@
     "name": "ICH 1000 EMU 1067IC",
     "description": "Ichibata Electric Railway 1000 series EMU converted from former Tokyu stock. Manufacturer: Tokyu Car.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.65,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.65,
+        "a1": 0.65,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
       "capacityPerCar": 249,
@@ -357,8 +392,15 @@
     "name": "ICH 5000 EMU 1067IC",
     "description": "Ichibata Electric Railway 5000 series EMU for local and excursion services. Manufacturer: Tokyu Car.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.833,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.833,
+        "a1": 0.833,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 29.17,
       "maxSpeedLocalStation": 29.17,
       "capacityPerCar": 249,

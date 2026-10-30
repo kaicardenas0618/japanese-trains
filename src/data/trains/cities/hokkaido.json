@@ -4,8 +4,15 @@
     "name": "JRH H100 DEMU",
     "description": "JR Hokkaido H100 DECMO diesel-electric railcar. Same family as JR East GV-E400. Manufacturer: Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 0.75,
+      "maxAcceleration": 0.361,
       "maxDeceleration": 0.95,
+      "accelerationCurve": {
+        "a0": 0.361,
+        "a1": 0.361,
+        "v1": 6.94,
+        "v2": 16.67,
+        "exponent": 1.5
+      },
       "maxSpeed": 27.78,
       "maxSpeedLocalStation": 27.78,
       "capacityPerCar": 277,
@@ -77,8 +84,15 @@
     "name": "JRH KiHa150 DMU",
     "description": "JR Hokkaido KiHa 150 regional diesel railcar, modeled for 1-6 car rural operation. Manufacturer: Fuji Heavy Industries.",
     "stats": {
-      "maxAcceleration": 0.75,
+      "maxAcceleration": 0.5,
       "maxDeceleration": 0.95,
+      "accelerationCurve": {
+        "a0": 0.5,
+        "a1": 0.5,
+        "v1": 6.94,
+        "v2": 16.67,
+        "exponent": 1.5
+      },
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 30.56,
       "capacityPerCar": 302,
@@ -150,8 +164,15 @@
     "name": "JRH 721 EMU 1067JP",
     "description": "JR Hokkaido 721 series suburban AC EMU for Sapporo-area regional services. Manufacturer: Kawasaki Heavy Industries / Hitachi.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.611,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.611,
+        "a1": 0.611,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 295,
@@ -223,8 +244,15 @@
     "name": "JRH 733 EMU 1067JP",
     "description": "JR Hokkaido 733 series suburban AC EMU for Sapporo-area local and rapid services. Manufacturer: Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.611,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.611,
+        "a1": 0.611,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 296,
@@ -295,8 +323,15 @@
     "name": "JRH 737 EMU 1067JP",
     "description": "JR Hokkaido 737 series two-car AC EMU for regional electrified services. Manufacturer: Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.611,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.611,
+        "a1": 0.611,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
       "capacityPerCar": 277,
@@ -367,8 +402,15 @@
     "name": "JRH 789 Limited Express 1067JP",
     "description": "JR Hokkaido 789 series AC limited express EMU for Hokkaido intercity services. Manufacturer: Kawasaki Heavy Industries / Hitachi.",
     "stats": {
-      "maxAcceleration": 0.85,
+      "maxAcceleration": 0.694,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.694,
+        "a1": 0.694,
+        "v1": 13.89,
+        "v2": 27.78,
+        "exponent": 2
+      },
       "maxSpeed": 38.89,
       "maxSpeedLocalStation": 38.89,
       "capacityPerCar": 52,

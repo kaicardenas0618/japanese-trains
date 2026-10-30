@@ -4,8 +4,15 @@
     "name": "TYM TLR0600 Portram Tram 1067TC",
     "description": "Toyama Chiho Railway (ex-Toyama Light Rail) TLR0600 Portram low-floor articulated LRV, through-running between the Toyamako Line and the city tram network. Manufacturer: Niigata Transys.",
     "stats": {
-      "maxAcceleration": 1.1,
+      "maxAcceleration": 0.833,
       "maxDeceleration": 1.2,
+      "accelerationCurve": {
+        "a0": 0.833,
+        "a1": 0.833,
+        "v1": 6.94,
+        "v2": 12.5,
+        "exponent": 2
+      },
       "maxSpeed": 19.44,
       "maxSpeedLocalStation": 19.44,
       "capacityPerCar": 199,
@@ -73,8 +80,15 @@
     "name": "TYM 9000 Centram Tram 1067TC",
     "description": "Toyama Chiho Railway 9000 series Centram low-floor articulated tram for the Toyama city tram loop line. Manufacturer: Niigata Transys.",
     "stats": {
-      "maxAcceleration": 1.1,
+      "maxAcceleration": 0.833,
       "maxDeceleration": 1.2,
+      "accelerationCurve": {
+        "a0": 0.833,
+        "a1": 0.833,
+        "v1": 6.94,
+        "v2": 12.5,
+        "exponent": 2
+      },
       "maxSpeed": 19.44,
       "maxSpeedLocalStation": 19.44,
       "capacityPerCar": 97,

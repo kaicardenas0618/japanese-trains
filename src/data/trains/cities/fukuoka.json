@@ -4,8 +4,15 @@
     "name": "FKO 1000 Subway",
     "description": "Fukuoka City Subway 1000 series 6-car train for Airport and Hakozaki Line services. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries / Nippon Sharyo / Tokyu Car / Hitachi.",
     "stats": {
-      "maxAcceleration": 1.0,
+      "maxAcceleration": 0.917,
       "maxDeceleration": 1.15,
+      "accelerationCurve": {
+        "a0": 0.917,
+        "a1": 0.917,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 25.0,
       "maxSpeedLocalStation": 25.0,
       "capacityPerCar": 379,
@@ -81,8 +88,15 @@
     "name": "JRK 103-1500 EMU 1067JP",
     "description": "JR Kyushu 103-1500 series commuter EMU for Fukuoka/Chikuhi Line through services. Manufacturer: Kawasaki Heavy Industries / Nippon Sharyo.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.833,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.833,
+        "a1": 0.833,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 27.78,
       "maxSpeedLocalStation": 27.78,
       "capacityPerCar": 322,
@@ -154,8 +168,15 @@
     "name": "NIS Commuter EMU 1067NT",
     "description": "Generic Nishitetsu commuter EMU for Tenjin-Omuta Line 3-6 car local and express services. Manufacturer: Kawasaki Heavy Industries / Nippon Sharyo.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.833,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.833,
+        "a1": 0.833,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 30.56,
       "capacityPerCar": 266,
@@ -223,8 +244,15 @@
     "name": "NIS 1000 Tram",
     "description": "Nishitetsu 1000 series tram/interurban profile for 2-3 car operation. Manufacturer: Nippon Sharyo.",
     "stats": {
-      "maxAcceleration": 1.1,
+      "maxAcceleration": 0.694,
       "maxDeceleration": 1.2,
+      "accelerationCurve": {
+        "a0": 0.694,
+        "a1": 0.694,
+        "v1": 6.94,
+        "v2": 12.5,
+        "exponent": 2
+      },
       "maxSpeed": 22.22,
       "maxSpeedLocalStation": 22.22,
       "capacityPerCar": 130,
@@ -289,8 +317,15 @@
     "name": "FKO 2000 Subway",
     "description": "Fukuoka City Subway 2000 series 6-car train for Airport and Hakozaki Line services. Manufacturer: Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 1.0,
+      "maxAcceleration": 0.972,
       "maxDeceleration": 1.15,
+      "accelerationCurve": {
+        "a0": 0.972,
+        "a1": 0.972,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 30.56,
       "capacityPerCar": 379,
@@ -362,8 +397,15 @@
     "name": "FKO 3000 Subway",
     "description": "Fukuoka City Subway 3000 series linear-motor train for Nanakuma Line services. Manufacturer: Hitachi.",
     "stats": {
-      "maxAcceleration": 1.0,
+      "maxAcceleration": 0.889,
       "maxDeceleration": 1.15,
+      "accelerationCurve": {
+        "a0": 0.889,
+        "a1": 0.889,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 19.44,
       "maxSpeedLocalStation": 19.44,
       "capacityPerCar": 269,
@@ -428,8 +470,15 @@
     "name": "JRK 303 EMU 1067JP",
     "description": "JR Kyushu 303 series commuter EMU for Chikuhi Line and Fukuoka Subway through services. Manufacturer: Kinki Sharyo.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.917,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.917,
+        "a1": 0.917,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 30.56,
       "capacityPerCar": 322,
@@ -500,8 +549,15 @@
     "name": "JRK 305 EMU 1067JP",
     "description": "JR Kyushu 305 series commuter EMU for Chikuhi Line and Fukuoka Subway through services. Manufacturer: Hitachi.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.972,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.972,
+        "a1": 0.972,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 30.56,
       "capacityPerCar": 322,
@@ -572,8 +628,15 @@
     "name": "NIS 3000 EMU 1067NT",
     "description": "Nishitetsu 3000 series commuter EMU for Tenjin-Omuta Line express and local services. Manufacturer: Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.833,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.833,
+        "a1": 0.833,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 30.56,
       "capacityPerCar": 266,
@@ -640,8 +703,15 @@
     "name": "NIS 9000 EMU 1067NT",
     "description": "Nishitetsu 9000 series commuter EMU for Tenjin-Omuta Line express and local services. Manufacturer: Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.833,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.833,
+        "a1": 0.833,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 30.56,
       "capacityPerCar": 266,

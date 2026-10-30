@@ -10,7 +10,7 @@ Specific trains can be chosen afterwards in the route menu.
 
 |Track|Line|Top Speed (km/h)|
 |-|-|-|
-|1067JP-95|JR main lines|90|
+|1067JP-95|JR main lines|95|
 |1067JP-100|JR main lines|100|
 |1067JP-110|JR main lines|110|
 |1067JP-120|JR main lines|120|
@@ -66,7 +66,7 @@ Specific trains can be chosen afterwards in the route menu.
 |1435TK-160|Toei Asakusa, Keisei and Keikyu (through services)|160|
 |1435TM-75|Tokyo Metro Marunouchi Line|75|
 
-## Currently Available Trains (206)
+## Currently Available Trains (207)
 
 #### National (34)
 
@@ -275,7 +275,7 @@ Specific trains can be chosen afterwards in the route menu.
 |JRE HB-E210 Hybrid|JR East HB-E210 hybrid DMU for Sendai-area regional services. Manufacturer: J-TREC.|J-TREC|100|1104|
 |SAT SAT721 EMU|Sendai Airport Transit SAT721 series EMU based on the E721 family. Manufacturer: J-TREC.|J-TREC|120|1164|
 
-#### Tokyo (59)
+#### Tokyo (60)
 
 |Name|Description|Manufacturer|Top Speed (km/h)|Maximum Capacity|
 |-|-|-|-|-|
@@ -300,9 +300,10 @@ Specific trains can be chosen afterwards in the route menu.
 |TYO Monorail 10000|Tokyo Monorail 10000 series airport monorail train. Manufacturer: Hitachi.|Hitachi|90|1116|
 |TYO Shonan Monorail 5000|Shonan Monorail 5000 series 3-car suspended monorail train for the Enoshima Line between Ofuna and Shonan-Enoshima. Manufacturer: Mitsubishi Heavy Industries.|Mitsubishi Heavy Industries|75|438|
 |TYO E235-0 1067JP|JR East E235-0 series 11-car commuter train. Used on the Yamanote Line. Manufacturer: J-TREC.|J-TREC|130|3740|
-|TYO E235-1000 1067JP|JR East E235-1000 series 11/15-car commuter train. Used on the Yokosuka and Sobu Rapid lines. Manufacturer: J-TREC.|J-TREC|130|4365|
-|TYO E233 Commuter 1067JP/MC|JR East E233 series commuter train family. Used on major Tokyo-area lines. Manufacturer: J-TREC / Tokyu Car / Kawasaki Heavy Industries.|J-TREC / Tokyu Car / Kawasaki Heavy Industries|130|4350|
+|TYO E235-1000 1067JP|JR East E235-1000 series 11/15-car commuter train. Used on the Yokosuka and Sobu Rapid lines. Manufacturer: J-TREC.|J-TREC|130|4350|
+|TYO E233 Commuter 1067JP|JR East E233 series commuter train family. Used on major Tokyo-area lines. Manufacturer: J-TREC / Tokyu Car / Kawasaki Heavy Industries.|J-TREC / Tokyu Car / Kawasaki Heavy Industries|130|4350|
 |TYO E233 Urban 1067JP|JR East E233 series commuter train. Used on inner Tokyo commuter lines. Manufacturer: J-TREC.|J-TREC|130|3400|
+|TYO E233-2000 1067JP/MC/OD|JR East E233-2000 series 10-car narrow-body commuter train for Joban Local Line services with through-service to the Tokyo Metro Chiyoda Line and Odakyu Line. Manufacturer: J-TREC.|J-TREC|130|3180|
 |TYO E231 Suburban 1067JP|JR East E231 series commuter train family. Used on major outer Tokyo-area lines. Manufacturer: Tokyu Car / Kawasaki Heavy Industries.|Tokyu Car / Kawasaki Heavy Industries|130|4365|
 |TYO E231 Urban 1067JP|JR East E231 series commuter train family. Used on major Tokyo-area lines. Manufacturer: Tokyu Car / Kawasaki Heavy Industries.|Tokyu Car / Kawasaki Heavy Industries|130|3400|
 |TYO E217 Commuter 1067JP|JR East E217 series commuter train. Used on the Yokosuka and Sobu Rapid lines. Manufacturer: Tokyu Car / Kawasaki Heavy Industries.|Tokyu Car / Kawasaki Heavy Industries|120|4365|

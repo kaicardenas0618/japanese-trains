@@ -4,8 +4,15 @@
     "name": "HRD 5100 Green Mover Tram 1435HD",
     "description": "Hiroden 5100 series Green Mover Max low-floor articulated tram. Manufacturer: Kinki Sharyo / Mitsubishi Heavy Industries / Toyo Denki.",
     "stats": {
-      "maxAcceleration": 1.1,
+      "maxAcceleration": 0.972,
       "maxDeceleration": 1.2,
+      "accelerationCurve": {
+        "a0": 0.972,
+        "a1": 0.972,
+        "v1": 6.94,
+        "v2": 12.5,
+        "exponent": 2
+      },
       "maxSpeed": 22.22,
       "maxSpeedLocalStation": 22.22,
       "capacityPerCar": 302,
@@ -75,8 +82,15 @@
     "name": "HRD 1900 Tram 1435HD",
     "description": "Hiroden 1900 series single-car tram, rebuilt from former Kyoto streetcar stock. Manufacturer: Naniwa Koki.",
     "stats": {
-      "maxAcceleration": 1.1,
+      "maxAcceleration": 0.556,
       "maxDeceleration": 1.2,
+      "accelerationCurve": {
+        "a0": 0.556,
+        "a1": 0.556,
+        "v1": 6.94,
+        "v2": 12.5,
+        "exponent": 2
+      },
       "maxSpeed": 11.11,
       "maxSpeedLocalStation": 11.11,
       "capacityPerCar": 131,
@@ -144,8 +158,15 @@
     "name": "HRD 650 Tram 1435HD",
     "description": "Hiroden 650 series heritage single-car tram. Manufacturer: Kisha Seizo.",
     "stats": {
-      "maxAcceleration": 1.1,
+      "maxAcceleration": 0.556,
       "maxDeceleration": 1.2,
+      "accelerationCurve": {
+        "a0": 0.556,
+        "a1": 0.556,
+        "v1": 6.94,
+        "v2": 12.5,
+        "exponent": 2
+      },
       "maxSpeed": 11.11,
       "maxSpeedLocalStation": 11.11,
       "capacityPerCar": 132,
@@ -213,8 +234,15 @@
     "name": "HRD 1000 Green Mover Lex Tram 1435HD",
     "description": "Hiroden 1000 series Green Mover Lex low-floor articulated tram. Manufacturer: Kinki Sharyo / Mitsubishi Heavy Industries / Toyo Denki.",
     "stats": {
-      "maxAcceleration": 1.1,
+      "maxAcceleration": 0.972,
       "maxDeceleration": 1.2,
+      "accelerationCurve": {
+        "a0": 0.972,
+        "a1": 0.972,
+        "v1": 6.94,
+        "v2": 12.5,
+        "exponent": 2
+      },
       "maxSpeed": 22.22,
       "maxSpeedLocalStation": 22.22,
       "capacityPerCar": 186,
@@ -284,8 +312,15 @@
     "name": "HRD 5200 Green Mover Apex Tram 1435HD",
     "description": "Hiroden 5200 series Green Mover Apex high-capacity low-floor tram. Manufacturer: Kinki Sharyo / Mitsubishi Heavy Industries / Toyo Denki.",
     "stats": {
-      "maxAcceleration": 1.1,
+      "maxAcceleration": 0.972,
       "maxDeceleration": 1.2,
+      "accelerationCurve": {
+        "a0": 0.972,
+        "a1": 0.972,
+        "v1": 6.94,
+        "v2": 12.5,
+        "exponent": 2
+      },
       "maxSpeed": 22.22,
       "maxSpeedLocalStation": 22.22,
       "capacityPerCar": 301,
@@ -487,8 +522,15 @@
     "name": "AST 6000 Astram AGT",
     "description": "Astram Line 6000 series automated guideway train for Hiroshima rapid transit. Manufacturer: Mitsubishi Heavy Industries / Niigata Engineering.",
     "stats": {
-      "maxAcceleration": 1.0,
+      "maxAcceleration": 0.889,
       "maxDeceleration": 1.15,
+      "accelerationCurve": {
+        "a0": 0.889,
+        "a1": 0.889,
+        "v1": 8.33,
+        "v2": 15.28,
+        "exponent": 2
+      },
       "maxSpeed": 19.44,
       "maxSpeedLocalStation": 19.44,
       "capacityPerCar": 88,
@@ -554,8 +596,15 @@
     "name": "JRW 227 Red Wing EMU 1067JP",
     "description": "JR West 227 series Red Wing regional EMU for Hiroshima-area services. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.694,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.694,
+        "a1": 0.694,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
       "capacityPerCar": 291,

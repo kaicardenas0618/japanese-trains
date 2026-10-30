@@ -4,8 +4,15 @@
     "name": "OSA 21 Midosuji 1435OM/OL",
     "description": "Osaka Metro 21 series 10-car train. Used on the Midosuji Line. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries / Nippon Sharyo.",
     "stats": {
-      "maxAcceleration": 1,
+      "maxAcceleration": 0.917,
       "maxDeceleration": 1.15,
+      "accelerationCurve": {
+        "a0": 0.917,
+        "a1": 0.917,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 26.39,
       "maxSpeedLocalStation": 26.39,
       "capacityPerCar": 358,
@@ -75,8 +82,15 @@
     "name": "OSA 30000 Midosuji 1435OM/OL",
     "description": "Osaka Metro 30000 series 10-car train. Used on the Midosuji Line. Manufacturer: Kinki Sharyo.",
     "stats": {
-      "maxAcceleration": 1,
+      "maxAcceleration": 0.833,
       "maxDeceleration": 1.15,
+      "accelerationCurve": {
+        "a0": 0.833,
+        "a1": 0.833,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 26.39,
       "maxSpeedLocalStation": 26.39,
       "capacityPerCar": 358,
@@ -144,8 +158,15 @@
     "name": "OSA 22 Tanimachi 1435OM",
     "description": "Osaka Metro 22 series 6-car train. Used on the Tanimachi Line. Manufacturer: Kinki Sharyo / Nippon Sharyo.",
     "stats": {
-      "maxAcceleration": 1,
+      "maxAcceleration": 0.917,
       "maxDeceleration": 1.15,
+      "accelerationCurve": {
+        "a0": 0.917,
+        "a1": 0.917,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 26.39,
       "maxSpeedLocalStation": 26.39,
       "capacityPerCar": 358,
@@ -213,8 +234,15 @@
     "name": "OSA 30000 Tanimachi 1435OM",
     "description": "Osaka Metro 30000 series 6-car train. Used on the Tanimachi Line. Manufacturer: Kinki Sharyo.",
     "stats": {
-      "maxAcceleration": 1,
+      "maxAcceleration": 0.694,
       "maxDeceleration": 1.15,
+      "accelerationCurve": {
+        "a0": 0.694,
+        "a1": 0.694,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 26.39,
       "maxSpeedLocalStation": 26.39,
       "capacityPerCar": 358,
@@ -281,8 +309,15 @@
     "name": "OSA 23 Yotsubashi 1435OM",
     "description": "Osaka Metro 23 series 6-car train. Used on the Yotsubashi Line. Manufacturer: Kinki Sharyo / Nippon Sharyo.",
     "stats": {
-      "maxAcceleration": 1,
+      "maxAcceleration": 0.917,
       "maxDeceleration": 1.15,
+      "accelerationCurve": {
+        "a0": 0.917,
+        "a1": 0.917,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 26.39,
       "maxSpeedLocalStation": 26.39,
       "capacityPerCar": 358,
@@ -350,8 +385,15 @@
     "name": "OSA 30000A Chuo 1435OM",
     "description": "Osaka Metro 30000A series 6-car train. Used on the Chuo Line. Manufacturer: Kinki Sharyo.",
     "stats": {
-      "maxAcceleration": 1,
+      "maxAcceleration": 0.833,
       "maxDeceleration": 1.15,
+      "accelerationCurve": {
+        "a0": 0.833,
+        "a1": 0.833,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 26.39,
       "maxSpeedLocalStation": 26.39,
       "capacityPerCar": 358,
@@ -419,8 +461,15 @@
     "name": "OSA 400 Chuo 1435OM",
     "description": "Osaka Metro 400 series 6-car train. New Chuo Line stock for Yumeshima service. Manufacturer: Hitachi.",
     "stats": {
-      "maxAcceleration": 1,
+      "maxAcceleration": 0.833,
       "maxDeceleration": 1.15,
+      "accelerationCurve": {
+        "a0": 0.833,
+        "a1": 0.833,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 26.39,
       "maxSpeedLocalStation": 26.39,
       "capacityPerCar": 358,
@@ -488,8 +537,15 @@
     "name": "OSA 25 Sennichimae 1435OM",
     "description": "Osaka Metro 25 series 4-car train. Used on the Sennichimae Line. Manufacturer: Kinki Sharyo.",
     "stats": {
-      "maxAcceleration": 1,
+      "maxAcceleration": 0.917,
       "maxDeceleration": 1.15,
+      "accelerationCurve": {
+        "a0": 0.917,
+        "a1": 0.917,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 26.39,
       "maxSpeedLocalStation": 26.39,
       "capacityPerCar": 358,
@@ -689,8 +745,15 @@
     "name": "OSA 66 Sakaisuji 1435SH",
     "description": "Osaka Metro 66 series 8-car train. Used on the Sakaisuji Line and Hankyu through services. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 1,
+      "maxAcceleration": 0.778,
       "maxDeceleration": 1.15,
+      "accelerationCurve": {
+        "a0": 0.778,
+        "a1": 0.778,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 30.56,
       "capacityPerCar": 346,
@@ -895,8 +958,15 @@
     "name": "OSA 70 Nagahori Linear 1435OL/OM",
     "description": "Osaka Metro 70 series 4-car linear-motor train. Used on the Nagahori Tsurumi-ryokuchi Line. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 1,
+      "maxAcceleration": 0.694,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.694,
+        "a1": 0.694,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 19.44,
       "maxSpeedLocalStation": 19.44,
       "capacityPerCar": 254,
@@ -965,8 +1035,15 @@
     "name": "OSA 80 Imazatosuji Linear 1435OL/OM",
     "description": "Osaka Metro 80 series 4-car linear-motor train. Used on the Imazatosuji Line. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 1,
+      "maxAcceleration": 0.694,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.694,
+        "a1": 0.694,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 19.44,
       "maxSpeedLocalStation": 19.44,
       "capacityPerCar": 254,
@@ -1101,8 +1178,15 @@
     "name": "OSA New Tram 200",
     "description": "Osaka Metro 200 series automated people mover train. Used on the Nanko Port Town Line. Manufacturer: Niigata Transys.",
     "stats": {
-      "maxAcceleration": 1.1,
+      "maxAcceleration": 0.972,
       "maxDeceleration": 1.2,
+      "accelerationCurve": {
+        "a0": 0.972,
+        "a1": 0.972,
+        "v1": 8.33,
+        "v2": 15.28,
+        "exponent": 2
+      },
       "maxSpeed": 16.67,
       "maxSpeedLocalStation": 16.67,
       "capacityPerCar": 80,
@@ -1167,8 +1251,15 @@
     "name": "OSA Hankai 1001 Tram",
     "description": "Hankai 1001 series low-floor tram. Used on Osaka/Sakai street tram services. Manufacturer: Alna Sharyo.",
     "stats": {
-      "maxAcceleration": 1.1,
+      "maxAcceleration": 0.694,
       "maxDeceleration": 1.2,
+      "accelerationCurve": {
+        "a0": 0.694,
+        "a1": 0.694,
+        "v1": 6.94,
+        "v2": 12.5,
+        "exponent": 2
+      },
       "maxSpeed": 16.67,
       "maxSpeedLocalStation": 16.67,
       "capacityPerCar": 162,
@@ -1233,8 +1324,15 @@
     "name": "OSA JR 223 Kansai 1067JP",
     "description": "JR West 223 series suburban train. Used on Kansai Airport Rapid and New Rapid (Shinkaisoku) services. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo.",
     "stats": {
-      "maxAcceleration": 0.8,
+      "maxAcceleration": 0.694,
       "maxDeceleration": 1.05,
+      "accelerationCurve": {
+        "a0": 0.694,
+        "a1": 0.694,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 291,
@@ -1306,8 +1404,15 @@
     "name": "OSA JR 323 Loop 1067JP",
     "description": "JR West 323 series 8-car commuter train. Used on the Osaka Loop Line. Manufacturer: Kinki Sharyo.",
     "stats": {
-      "maxAcceleration": 0.85,
+      "maxAcceleration": 0.778,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.778,
+        "a1": 0.778,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
       "capacityPerCar": 338,
@@ -1378,8 +1483,15 @@
     "name": "OSA JR 225 Kansai 1067JP",
     "description": "JR West 225 series suburban train. Used on major Kansai rapid services. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 0.85,
+      "maxAcceleration": 0.833,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.833,
+        "a1": 0.833,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 291,
@@ -1451,8 +1563,15 @@
     "name": "OSA Nankai 50000 Rapit 1067JP",
     "description": "Nankai 50000 series Rapit airport limited express train. Manufacturer: Tokyu Car.",
     "stats": {
-      "maxAcceleration": 0.85,
+      "maxAcceleration": 0.694,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.694,
+        "a1": 0.694,
+        "v1": 13.89,
+        "v2": 27.78,
+        "exponent": 2
+      },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
       "capacityPerCar": 38,
@@ -1523,8 +1642,15 @@
     "name": "OSA Nankai 8300 Commuter 1067JP",
     "description": "Nankai 8300 series 2/4-car commuter EMU, coupled up to 8 cars, for Nankai Main, Airport and Koya Line services. Manufacturer: Kinki Sharyo.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.694,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.694,
+        "a1": 0.694,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
       "capacityPerCar": 290,
@@ -1595,8 +1721,15 @@
     "name": "OSA Monorail 3000",
     "description": "Osaka Monorail 3000 series 4-car straddle-beam monorail train for the Main Line between Osaka Airport and Kadoma-shi and the Saito Line. Manufacturer: Hitachi.",
     "stats": {
-      "maxAcceleration": 1.1,
+      "maxAcceleration": 0.833,
       "maxDeceleration": 1.2,
+      "accelerationCurve": {
+        "a0": 0.833,
+        "a1": 0.833,
+        "v1": 8.33,
+        "v2": 15.28,
+        "exponent": 2
+      },
       "maxSpeed": 20.83,
       "maxSpeedLocalStation": 20.83,
       "capacityPerCar": 184,
@@ -1661,8 +1794,15 @@
     "name": "KYO 10 Karasuma 1435KK",
     "description": "Kyoto Municipal Subway 10 series 6-car train. Used on the Karasuma Line. Manufacturer: Kinki Sharyo / Hitachi.",
     "stats": {
-      "maxAcceleration": 1,
+      "maxAcceleration": 0.917,
       "maxDeceleration": 1.15,
+      "accelerationCurve": {
+        "a0": 0.917,
+        "a1": 0.917,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 29.17,
       "maxSpeedLocalStation": 29.17,
       "capacityPerCar": 362,
@@ -1730,8 +1870,15 @@
     "name": "KYO 20 Karasuma 1435KK",
     "description": "Kyoto Municipal Subway 20 series 6-car train. Newer Karasuma Line stock. Manufacturer: Kinki Sharyo.",
     "stats": {
-      "maxAcceleration": 1,
+      "maxAcceleration": 0.917,
       "maxDeceleration": 1.15,
+      "accelerationCurve": {
+        "a0": 0.917,
+        "a1": 0.917,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 29.17,
       "maxSpeedLocalStation": 29.17,
       "capacityPerCar": 362,
@@ -1798,8 +1945,15 @@
     "name": "KYO 50 Tozai 1435KE",
     "description": "Kyoto Municipal Subway 50 series 6-car train. Used on the Tozai Line. Manufacturer: Kinki Sharyo.",
     "stats": {
-      "maxAcceleration": 1,
+      "maxAcceleration": 0.917,
       "maxDeceleration": 1.15,
+      "accelerationCurve": {
+        "a0": 0.917,
+        "a1": 0.917,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 20.83,
       "maxSpeedLocalStation": 20.83,
       "capacityPerCar": 264,
@@ -1866,8 +2020,15 @@
     "name": "KYO Keihan 800 Keishin 1435KE",
     "description": "Keihan 800 series 4-car train. Runs through Kyoto Subway Tozai Line and Keishin Line. Manufacturer: Kinki Sharyo.",
     "stats": {
-      "maxAcceleration": 1,
+      "maxAcceleration": 0.917,
       "maxDeceleration": 1.15,
+      "accelerationCurve": {
+        "a0": 0.917,
+        "a1": 0.917,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 25.0,
       "maxSpeedLocalStation": 25.0,
       "capacityPerCar": 233,
@@ -1998,8 +2159,15 @@
     "name": "KYO Kintetsu 3200 1435KK/KN",
     "description": "Kintetsu 3200 series 6-car train. Runs through Kyoto Subway Karasuma Line. Manufacturer: Kinki Sharyo.",
     "stats": {
-      "maxAcceleration": 1,
+      "maxAcceleration": 0.833,
       "maxDeceleration": 1.15,
+      "accelerationCurve": {
+        "a0": 0.833,
+        "a1": 0.833,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 29.17,
       "maxSpeedLocalStation": 29.17,
       "capacityPerCar": 320,
@@ -2068,8 +2236,15 @@
     "name": "KYO Kintetsu 3220 1435KK/KN",
     "description": "Kintetsu 3220 series 6-car train. Runs through Kyoto Subway Karasuma Line. Manufacturer: Kinki Sharyo.",
     "stats": {
-      "maxAcceleration": 1,
+      "maxAcceleration": 0.833,
       "maxDeceleration": 1.15,
+      "accelerationCurve": {
+        "a0": 0.833,
+        "a1": 0.833,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 29.17,
       "maxSpeedLocalStation": 29.17,
       "capacityPerCar": 320,
@@ -2205,8 +2380,15 @@
     "name": "KYO Randen 2001 Tram 1435KF",
     "description": "Keifuku Randen 2001 series tram. Used on Kyoto street tram services. Manufacturer: Mukogawa Sharyo.",
     "stats": {
-      "maxAcceleration": 1.1,
+      "maxAcceleration": 0.694,
       "maxDeceleration": 1.2,
+      "accelerationCurve": {
+        "a0": 0.694,
+        "a1": 0.694,
+        "v1": 6.94,
+        "v2": 12.5,
+        "exponent": 2
+      },
       "maxSpeed": 11.11,
       "maxSpeedLocalStation": 11.11,
       "capacityPerCar": 166,
@@ -2273,8 +2455,15 @@
     "name": "KYO Randen 600 Tram 1435KF",
     "description": "Keifuku Randen 600 series tram. Used on Kyoto street tram services. Manufacturer: Mukogawa Sharyo.",
     "stats": {
-      "maxAcceleration": 1.1,
+      "maxAcceleration": 0.694,
       "maxDeceleration": 1.2,
+      "accelerationCurve": {
+        "a0": 0.694,
+        "a1": 0.694,
+        "v1": 6.94,
+        "v2": 12.5,
+        "exponent": 2
+      },
       "maxSpeed": 11.11,
       "maxSpeedLocalStation": 11.11,
       "capacityPerCar": 166,
@@ -2405,8 +2594,15 @@
     "name": "KYO Eizan 900 Kirara",
     "description": "Eizan 900 series Kirara scenic train serving northern Kyoto. Manufacturer: Mukogawa Sharyo.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.694,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.694,
+        "a1": 0.694,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 19.44,
       "maxSpeedLocalStation": 19.44,
       "capacityPerCar": 201,
@@ -2471,8 +2667,15 @@
     "name": "KYO JR 221 Kansai 1067JP",
     "description": "JR West 221 series suburban train serving Kyoto-area routes. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 0.85,
+      "maxAcceleration": 0.583,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.583,
+        "a1": 0.583,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
       "capacityPerCar": 291,
@@ -2544,8 +2747,15 @@
     "name": "KYO JR 225 Kansai 1067JP",
     "description": "JR West 225 series suburban train serving Kyoto-area rapid routes. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 0.85,
+      "maxAcceleration": 0.833,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.833,
+        "a1": 0.833,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 291,
@@ -2617,8 +2827,15 @@
     "name": "KYO JR 321 Urban 1067JP",
     "description": "JR West 321 series commuter train serving Kyoto/Kobe local routes. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 0.85,
+      "maxAcceleration": 0.694,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.694,
+        "a1": 0.694,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
       "capacityPerCar": 340,
@@ -2690,8 +2907,15 @@
     "name": "KOB 1000 Seishin 1435KB",
     "description": "Kobe Municipal Subway 1000 series 6-car train. Older Seishin-Yamate Line stock. Manufacturer: Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 1,
+      "maxAcceleration": 0.917,
       "maxDeceleration": 1.15,
+      "accelerationCurve": {
+        "a0": 0.917,
+        "a1": 0.917,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 27.78,
       "maxSpeedLocalStation": 27.78,
       "capacityPerCar": 347,
@@ -2758,8 +2982,15 @@
     "name": "KOB 2000 Seishin 1435KB",
     "description": "Kobe Municipal Subway 2000 series 6-car train. Seishin-Yamate Line stock. Manufacturer: Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 1,
+      "maxAcceleration": 0.917,
       "maxDeceleration": 1.15,
+      "accelerationCurve": {
+        "a0": 0.917,
+        "a1": 0.917,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 27.78,
       "maxSpeedLocalStation": 27.78,
       "capacityPerCar": 347,
@@ -2826,8 +3057,15 @@
     "name": "KOB 3000 Seishin 1435KB",
     "description": "Kobe Municipal Subway 3000 series 6-car train. Seishin-Yamate Line stock. Manufacturer: Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 1,
+      "maxAcceleration": 0.917,
       "maxDeceleration": 1.15,
+      "accelerationCurve": {
+        "a0": 0.917,
+        "a1": 0.917,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 27.78,
       "maxSpeedLocalStation": 27.78,
       "capacityPerCar": 347,
@@ -2894,8 +3132,15 @@
     "name": "KOB 6000 Seishin 1435KB",
     "description": "Kobe Municipal Subway 6000 series 6-car train. Newer Seishin-Yamate Line stock. Manufacturer: Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 1,
+      "maxAcceleration": 0.917,
       "maxDeceleration": 1.15,
+      "accelerationCurve": {
+        "a0": 0.917,
+        "a1": 0.917,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 27.78,
       "maxSpeedLocalStation": 27.78,
       "capacityPerCar": 347,
@@ -2962,8 +3207,15 @@
     "name": "KOB 7000 Hokushin 1435KB",
     "description": "Hokushin/Kobe 7000 series 6-car train. Used on Hokushin and Seishin-Yamate services. Manufacturer: Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 1,
+      "maxAcceleration": 0.833,
       "maxDeceleration": 1.15,
+      "accelerationCurve": {
+        "a0": 0.833,
+        "a1": 0.833,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 27.78,
       "maxSpeedLocalStation": 27.78,
       "capacityPerCar": 347,
@@ -3094,8 +3346,15 @@
     "name": "KOB 5000 Kaigan Linear",
     "description": "Kobe Municipal Subway 5000 series 4-car linear-motor train. Used on the Kaigan Line. Manufacturer: Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 1,
+      "maxAcceleration": 0.917,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.917,
+        "a1": 0.917,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 19.44,
       "maxSpeedLocalStation": 19.44,
       "capacityPerCar": 254,
@@ -3160,8 +3419,15 @@
     "name": "KOB Port Liner 2000",
     "description": "Kobe New Transit 2000/2020 series automated guideway train. Used on the Port Liner. Manufacturer: Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 1.1,
+      "maxAcceleration": 0.972,
       "maxDeceleration": 1.2,
+      "accelerationCurve": {
+        "a0": 0.972,
+        "a1": 0.972,
+        "v1": 8.33,
+        "v2": 15.28,
+        "exponent": 2
+      },
       "maxSpeed": 22.22,
       "maxSpeedLocalStation": 22.22,
       "capacityPerCar": 88,
@@ -3226,8 +3492,15 @@
     "name": "KOB Rokko 3000",
     "description": "Kobe New Transit 3000 series automated guideway train. Used on the Rokko Liner. Manufacturer: Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 1.1,
+      "maxAcceleration": 0.972,
       "maxDeceleration": 1.2,
+      "accelerationCurve": {
+        "a0": 0.972,
+        "a1": 0.972,
+        "v1": 8.33,
+        "v2": 15.28,
+        "exponent": 2
+      },
       "maxSpeed": 22.22,
       "maxSpeedLocalStation": 22.22,
       "capacityPerCar": 88,
@@ -3292,8 +3565,15 @@
     "name": "KOB JR 207 Urban 1067JP",
     "description": "JR West 207 series commuter train serving Kobe-area local services. Manufacturer: Kawasaki Heavy Industries / Hitachi / Kinki Sharyo.",
     "stats": {
-      "maxAcceleration": 0.85,
+      "maxAcceleration": 0.75,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.75,
+        "a1": 0.75,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
       "capacityPerCar": 340,
@@ -3366,8 +3646,15 @@
     "name": "KOB JR 321 Urban 1067JP",
     "description": "JR West 321 series commuter train serving Kobe-area local services. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 0.85,
+      "maxAcceleration": 0.694,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.694,
+        "a1": 0.694,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
       "capacityPerCar": 340,
@@ -3439,8 +3726,15 @@
     "name": "KOB JR 225 Kansai 1067JP",
     "description": "JR West 225 series suburban train serving Kobe-area rapid services. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 0.85,
+      "maxAcceleration": 0.833,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.833,
+        "a1": 0.833,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 291,
@@ -3512,8 +3806,15 @@
     "name": "KOB Hanshin 1000 1435HS",
     "description": "Hanshin 1000 series commuter train serving Kobe through Namba/Hanshin services. Manufacturer: Kinki Sharyo.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.833,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.833,
+        "a1": 0.833,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 30.56,
       "capacityPerCar": 304,
@@ -3581,8 +3882,15 @@
     "name": "KOB Hankyu 1000 1435SH",
     "description": "Hankyu 1000 series commuter train serving Kobe Line services. Manufacturer: Hitachi.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.722,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.722,
+        "a1": 0.722,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 298,
@@ -3650,8 +3958,15 @@
     "name": "KOB Sanyo 6000 1435HS",
     "description": "Sanyo Electric Railway 6000 series commuter train serving Kobe-area services. Manufacturer: Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.833,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.833,
+        "a1": 0.833,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 304,
@@ -3719,8 +4034,15 @@
     "name": "KT Generic Commuter EMU 1435KN/HS",
     "description": "Generic Kintetsu commuter EMU for Osaka/Kyoto-area lines. Covers many similar Kintetsu commuter types. Manufacturer: Kinki Sharyo.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.833,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.833,
+        "a1": 0.833,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 29.17,
       "maxSpeedLocalStation": 29.17,
       "capacityPerCar": 333,
@@ -3790,8 +4112,15 @@
     "name": "KH Commuter EMU 1435KH",
     "description": "Generic Keihan 8-car commuter EMU for Osaka-Kyoto mainline services. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.833,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.833,
+        "a1": 0.833,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
       "capacityPerCar": 298,
@@ -3859,8 +4188,15 @@
     "name": "KH 3000 EMU 1435KH",
     "description": "Keihan 3000 series 8-car premium commuter/limited express EMU. Manufacturer: Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.778,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.778,
+        "a1": 0.778,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
       "capacityPerCar": 299,
@@ -3927,8 +4263,15 @@
     "name": "KT 21000 Urban Liner Limited Express 1435KN",
     "description": "Kintetsu 21000 series Urban Liner limited express EMU for Osaka-Nagoya services. Manufacturer: Kinki Sharyo.",
     "stats": {
-      "maxAcceleration": 0.85,
+      "maxAcceleration": 0.694,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.694,
+        "a1": 0.694,
+        "v1": 13.89,
+        "v2": 27.78,
+        "exponent": 2
+      },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 56,
@@ -3996,8 +4339,15 @@
     "name": "KT 50000 Shimakaze Limited Express 1435KN",
     "description": "Kintetsu 50000 series Shimakaze premium limited express EMU. Manufacturer: Kinki Sharyo.",
     "stats": {
-      "maxAcceleration": 0.85,
+      "maxAcceleration": 0.694,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.694,
+        "a1": 0.694,
+        "v1": 13.89,
+        "v2": 27.78,
+        "exponent": 2
+      },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 24,
@@ -4203,8 +4553,15 @@
     "name": "KH 8000 EMU 1435KH",
     "description": "Keihan 8000 series 8-car limited express EMU for Osaka-Kyoto services. Manufacturer: Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.694,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.694,
+        "a1": 0.694,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
       "capacityPerCar": 299,
@@ -4335,8 +4692,15 @@
     "name": "HN 9300 EMU 1435HS/SH",
     "description": "Hankyu 9300 series Kyoto Line commuter/limited express EMU. Manufacturer: Hitachi.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.722,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.722,
+        "a1": 0.722,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 298,
@@ -4406,8 +4770,15 @@
     "name": "HN 1000 EMU 1435HS/SH",
     "description": "Hankyu 1000 series commuter EMU for Osaka/Kyoto/Kobe-area services. Manufacturer: Hitachi.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.722,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.722,
+        "a1": 0.722,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 299,

@@ -4,8 +4,15 @@
     "name": "TYO 1000 Ginza",
     "description": "Tokyo Metro 1000 series 6-car train. Used on the Ginza Line. Manufacturer: Nippon Sharyo.",
     "stats": {
-      "maxAcceleration": 1,
+      "maxAcceleration": 0.917,
       "maxDeceleration": 1.15,
+      "accelerationCurve": {
+        "a0": 0.917,
+        "a1": 0.917,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 22.22,
       "maxSpeedLocalStation": 22.22,
       "capacityPerCar": 265,
@@ -70,8 +77,15 @@
     "name": "TYO 2000 Marunouchi 1435TM",
     "description": "Tokyo Metro 2000 series 6-car train. Used on the Marunouchi Line. Manufacturer: Nippon Sharyo.",
     "stats": {
-      "maxAcceleration": 1,
+      "maxAcceleration": 0.917,
       "maxDeceleration": 1.15,
+      "accelerationCurve": {
+        "a0": 0.917,
+        "a1": 0.917,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 22.22,
       "maxSpeedLocalStation": 22.22,
       "capacityPerCar": 330,
@@ -138,8 +152,15 @@
     "name": "TYO 02 Marunouchi 1435TM",
     "description": "Tokyo Metro 02 series 6-car train. Older Marunouchi Line stock. Manufacturer: Kawasaki Heavy Industries / Nippon Sharyo / Tokyu Car.",
     "stats": {
-      "maxAcceleration": 1,
+      "maxAcceleration": 0.889,
       "maxDeceleration": 1.15,
+      "accelerationCurve": {
+        "a0": 0.889,
+        "a1": 0.889,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 22.22,
       "maxSpeedLocalStation": 22.22,
       "capacityPerCar": 331,
@@ -272,8 +293,15 @@
     "name": "TYO 13000 Hibiya 1067JP/MH/TB",
     "description": "Tokyo Metro 13000 series 7-car train. Used on the Hibiya Line. Manufacturer: Kinki Sharyo.",
     "stats": {
-      "maxAcceleration": 1,
+      "maxAcceleration": 0.917,
       "maxDeceleration": 1.15,
+      "accelerationCurve": {
+        "a0": 0.917,
+        "a1": 0.917,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 30.56,
       "capacityPerCar": 367,
@@ -347,8 +375,15 @@
     "name": "TYO 15000 Tozai 1067JP/MT",
     "description": "Tokyo Metro 15000 series 10-car wide-door train. Used on the Tozai Line. Manufacturer: Hitachi.",
     "stats": {
-      "maxAcceleration": 1,
+      "maxAcceleration": 0.917,
       "maxDeceleration": 1.15,
+      "accelerationCurve": {
+        "a0": 0.917,
+        "a1": 0.917,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 30.56,
       "capacityPerCar": 367,
@@ -420,8 +455,15 @@
     "name": "TYO 16000 Chiyoda 1067JP/MC/OD",
     "description": "Tokyo Metro 16000 series 10-car train. Used on the Chiyoda Line. Manufacturer: Kawasaki Heavy Industries / Hitachi.",
     "stats": {
-      "maxAcceleration": 1,
+      "maxAcceleration": 0.917,
       "maxDeceleration": 1.15,
+      "accelerationCurve": {
+        "a0": 0.917,
+        "a1": 0.917,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 30.56,
       "capacityPerCar": 368,
@@ -495,8 +537,15 @@
     "name": "TYO 17000 Yurakucho-Fukutoshin 1067JP/MF/SB/TQ",
     "description": "Tokyo Metro 17000 series train. Used on Yurakucho and Fukutoshin lines. Manufacturer: Hitachi.",
     "stats": {
-      "maxAcceleration": 1,
+      "maxAcceleration": 0.917,
       "maxDeceleration": 1.15,
+      "accelerationCurve": {
+        "a0": 0.917,
+        "a1": 0.917,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
       "capacityPerCar": 368,
@@ -571,8 +620,15 @@
     "name": "TYO 18000 Hanzomon 1067JP/MZ/TB/TQ",
     "description": "Tokyo Metro 18000 series 10-car train. Used on the Hanzomon Line. Manufacturer: Hitachi.",
     "stats": {
-      "maxAcceleration": 1,
+      "maxAcceleration": 0.917,
       "maxDeceleration": 1.15,
+      "accelerationCurve": {
+        "a0": 0.917,
+        "a1": 0.917,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
       "capacityPerCar": 368,
@@ -648,8 +704,15 @@
     "name": "TYO 9000 Namboku 1067JP/MB/MI/TQ",
     "description": "Tokyo Metro 9000 series 6/8-car train. Used on the Namboku Line. Manufacturer: Kawasaki Heavy Industries / Tokyu Car.",
     "stats": {
-      "maxAcceleration": 1,
+      "maxAcceleration": 0.917,
       "maxDeceleration": 1.15,
+      "accelerationCurve": {
+        "a0": 0.917,
+        "a1": 0.917,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 30.56,
       "capacityPerCar": 368,
@@ -725,8 +788,15 @@
     "name": "TYO 5500 Asakusa 1435TK",
     "description": "Toei 5500 series 8-car train. Used on the Asakusa Line and airport through services. Manufacturer: J-TREC.",
     "stats": {
-      "maxAcceleration": 1,
+      "maxAcceleration": 0.917,
       "maxDeceleration": 1.15,
+      "accelerationCurve": {
+        "a0": 0.917,
+        "a1": 0.917,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 331,
@@ -795,8 +865,15 @@
     "name": "TYO 6500 Mita 1067JP/MB/MI/TQ",
     "description": "Toei 6500 series 8-car train. Used on the Mita Line. Manufacturer: Kinki Sharyo.",
     "stats": {
-      "maxAcceleration": 1,
+      "maxAcceleration": 0.917,
       "maxDeceleration": 1.15,
+      "accelerationCurve": {
+        "a0": 0.917,
+        "a1": 0.917,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
       "capacityPerCar": 368,
@@ -871,8 +948,15 @@
     "name": "TYO 10-300 Shinjuku 1372KT",
     "description": "Toei 10-300 series 10-car train. Used on the Shinjuku Line. Manufacturer: J-TREC.",
     "stats": {
-      "maxAcceleration": 1,
+      "maxAcceleration": 0.917,
       "maxDeceleration": 1.15,
+      "accelerationCurve": {
+        "a0": 0.917,
+        "a1": 0.917,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
       "capacityPerCar": 368,
@@ -940,8 +1024,15 @@
     "name": "TYO 12-600 Oedo Linear",
     "description": "Toei 12-600 series 8-car linear-motor train. Used on the Oedo Line. Manufacturer: Kawasaki Heavy Industries / Nippon Sharyo.",
     "stats": {
-      "maxAcceleration": 1,
+      "maxAcceleration": 0.833,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.833,
+        "a1": 0.833,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 19.44,
       "maxSpeedLocalStation": 19.44,
       "capacityPerCar": 273,
@@ -1007,8 +1098,15 @@
     "name": "TYO Toden 8800 Tram 1372TD",
     "description": "Tokyo Sakura Tram 8800 series streetcar. Manufacturer: Alna Sharyo.",
     "stats": {
-      "maxAcceleration": 1.1,
+      "maxAcceleration": 0.833,
       "maxDeceleration": 1.2,
+      "accelerationCurve": {
+        "a0": 0.833,
+        "a1": 0.833,
+        "v1": 6.94,
+        "v2": 12.5,
+        "exponent": 2
+      },
       "maxSpeed": 11.11,
       "maxSpeedLocalStation": 11.11,
       "capacityPerCar": 120,
@@ -1075,8 +1173,15 @@
     "name": "TYO Toden 9000 Tram 1372TD",
     "description": "Tokyo Sakura Tram 9000 series retro-style streetcar for the Toden Arakawa Line. Manufacturer: Alna Sharyo.",
     "stats": {
-      "maxAcceleration": 1.1,
+      "maxAcceleration": 0.833,
       "maxDeceleration": 1.2,
+      "accelerationCurve": {
+        "a0": 0.833,
+        "a1": 0.833,
+        "v1": 6.94,
+        "v2": 12.5,
+        "exponent": 2
+      },
       "maxSpeed": 11.11,
       "maxSpeedLocalStation": 11.11,
       "capacityPerCar": 117,
@@ -1207,8 +1312,15 @@
     "name": "TYO Nippori Liner 330",
     "description": "Nippori-Toneri Liner 330 series automated guideway train. Manufacturer: Niigata Transys.",
     "stats": {
-      "maxAcceleration": 1.1,
+      "maxAcceleration": 0.972,
       "maxDeceleration": 1.2,
+      "accelerationCurve": {
+        "a0": 0.972,
+        "a1": 0.972,
+        "v1": 8.33,
+        "v2": 15.28,
+        "exponent": 2
+      },
       "maxSpeed": 16.67,
       "maxSpeedLocalStation": 16.67,
       "capacityPerCar": 88,
@@ -1273,8 +1385,15 @@
     "name": "TYO Yurikamome 7300",
     "description": "Yurikamome 7300 series automated guideway train. Manufacturer: Mitsubishi Heavy Industries / Niigata Transys.",
     "stats": {
-      "maxAcceleration": 1.1,
+      "maxAcceleration": 0.972,
       "maxDeceleration": 1.2,
+      "accelerationCurve": {
+        "a0": 0.972,
+        "a1": 0.972,
+        "v1": 8.33,
+        "v2": 15.28,
+        "exponent": 2
+      },
       "maxSpeed": 16.67,
       "maxSpeedLocalStation": 16.67,
       "capacityPerCar": 91,
@@ -1340,8 +1459,15 @@
     "name": "TYO New Shuttle 2000",
     "description": "Saitama New Shuttle 2000 series 6-car rubber-tyred AGT train for the Ina Line between Omiya and Uchijuku. Manufacturer: Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 1.1,
+      "maxAcceleration": 0.972,
       "maxDeceleration": 1.2,
+      "accelerationCurve": {
+        "a0": 0.972,
+        "a1": 0.972,
+        "v1": 8.33,
+        "v2": 15.28,
+        "exponent": 2
+      },
       "maxSpeed": 19.44,
       "maxSpeedLocalStation": 19.44,
       "capacityPerCar": 82,
@@ -1406,8 +1532,15 @@
     "name": "TYO Monorail 10000",
     "description": "Tokyo Monorail 10000 series airport monorail train. Manufacturer: Hitachi.",
     "stats": {
-      "maxAcceleration": 1.1,
+      "maxAcceleration": 0.972,
       "maxDeceleration": 1.2,
+      "accelerationCurve": {
+        "a0": 0.972,
+        "a1": 0.972,
+        "v1": 8.33,
+        "v2": 15.28,
+        "exponent": 2
+      },
       "maxSpeed": 25.0,
       "maxSpeedLocalStation": 25.0,
       "capacityPerCar": 186,
@@ -1472,8 +1605,15 @@
     "name": "TYO Shonan Monorail 5000",
     "description": "Shonan Monorail 5000 series 3-car suspended monorail train for the Enoshima Line between Ofuna and Shonan-Enoshima. Manufacturer: Mitsubishi Heavy Industries.",
     "stats": {
-      "maxAcceleration": 1.1,
+      "maxAcceleration": 1.111,
       "maxDeceleration": 1.2,
+      "accelerationCurve": {
+        "a0": 1.111,
+        "a1": 1.111,
+        "v1": 8.33,
+        "v2": 15.28,
+        "exponent": 2
+      },
       "maxSpeed": 20.83,
       "maxSpeedLocalStation": 20.83,
       "capacityPerCar": 146,
@@ -1538,8 +1678,15 @@
     "name": "TYO E235-0 1067JP",
     "description": "JR East E235-0 series 11-car commuter train. Used on the Yamanote Line. Manufacturer: J-TREC.",
     "stats": {
-      "maxAcceleration": 0.85,
+      "maxAcceleration": 0.833,
       "maxDeceleration": 1.25,
+      "accelerationCurve": {
+        "a0": 0.833,
+        "a1": 0.833,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 340,
@@ -1610,12 +1757,19 @@
     "name": "TYO E235-1000 1067JP",
     "description": "JR East E235-1000 series 11/15-car commuter train. Used on the Yokosuka and Sobu Rapid lines. Manufacturer: J-TREC.",
     "stats": {
-      "maxAcceleration": 0.85,
+      "maxAcceleration": 0.694,
       "maxDeceleration": 1.25,
+      "accelerationCurve": {
+        "a0": 0.694,
+        "a1": 0.694,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
-      "capacityPerCar": 291,
-      "seatsPerCar": 48,
+      "capacityPerCar": 290,
+      "seatsPerCar": 60,
       "doorsPerCarPerSide": 4,
       "carLength": 20,
       "minCars": 4,
@@ -1679,11 +1833,18 @@
   },
   {
     "id": "tyo-e233-commuter",
-    "name": "TYO E233 Commuter 1067JP/MC",
+    "name": "TYO E233 Commuter 1067JP",
     "description": "JR East E233 series commuter train family. Used on major Tokyo-area lines. Manufacturer: J-TREC / Tokyu Car / Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 0.85,
+      "maxAcceleration": 0.694,
       "maxDeceleration": 1.25,
+      "accelerationCurve": {
+        "a0": 0.694,
+        "a1": 0.694,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 290,
@@ -1737,8 +1898,7 @@
       "1067JP-100",
       "1067JP-110",
       "1067JP-120",
-      "1067JP-130",
-      "1067MC-80"
+      "1067JP-130"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -1757,8 +1917,15 @@
     "name": "TYO E233 Urban 1067JP",
     "description": "JR East E233 series commuter train. Used on inner Tokyo commuter lines. Manufacturer: J-TREC.",
     "stats": {
-      "maxAcceleration": 0.85,
+      "maxAcceleration": 0.833,
       "maxDeceleration": 1.25,
+      "accelerationCurve": {
+        "a0": 0.833,
+        "a1": 0.833,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 340,
@@ -1825,12 +1992,100 @@
     "rampCost": 5000000
   },
   {
+    "id": "tyo-e233-2000",
+    "name": "TYO E233-2000 1067JP/MC/OD",
+    "description": "JR East E233-2000 series 10-car narrow-body commuter train for Joban Local Line services with through-service to the Tokyo Metro Chiyoda Line and Odakyu Line. Manufacturer: J-TREC.",
+    "stats": {
+      "maxAcceleration": 0.917,
+      "maxDeceleration": 1.25,
+      "accelerationCurve": {
+        "a0": 0.917,
+        "a1": 0.917,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
+      "maxSpeed": 36.11,
+      "maxSpeedLocalStation": 36.11,
+      "capacityPerCar": 318,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 4,
+      "carLength": 20,
+      "minCars": 10,
+      "maxCars": 10,
+      "carsPerCarSet": 10,
+      "carCost": 3200000,
+      "trainWidth": 2.77,
+      "minStationLength": 200,
+      "maxStationLength": 210,
+      "baseTrackCost": 32000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.275,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 60,
+      "crossoverSpeed": 12.5
+    },
+    "appearance": {
+      "color": "#00A040"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
+    },
+    "Manufacturer": [
+      "J-TREC"
+    ],
+    "compatibleTrackTypes": [
+      "1067JP-95",
+      "1067JP-100",
+      "1067JP-110",
+      "1067JP-120",
+      "1067JP-130",
+      "1067MC-80",
+      "1067OD-110"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
+  },
+  {
     "id": "tyo-e231-commuter",
     "name": "TYO E231 Suburban 1067JP",
     "description": "JR East E231 series commuter train family. Used on major outer Tokyo-area lines. Manufacturer: Tokyu Car / Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 0.83,
+      "maxAcceleration": 0.639,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.639,
+        "a1": 0.639,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 291,
@@ -1902,8 +2157,15 @@
     "name": "TYO E231 Urban 1067JP",
     "description": "JR East E231 series commuter train family. Used on major Tokyo-area lines. Manufacturer: Tokyu Car / Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 0.83,
+      "maxAcceleration": 0.694,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.694,
+        "a1": 0.694,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 340,
@@ -1975,8 +2237,15 @@
     "name": "TYO E217 Commuter 1067JP",
     "description": "JR East E217 series commuter train. Used on the Yokosuka and Sobu Rapid lines. Manufacturer: Tokyu Car / Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 0.83,
+      "maxAcceleration": 0.556,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.556,
+        "a1": 0.556,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
       "capacityPerCar": 291,
@@ -2048,8 +2317,15 @@
     "name": "TYO 209 Chiba 1067JP",
     "description": "JR East 209-2000/2100 series 4/6/10-car commuter EMU, converted from former Keihin-Tohoku stock, for Chiba-area local services including the Narita and Kashima lines. Manufacturer: Kawasaki Heavy Industries / Tokyu Car / JR East.",
     "stats": {
-      "maxAcceleration": 0.69,
+      "maxAcceleration": 0.694,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.694,
+        "a1": 0.694,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 30.56,
       "capacityPerCar": 283,
@@ -2122,8 +2398,15 @@
     "name": "TYO 205 Tsurumi 1067JP",
     "description": "JR East 205-1100 series 3-car commuter EMU, rebuilt from 205-0 stock, for Tsurumi Line services in Kawasaki and Yokohama. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo / Tokyu Car.",
     "stats": {
-      "maxAcceleration": 0.69,
+      "maxAcceleration": 0.667,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.667,
+        "a1": 0.667,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 27.78,
       "maxSpeedLocalStation": 27.78,
       "capacityPerCar": 322,
@@ -2198,8 +2481,15 @@
     "name": "TYO E531 Commuter 1067JP",
     "description": "JR East E531 series commuter train. Used on the Joban Rapid line. Manufacturer: J-TREC / Tokyu Car / Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 0.85,
+      "maxAcceleration": 0.694,
       "maxDeceleration": 1.17,
+      "accelerationCurve": {
+        "a0": 0.694,
+        "a1": 0.694,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 291,
@@ -2272,8 +2562,15 @@
     "name": "TYO E257 Limited Express 1067JP",
     "description": "JR East E257 series 2 to 9 car limited express train. Used on Azusa, Kaiji, Odoriko, Shonan and more Express services. Manufacturer: Hitachi / Kinki Sharyo / Tokyu Car.",
     "stats": {
-      "maxAcceleration": 0.85,
+      "maxAcceleration": 0.556,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.556,
+        "a1": 0.556,
+        "v1": 13.89,
+        "v2": 27.78,
+        "exponent": 2
+      },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 60,
@@ -2346,8 +2643,15 @@
     "name": "TYO E259 Narita Express 1067JP",
     "description": "JR East E259 series 6/12-car airport limited express train. Used on Narita Express services. Manufacturer: Kinki Sharyo / Tokyu Car.",
     "stats": {
-      "maxAcceleration": 0.85,
+      "maxAcceleration": 0.556,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.556,
+        "a1": 0.556,
+        "v1": 13.89,
+        "v2": 27.78,
+        "exponent": 2
+      },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 44,
@@ -2421,8 +2725,8 @@
     "stats": {
       "maxAcceleration": 9,
       "maxDeceleration": 9,
-      "maxSpeed": 25.0,
-      "maxSpeedLocalStation": 25.0,
+      "maxSpeed": 26.4,
+      "maxSpeedLocalStation": 26.4,
       "capacityPerCar": 0,
       "seatsPerCar": 0,
       "doorsPerCarPerSide": 999,
@@ -3801,8 +4105,15 @@
     "name": "TYO Keisei AE Skyliner 1435TK",
     "description": "Keisei AE series 8-car airport limited express train. Used on Skyliner services to Narita Airport. Manufacturer: Nippon Sharyo.",
     "stats": {
-      "maxAcceleration": 0.85,
+      "maxAcceleration": 0.556,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.556,
+        "a1": 0.556,
+        "v1": 13.89,
+        "v2": 27.78,
+        "exponent": 2
+      },
       "maxSpeed": 44.44,
       "maxSpeedLocalStation": 44.44,
       "capacityPerCar": 48,
@@ -3871,8 +4182,15 @@
     "name": "TYO Keisei 3000 1435TK",
     "description": "Keisei 3000 series 6/8-car commuter EMU for Keisei Main Line, Narita Sky Access and Hokuso Line services, with through-service to the Toei Asakusa and Keikyu lines. Manufacturer: J-TREC / Nippon Sharyo.",
     "stats": {
-      "maxAcceleration": 0.97,
+      "maxAcceleration": 0.972,
       "maxDeceleration": 1.11,
+      "accelerationCurve": {
+        "a0": 0.972,
+        "a1": 0.972,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 285,
@@ -3942,8 +4260,15 @@
     "name": "TYO Keisei 3100 1435TK",
     "description": "Keisei 3100 series 8-car commuter EMU with luggage space for Narita Sky Access airport services, with through-service to the Toei Asakusa and Keikyu lines. Manufacturer: J-TREC / Nippon Sharyo.",
     "stats": {
-      "maxAcceleration": 0.97,
+      "maxAcceleration": 0.833,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.833,
+        "a1": 0.833,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 295,
@@ -4013,8 +4338,15 @@
     "name": "TYO Keisei 3500 1435TK",
     "description": "Keisei 3500 series refurbished 4/6/8-car commuter EMU, Keisei's first stainless-steel cars, used on local services across the Keisei network. Manufacturer: Nippon Sharyo / Kawasaki Heavy Industries / Tokyu Car.",
     "stats": {
-      "maxAcceleration": 0.83,
+      "maxAcceleration": 0.972,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.972,
+        "a1": 0.972,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
       "capacityPerCar": 283,
@@ -4085,8 +4417,15 @@
     "name": "TYO Odakyu 70000 GSE 1067JP/OD",
     "description": "Odakyu 70000 series GSE Romancecar limited express train. Manufacturer: Nippon Sharyo.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.556,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.556,
+        "a1": 0.556,
+        "v1": 13.89,
+        "v2": 27.78,
+        "exponent": 2
+      },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
       "capacityPerCar": 48,
@@ -4157,8 +4496,15 @@
     "name": "TYO Seibu 001 Laview 1067JP/SB",
     "description": "Seibu 001 series Laview limited express train. Manufacturer: Hitachi.",
     "stats": {
-      "maxAcceleration": 0.85,
+      "maxAcceleration": 0.917,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.917,
+        "a1": 0.917,
+        "v1": 13.89,
+        "v2": 27.78,
+        "exponent": 2
+      },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
       "capacityPerCar": 48,
@@ -4230,8 +4576,15 @@
     "name": "TYO Seibu 10000 New Red Arrow 1067JP/SB",
     "description": "Seibu 10000 series New Red Arrow limited express train, used on Koedo services on the Shinjuku Line. Manufacturer: Hitachi.",
     "stats": {
-      "maxAcceleration": 0.85,
+      "maxAcceleration": 0.75,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.75,
+        "a1": 0.75,
+        "v1": 13.89,
+        "v2": 27.78,
+        "exponent": 2
+      },
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 30.56,
       "capacityPerCar": 58,
@@ -4303,8 +4656,15 @@
     "name": "TYO Seibu 40000 Commuter 1067JP/MF/SB/TQ",
     "description": "Seibu 40000 series commuter/S-TRAIN EMU. Used on the Ikebukuro Line, with through-service to the Yurakucho and Fukutoshin lines and onward to Tokyu Toyoko services. Manufacturer: J-TREC.",
     "stats": {
-      "maxAcceleration": 0.85,
+      "maxAcceleration": 0.917,
       "maxDeceleration": 1.2,
+      "accelerationCurve": {
+        "a0": 0.917,
+        "a1": 0.917,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
       "capacityPerCar": 328,
@@ -4379,8 +4739,15 @@
     "name": "TYO Seibu 30000 Commuter 1067JP/MF/SB/TQ",
     "description": "Seibu 30000 series \"Smile Train\" commuter EMU. Used on the Ikebukuro Line, with through-service to the Yurakucho and Fukutoshin lines and onward to Tokyu Toyoko services. Manufacturer: Kawasaki Heavy Industries / J-TREC.",
     "stats": {
-      "maxAcceleration": 0.8,
+      "maxAcceleration": 0.917,
       "maxDeceleration": 1.15,
+      "accelerationCurve": {
+        "a0": 0.917,
+        "a1": 0.917,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
       "capacityPerCar": 328,
@@ -4456,8 +4823,15 @@
     "name": "TYO Seibu 20000 Commuter 1067JP/MF/SB/TQ",
     "description": "Seibu 20000 series commuter EMU. Used on the Ikebukuro and Shinjuku lines, with through-service to the Yurakucho and Fukutoshin lines and onward to Tokyu Toyoko services. Manufacturer: Tokyu Car.",
     "stats": {
-      "maxAcceleration": 0.75,
+      "maxAcceleration": 0.833,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.833,
+        "a1": 0.833,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
       "capacityPerCar": 327,
@@ -4532,8 +4906,15 @@
     "name": "TYO Tobu N100 Spacia X 1067JP/MH/MZ/TB",
     "description": "Tobu N100 series Spacia X limited express train. Manufacturer: Hitachi.",
     "stats": {
-      "maxAcceleration": 0.85,
+      "maxAcceleration": 0.619,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.619,
+        "a1": 0.619,
+        "v1": 13.89,
+        "v2": 27.78,
+        "exponent": 2
+      },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 32,
@@ -4608,8 +4989,15 @@
     "name": "TYO Tobu 100 Spacia 1067JP/MH/MZ/TB",
     "description": "Tobu 100 series Spacia limited express train. Used on Kegon and Kinu services. Manufacturer: Alna Koki / Tobu Railway.",
     "stats": {
-      "maxAcceleration": 0.85,
+      "maxAcceleration": 0.556,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.556,
+        "a1": 0.556,
+        "v1": 13.89,
+        "v2": 27.78,
+        "exponent": 2
+      },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 44,
@@ -4685,8 +5073,15 @@
     "name": "TYO Tobu 500 Revaty 1067JP/MH/MZ/TB",
     "description": "Tobu 500 series Revaty limited express train. Used on Revaty Kegon and Revaty Aizu services, with through-service to the Hanzomon Line. Manufacturer: Hitachi.",
     "stats": {
-      "maxAcceleration": 0.9,
+      "maxAcceleration": 0.619,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.619,
+        "a1": 0.619,
+        "v1": 13.89,
+        "v2": 27.78,
+        "exponent": 2
+      },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 44,
@@ -4761,8 +5156,15 @@
     "name": "TYO Tobu 50000 Commuter 1067JP/MH/MZ/TB/TQ",
     "description": "Tobu 50000/50050/50070 series commuter train family. Used on the Tojo, Isesaki and Skytree lines, with through-service to the Hibiya and Hanzomon lines. Manufacturer: Hitachi.",
     "stats": {
-      "maxAcceleration": 0.85,
+      "maxAcceleration": 0.917,
       "maxDeceleration": 1.25,
+      "accelerationCurve": {
+        "a0": 0.917,
+        "a1": 0.917,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
       "capacityPerCar": 326,
@@ -4839,8 +5241,15 @@
     "name": "TYO Tobu 10000/10030 Commuter 1067JP/MH/MZ/TB",
     "description": "Tobu 10000 and 10030 series commuter train family. Used on the Tojo, Isesaki and Skytree lines, with through-service to the Hibiya and Hanzomon lines. Manufacturer: Tobu Railway.",
     "stats": {
-      "maxAcceleration": 0.8,
+      "maxAcceleration": 0.694,
       "maxDeceleration": 1.2,
+      "accelerationCurve": {
+        "a0": 0.694,
+        "a1": 0.694,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 30.56,
       "capacityPerCar": 325,
@@ -4915,8 +5324,15 @@
     "name": "TYO Tobu 8000 Commuter 1067JP/MH/MZ/TB",
     "description": "Tobu 8000 series commuter train. Legacy commuter EMU used across the Tobu network, with through-service to the Hibiya and Hanzomon lines. Manufacturer: Tobu Railway.",
     "stats": {
-      "maxAcceleration": 0.75,
+      "maxAcceleration": 0.619,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.619,
+        "a1": 0.619,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 30.56,
       "capacityPerCar": 326,
@@ -4991,8 +5407,15 @@
     "name": "TYO TX-2000 1067TX",
     "description": "Tsukuba Express TX-2000 series 6/8-car dual-voltage AC/DC commuter EMU for through services between Akihabara and Tsukuba. Manufacturer: Hitachi.",
     "stats": {
-      "maxAcceleration": 0.83,
+      "maxAcceleration": 0.833,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.833,
+        "a1": 0.833,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 339,
@@ -5059,8 +5482,15 @@
     "name": "TYO TX-3000 1067TX",
     "description": "Tsukuba Express TX-3000 series 6/8-car dual-voltage AC/DC commuter EMU, introduced in 2020 for Akihabara-Tsukuba services. Manufacturer: Hitachi.",
     "stats": {
-      "maxAcceleration": 0.83,
+      "maxAcceleration": 0.833,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.833,
+        "a1": 0.833,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 337,
@@ -5191,8 +5621,15 @@
     "name": "KQ New 1000 EMU 1435TK",
     "description": "Keikyu New 1000 series commuter EMU for Keikyu, Toei Asakusa, Keisei and airport through services. Manufacturer: Tokyu Car / J-TREC / Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.972,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.972,
+        "a1": 0.972,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 292,
@@ -5263,8 +5700,15 @@
     "name": "TKK 1000 EMU 1067JP/TQ",
     "description": "Tokyu 1000 series 3-car commuter EMU for Ikegami and Tamagawa Line service. Manufacturer: Tokyu Car.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.972,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.972,
+        "a1": 0.972,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
       "capacityPerCar": 291,
@@ -5337,8 +5781,15 @@
     "name": "KQ 2100 EMU 1435TK",
     "description": "Keikyu 2100 series 8-car limited-stop commuter EMU for mainline rapid services. Manufacturer: Kawasaki Heavy Industries / Tokyu Car.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.972,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.972,
+        "a1": 0.972,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 251,
@@ -5609,8 +6060,15 @@
     "name": "TKK 2020 EMU 1067JP/MZ/TB/TQ",
     "description": "Tokyu 2020 series 10-car commuter EMU for Den-en-toshi Line and Hanzomon through services. Manufacturer: J-TREC.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.917,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.917,
+        "a1": 0.917,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
       "capacityPerCar": 323,
@@ -5686,8 +6144,15 @@
     "name": "TKK 5050 EMU 1067JP/MF/SB/TQ",
     "description": "Tokyu 5050 series 8/10-car commuter EMU for Toyoko/Fukutoshin through services. Manufacturer: Tokyu Car / J-TREC.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.917,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.917,
+        "a1": 0.917,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
       "capacityPerCar": 323,
@@ -5763,8 +6228,15 @@
     "name": "KEIO 5000 EMU 1372KT",
     "description": "Keio 5000 series commuter/paid-seat train for Keio Line services. Manufacturer: J-TREC.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.917,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.917,
+        "a1": 0.917,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 323,
@@ -5964,8 +6436,15 @@
     "name": "ODQ 3000 EMU 1067JP/MC/OD",
     "description": "Odakyu 3000 series commuter EMU for Odakyu Line local and express services. Manufacturer: Nippon Sharyo / Tokyu Car / Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.917,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.917,
+        "a1": 0.917,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
       "capacityPerCar": 334,
@@ -6040,8 +6519,15 @@
     "name": "ODQ 4000 EMU 1067JP/MC/OD",
     "description": "Odakyu 4000 series 10-car commuter EMU for Odakyu Line services, with through-service to the Tokyo Metro Chiyoda Line and JR Joban Local Line. Manufacturer: Tokyu Car / J-TREC / JR East.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.917,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.917,
+        "a1": 0.917,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
       "capacityPerCar": 334,
@@ -6116,8 +6602,15 @@
     "name": "TYO Enoden 2000",
     "description": "Enoshima Electric Railway (Enoden) 2000 series 2-car articulated EMU for Fujisawa-Kamakura services, coupled into 4-car trains at busy times. Manufacturer: Tokyu Car.",
     "stats": {
-      "maxAcceleration": 1.1,
+      "maxAcceleration": 0.556,
       "maxDeceleration": 1.2,
+      "accelerationCurve": {
+        "a0": 0.556,
+        "a1": 0.556,
+        "v1": 6.94,
+        "v2": 12.5,
+        "exponent": 2
+      },
       "maxSpeed": 16.67,
       "maxSpeedLocalStation": 16.67,
       "capacityPerCar": 126,

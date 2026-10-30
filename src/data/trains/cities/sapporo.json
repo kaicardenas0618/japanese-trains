@@ -4,8 +4,15 @@
     "name": "SPK 731 EMU 1067JP",
     "description": "JR Hokkaido 731 series 3/6-car commuter EMU for Sapporo-area services. Manufacturer: Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.611,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.611,
+        "a1": 0.611,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 295,
@@ -76,8 +83,15 @@
     "name": "SPK 735 EMU 1067JP",
     "description": "JR Hokkaido 735 series 3/6-car commuter EMU for Sapporo-area services. Manufacturer: Hitachi.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.611,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.611,
+        "a1": 0.611,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 295,
@@ -148,8 +162,15 @@
     "name": "SPK Sapporo 5000 Subway",
     "description": "Sapporo Municipal Subway 5000 series rubber-tired train for the Namboku Line. Manufacturer: Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 1.0,
+      "maxAcceleration": 1.111,
       "maxDeceleration": 1.15,
+      "accelerationCurve": {
+        "a0": 1.111,
+        "a1": 1.111,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 19.44,
       "maxSpeedLocalStation": 19.44,
       "capacityPerCar": 364,
@@ -214,8 +235,15 @@
     "name": "SPK Sapporo 8000 Subway",
     "description": "Sapporo Municipal Subway 8000 series rubber-tired train for the Tozai Line. Manufacturer: Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 1.0,
+      "maxAcceleration": 0.972,
       "maxDeceleration": 1.15,
+      "accelerationCurve": {
+        "a0": 0.972,
+        "a1": 0.972,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 19.44,
       "maxSpeedLocalStation": 19.44,
       "capacityPerCar": 364,
@@ -282,8 +310,15 @@
     "name": "SPK Sapporo 9000 Subway",
     "description": "Sapporo Municipal Subway 9000 series rubber-tired train for the Toho Line. Manufacturer: Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 1.0,
+      "maxAcceleration": 0.972,
       "maxDeceleration": 1.15,
+      "accelerationCurve": {
+        "a0": 0.972,
+        "a1": 0.972,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 19.44,
       "maxSpeedLocalStation": 19.44,
       "capacityPerCar": 364,
@@ -350,8 +385,15 @@
     "name": "SPK A1200 Polaris Tram 1067SC",
     "description": "Sapporo Streetcar A1200 Polaris low-floor tram. Manufacturer: Alna Sharyo.",
     "stats": {
-      "maxAcceleration": 1.1,
+      "maxAcceleration": 0.694,
       "maxDeceleration": 1.2,
+      "accelerationCurve": {
+        "a0": 0.694,
+        "a1": 0.694,
+        "v1": 6.94,
+        "v2": 12.5,
+        "exponent": 2
+      },
       "maxSpeed": 11.11,
       "maxSpeedLocalStation": 11.11,
       "capacityPerCar": 161,
@@ -418,8 +460,15 @@
     "name": "SPK 1100 Sirius Tram 1067SC",
     "description": "Sapporo Streetcar 1100 series Sirius low-floor tram. Manufacturer: Alna Sharyo.",
     "stats": {
-      "maxAcceleration": 1.1,
+      "maxAcceleration": 0.694,
       "maxDeceleration": 1.2,
+      "accelerationCurve": {
+        "a0": 0.694,
+        "a1": 0.694,
+        "v1": 6.94,
+        "v2": 12.5,
+        "exponent": 2
+      },
       "maxSpeed": 11.11,
       "maxSpeedLocalStation": 11.11,
       "capacityPerCar": 124,

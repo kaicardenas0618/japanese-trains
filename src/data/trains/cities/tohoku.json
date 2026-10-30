@@ -4,8 +4,15 @@
     "name": "JRE 701 EMU 1067JP",
     "description": "JR East 701 series AC regional EMU for Tohoku local services. Manufacturer: Kawasaki Heavy Industries / Tokyu Car.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.583,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.583,
+        "a1": 0.583,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 30.56,
       "capacityPerCar": 291,
@@ -77,8 +84,15 @@
     "name": "JRE E721 EMU 1067JP",
     "description": "JR East E721 series AC regional EMU for Sendai and Tohoku services. Manufacturer: J-TREC.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.611,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.611,
+        "a1": 0.611,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
       "capacityPerCar": 291,
@@ -149,8 +163,15 @@
     "name": "JRE KiHa110 DMU",
     "description": "JR East KiHa 100/110 series regional diesel railcar for rural Tohoku lines. Manufacturer: Fuji Heavy Industries / Niigata Transys.",
     "stats": {
-      "maxAcceleration": 0.75,
+      "maxAcceleration": 0.556,
       "maxDeceleration": 0.95,
+      "accelerationCurve": {
+        "a0": 0.556,
+        "a1": 0.556,
+        "v1": 6.94,
+        "v2": 16.67,
+        "exponent": 1.5
+      },
       "maxSpeed": 27.78,
       "maxSpeedLocalStation": 27.78,
       "capacityPerCar": 286,
@@ -225,8 +246,15 @@
     "name": "JRE GV-E400 DEMU",
     "description": "JR East GV-E400 diesel-electric railcar for regional non-electrified lines. Manufacturer: Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 0.75,
+      "maxAcceleration": 0.639,
       "maxDeceleration": 0.95,
+      "accelerationCurve": {
+        "a0": 0.639,
+        "a1": 0.639,
+        "v1": 6.94,
+        "v2": 16.67,
+        "exponent": 1.5
+      },
       "maxSpeed": 27.78,
       "maxSpeedLocalStation": 27.78,
       "capacityPerCar": 276,
@@ -300,8 +328,15 @@
     "name": "JRE 719 EMU 1067JP",
     "description": "JR East 719 series AC regional EMU formerly common across Tohoku. Manufacturer: Tokyu Car / Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.556,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.556,
+        "a1": 0.556,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 30.56,
       "capacityPerCar": 291,
@@ -373,8 +408,15 @@
     "name": "JRE HB-E210 Hybrid",
     "description": "JR East HB-E210 hybrid DMU for Sendai-area regional services. Manufacturer: J-TREC.",
     "stats": {
-      "maxAcceleration": 0.75,
+      "maxAcceleration": 0.639,
       "maxDeceleration": 0.95,
+      "accelerationCurve": {
+        "a0": 0.639,
+        "a1": 0.639,
+        "v1": 6.94,
+        "v2": 16.67,
+        "exponent": 1.5
+      },
       "maxSpeed": 27.78,
       "maxSpeedLocalStation": 27.78,
       "capacityPerCar": 276,
@@ -448,8 +490,15 @@
     "name": "SAT SAT721 EMU",
     "description": "Sendai Airport Transit SAT721 series EMU based on the E721 family. Manufacturer: J-TREC.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.611,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.611,
+        "a1": 0.611,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
       "capacityPerCar": 291,

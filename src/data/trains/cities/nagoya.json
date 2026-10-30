@@ -4,8 +4,15 @@
     "name": "JRC 313 EMU 1067JP",
     "description": "JR Central 313 series suburban EMU for Nagoya-area regional and rapid services. Manufacturer: Kinki Sharyo / Nippon Sharyo.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.722,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.722,
+        "a1": 0.722,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
       "capacityPerCar": 291,
@@ -77,8 +84,15 @@
     "name": "MEI 1000 Limited Express 1067MN/JP",
     "description": "Meitetsu 1000 series Panorama Super limited express EMU. Manufacturer: Nippon Sharyo.",
     "stats": {
-      "maxAcceleration": 0.85,
+      "maxAcceleration": 0.556,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.556,
+        "a1": 0.556,
+        "v1": 13.89,
+        "v2": 27.78,
+        "exponent": 2
+      },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 50,
@@ -151,8 +165,15 @@
     "name": "MEI 6000 EMU 1067MN/JP",
     "description": "Meitetsu 6000 series commuter EMU for Nagoya-area local and express services. Manufacturer: Nippon Sharyo.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.556,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.556,
+        "a1": 0.556,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 27.78,
       "maxSpeedLocalStation": 27.78,
       "capacityPerCar": 254,
@@ -225,8 +246,15 @@
     "name": "MEI 9500 EMU 1067MN/JP",
     "description": "Meitetsu 9500/9100 series modern commuter EMU for Nagoya-area services. Manufacturer: Nippon Sharyo.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.556,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.556,
+        "a1": 0.556,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 257,
@@ -299,8 +327,15 @@
     "name": "JRC 315 EMU 1067JP",
     "description": "JR Central 315 series commuter EMU for Nagoya-area mainline services. Manufacturer: Nippon Sharyo.",
     "stats": {
-      "maxAcceleration": 0.95,
+      "maxAcceleration": 0.722,
       "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.722,
+        "a1": 0.722,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
       "capacityPerCar": 291,
@@ -371,8 +406,15 @@
     "name": "NGY N1000 Higashiyama Subway",
     "description": "Nagoya Subway N1000 series train for the Higashiyama Line. Manufacturer: Nippon Sharyo.",
     "stats": {
-      "maxAcceleration": 1.0,
+      "maxAcceleration": 0.917,
       "maxDeceleration": 1.15,
+      "accelerationCurve": {
+        "a0": 0.917,
+        "a1": 0.917,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 22.22,
       "maxSpeedLocalStation": 22.22,
       "capacityPerCar": 253,
@@ -437,8 +479,15 @@
     "name": "NGY N3000 Tsurumai Subway 1067MN",
     "description": "Nagoya Subway N3000 series train for the Tsurumai Line. Manufacturer: Nippon Sharyo / Hitachi.",
     "stats": {
-      "maxAcceleration": 1.0,
+      "maxAcceleration": 0.833,
       "maxDeceleration": 1.15,
+      "accelerationCurve": {
+        "a0": 0.833,
+        "a1": 0.833,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
       "capacityPerCar": 361,
@@ -649,8 +698,15 @@
     "name": "NGY 6050 Sakura-dori Subway",
     "description": "Nagoya Subway 6050 series train for the Sakura-dori Line. Manufacturer: Nippon Sharyo.",
     "stats": {
-      "maxAcceleration": 1.0,
+      "maxAcceleration": 0.833,
       "maxDeceleration": 1.15,
+      "accelerationCurve": {
+        "a0": 0.833,
+        "a1": 0.833,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
       "capacityPerCar": 361,
@@ -715,8 +771,15 @@
     "name": "NGY Linimo 100 Maglev",
     "description": "Linimo 100 series urban maglev train for the Aichi Loop area. Manufacturer: Nippon Sharyo.",
     "stats": {
-      "maxAcceleration": 1.0,
+      "maxAcceleration": 1.111,
       "maxDeceleration": 1.15,
+      "accelerationCurve": {
+        "a0": 1.111,
+        "a1": 1.111,
+        "v1": 8.33,
+        "v2": 15.28,
+        "exponent": 2
+      },
       "maxSpeed": 27.78,
       "maxSpeedLocalStation": 27.78,
       "capacityPerCar": 150,

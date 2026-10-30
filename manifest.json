@@ -2,9 +2,9 @@
     "id": "japanese-trains",
     "name": "Japanese Trains",
     "description": "A train pack containing Japanese trains for Subway Builder.",
-    "version": "v5.1.5",
+    "version": "5.2.0",
     "author": {
-		"name": "kaicardenas0618",
+		"name": "kaicardenas0618 & YellowAquarium",
 		"url": "https://github.com/kaicardenas0618"
 	},
     "main": "index.js",

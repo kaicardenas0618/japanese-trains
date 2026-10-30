@@ -4,8 +4,15 @@
     "name": "OKA Yui Rail 1000 Monorail",
     "description": "Okinawa Urban Monorail (Yui Rail) 1000 series 2/3-car straddle-beam monorail train for Naha Airport-Tedako-Uranishi services. Manufacturer: Hitachi / Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 1.1,
+      "maxAcceleration": 0.972,
       "maxDeceleration": 1.2,
+      "accelerationCurve": {
+        "a0": 0.972,
+        "a1": 0.972,
+        "v1": 8.33,
+        "v2": 15.28,
+        "exponent": 2
+      },
       "maxSpeed": 18.06,
       "maxSpeedLocalStation": 18.06,
       "capacityPerCar": 175,
