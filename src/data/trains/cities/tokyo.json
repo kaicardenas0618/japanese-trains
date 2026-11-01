@@ -1094,6 +1094,361 @@
     "rampCost": 3500000
   },
   {
+    "id": "tyo-yokohama-3000-blue",
+    "name": "TYO Yokohama 3000 Blue Line 1435YB",
+    "description": "Yokohama Municipal Subway 3000 series 6-car train, built in five batches from 1992. Used on the Blue Line between Shonandai and Azamino. Manufacturer: Tokyu Car / J-TREC.",
+    "stats": {
+      "maxAcceleration": 0.889,
+      "maxDeceleration": 1.15,
+      "accelerationCurve": {
+        "a0": 0.889,
+        "a1": 0.889,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
+      "maxSpeed": 25.0,
+      "maxSpeedLocalStation": 25.0,
+      "capacityPerCar": 329,
+      "seatsPerCar": 45,
+      "doorsPerCarPerSide": 3,
+      "carLength": 18.18,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 2400000,
+      "trainWidth": 2.76,
+      "minStationLength": 110,
+      "maxStationLength": 120,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.425,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 30,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 12.5
+    },
+    "appearance": {
+      "color": "#0070C0"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8,
+      "TRENCHED": 0.54,
+      "RAMP": 0.53
+    },
+    "Manufacturer": [
+      "Tokyu Car",
+      "J-TREC"
+    ],
+    "compatibleTrackTypes": [
+      "1435YB-80"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 8000000,
+    "rampCost": 4000000
+  },
+  {
+    "id": "tyo-yokohama-4000-blue",
+    "name": "TYO Yokohama 4000 Blue Line 1435YB",
+    "description": "Yokohama Municipal Subway 4000 series 6-car train, introduced in 2022 to replace older 3000 series stock on the Blue Line. Manufacturer: Kawasaki Railcar Manufacturing.",
+    "stats": {
+      "maxAcceleration": 0.889,
+      "maxDeceleration": 1.15,
+      "accelerationCurve": {
+        "a0": 0.889,
+        "a1": 0.889,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
+      "maxSpeed": 25.0,
+      "maxSpeedLocalStation": 25.0,
+      "capacityPerCar": 330,
+      "seatsPerCar": 43,
+      "doorsPerCarPerSide": 3,
+      "carLength": 18.18,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 2400000,
+      "trainWidth": 2.76,
+      "minStationLength": 110,
+      "maxStationLength": 120,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.425,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 30,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 12.5
+    },
+    "appearance": {
+      "color": "#0070C0"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8,
+      "TRENCHED": 0.54,
+      "RAMP": 0.53
+    },
+    "Manufacturer": [
+      "Kawasaki Railcar Manufacturing"
+    ],
+    "compatibleTrackTypes": [
+      "1435YB-80"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 8000000,
+    "rampCost": 4000000
+  },
+  {
+    "id": "1435YB-80",
+    "name": "1435YB-80",
+    "description": "1435mm 80kph track for Yokohama Municipal Subway Blue Line use.",
+    "stats": {
+      "maxAcceleration": 9,
+      "maxDeceleration": 9,
+      "maxSpeed": 22.3,
+      "maxSpeedLocalStation": 22.3,
+      "capacityPerCar": 0,
+      "seatsPerCar": 0,
+      "doorsPerCarPerSide": 999,
+      "carLength": 18.18,
+      "minCars": 2,
+      "maxCars": 20,
+      "carsPerCarSet": 1,
+      "carCost": 3200000,
+      "trainWidth": 2.76,
+      "minStationLength": 47,
+      "maxStationLength": 374,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.425,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 12.5
+    },
+    "appearance": {
+      "color": "#0070C0"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4,
+      "STANDARD_TUNNEL": 2,
+      "CUT_AND_COVER": 1,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8,
+      "TRENCHED": 0.54,
+      "RAMP": 0.53
+    },
+    "Manufacturer": [],
+    "compatibleTrackTypes": [],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 8000000,
+    "rampCost": 4000000
+  },
+  {
+    "id": "tyo-yokohama-10000-green",
+    "name": "TYO Yokohama 10000 Green Line Linear 1435YG",
+    "description": "Yokohama Municipal Subway 10000 series 4/6-car linear-motor train. Used on the Green Line between Nakayama and Hiyoshi. Manufacturer: Kawasaki Heavy Industries / Kawasaki Railcar Manufacturing.",
+    "stats": {
+      "maxAcceleration": 0.889,
+      "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.889,
+        "a1": 0.889,
+        "v1": 10.56,
+        "v2": 21.67,
+        "exponent": 2
+      },
+      "maxSpeed": 22.22,
+      "maxSpeedLocalStation": 22.22,
+      "capacityPerCar": 256,
+      "seatsPerCar": 35,
+      "doorsPerCarPerSide": 4,
+      "carLength": 15.7,
+      "minCars": 4,
+      "maxCars": 6,
+      "carsPerCarSet": 2,
+      "carCost": 2400000,
+      "trainWidth": 2.49,
+      "minStationLength": 63,
+      "maxStationLength": 105,
+      "baseTrackCost": 30000,
+      "baseStationCost": 47000000,
+      "trainOperationalCostPerHour": 220,
+      "carOperationalCostPerHour": 23,
+      "scissorsCrossoverCost": 13500000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.35,
+      "minTurnRadius": 45,
+      "minStationTurnRadius": 380,
+      "maxSlopePercentage": 5.5,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 30,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 34,
+      "crossoverSpeed": 12.5
+    },
+    "appearance": {
+      "color": "#00AA5E"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 3.8,
+      "STANDARD_TUNNEL": 1.9,
+      "CUT_AND_COVER": 0.95,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.75,
+      "TRENCHED": 0.53,
+      "RAMP": 0.5
+    },
+    "Manufacturer": [
+      "Kawasaki Heavy Industries",
+      "Kawasaki Railcar Manufacturing"
+    ],
+    "compatibleTrackTypes": [
+      "1435YG-80"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 7000000,
+    "rampCost": 3500000
+  },
+  {
+    "id": "1435YG-80",
+    "name": "1435YG-80",
+    "description": "1435mm 80kph track for Yokohama Municipal Subway Green Line linear-motor use.",
+    "stats": {
+      "maxAcceleration": 9,
+      "maxDeceleration": 9,
+      "maxSpeed": 22.3,
+      "maxSpeedLocalStation": 22.3,
+      "capacityPerCar": 0,
+      "seatsPerCar": 0,
+      "doorsPerCarPerSide": 999,
+      "carLength": 15.7,
+      "minCars": 2,
+      "maxCars": 20,
+      "carsPerCarSet": 1,
+      "carCost": 3200000,
+      "trainWidth": 2.49,
+      "minStationLength": 42,
+      "maxStationLength": 324,
+      "baseTrackCost": 30000,
+      "baseStationCost": 47000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 13500000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.35,
+      "minTurnRadius": 45,
+      "minStationTurnRadius": 380,
+      "maxSlopePercentage": 5.5,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 34,
+      "crossoverSpeed": 12.5
+    },
+    "appearance": {
+      "color": "#00AA5E"
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 3.8,
+      "STANDARD_TUNNEL": 1.9,
+      "CUT_AND_COVER": 0.95,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.75,
+      "TRENCHED": 0.53,
+      "RAMP": 0.5
+    },
+    "Manufacturer": [],
+    "compatibleTrackTypes": [],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 7000000,
+    "rampCost": 3500000
+  },
+  {
     "id": "tyo-toden-8800-tram",
     "name": "TYO Toden 8800 Tram 1372TD",
     "description": "Tokyo Sakura Tram 8800 series streetcar. Manufacturer: Alna Sharyo.",
@@ -4260,11 +4615,11 @@
     "name": "TYO Keisei 3100 1435TK",
     "description": "Keisei 3100 series 8-car commuter EMU with luggage space for Narita Sky Access airport services, with through-service to the Toei Asakusa and Keikyu lines. Manufacturer: J-TREC / Nippon Sharyo.",
     "stats": {
-      "maxAcceleration": 0.833,
+      "maxAcceleration": 0.972,
       "maxDeceleration": 1.1,
       "accelerationCurve": {
-        "a0": 0.833,
-        "a1": 0.833,
+        "a0": 0.972,
+        "a1": 0.972,
         "v1": 10.56,
         "v2": 21.67,
         "exponent": 2

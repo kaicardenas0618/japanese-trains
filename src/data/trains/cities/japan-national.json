@@ -1561,15 +1561,8 @@
     "name": "JP L0 Chuo Shinkansen",
     "description": "8-car L0 series SCMaglev train for the Chuo Shinkansen high-speed maglev line linking Tokyo, Nagoya, and Osaka. Manufacturer: Hitachi / Kawasaki Heavy Industries / Nippon Sharyo.",
     "stats": {
-      "maxAcceleration": 0.694,
+      "maxAcceleration": 0.719,
       "maxDeceleration": 1.05,
-      "accelerationCurve": {
-        "a0": 0.694,
-        "a1": 0.694,
-        "v1": 41.67,
-        "v2": 111.11,
-        "exponent": 1.5
-      },
       "maxSpeed": 152.78,
       "maxSpeedLocalStation": 152.78,
       "capacityPerCar": 68,
@@ -2911,11 +2904,11 @@
     "name": "JP JNR 211 EMU 1067JP",
     "description": "JNR 211 series suburban EMU. Later JNR stainless-steel regional and suburban stock. Manufacturer: JNR / Kawasaki Heavy Industries / Tokyu Car / Nippon Sharyo.",
     "stats": {
-      "maxAcceleration": 0.833,
+      "maxAcceleration": 0.472,
       "maxDeceleration": 1.1,
       "accelerationCurve": {
-        "a0": 0.833,
-        "a1": 0.833,
+        "a0": 0.472,
+        "a1": 0.472,
         "v1": 10.56,
         "v2": 21.67,
         "exponent": 2

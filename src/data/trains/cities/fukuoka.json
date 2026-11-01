@@ -703,11 +703,11 @@
     "name": "NIS 9000 EMU 1067NT",
     "description": "Nishitetsu 9000 series commuter EMU for Tenjin-Omuta Line express and local services. Manufacturer: Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 0.833,
+      "maxAcceleration": 0.694,
       "maxDeceleration": 1.1,
       "accelerationCurve": {
-        "a0": 0.833,
-        "a1": 0.833,
+        "a0": 0.694,
+        "a1": 0.694,
         "v1": 10.56,
         "v2": 21.67,
         "exponent": 2

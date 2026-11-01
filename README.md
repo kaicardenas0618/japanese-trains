@@ -8,7 +8,7 @@ This mod uses a proprietary track and train separation system that allows every 
 Initial builds should be done with a track option where applicable. Compatible tracks are listed at the end of the train name, e.g. both JP N700A Shinkansen 1435JP and JP E5 Shinkansen 1435JP are compatible with 1435JP-60, 1435JP-100, 1435JP-130, 1435JP-285, and 1435JP-320 tracks. Specific trains can be chosen afterwards in the route menu.
 
 <details>
-<summary>Track list (55)</summary>
+<summary>Track list (57)</summary>
 
 <table style="width: auto">
   <tr>
@@ -291,11 +291,21 @@ Initial builds should be done with a track option where applicable. Compatible t
     <td>Tokyo Metro Marunouchi Line</td>
     <td>75</td>
   </tr>
+  <tr>
+    <td>1435YB-80</td>
+    <td>Yokohama Municipal Subway Blue Line</td>
+    <td>80</td>
+  </tr>
+  <tr>
+    <td>1435YG-80</td>
+    <td>Yokohama Municipal Subway Green Line linear-motor</td>
+    <td>80</td>
+  </tr>
 </table>
 
 </details>
 
-## Currently Available Trains (207)
+## Currently Available Trains (210)
 
 <details>
 <summary>National (34)</summary>
@@ -1507,7 +1517,7 @@ Initial builds should be done with a track option where applicable. Compatible t
 </details>
 
 <details>
-<summary>Tokyo (60)</summary>
+<summary>Tokyo (63)</summary>
 
 <table style="width: auto">
   <tr>
@@ -1607,6 +1617,27 @@ Initial builds should be done with a track option where applicable. Compatible t
     <td>Kawasaki Heavy Industries / Nippon Sharyo</td>
     <td>70</td>
     <td>2184</td>
+  </tr>
+  <tr>
+    <td>TYO Yokohama 3000 Blue Line 1435YB</td>
+    <td>Yokohama Municipal Subway 3000 series 6-car train, built in five batches from 1992. Used on the Blue Line between Shonandai and Azamino. Manufacturer: Tokyu Car / J-TREC.</td>
+    <td>Tokyu Car / J-TREC</td>
+    <td>90</td>
+    <td>1974</td>
+  </tr>
+  <tr>
+    <td>TYO Yokohama 4000 Blue Line 1435YB</td>
+    <td>Yokohama Municipal Subway 4000 series 6-car train, introduced in 2022 to replace older 3000 series stock on the Blue Line. Manufacturer: Kawasaki Railcar Manufacturing.</td>
+    <td>Kawasaki Railcar Manufacturing</td>
+    <td>90</td>
+    <td>1980</td>
+  </tr>
+  <tr>
+    <td>TYO Yokohama 10000 Green Line Linear 1435YG</td>
+    <td>Yokohama Municipal Subway 10000 series 4/6-car linear-motor train. Used on the Green Line between Nakayama and Hiyoshi. Manufacturer: Kawasaki Heavy Industries / Kawasaki Railcar Manufacturing.</td>
+    <td>Kawasaki Heavy Industries / Kawasaki Railcar Manufacturing</td>
+    <td>80</td>
+    <td>1536</td>
   </tr>
   <tr>
     <td>TYO Toden 8800 Tram 1372TD</td>
