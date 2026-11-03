@@ -87,10 +87,10 @@
       "maxDeceleration": 1.1,
       "accelerationCurve": {
         "a0": 0.556,
-        "a1": 0.556,
-        "v1": 13.89,
-        "v2": 27.78,
-        "exponent": 2
+        "a1": 0.548,
+        "v1": 16.61,
+        "v2": 26.78,
+        "exponent": 1.97
       },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
@@ -246,10 +246,10 @@
       "maxDeceleration": 1.1,
       "accelerationCurve": {
         "a0": 0.694,
-        "a1": 0.694,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a1": 0.692,
+        "v1": 11.62,
+        "v2": 20.88,
+        "exponent": 2.0
       },
       "maxSpeed": 25.0,
       "maxSpeedLocalStation": 25.0,
@@ -321,10 +321,10 @@
       "maxDeceleration": 1.1,
       "accelerationCurve": {
         "a0": 0.65,
-        "a1": 0.65,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a1": 0.651,
+        "v1": 11.3,
+        "v2": 20.35,
+        "exponent": 2.06
       },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
@@ -392,14 +392,14 @@
     "name": "ICH 5000 EMU 1067IC",
     "description": "Ichibata Electric Railway 5000 series EMU for local and excursion services. Manufacturer: Tokyu Car.",
     "stats": {
-      "maxAcceleration": 0.833,
+      "maxAcceleration": 0.556,
       "maxDeceleration": 1.1,
       "accelerationCurve": {
-        "a0": 0.833,
-        "a1": 0.833,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a0": 0.556,
+        "a1": 0.555,
+        "v1": 12.42,
+        "v2": 22.81,
+        "exponent": 2.0
       },
       "maxSpeed": 29.17,
       "maxSpeedLocalStation": 29.17,

@@ -600,10 +600,10 @@
       "maxDeceleration": 1.1,
       "accelerationCurve": {
         "a0": 0.694,
-        "a1": 0.694,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a1": 0.692,
+        "v1": 11.62,
+        "v2": 20.88,
+        "exponent": 2.0
       },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,

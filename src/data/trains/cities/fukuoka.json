@@ -8,10 +8,10 @@
       "maxDeceleration": 1.15,
       "accelerationCurve": {
         "a0": 0.917,
-        "a1": 0.917,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a1": 0.912,
+        "v1": 11.07,
+        "v2": 17.63,
+        "exponent": 2.0
       },
       "maxSpeed": 25.0,
       "maxSpeedLocalStation": 25.0,
@@ -88,14 +88,14 @@
     "name": "JRK 103-1500 EMU 1067JP",
     "description": "JR Kyushu 103-1500 series commuter EMU for Fukuoka/Chikuhi Line through services. Manufacturer: Kawasaki Heavy Industries / Nippon Sharyo.",
     "stats": {
-      "maxAcceleration": 0.833,
+      "maxAcceleration": 0.74,
       "maxDeceleration": 1.1,
       "accelerationCurve": {
-        "a0": 0.833,
-        "a1": 0.833,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a0": 0.74,
+        "a1": 0.736,
+        "v1": 11.07,
+        "v2": 17.63,
+        "exponent": 2.0
       },
       "maxSpeed": 27.78,
       "maxSpeedLocalStation": 27.78,
@@ -168,14 +168,14 @@
     "name": "NIS Commuter EMU 1067NT",
     "description": "Generic Nishitetsu commuter EMU for Tenjin-Omuta Line 3-6 car local and express services. Manufacturer: Kawasaki Heavy Industries / Nippon Sharyo.",
     "stats": {
-      "maxAcceleration": 0.833,
+      "maxAcceleration": 0.673,
       "maxDeceleration": 1.1,
       "accelerationCurve": {
-        "a0": 0.833,
-        "a1": 0.833,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a0": 0.673,
+        "a1": 0.674,
+        "v1": 11.3,
+        "v2": 20.35,
+        "exponent": 2.06
       },
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 30.56,
@@ -321,10 +321,10 @@
       "maxDeceleration": 1.15,
       "accelerationCurve": {
         "a0": 0.972,
-        "a1": 0.972,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a1": 0.967,
+        "v1": 11.07,
+        "v2": 17.63,
+        "exponent": 2.0
       },
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 30.56,
@@ -402,9 +402,9 @@
       "accelerationCurve": {
         "a0": 0.889,
         "a1": 0.889,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "v1": 11.24,
+        "v2": 17.87,
+        "exponent": 1.9
       },
       "maxSpeed": 19.44,
       "maxSpeedLocalStation": 19.44,
@@ -474,10 +474,10 @@
       "maxDeceleration": 1.1,
       "accelerationCurve": {
         "a0": 0.917,
-        "a1": 0.917,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a1": 0.912,
+        "v1": 11.07,
+        "v2": 17.63,
+        "exponent": 2.0
       },
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 30.56,
@@ -554,9 +554,9 @@
       "accelerationCurve": {
         "a0": 0.972,
         "a1": 0.972,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "v1": 11.24,
+        "v2": 17.87,
+        "exponent": 1.9
       },
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 30.56,
@@ -628,14 +628,14 @@
     "name": "NIS 3000 EMU 1067NT",
     "description": "Nishitetsu 3000 series commuter EMU for Tenjin-Omuta Line express and local services. Manufacturer: Kawasaki Heavy Industries.",
     "stats": {
-      "maxAcceleration": 0.833,
+      "maxAcceleration": 0.655,
       "maxDeceleration": 1.1,
       "accelerationCurve": {
-        "a0": 0.833,
-        "a1": 0.833,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a0": 0.655,
+        "a1": 0.653,
+        "v1": 11.62,
+        "v2": 20.88,
+        "exponent": 2.0
       },
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 30.56,
@@ -707,10 +707,10 @@
       "maxDeceleration": 1.1,
       "accelerationCurve": {
         "a0": 0.694,
-        "a1": 0.694,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a1": 0.692,
+        "v1": 11.62,
+        "v2": 20.88,
+        "exponent": 2.0
       },
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 30.56,

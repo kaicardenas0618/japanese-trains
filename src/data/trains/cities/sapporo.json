@@ -8,10 +8,10 @@
       "maxDeceleration": 1.1,
       "accelerationCurve": {
         "a0": 0.611,
-        "a1": 0.611,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a1": 0.612,
+        "v1": 11.3,
+        "v2": 20.35,
+        "exponent": 2.06
       },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
@@ -87,10 +87,10 @@
       "maxDeceleration": 1.1,
       "accelerationCurve": {
         "a0": 0.611,
-        "a1": 0.611,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a1": 0.6,
+        "v1": 11.1,
+        "v2": 20.26,
+        "exponent": 1.88
       },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
@@ -167,9 +167,9 @@
       "accelerationCurve": {
         "a0": 1.111,
         "a1": 1.111,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "v1": 11.24,
+        "v2": 17.87,
+        "exponent": 1.9
       },
       "maxSpeed": 19.44,
       "maxSpeedLocalStation": 19.44,
@@ -239,10 +239,10 @@
       "maxDeceleration": 1.15,
       "accelerationCurve": {
         "a0": 0.972,
-        "a1": 0.972,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a1": 0.967,
+        "v1": 11.07,
+        "v2": 17.63,
+        "exponent": 2.0
       },
       "maxSpeed": 19.44,
       "maxSpeedLocalStation": 19.44,
@@ -315,9 +315,9 @@
       "accelerationCurve": {
         "a0": 0.972,
         "a1": 0.972,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "v1": 11.24,
+        "v2": 17.87,
+        "exponent": 1.9
       },
       "maxSpeed": 19.44,
       "maxSpeedLocalStation": 19.44,

@@ -8,10 +8,10 @@
       "maxDeceleration": 1.1,
       "accelerationCurve": {
         "a0": 0.583,
-        "a1": 0.583,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a1": 0.584,
+        "v1": 11.3,
+        "v2": 20.35,
+        "exponent": 2.06
       },
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 30.56,
@@ -88,10 +88,10 @@
       "maxDeceleration": 1.1,
       "accelerationCurve": {
         "a0": 0.611,
-        "a1": 0.611,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a1": 0.6,
+        "v1": 11.1,
+        "v2": 20.26,
+        "exponent": 1.88
       },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
@@ -332,10 +332,10 @@
       "maxDeceleration": 1.1,
       "accelerationCurve": {
         "a0": 0.556,
-        "a1": 0.556,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a1": 0.555,
+        "v1": 12.42,
+        "v2": 22.81,
+        "exponent": 2.0
       },
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 30.56,
@@ -490,14 +490,14 @@
     "name": "SAT SAT721 EMU",
     "description": "Sendai Airport Transit SAT721 series EMU based on the E721 family. Manufacturer: J-TREC.",
     "stats": {
-      "maxAcceleration": 0.611,
+      "maxAcceleration": 0.69,
       "maxDeceleration": 1.1,
       "accelerationCurve": {
-        "a0": 0.611,
-        "a1": 0.611,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a0": 0.69,
+        "a1": 0.678,
+        "v1": 11.1,
+        "v2": 20.26,
+        "exponent": 1.88
       },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,

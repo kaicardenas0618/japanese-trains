@@ -8,10 +8,10 @@
       "maxDeceleration": 1.15,
       "accelerationCurve": {
         "a0": 0.833,
-        "a1": 0.833,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a1": 0.828,
+        "v1": 11.07,
+        "v2": 17.63,
+        "exponent": 2.0
       },
       "maxSpeed": 26.39,
       "maxSpeedLocalStation": 26.39,
@@ -87,9 +87,9 @@
       "accelerationCurve": {
         "a0": 0.833,
         "a1": 0.833,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "v1": 11.24,
+        "v2": 17.87,
+        "exponent": 1.9
       },
       "maxSpeed": 26.39,
       "maxSpeedLocalStation": 26.39,
@@ -162,10 +162,10 @@
       "maxDeceleration": 1.15,
       "accelerationCurve": {
         "a0": 0.694,
-        "a1": 0.694,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a1": 0.69,
+        "v1": 11.07,
+        "v2": 17.63,
+        "exponent": 2.0
       },
       "maxSpeed": 26.39,
       "maxSpeedLocalStation": 26.39,
@@ -239,9 +239,9 @@
       "accelerationCurve": {
         "a0": 0.694,
         "a1": 0.694,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "v1": 11.24,
+        "v2": 17.87,
+        "exponent": 1.9
       },
       "maxSpeed": 26.39,
       "maxSpeedLocalStation": 26.39,
@@ -313,10 +313,10 @@
       "maxDeceleration": 1.15,
       "accelerationCurve": {
         "a0": 0.694,
-        "a1": 0.694,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a1": 0.69,
+        "v1": 11.07,
+        "v2": 17.63,
+        "exponent": 2.0
       },
       "maxSpeed": 26.39,
       "maxSpeedLocalStation": 26.39,
@@ -390,9 +390,9 @@
       "accelerationCurve": {
         "a0": 0.833,
         "a1": 0.833,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "v1": 11.24,
+        "v2": 17.87,
+        "exponent": 1.9
       },
       "maxSpeed": 26.39,
       "maxSpeedLocalStation": 26.39,
@@ -466,9 +466,9 @@
       "accelerationCurve": {
         "a0": 0.833,
         "a1": 0.833,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "v1": 11.24,
+        "v2": 17.87,
+        "exponent": 1.9
       },
       "maxSpeed": 26.39,
       "maxSpeedLocalStation": 26.39,
@@ -541,10 +541,10 @@
       "maxDeceleration": 1.15,
       "accelerationCurve": {
         "a0": 0.694,
-        "a1": 0.694,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a1": 0.69,
+        "v1": 11.07,
+        "v2": 17.63,
+        "exponent": 2.0
       },
       "maxSpeed": 26.39,
       "maxSpeedLocalStation": 26.39,
@@ -749,10 +749,10 @@
       "maxDeceleration": 1.15,
       "accelerationCurve": {
         "a0": 0.778,
-        "a1": 0.778,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a1": 0.774,
+        "v1": 11.07,
+        "v2": 17.63,
+        "exponent": 2.0
       },
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 30.56,
@@ -962,10 +962,10 @@
       "maxDeceleration": 1.1,
       "accelerationCurve": {
         "a0": 0.694,
-        "a1": 0.694,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a1": 0.69,
+        "v1": 11.07,
+        "v2": 17.63,
+        "exponent": 2.0
       },
       "maxSpeed": 19.44,
       "maxSpeedLocalStation": 19.44,
@@ -1040,9 +1040,9 @@
       "accelerationCurve": {
         "a0": 0.694,
         "a1": 0.694,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "v1": 11.24,
+        "v2": 17.87,
+        "exponent": 1.9
       },
       "maxSpeed": 19.44,
       "maxSpeedLocalStation": 19.44,
@@ -1328,10 +1328,10 @@
       "maxDeceleration": 1.05,
       "accelerationCurve": {
         "a0": 0.694,
-        "a1": 0.694,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a1": 0.695,
+        "v1": 11.3,
+        "v2": 20.35,
+        "exponent": 2.06
       },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
@@ -1408,10 +1408,10 @@
       "maxDeceleration": 1.1,
       "accelerationCurve": {
         "a0": 0.778,
-        "a1": 0.778,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a1": 0.777,
+        "v1": 11.21,
+        "v2": 16.9,
+        "exponent": 1.78
       },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
@@ -1487,10 +1487,10 @@
       "maxDeceleration": 1.1,
       "accelerationCurve": {
         "a0": 0.694,
-        "a1": 0.694,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a1": 0.692,
+        "v1": 11.62,
+        "v2": 20.88,
+        "exponent": 2.0
       },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
@@ -1567,10 +1567,10 @@
       "maxDeceleration": 1.1,
       "accelerationCurve": {
         "a0": 0.694,
-        "a1": 0.694,
-        "v1": 13.89,
-        "v2": 27.78,
-        "exponent": 2
+        "a1": 0.684,
+        "v1": 16.61,
+        "v2": 26.78,
+        "exponent": 1.97
       },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
@@ -1646,10 +1646,10 @@
       "maxDeceleration": 1.1,
       "accelerationCurve": {
         "a0": 0.694,
-        "a1": 0.694,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a1": 0.692,
+        "v1": 11.62,
+        "v2": 20.88,
+        "exponent": 2.0
       },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
@@ -1798,10 +1798,10 @@
       "maxDeceleration": 1.15,
       "accelerationCurve": {
         "a0": 0.917,
-        "a1": 0.917,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a1": 0.912,
+        "v1": 11.07,
+        "v2": 17.63,
+        "exponent": 2.0
       },
       "maxSpeed": 29.17,
       "maxSpeedLocalStation": 29.17,
@@ -1875,9 +1875,9 @@
       "accelerationCurve": {
         "a0": 0.917,
         "a1": 0.917,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "v1": 11.24,
+        "v2": 17.87,
+        "exponent": 1.9
       },
       "maxSpeed": 29.17,
       "maxSpeedLocalStation": 29.17,
@@ -1949,10 +1949,10 @@
       "maxDeceleration": 1.15,
       "accelerationCurve": {
         "a0": 0.917,
-        "a1": 0.917,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a1": 0.912,
+        "v1": 11.07,
+        "v2": 17.63,
+        "exponent": 2.0
       },
       "maxSpeed": 20.83,
       "maxSpeedLocalStation": 20.83,
@@ -2024,10 +2024,10 @@
       "maxDeceleration": 1.15,
       "accelerationCurve": {
         "a0": 0.917,
-        "a1": 0.917,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a1": 0.912,
+        "v1": 11.07,
+        "v2": 17.63,
+        "exponent": 2.0
       },
       "maxSpeed": 25.0,
       "maxSpeedLocalStation": 25.0,
@@ -2159,14 +2159,14 @@
     "name": "KYO Kintetsu 3200 1435KK/KN",
     "description": "Kintetsu 3200 series 6-car train. Runs through Kyoto Subway Karasuma Line. Manufacturer: Kinki Sharyo.",
     "stats": {
-      "maxAcceleration": 0.833,
+      "maxAcceleration": 0.74,
       "maxDeceleration": 1.15,
       "accelerationCurve": {
-        "a0": 0.833,
-        "a1": 0.833,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a0": 0.74,
+        "a1": 0.736,
+        "v1": 11.07,
+        "v2": 17.63,
+        "exponent": 2.0
       },
       "maxSpeed": 29.17,
       "maxSpeedLocalStation": 29.17,
@@ -2240,10 +2240,10 @@
       "maxDeceleration": 1.15,
       "accelerationCurve": {
         "a0": 0.833,
-        "a1": 0.833,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a1": 0.828,
+        "v1": 11.07,
+        "v2": 17.63,
+        "exponent": 2.0
       },
       "maxSpeed": 29.17,
       "maxSpeedLocalStation": 29.17,
@@ -2598,10 +2598,10 @@
       "maxDeceleration": 1.1,
       "accelerationCurve": {
         "a0": 0.694,
-        "a1": 0.694,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a1": 0.695,
+        "v1": 11.3,
+        "v2": 20.35,
+        "exponent": 2.06
       },
       "maxSpeed": 19.44,
       "maxSpeedLocalStation": 19.44,
@@ -2671,10 +2671,10 @@
       "maxDeceleration": 1.1,
       "accelerationCurve": {
         "a0": 0.583,
-        "a1": 0.583,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a1": 0.582,
+        "v1": 12.42,
+        "v2": 22.81,
+        "exponent": 2.0
       },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
@@ -2751,10 +2751,10 @@
       "maxDeceleration": 1.1,
       "accelerationCurve": {
         "a0": 0.694,
-        "a1": 0.694,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a1": 0.692,
+        "v1": 11.62,
+        "v2": 20.88,
+        "exponent": 2.0
       },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
@@ -2831,10 +2831,10 @@
       "maxDeceleration": 1.1,
       "accelerationCurve": {
         "a0": 0.694,
-        "a1": 0.694,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a1": 0.693,
+        "v1": 11.21,
+        "v2": 16.9,
+        "exponent": 1.78
       },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
@@ -2911,10 +2911,10 @@
       "maxDeceleration": 1.15,
       "accelerationCurve": {
         "a0": 0.917,
-        "a1": 0.917,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a1": 0.912,
+        "v1": 11.07,
+        "v2": 17.63,
+        "exponent": 2.0
       },
       "maxSpeed": 27.78,
       "maxSpeedLocalStation": 27.78,
@@ -2986,10 +2986,10 @@
       "maxDeceleration": 1.15,
       "accelerationCurve": {
         "a0": 0.917,
-        "a1": 0.917,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a1": 0.912,
+        "v1": 11.07,
+        "v2": 17.63,
+        "exponent": 2.0
       },
       "maxSpeed": 27.78,
       "maxSpeedLocalStation": 27.78,
@@ -3061,10 +3061,10 @@
       "maxDeceleration": 1.15,
       "accelerationCurve": {
         "a0": 0.917,
-        "a1": 0.917,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a1": 0.912,
+        "v1": 11.07,
+        "v2": 17.63,
+        "exponent": 2.0
       },
       "maxSpeed": 27.78,
       "maxSpeedLocalStation": 27.78,
@@ -3137,9 +3137,9 @@
       "accelerationCurve": {
         "a0": 0.917,
         "a1": 0.917,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "v1": 11.24,
+        "v2": 17.87,
+        "exponent": 1.9
       },
       "maxSpeed": 27.78,
       "maxSpeedLocalStation": 27.78,
@@ -3211,10 +3211,10 @@
       "maxDeceleration": 1.15,
       "accelerationCurve": {
         "a0": 0.833,
-        "a1": 0.833,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a1": 0.828,
+        "v1": 11.07,
+        "v2": 17.63,
+        "exponent": 2.0
       },
       "maxSpeed": 27.78,
       "maxSpeedLocalStation": 27.78,
@@ -3350,10 +3350,10 @@
       "maxDeceleration": 1.1,
       "accelerationCurve": {
         "a0": 0.917,
-        "a1": 0.917,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a1": 0.912,
+        "v1": 11.07,
+        "v2": 17.63,
+        "exponent": 2.0
       },
       "maxSpeed": 19.44,
       "maxSpeedLocalStation": 19.44,
@@ -3569,10 +3569,10 @@
       "maxDeceleration": 1.1,
       "accelerationCurve": {
         "a0": 0.75,
-        "a1": 0.75,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a1": 0.746,
+        "v1": 11.07,
+        "v2": 17.63,
+        "exponent": 2.0
       },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
@@ -3650,10 +3650,10 @@
       "maxDeceleration": 1.1,
       "accelerationCurve": {
         "a0": 0.694,
-        "a1": 0.694,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a1": 0.693,
+        "v1": 11.21,
+        "v2": 16.9,
+        "exponent": 1.78
       },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
@@ -3730,10 +3730,10 @@
       "maxDeceleration": 1.1,
       "accelerationCurve": {
         "a0": 0.694,
-        "a1": 0.694,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a1": 0.692,
+        "v1": 11.62,
+        "v2": 20.88,
+        "exponent": 2.0
       },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
@@ -3810,10 +3810,10 @@
       "maxDeceleration": 1.1,
       "accelerationCurve": {
         "a0": 0.833,
-        "a1": 0.833,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a1": 0.832,
+        "v1": 11.21,
+        "v2": 16.9,
+        "exponent": 1.78
       },
       "maxSpeed": 30.56,
       "maxSpeedLocalStation": 30.56,
@@ -3886,10 +3886,10 @@
       "maxDeceleration": 1.1,
       "accelerationCurve": {
         "a0": 0.722,
-        "a1": 0.722,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a1": 0.721,
+        "v1": 11.21,
+        "v2": 16.9,
+        "exponent": 1.78
       },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
@@ -3962,10 +3962,10 @@
       "maxDeceleration": 1.1,
       "accelerationCurve": {
         "a0": 0.833,
-        "a1": 0.833,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a1": 0.832,
+        "v1": 11.21,
+        "v2": 16.9,
+        "exponent": 1.78
       },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
@@ -4034,14 +4034,14 @@
     "name": "KT Generic Commuter EMU 1435KN/HS",
     "description": "Generic Kintetsu commuter EMU for Osaka/Kyoto-area lines. Covers many similar Kintetsu commuter types. Manufacturer: Kinki Sharyo.",
     "stats": {
-      "maxAcceleration": 0.833,
+      "maxAcceleration": 0.74,
       "maxDeceleration": 1.1,
       "accelerationCurve": {
-        "a0": 0.833,
-        "a1": 0.833,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a0": 0.74,
+        "a1": 0.736,
+        "v1": 11.07,
+        "v2": 17.63,
+        "exponent": 2.0
       },
       "maxSpeed": 29.17,
       "maxSpeedLocalStation": 29.17,
@@ -4112,14 +4112,14 @@
     "name": "KH Commuter EMU 1435KH",
     "description": "Generic Keihan 8-car commuter EMU for Osaka-Kyoto mainline services. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo.",
     "stats": {
-      "maxAcceleration": 0.833,
+      "maxAcceleration": 0.74,
       "maxDeceleration": 1.1,
       "accelerationCurve": {
-        "a0": 0.833,
-        "a1": 0.833,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a0": 0.74,
+        "a1": 0.736,
+        "v1": 11.07,
+        "v2": 17.63,
+        "exponent": 2.0
       },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
@@ -4192,10 +4192,10 @@
       "maxDeceleration": 1.1,
       "accelerationCurve": {
         "a0": 0.778,
-        "a1": 0.778,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a1": 0.777,
+        "v1": 11.21,
+        "v2": 16.9,
+        "exponent": 1.78
       },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
@@ -4267,10 +4267,10 @@
       "maxDeceleration": 1.1,
       "accelerationCurve": {
         "a0": 0.694,
-        "a1": 0.694,
-        "v1": 13.89,
-        "v2": 27.78,
-        "exponent": 2
+        "a1": 0.684,
+        "v1": 16.61,
+        "v2": 26.78,
+        "exponent": 1.97
       },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
@@ -4343,10 +4343,10 @@
       "maxDeceleration": 1.1,
       "accelerationCurve": {
         "a0": 0.694,
-        "a1": 0.694,
-        "v1": 13.89,
-        "v2": 27.78,
-        "exponent": 2
+        "a1": 0.684,
+        "v1": 16.61,
+        "v2": 26.78,
+        "exponent": 1.97
       },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
@@ -4557,10 +4557,10 @@
       "maxDeceleration": 1.1,
       "accelerationCurve": {
         "a0": 0.694,
-        "a1": 0.694,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a1": 0.69,
+        "v1": 11.07,
+        "v2": 17.63,
+        "exponent": 2.0
       },
       "maxSpeed": 33.33,
       "maxSpeedLocalStation": 33.33,
@@ -4696,10 +4696,10 @@
       "maxDeceleration": 1.1,
       "accelerationCurve": {
         "a0": 0.722,
-        "a1": 0.722,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a1": 0.718,
+        "v1": 11.07,
+        "v2": 17.63,
+        "exponent": 2.0
       },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
@@ -4774,10 +4774,10 @@
       "maxDeceleration": 1.1,
       "accelerationCurve": {
         "a0": 0.722,
-        "a1": 0.722,
-        "v1": 10.56,
-        "v2": 21.67,
-        "exponent": 2
+        "a1": 0.721,
+        "v1": 11.21,
+        "v2": 16.9,
+        "exponent": 1.78
       },
       "maxSpeed": 36.11,
       "maxSpeedLocalStation": 36.11,
