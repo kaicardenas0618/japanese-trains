@@ -8,7 +8,7 @@ This mod uses a proprietary track and train separation system that allows every 
 Initial builds should be done with a track option where applicable. Compatible tracks are listed at the end of the train name, e.g. both JP N700A Shinkansen 1435JP and JP E5 Shinkansen 1435JP are compatible with 1435JP-60, 1435JP-100, 1435JP-130, 1435JP-285, and 1435JP-320 tracks. Specific trains can be chosen afterwards in the route menu.
 
 <details>
-<summary>Track list (57)</summary>
+<summary>Track list (58)</summary>
 
 <table style="width: auto">
   <tr>
@@ -135,6 +135,11 @@ Initial builds should be done with a track option where applicable. Compatible t
     <td>1067SC-40</td>
     <td>Sapporo Streetcar</td>
     <td>40</td>
+  </tr>
+  <tr>
+    <td>1067ST-100</td>
+    <td>Sotetsu</td>
+    <td>100</td>
   </tr>
   <tr>
     <td>1067TB-100</td>
@@ -305,7 +310,7 @@ Initial builds should be done with a track option where applicable. Compatible t
 
 </details>
 
-## Currently Available Trains (210)
+## Currently Available Trains (213)
 
 <details>
 <summary>National (34)</summary>
@@ -1517,7 +1522,7 @@ Initial builds should be done with a track option where applicable. Compatible t
 </details>
 
 <details>
-<summary>Tokyo (63)</summary>
+<summary>Tokyo (66)</summary>
 
 <table style="width: auto">
   <tr>
@@ -1710,8 +1715,8 @@ Initial builds should be done with a track option where applicable. Compatible t
     <td>4350</td>
   </tr>
   <tr>
-    <td>TYO E233 Urban 1067JP</td>
-    <td>JR East E233 series commuter train. Used on inner Tokyo commuter lines. Manufacturer: J-TREC.</td>
+    <td>TYO E233 Urban 1067JP/ST</td>
+    <td>JR East E233 series commuter train. Used on inner Tokyo commuter lines, including Saikyo Line through services onto Sotetsu (E233-7000). Manufacturer: J-TREC.</td>
     <td>J-TREC</td>
     <td>130</td>
     <td>3400</td>
@@ -1934,8 +1939,8 @@ Initial builds should be done with a track option where applicable. Compatible t
     <td>3230</td>
   </tr>
   <tr>
-    <td>TKK 5050 EMU 1067JP/MF/SB/TQ</td>
-    <td>Tokyu 5050 series 8/10-car commuter EMU for Toyoko/Fukutoshin through services. Manufacturer: Tokyu Car / J-TREC.</td>
+    <td>TKK 5050 EMU 1067JP/MF/SB/ST/TQ</td>
+    <td>Tokyu 5050 series 8/10-car commuter EMU for Toyoko/Fukutoshin through services, including Sotetsu through services via the Shin-Yokohama Line. Manufacturer: Tokyu Car / J-TREC.</td>
     <td>Tokyu Car / J-TREC</td>
     <td>120</td>
     <td>3230</td>
@@ -1960,6 +1965,27 @@ Initial builds should be done with a track option where applicable. Compatible t
     <td>Tokyu Car / J-TREC / JR East</td>
     <td>120</td>
     <td>3340</td>
+  </tr>
+  <tr>
+    <td>TYO Sotetsu 12000 1067JP/ST</td>
+    <td>Sotetsu 12000 series 10-car commuter EMU based on the JR East E233 series, introduced in 2019 for Sotetsu-JR through services to the Saikyo Line. Manufacturer: J-TREC.</td>
+    <td>J-TREC</td>
+    <td>120</td>
+    <td>3400</td>
+  </tr>
+  <tr>
+    <td>TYO Sotetsu 20000 1067JP/MF/ST/TQ</td>
+    <td>Sotetsu 20000 series 10-car commuter EMU, introduced in 2018 for Sotetsu-Tokyu through services via the Toyoko Line. Manufacturer: Hitachi.</td>
+    <td>Hitachi</td>
+    <td>120</td>
+    <td>3180</td>
+  </tr>
+  <tr>
+    <td>TYO Sotetsu 21000 1067JP/MB/MI/ST/TQ</td>
+    <td>Sotetsu 21000 series 8-car variant of the 20000 series, introduced in 2021 for Sotetsu-Tokyu through services via the Meguro Line. Manufacturer: Hitachi.</td>
+    <td>Hitachi</td>
+    <td>120</td>
+    <td>2544</td>
   </tr>
   <tr>
     <td>TYO Enoden 2000</td>
