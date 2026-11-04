@@ -646,7 +646,7 @@
       "crossoverSpeed": 6.7
     },
     "appearance": {
-      "color": "#E5171F"
+      "color": "#522886"
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4,
@@ -713,7 +713,7 @@
       "crossoverSpeed": 6.7
     },
     "appearance": {
-      "color": "#019A66"
+      "color": "#522886"
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4,
@@ -856,7 +856,7 @@
       "crossoverSpeed": 8.3
     },
     "appearance": {
-      "color": "#814721"
+      "color": "#34B580"
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4,
@@ -924,7 +924,7 @@
       "crossoverSpeed": 8.3
     },
     "appearance": {
-      "color": "#814721"
+      "color": "#34B580"
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4,
@@ -2129,7 +2129,7 @@
       "crossoverSpeed": 6.7
     },
     "appearance": {
-      "color": "#F58220"
+      "color": "#FF4500"
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4,
@@ -2347,7 +2347,7 @@
       "crossoverSpeed": 6.7
     },
     "appearance": {
-      "color": "#00843D"
+      "color": "#E7A61A"
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4,
@@ -2564,7 +2564,7 @@
       "crossoverSpeed": 4.2
     },
     "appearance": {
-      "color": "#5A2D82"
+      "color": "#96272B"
     },
     "elevationMultipliers": {
       "DEEP_BORE": 2.8,
@@ -3316,7 +3316,7 @@
       "crossoverSpeed": 6.7
     },
     "appearance": {
-      "color": "#00A3E0"
+      "color": "#01AF98"
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4,
@@ -4449,7 +4449,7 @@
       "crossoverSpeed": 8.3
     },
     "appearance": {
-      "color": "#B50000"
+      "color": "#2E89D9"
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4.0,
@@ -4518,7 +4518,7 @@
       "crossoverSpeed": 8.3
     },
     "appearance": {
-      "color": "#B50000"
+      "color": "#2E89D9"
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4.0,
@@ -4662,7 +4662,7 @@
       "crossoverSpeed": 8.3
     },
     "appearance": {
-      "color": "#005EB8"
+      "color": "#1D2088"
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4.0,
@@ -4882,7 +4882,7 @@
       "crossoverSpeed": 8.3
     },
     "appearance": {
-      "color": "#B50000"
+      "color": "#C22047"
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4.0,
@@ -4952,7 +4952,7 @@
       "crossoverSpeed": 8.3
     },
     "appearance": {
-      "color": "#B50000"
+      "color": "#C22047"
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4.0,

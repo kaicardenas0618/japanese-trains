@@ -1283,7 +1283,7 @@
       "crossoverSpeed": 12.5
     },
     "appearance": {
-      "color": "#0070C0"
+      "color": "#093F86"
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4,
@@ -1423,7 +1423,7 @@
       "crossoverSpeed": 12.5
     },
     "appearance": {
-      "color": "#00AA5E"
+      "color": "#00A15A"
     },
     "elevationMultipliers": {
       "DEEP_BORE": 3.8,
@@ -1637,7 +1637,7 @@
       "crossoverSpeed": 12.5
     },
     "appearance": {
-      "color": "#43B02A"
+      "color": "#EE86A7"
     },
     "elevationMultipliers": {
       "DEEP_BORE": 2.8,
@@ -3113,7 +3113,7 @@
       "crossoverSpeed": 12.5
     },
     "appearance": {
-      "color": "#F15A24"
+      "color": "#1DAF7E"
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4.4,
@@ -3198,7 +3198,7 @@
       "crossoverSpeed": 12.5
     },
     "appearance": {
-      "color": "#F15A24"
+      "color": "#1DAF7E"
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4.4,
@@ -3283,7 +3283,7 @@
       "crossoverSpeed": 12.5
     },
     "appearance": {
-      "color": "#F15A24"
+      "color": "#1DAF7E"
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4.4,
@@ -3368,7 +3368,7 @@
       "crossoverSpeed": 12.5
     },
     "appearance": {
-      "color": "#F15A24"
+      "color": "#1DAF7E"
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4.4,
@@ -3453,7 +3453,7 @@
       "crossoverSpeed": 12.5
     },
     "appearance": {
-      "color": "#F15A24"
+      "color": "#1DAF7E"
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4.4,
@@ -3613,7 +3613,7 @@
       "crossoverSpeed": 12.5
     },
     "appearance": {
-      "color": "#00A7DB"
+      "color": "#009BBF"
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4,
@@ -3683,7 +3683,7 @@
       "crossoverSpeed": 12.5
     },
     "appearance": {
-      "color": "#009944"
+      "color": "#00BB85"
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4,
@@ -3903,7 +3903,7 @@
       "crossoverSpeed": 12.5
     },
     "appearance": {
-      "color": "#00ADA9"
+      "color": "#00AC9B"
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4,
@@ -4051,7 +4051,7 @@
       "crossoverSpeed": 12.5
     },
     "appearance": {
-      "color": "#D6CBB5"
+      "color": "#FF0000"
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4.4,
@@ -4126,7 +4126,7 @@
       "crossoverSpeed": 12.5
     },
     "appearance": {
-      "color": "#D6CBB5"
+      "color": "#FF0000"
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4.4,
@@ -4201,7 +4201,7 @@
       "crossoverSpeed": 12.5
     },
     "appearance": {
-      "color": "#C0C0C0"
+      "color": "#FF6600"
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4.4,
@@ -4275,7 +4275,7 @@
       "crossoverSpeed": 12.5
     },
     "appearance": {
-      "color": "#005EB8"
+      "color": "#0583C8"
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4.0,
@@ -4346,7 +4346,7 @@
       "crossoverSpeed": 12.5
     },
     "appearance": {
-      "color": "#DA70D6"
+      "color": "#00AA8D"
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4.0,
@@ -4426,7 +4426,7 @@
       "crossoverSpeed": 12.5
     },
     "appearance": {
-      "color": "#DA70D6"
+      "color": "#00AA8D"
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4.0,
@@ -4506,7 +4506,7 @@
       "crossoverSpeed": 12.5
     },
     "appearance": {
-      "color": "#1F3A75"
+      "color": "#000080"
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4.0,
@@ -6034,7 +6034,7 @@
       "crossoverSpeed": 12.5
     },
     "appearance": {
-      "color": "#005EB8"
+      "color": "#000084"
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4.4,
@@ -6336,7 +6336,7 @@
       "crossoverSpeed": 12.5
     },
     "appearance": {
-      "color": "#E85298"
+      "color": "#005AAA"
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4,
@@ -6403,7 +6403,7 @@
       "crossoverSpeed": 12.5
     },
     "appearance": {
-      "color": "#E85298"
+      "color": "#005AAA"
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4,
@@ -6470,7 +6470,7 @@
       "crossoverSpeed": 12.5
     },
     "appearance": {
-      "color": "#E85298"
+      "color": "#005AAA"
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4,
@@ -6782,7 +6782,7 @@
       "crossoverSpeed": 12.5
     },
     "appearance": {
-      "color": "#6CBB5A"
+      "color": "#DD0077"
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4,
@@ -6848,7 +6848,7 @@
       "crossoverSpeed": 12.5
     },
     "appearance": {
-      "color": "#6CBB5A"
+      "color": "#DD0077"
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4,

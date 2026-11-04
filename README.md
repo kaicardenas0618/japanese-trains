@@ -310,7 +310,7 @@ Initial builds should be done with a track option where applicable. Compatible t
 
 </details>
 
-## Currently Available Trains (213)
+## Currently Available Trains (214)
 
 <details>
 <summary>National (34)</summary>
@@ -1187,7 +1187,7 @@ Initial builds should be done with a track option where applicable. Compatible t
 </details>
 
 <details>
-<summary>Nagoya (9)</summary>
+<summary>Nagoya (10)</summary>
 
 <table style="width: auto">
   <tr>
@@ -1210,6 +1210,13 @@ Initial builds should be done with a track option where applicable. Compatible t
     <td>Nippon Sharyo</td>
     <td>130</td>
     <td>300</td>
+  </tr>
+  <tr>
+    <td>MEI 2200 Limited Express 1067MN/JP</td>
+    <td>Meitetsu 2200 series 6-car partially reserved limited express EMU with 2 reserved-seat cars and 4 general cars, introduced in 2005 for Chubu Centrair Airport services. Manufacturer: Nippon Sharyo.</td>
+    <td>Nippon Sharyo</td>
+    <td>120</td>
+    <td>1062</td>
   </tr>
   <tr>
     <td>MEI 6000 EMU 1067MN/JP</td>
