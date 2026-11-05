@@ -42,10 +42,12 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 20,
-      "crossoverSpeed": 11.1
+      "crossoverSpeed": 11.1,
+      "yardSpeedLimit": 11.11
     },
     "appearance": {
-      "color": "#1E3A91"
+      "color": "#1E3A91",
+      "catenary": true
     },
     "elevationMultipliers": {
       "DEEP_BORE": 5.4,
@@ -124,10 +126,12 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 20,
-      "crossoverSpeed": 11.1
+      "crossoverSpeed": 11.1,
+      "yardSpeedLimit": 11.11
     },
     "appearance": {
-      "color": "#B50000"
+      "color": "#B50000",
+      "catenary": true
     },
     "elevationMultipliers": {
       "DEEP_BORE": 5.4,
@@ -204,10 +208,12 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 20,
-      "crossoverSpeed": 11.1
+      "crossoverSpeed": 11.1,
+      "yardSpeedLimit": 11.11
     },
     "appearance": {
-      "color": "#2F6FED"
+      "color": "#2F6FED",
+      "catenary": true
     },
     "elevationMultipliers": {
       "DEEP_BORE": 6.0,
@@ -286,10 +292,12 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 20,
-      "crossoverSpeed": 11.1
+      "crossoverSpeed": 11.1,
+      "yardSpeedLimit": 11.11
     },
     "appearance": {
-      "color": "#B50000"
+      "color": "#B50000",
+      "catenary": true
     },
     "elevationMultipliers": {
       "DEEP_BORE": 5.4,
@@ -366,10 +374,12 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 20,
-      "crossoverSpeed": 11.1
+      "crossoverSpeed": 11.1,
+      "yardSpeedLimit": 11.11
     },
     "appearance": {
-      "color": "#1E3A91"
+      "color": "#1E3A91",
+      "catenary": true
     },
     "elevationMultipliers": {
       "DEEP_BORE": 5.4,
@@ -448,10 +458,12 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 20,
-      "crossoverSpeed": 11.1
+      "crossoverSpeed": 11.1,
+      "yardSpeedLimit": 11.11
     },
     "appearance": {
-      "color": "#1E3A91"
+      "color": "#1E3A91",
+      "catenary": true
     },
     "elevationMultipliers": {
       "DEEP_BORE": 5.4,
@@ -530,10 +542,12 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 20,
-      "crossoverSpeed": 11.1
+      "crossoverSpeed": 11.1,
+      "yardSpeedLimit": 11.11
     },
     "appearance": {
-      "color": "#D6CBB5"
+      "color": "#D6CBB5",
+      "catenary": true
     },
     "elevationMultipliers": {
       "DEEP_BORE": 5.4,
@@ -609,10 +623,12 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 20,
-      "crossoverSpeed": 11.1
+      "crossoverSpeed": 11.1,
+      "yardSpeedLimit": 11.11
     },
     "appearance": {
-      "color": "#43B02A"
+      "color": "#43B02A",
+      "catenary": true
     },
     "elevationMultipliers": {
       "DEEP_BORE": 6.0,
@@ -689,10 +705,12 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 20,
-      "crossoverSpeed": 11.1
+      "crossoverSpeed": 11.1,
+      "yardSpeedLimit": 11.11
     },
     "appearance": {
-      "color": "#5A2D82"
+      "color": "#5A2D82",
+      "catenary": true
     },
     "elevationMultipliers": {
       "DEEP_BORE": 6.0,
@@ -769,10 +787,12 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 16,
-      "crossoverSpeed": 11.1
+      "crossoverSpeed": 11.1,
+      "yardSpeedLimit": 11.11
     },
     "appearance": {
-      "color": "#C8102E"
+      "color": "#C8102E",
+      "catenary": true
     },
     "elevationMultipliers": {
       "DEEP_BORE": 6.0,
@@ -849,10 +869,12 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 20,
-      "crossoverSpeed": 11.1
+      "crossoverSpeed": 11.1,
+      "yardSpeedLimit": 11.11
     },
     "appearance": {
-      "color": "#2F6FED"
+      "color": "#2F6FED",
+      "catenary": true
     },
     "elevationMultipliers": {
       "DEEP_BORE": 5.4,
@@ -930,10 +952,12 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 20,
-      "crossoverSpeed": 11.1
+      "crossoverSpeed": 11.1,
+      "yardSpeedLimit": 11.11
     },
     "appearance": {
-      "color": "#2F6FED"
+      "color": "#2F6FED",
+      "catenary": true
     },
     "elevationMultipliers": {
       "DEEP_BORE": 5.4,
@@ -1011,10 +1035,12 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 16,
-      "crossoverSpeed": 11.1
+      "crossoverSpeed": 11.1,
+      "yardSpeedLimit": 11.11
     },
     "appearance": {
-      "color": "#6CACE4"
+      "color": "#6CACE4",
+      "catenary": true
     },
     "elevationMultipliers": {
       "DEEP_BORE": 6.0,
@@ -1090,10 +1116,12 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 16,
-      "crossoverSpeed": 11.1
+      "crossoverSpeed": 11.1,
+      "yardSpeedLimit": 11.11
     },
     "appearance": {
-      "color": "#7B6469"
+      "color": "#7B6469",
+      "catenary": true
     },
     "elevationMultipliers": {
       "DEEP_BORE": 5.4,
@@ -1170,10 +1198,12 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 20,
-      "crossoverSpeed": 11.1
+      "crossoverSpeed": 11.1,
+      "yardSpeedLimit": 11.11
     },
     "appearance": {
-      "color": "#1E3A91"
+      "color": "#1E3A91",
+      "catenary": true
     },
     "elevationMultipliers": {
       "DEEP_BORE": 5.4,
@@ -1188,6 +1218,88 @@
       "Hitachi",
       "Kawasaki Heavy Industries",
       "Tokyu Car"
+    ],
+    "compatibleTrackTypes": [
+      "1435JP-60",
+      "1435JP-100",
+      "1435JP-130",
+      "1435JP-285",
+      "1435JP-320"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 900000,
+    "gradeCrossingMaintenancePerYear": 18000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 20000000,
+    "rampCost": 10000000
+  },
+  {
+    "id": "jp-923-doctor-yellow",
+    "name": "JP 923 Doctor Yellow 1435JP",
+    "description": "7-car 923 series Shinkansen track and overhead line inspection train based on the 700 series, used on the Tokaido and Sanyo Shinkansen. Carries no passengers. Manufacturer: Nippon Sharyo / Hitachi.",
+    "stats": {
+      "maxAcceleration": 0.556,
+      "maxDeceleration": 1.0,
+      "accelerationCurve": {
+        "a0": 0.556,
+        "a1": 0.556,
+        "v1": 19.44,
+        "v2": 55.56,
+        "exponent": 1.5
+      },
+      "maxSpeed": 79.17,
+      "maxSpeedLocalStation": 79.17,
+      "capacityPerCar": 0,
+      "seatsPerCar": 0,
+      "doorsPerCarPerSide": 2,
+      "carLength": 25.0,
+      "minCars": 7,
+      "maxCars": 7,
+      "carsPerCarSet": 7,
+      "carCost": 5760000,
+      "trainWidth": 3.38,
+      "minStationLength": 175,
+      "maxStationLength": 185,
+      "baseTrackCost": 82000,
+      "baseStationCost": 185000000,
+      "trainOperationalCostPerHour": 780,
+      "carOperationalCostPerHour": 52,
+      "scissorsCrossoverCost": 37000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.9,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 2.8,
+      "parallelTrackSpacing": 3,
+      "stopTimeSeconds": 120,
+      "turnaroundTimeSeconds": 0,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 20,
+      "crossoverSpeed": 11.1,
+      "yardSpeedLimit": 11.11
+    },
+    "appearance": {
+      "color": "#F2C300",
+      "catenary": true
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 5.4,
+      "STANDARD_TUNNEL": 2.9,
+      "CUT_AND_COVER": 1.5,
+      "AT_GRADE": 0.65,
+      "ELEVATED": 1.35,
+      "TRENCHED": 0.95,
+      "RAMP": 0.97
+    },
+    "Manufacturer": [
+      "Nippon Sharyo",
+      "Hitachi"
     ],
     "compatibleTrackTypes": [
       "1435JP-60",
@@ -1244,10 +1356,12 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 20,
-      "crossoverSpeed": 11.1
+      "crossoverSpeed": 11.1,
+      "yardSpeedLimit": 11.11
     },
     "appearance": {
-      "color": "#FFFFFF"
+      "color": "#FFFFFF",
+      "catenary": true
     },
     "elevationMultipliers": {
       "DEEP_BORE": 5.4,
@@ -1313,10 +1427,12 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 20,
-      "crossoverSpeed": 11.1
+      "crossoverSpeed": 11.1,
+      "yardSpeedLimit": 11.11
     },
     "appearance": {
-      "color": "#FFFFFF"
+      "color": "#FFFFFF",
+      "catenary": true
     },
     "elevationMultipliers": {
       "DEEP_BORE": 5.4,
@@ -1382,10 +1498,12 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 20,
-      "crossoverSpeed": 11.1
+      "crossoverSpeed": 11.1,
+      "yardSpeedLimit": 11.11
     },
     "appearance": {
-      "color": "#FFFFFF"
+      "color": "#FFFFFF",
+      "catenary": true
     },
     "elevationMultipliers": {
       "DEEP_BORE": 5.4,
@@ -1451,10 +1569,12 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 20,
-      "crossoverSpeed": 11.1
+      "crossoverSpeed": 11.1,
+      "yardSpeedLimit": 11.11
     },
     "appearance": {
-      "color": "#FFFFFF"
+      "color": "#FFFFFF",
+      "catenary": true
     },
     "elevationMultipliers": {
       "DEEP_BORE": 5.4,
@@ -1523,10 +1643,12 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 20,
-      "crossoverSpeed": 11.1
+      "crossoverSpeed": 11.1,
+      "yardSpeedLimit": 11.11
     },
     "appearance": {
-      "color": "#FFFFFF"
+      "color": "#FFFFFF",
+      "catenary": true
     },
     "elevationMultipliers": {
       "DEEP_BORE": 5.4,
@@ -1592,10 +1714,12 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 10,
-      "crossoverSpeed": 22.2
+      "crossoverSpeed": 22.2,
+      "yardSpeedLimit": 11.11
     },
     "appearance": {
-      "color": "#003DA5"
+      "color": "#003DA5",
+      "catenary": false
     },
     "elevationMultipliers": {
       "DEEP_BORE": 7.2,
@@ -1667,10 +1791,12 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 8,
-      "crossoverSpeed": 8.3
+      "crossoverSpeed": 8.3,
+      "yardSpeedLimit": 11.11
     },
     "appearance": {
-      "color": "#D6CBB5"
+      "color": "#D6CBB5",
+      "catenary": true
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4.4,
@@ -1747,10 +1873,12 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 20,
-      "crossoverSpeed": 8.3
+      "crossoverSpeed": 8.3,
+      "yardSpeedLimit": 11.11
     },
     "appearance": {
-      "color": "#6CACE4"
+      "color": "#6CACE4",
+      "catenary": true
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4.0,
@@ -1826,10 +1954,12 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 20,
-      "crossoverSpeed": 8.3
+      "crossoverSpeed": 8.3,
+      "yardSpeedLimit": 11.11
     },
     "appearance": {
-      "color": "#005EB8"
+      "color": "#005EB8",
+      "catenary": true
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4.4,
@@ -1906,10 +2036,12 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 20,
-      "crossoverSpeed": 8.3
+      "crossoverSpeed": 8.3,
+      "yardSpeedLimit": 11.11
     },
     "appearance": {
-      "color": "#005EB8"
+      "color": "#005EB8",
+      "catenary": true
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4.4,
@@ -1985,10 +2117,12 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 20,
-      "crossoverSpeed": 8.3
+      "crossoverSpeed": 8.3,
+      "yardSpeedLimit": 11.11
     },
     "appearance": {
-      "color": "#005EB8"
+      "color": "#005EB8",
+      "catenary": true
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4.4,
@@ -2065,10 +2199,12 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 20,
-      "crossoverSpeed": 8.3
+      "crossoverSpeed": 8.3,
+      "yardSpeedLimit": 11.11
     },
     "appearance": {
-      "color": "#005EB8"
+      "color": "#005EB8",
+      "catenary": true
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4.4,
@@ -2145,10 +2281,12 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 20,
-      "crossoverSpeed": 8.3
+      "crossoverSpeed": 8.3,
+      "yardSpeedLimit": 11.11
     },
     "appearance": {
-      "color": "#005EB8"
+      "color": "#005EB8",
+      "catenary": true
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4.4,
@@ -2225,10 +2363,12 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 20,
-      "crossoverSpeed": 8.3
+      "crossoverSpeed": 8.3,
+      "yardSpeedLimit": 11.11
     },
     "appearance": {
-      "color": "#7B6469"
+      "color": "#7B6469",
+      "catenary": true
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4.4,
@@ -2304,10 +2444,12 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 20,
-      "crossoverSpeed": 8.3
+      "crossoverSpeed": 8.3,
+      "yardSpeedLimit": 11.11
     },
     "appearance": {
-      "color": "#005EB8"
+      "color": "#005EB8",
+      "catenary": false
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4.4,
@@ -2378,10 +2520,12 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 20,
-      "crossoverSpeed": 8.3
+      "crossoverSpeed": 8.3,
+      "yardSpeedLimit": 11.11
     },
     "appearance": {
-      "color": "#F58220"
+      "color": "#F58220",
+      "catenary": true
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4.4,
@@ -2457,10 +2601,12 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 30,
-      "crossoverSpeed": 6.7
+      "crossoverSpeed": 6.7,
+      "yardSpeedLimit": 11.11
     },
     "appearance": {
-      "color": "#F58220"
+      "color": "#F58220",
+      "catenary": true
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4.0,
@@ -2534,15 +2680,17 @@
       "minStationTurnRadius": 700,
       "maxSlopePercentage": 3.5,
       "parallelTrackSpacing": 1.965,
-      "stopTimeSeconds": 35,
+      "stopTimeSeconds": 40,
       "turnaroundTimeSeconds": 85,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 24,
-      "crossoverSpeed": 6.7
+      "crossoverSpeed": 6.7,
+      "yardSpeedLimit": 11.11
     },
     "appearance": {
-      "color": "#7B6469"
+      "color": "#7B6469",
+      "catenary": false
     },
     "elevationMultipliers": {
       "DEEP_BORE": 3.8,
@@ -2614,10 +2762,12 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 30,
-      "crossoverSpeed": 6.7
+      "crossoverSpeed": 6.7,
+      "yardSpeedLimit": 11.11
     },
     "appearance": {
-      "color": "#005EB8"
+      "color": "#005EB8",
+      "catenary": true
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4.0,
@@ -2696,10 +2846,12 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 30,
-      "crossoverSpeed": 6.7
+      "crossoverSpeed": 6.7,
+      "yardSpeedLimit": 11.11
     },
     "appearance": {
-      "color": "#00A3E0"
+      "color": "#00A3E0",
+      "catenary": true
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4.0,
@@ -2779,10 +2931,12 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 30,
-      "crossoverSpeed": 6.7
+      "crossoverSpeed": 6.7,
+      "yardSpeedLimit": 11.11
     },
     "appearance": {
-      "color": "#F58220"
+      "color": "#F58220",
+      "catenary": true
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4.0,
@@ -2861,10 +3015,12 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 30,
-      "crossoverSpeed": 6.7
+      "crossoverSpeed": 6.7,
+      "yardSpeedLimit": 11.11
     },
     "appearance": {
-      "color": "#D6CBB5"
+      "color": "#D6CBB5",
+      "catenary": true
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4.0,
@@ -2942,10 +3098,12 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 30,
-      "crossoverSpeed": 6.7
+      "crossoverSpeed": 6.7,
+      "yardSpeedLimit": 11.11
     },
     "appearance": {
-      "color": "#005EB8"
+      "color": "#005EB8",
+      "catenary": true
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4.0,
@@ -2980,6 +3138,424 @@
     },
     "portalCost": 10000000,
     "rampCost": 5000000
+  },
+  {
+    "id": "jp-jnr-185-limited-express",
+    "name": "JP JNR 185 Limited Express 1067JP",
+    "description": "JNR 185 series limited express EMU introduced in 1981 for Odoriko services on the Tokaido Line, later also used on Takasaki-area services. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo / Tokyu Car.",
+    "stats": {
+      "maxAcceleration": 0.444,
+      "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.444,
+        "a1": 0.437,
+        "v1": 16.61,
+        "v2": 26.78,
+        "exponent": 1.97
+      },
+      "maxSpeed": 30.56,
+      "maxSpeedLocalStation": 30.56,
+      "capacityPerCar": 60,
+      "seatsPerCar": 60,
+      "doorsPerCarPerSide": 2,
+      "carLength": 20.1,
+      "minCars": 5,
+      "maxCars": 15,
+      "carsPerCarSet": 5,
+      "carCost": 3870000,
+      "trainWidth": 2.95,
+      "minStationLength": 101,
+      "maxStationLength": 312,
+      "baseTrackCost": 45000,
+      "baseStationCost": 62000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 32,
+      "scissorsCrossoverCost": 22000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.125,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 50,
+      "turnaroundTimeSeconds": 70,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 20,
+      "crossoverSpeed": 8.3,
+      "yardSpeedLimit": 11.11
+    },
+    "appearance": {
+      "color": "#2E8B57",
+      "catenary": true
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
+    },
+    "Manufacturer": [
+      "Hitachi",
+      "Kawasaki Heavy Industries",
+      "Kinki Sharyo",
+      "Nippon Sharyo",
+      "Tokyu Car"
+    ],
+    "compatibleTrackTypes": [
+      "1067JP-95",
+      "1067JP-100",
+      "1067JP-110",
+      "1067JP-120",
+      "1067JP-130"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 11000000,
+    "rampCost": 5500000
+  },
+  {
+    "id": "jp-jnr-489-limited-express",
+    "name": "JP JNR 489 Limited Express 1067JP",
+    "description": "JNR 489 series limited express EMU built from 1971 for Hakusan and Asama services over the Usui Pass with EF63 banking locomotives, later used on Noto and Hakutaka. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo / Tokyu Car.",
+    "stats": {
+      "maxAcceleration": 0.444,
+      "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.444,
+        "a1": 0.437,
+        "v1": 16.61,
+        "v2": 26.78,
+        "exponent": 1.97
+      },
+      "maxSpeed": 33.33,
+      "maxSpeedLocalStation": 33.33,
+      "capacityPerCar": 65,
+      "seatsPerCar": 65,
+      "doorsPerCarPerSide": 1,
+      "carLength": 21.0,
+      "minCars": 9,
+      "maxCars": 12,
+      "carsPerCarSet": 1,
+      "carCost": 3870000,
+      "trainWidth": 2.95,
+      "minStationLength": 189,
+      "maxStationLength": 262,
+      "baseTrackCost": 45000,
+      "baseStationCost": 62000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 32,
+      "scissorsCrossoverCost": 22000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.125,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 50,
+      "turnaroundTimeSeconds": 70,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 20,
+      "crossoverSpeed": 8.3,
+      "yardSpeedLimit": 11.11
+    },
+    "appearance": {
+      "color": "#C8102E",
+      "catenary": true
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
+    },
+    "Manufacturer": [
+      "Hitachi",
+      "Kawasaki Heavy Industries",
+      "Kinki Sharyo",
+      "Nippon Sharyo",
+      "Tokyu Car"
+    ],
+    "compatibleTrackTypes": [
+      "1067JP-95",
+      "1067JP-100",
+      "1067JP-110",
+      "1067JP-120",
+      "1067JP-130"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 11000000,
+    "rampCost": 5500000
+  },
+  {
+    "id": "jp-jnr-381-limited-express",
+    "name": "JP JNR 381 Limited Express 1067JP",
+    "description": "JNR 381 series tilting limited express EMU introduced in 1973 for Shinano, Kuroshio and Yakumo services. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo.",
+    "stats": {
+      "maxAcceleration": 0.444,
+      "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.444,
+        "a1": 0.437,
+        "v1": 16.61,
+        "v2": 26.78,
+        "exponent": 1.97
+      },
+      "maxSpeed": 33.33,
+      "maxSpeedLocalStation": 33.33,
+      "capacityPerCar": 67,
+      "seatsPerCar": 67,
+      "doorsPerCarPerSide": 1,
+      "carLength": 21.3,
+      "minCars": 3,
+      "maxCars": 9,
+      "carsPerCarSet": 3,
+      "carCost": 3870000,
+      "trainWidth": 2.92,
+      "minStationLength": 64,
+      "maxStationLength": 202,
+      "baseTrackCost": 45000,
+      "baseStationCost": 62000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 32,
+      "scissorsCrossoverCost": 22000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.125,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 50,
+      "turnaroundTimeSeconds": 70,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 20,
+      "crossoverSpeed": 8.3,
+      "yardSpeedLimit": 11.11
+    },
+    "appearance": {
+      "color": "#F58220",
+      "catenary": true
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
+    },
+    "Manufacturer": [
+      "Hitachi",
+      "Kawasaki Heavy Industries",
+      "Kinki Sharyo"
+    ],
+    "compatibleTrackTypes": [
+      "1067JP-95",
+      "1067JP-100",
+      "1067JP-110",
+      "1067JP-120",
+      "1067JP-130"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 11000000,
+    "rampCost": 5500000
+  },
+  {
+    "id": "jp-jnr-153-express",
+    "name": "JP JNR 153 Express 1067JP",
+    "description": "JNR 153 series express EMU built from 1958 for Tokai and Hiei services on the Tokaido Line, later used on Shin-Kaisoku services. Manufacturer: Nippon Sharyo / Kisha Seizo / Kinki Sharyo / Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 0.389,
+      "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.389,
+        "a1": 0.383,
+        "v1": 16.61,
+        "v2": 26.78,
+        "exponent": 1.97
+      },
+      "maxSpeed": 36.11,
+      "maxSpeedLocalStation": 36.11,
+      "capacityPerCar": 78,
+      "seatsPerCar": 78,
+      "doorsPerCarPerSide": 2,
+      "carLength": 20.0,
+      "minCars": 6,
+      "maxCars": 12,
+      "carsPerCarSet": 1,
+      "carCost": 3870000,
+      "trainWidth": 2.9,
+      "minStationLength": 120,
+      "maxStationLength": 250,
+      "baseTrackCost": 45000,
+      "baseStationCost": 62000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 32,
+      "scissorsCrossoverCost": 22000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.125,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 50,
+      "turnaroundTimeSeconds": 70,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 20,
+      "crossoverSpeed": 8.3,
+      "yardSpeedLimit": 11.11
+    },
+    "appearance": {
+      "color": "#F58220",
+      "catenary": true
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
+    },
+    "Manufacturer": [
+      "Nippon Sharyo",
+      "Kisha Seizo",
+      "Kinki Sharyo",
+      "Kawasaki Heavy Industries"
+    ],
+    "compatibleTrackTypes": [
+      "1067JP-95",
+      "1067JP-100",
+      "1067JP-110",
+      "1067JP-120",
+      "1067JP-130"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 11000000,
+    "rampCost": 5500000
+  },
+  {
+    "id": "jp-jnr-453-express",
+    "name": "JP JNR 453 Express 1067JP",
+    "description": "JNR 453 series AC/DC express EMU for Tohoku and Joban Line express services such as Tokiwa. Manufacturer: JNR.",
+    "stats": {
+      "maxAcceleration": 0.389,
+      "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.389,
+        "a1": 0.383,
+        "v1": 16.61,
+        "v2": 26.78,
+        "exponent": 1.97
+      },
+      "maxSpeed": 30.56,
+      "maxSpeedLocalStation": 30.56,
+      "capacityPerCar": 80,
+      "seatsPerCar": 80,
+      "doorsPerCarPerSide": 2,
+      "carLength": 20.0,
+      "minCars": 3,
+      "maxCars": 12,
+      "carsPerCarSet": 1,
+      "carCost": 3870000,
+      "trainWidth": 2.95,
+      "minStationLength": 60,
+      "maxStationLength": 250,
+      "baseTrackCost": 45000,
+      "baseStationCost": 62000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 32,
+      "scissorsCrossoverCost": 22000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.125,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 50,
+      "turnaroundTimeSeconds": 70,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 20,
+      "crossoverSpeed": 8.3,
+      "yardSpeedLimit": 11.11
+    },
+    "appearance": {
+      "color": "#C8102E",
+      "catenary": true
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
+    },
+    "Manufacturer": [
+      "JNR"
+    ],
+    "compatibleTrackTypes": [
+      "1067JP-95",
+      "1067JP-100",
+      "1067JP-110",
+      "1067JP-120",
+      "1067JP-130"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 11000000,
+    "rampCost": 5500000
   },
   {
     "id": "jp-jrf-ef210",
@@ -3024,10 +3600,12 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 30,
-      "crossoverSpeed": 6.7
+      "crossoverSpeed": 6.7,
+      "yardSpeedLimit": 11.11
     },
     "appearance": {
-      "color": "#005EB8"
+      "color": "#367193",
+      "catenary": true
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4.0,
@@ -3040,6 +3618,169 @@
     },
     "Manufacturer": [
       "Mitsubishi Electric",
+      "Kawasaki Heavy Industries"
+    ],
+    "compatibleTrackTypes": [
+      "1067JP-95",
+      "1067JP-100",
+      "1067JP-110",
+      "1067JP-120",
+      "1067JP-130"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
+  },
+  {
+    "id": "jp-jrf-ef510",
+    "name": "JP JRF EF510 1067JP",
+    "description": "JR Freight EF510 AC/DC electric locomotive built from 2001 for Japan Sea Coast and other main line freight services. Manufacturer: Kawasaki Heavy Industries / Mitsubishi Electric.",
+    "stats": {
+      "maxAcceleration": 0.306,
+      "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.306,
+        "a1": 0.306,
+        "v1": 16.53,
+        "v2": 27.78,
+        "exponent": 2
+      },
+      "maxSpeed": 30.56,
+      "maxSpeedLocalStation": 30.56,
+      "capacityPerCar": 0,
+      "seatsPerCar": 0,
+      "doorsPerCarPerSide": 1,
+      "carLength": 19.8,
+      "minCars": 1,
+      "maxCars": 100,
+      "carsPerCarSet": 1,
+      "carCost": 3200000,
+      "trainWidth": 2.97,
+      "minStationLength": 60,
+      "maxStationLength": 210,
+      "baseTrackCost": 34000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": -300,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.275,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 60,
+      "turnaroundTimeSeconds": 120,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 6.7,
+      "yardSpeedLimit": 11.11
+    },
+    "appearance": {
+      "color": "#367193",
+      "catenary": true
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85,
+      "TRENCHED": 0.58,
+      "RAMP": 0.57
+    },
+    "Manufacturer": [
+      "Kawasaki Heavy Industries",
+      "Mitsubishi Electric"
+    ],
+    "compatibleTrackTypes": [
+      "1067JP-95",
+      "1067JP-100",
+      "1067JP-110",
+      "1067JP-120",
+      "1067JP-130"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
+  },
+  {
+    "id": "jp-jrf-df200",
+    "name": "JP JRF DF200 1067JP",
+    "description": "JR Freight DF200 diesel-electric locomotive built from 1992 to replace the DD51 on Hokkaido freight services, later also used on the Kansai Main Line. Manufacturer: Kawasaki Heavy Industries.",
+    "stats": {
+      "maxAcceleration": 0.306,
+      "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.306,
+        "a1": 0.306,
+        "v1": 16.53,
+        "v2": 27.78,
+        "exponent": 2
+      },
+      "maxSpeed": 30.56,
+      "maxSpeedLocalStation": 30.56,
+      "capacityPerCar": 0,
+      "seatsPerCar": 0,
+      "doorsPerCarPerSide": 1,
+      "carLength": 19.6,
+      "minCars": 1,
+      "maxCars": 100,
+      "carsPerCarSet": 1,
+      "carCost": 3200000,
+      "trainWidth": 2.94,
+      "minStationLength": 60,
+      "maxStationLength": 210,
+      "baseTrackCost": 34000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": -300,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.275,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 60,
+      "turnaroundTimeSeconds": 120,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 6.7,
+      "yardSpeedLimit": 11.11
+    },
+    "appearance": {
+      "color": "#367193",
+      "catenary": false
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85,
+      "TRENCHED": 0.58,
+      "RAMP": 0.57
+    },
+    "Manufacturer": [
       "Kawasaki Heavy Industries"
     ],
     "compatibleTrackTypes": [

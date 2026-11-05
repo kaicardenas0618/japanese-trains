@@ -42,10 +42,12 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 36,
-      "crossoverSpeed": 12.5
+      "crossoverSpeed": 12.5,
+      "yardSpeedLimit": 11.11
     },
     "appearance": {
-      "color": "#009FE8"
+      "color": "#009FE8",
+      "catenary": false
     },
     "elevationMultipliers": {
       "DEEP_BORE": 3.6,

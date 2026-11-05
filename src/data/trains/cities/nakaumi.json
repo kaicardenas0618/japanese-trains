@@ -37,15 +37,17 @@
       "minStationTurnRadius": 700,
       "maxSlopePercentage": 3.5,
       "parallelTrackSpacing": 1.965,
-      "stopTimeSeconds": 35,
+      "stopTimeSeconds": 40,
       "turnaroundTimeSeconds": 85,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 24,
-      "crossoverSpeed": 6.7
+      "crossoverSpeed": 6.7,
+      "yardSpeedLimit": 11.11
     },
     "appearance": {
-      "color": "#005EB8"
+      "color": "#005EB8",
+      "catenary": false
     },
     "elevationMultipliers": {
       "DEEP_BORE": 3.8,
@@ -121,10 +123,12 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 20,
-      "crossoverSpeed": 8.3
+      "crossoverSpeed": 8.3,
+      "yardSpeedLimit": 11.11
     },
     "appearance": {
-      "color": "#7B6469"
+      "color": "#7B6469",
+      "catenary": false
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4.4,
@@ -195,15 +199,17 @@
       "minStationTurnRadius": 700,
       "maxSlopePercentage": 3.5,
       "parallelTrackSpacing": 1.965,
-      "stopTimeSeconds": 35,
+      "stopTimeSeconds": 40,
       "turnaroundTimeSeconds": 85,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 24,
-      "crossoverSpeed": 6.7
+      "crossoverSpeed": 6.7,
+      "yardSpeedLimit": 11.11
     },
     "appearance": {
-      "color": "#7B6469"
+      "color": "#7B6469",
+      "catenary": false
     },
     "elevationMultipliers": {
       "DEEP_BORE": 3.8,
@@ -280,10 +286,12 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 30,
-      "crossoverSpeed": 6.7
+      "crossoverSpeed": 6.7,
+      "yardSpeedLimit": 11.11
     },
     "appearance": {
-      "color": "#F58220"
+      "color": "#F58220",
+      "catenary": true
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4.0,
@@ -355,10 +363,12 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 30,
-      "crossoverSpeed": 6.7
+      "crossoverSpeed": 6.7,
+      "yardSpeedLimit": 11.11
     },
     "appearance": {
-      "color": "#F58220"
+      "color": "#F58220",
+      "catenary": true
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4.0,
@@ -430,10 +440,12 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 30,
-      "crossoverSpeed": 6.7
+      "crossoverSpeed": 6.7,
+      "yardSpeedLimit": 11.11
     },
     "appearance": {
-      "color": "#F58220"
+      "color": "#F58220",
+      "catenary": true
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4.0,
@@ -498,10 +510,12 @@
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 30,
-      "crossoverSpeed": 6.7
+      "crossoverSpeed": 6.7,
+      "yardSpeedLimit": 11.11
     },
     "appearance": {
-      "color": "#FF8C00"
+      "color": "#FF8C00",
+      "catenary": true
     },
     "elevationMultipliers": {
       "DEEP_BORE": 4.0,

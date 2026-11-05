@@ -310,10 +310,10 @@ Initial builds should be done with a track option where applicable. Compatible t
 
 </details>
 
-## Currently Available Trains (214)
+## Currently Available Trains (224)
 
 <details>
-<summary>National (34)</summary>
+<summary>National (42)</summary>
 
 <table style="width: auto">
   <tr>
@@ -427,6 +427,13 @@ Initial builds should be done with a track option where applicable. Compatible t
     <td>Hitachi / Kawasaki Heavy Industries / Tokyu Car</td>
     <td>315</td>
     <td>1296</td>
+  </tr>
+  <tr>
+    <td>JP 923 Doctor Yellow 1435JP</td>
+    <td>7-car 923 series Shinkansen track and overhead line inspection train based on the 700 series, used on the Tokaido and Sanyo Shinkansen. Carries no passengers. Manufacturer: Nippon Sharyo / Hitachi.</td>
+    <td>Nippon Sharyo / Hitachi</td>
+    <td>285</td>
+    <td>0</td>
   </tr>
   <tr>
     <td>JP L0 Chuo Shinkansen</td>
@@ -555,9 +562,58 @@ Initial builds should be done with a track option where applicable. Compatible t
     <td>2910</td>
   </tr>
   <tr>
+    <td>JP JNR 185 Limited Express 1067JP</td>
+    <td>JNR 185 series limited express EMU introduced in 1981 for Odoriko services on the Tokaido Line, later also used on Takasaki-area services. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo / Tokyu Car.</td>
+    <td>Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo / Tokyu Car</td>
+    <td>110</td>
+    <td>900</td>
+  </tr>
+  <tr>
+    <td>JP JNR 489 Limited Express 1067JP</td>
+    <td>JNR 489 series limited express EMU built from 1971 for Hakusan and Asama services over the Usui Pass with EF63 banking locomotives, later used on Noto and Hakutaka. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo / Tokyu Car.</td>
+    <td>Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo / Tokyu Car</td>
+    <td>120</td>
+    <td>780</td>
+  </tr>
+  <tr>
+    <td>JP JNR 381 Limited Express 1067JP</td>
+    <td>JNR 381 series tilting limited express EMU introduced in 1973 for Shinano, Kuroshio and Yakumo services. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo.</td>
+    <td>Hitachi / Kawasaki Heavy Industries / Kinki Sharyo</td>
+    <td>120</td>
+    <td>603</td>
+  </tr>
+  <tr>
+    <td>JP JNR 153 Express 1067JP</td>
+    <td>JNR 153 series express EMU built from 1958 for Tokai and Hiei services on the Tokaido Line, later used on Shin-Kaisoku services. Manufacturer: Nippon Sharyo / Kisha Seizo / Kinki Sharyo / Kawasaki Heavy Industries.</td>
+    <td>Nippon Sharyo / Kisha Seizo / Kinki Sharyo / Kawasaki Heavy Industries</td>
+    <td>130</td>
+    <td>936</td>
+  </tr>
+  <tr>
+    <td>JP JNR 453 Express 1067JP</td>
+    <td>JNR 453 series AC/DC express EMU for Tohoku and Joban Line express services such as Tokiwa. Manufacturer: JNR.</td>
+    <td>JNR</td>
+    <td>110</td>
+    <td>960</td>
+  </tr>
+  <tr>
     <td>JP JRF EF210 1067JP</td>
     <td>JR Freight EF210 electric freight locomotive. Manufacturer: Mitsubishi Electric / Kawasaki Heavy Industries.</td>
     <td>Mitsubishi Electric / Kawasaki Heavy Industries</td>
+    <td>110</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>JP JRF EF510 1067JP</td>
+    <td>JR Freight EF510 AC/DC electric locomotive built from 2001 for Japan Sea Coast and other main line freight services. Manufacturer: Kawasaki Heavy Industries / Mitsubishi Electric.</td>
+    <td>Kawasaki Heavy Industries / Mitsubishi Electric</td>
+    <td>110</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>JP JRF DF200 1067JP</td>
+    <td>JR Freight DF200 diesel-electric locomotive built from 1992 to replace the DD51 on Hokkaido freight services, later also used on the Kansai Main Line. Manufacturer: Kawasaki Heavy Industries.</td>
+    <td>Kawasaki Heavy Industries</td>
     <td>110</td>
     <td>0</td>
   </tr>
@@ -1529,7 +1585,7 @@ Initial builds should be done with a track option where applicable. Compatible t
 </details>
 
 <details>
-<summary>Tokyo (66)</summary>
+<summary>Tokyo (68)</summary>
 
 <table style="width: auto">
   <tr>
@@ -1722,6 +1778,13 @@ Initial builds should be done with a track option where applicable. Compatible t
     <td>4350</td>
   </tr>
   <tr>
+    <td>TYO E331 Keiyo 1067JP</td>
+    <td>JR East E331 series 14-car articulated commuter train with direct-drive motors, used on the Keiyo Line from 2007 to 2011. Manufacturer: Kawasaki Heavy Industries / Tokyu Car.</td>
+    <td>Kawasaki Heavy Industries / Tokyu Car</td>
+    <td>120</td>
+    <td>2954</td>
+  </tr>
+  <tr>
     <td>TYO E233 Urban 1067JP/ST</td>
     <td>JR East E233 series commuter train. Used on inner Tokyo commuter lines, including Saikyo Line through services onto Sotetsu (E233-7000). Manufacturer: J-TREC.</td>
     <td>J-TREC</td>
@@ -1729,7 +1792,7 @@ Initial builds should be done with a track option where applicable. Compatible t
     <td>3400</td>
   </tr>
   <tr>
-    <td>TYO E233-2000 1067JP/MC/OD</td>
+    <td>TYO E233-2000 Joban 1067JP/MC/OD</td>
     <td>JR East E233-2000 series 10-car narrow-body commuter train for Joban Local Line services with through-service to the Tokyo Metro Chiyoda Line and Odakyu Line. Manufacturer: J-TREC.</td>
     <td>J-TREC</td>
     <td>130</td>
@@ -1748,6 +1811,13 @@ Initial builds should be done with a track option where applicable. Compatible t
     <td>Tokyu Car / Kawasaki Heavy Industries</td>
     <td>130</td>
     <td>3400</td>
+  </tr>
+  <tr>
+    <td>TYO E231-800 Tozai 1067JP/MT</td>
+    <td>JR East E231-800 series 10-car commuter train with a narrower body for Chuo-Sobu Line through services onto the Tokyo Metro Tozai Line, introduced in 2003. Manufacturer: Tokyu Car / Kawasaki Heavy Industries.</td>
+    <td>Tokyu Car / Kawasaki Heavy Industries</td>
+    <td>120</td>
+    <td>3220</td>
   </tr>
   <tr>
     <td>TYO E217 Commuter 1067JP</td>
