@@ -2,7 +2,7 @@
   {
     "id": "spk-731-emu",
     "name": "SPK 731 EMU 1067JP",
-    "description": "JR Hokkaido 731 series 3/6-car commuter EMU for Sapporo-area services. Manufacturer: Kawasaki Heavy Industries.",
+    "description": "JR Hokkaido 731 series 3/6-car commuter EMU for Sapporo-area services. Manufacturer: Kawasaki Heavy Industries. C5",
     "stats": {
       "maxAcceleration": 0.611,
       "maxDeceleration": 1.1,
@@ -83,7 +83,7 @@
   {
     "id": "spk-735-emu",
     "name": "SPK 735 EMU 1067JP",
-    "description": "JR Hokkaido 735 series 3/6-car commuter EMU for Sapporo-area services. Manufacturer: Hitachi.",
+    "description": "JR Hokkaido 735 series 3/6-car commuter EMU for Sapporo-area services. Manufacturer: Hitachi. C5",
     "stats": {
       "maxAcceleration": 0.611,
       "maxDeceleration": 1.1,
@@ -164,7 +164,7 @@
   {
     "id": "spk-sapporo-5000-subway",
     "name": "SPK Sapporo 5000 Subway",
-    "description": "Sapporo Municipal Subway 5000 series rubber-tired train for the Namboku Line. Manufacturer: Kawasaki Heavy Industries.",
+    "description": "Sapporo Municipal Subway 5000 series rubber-tired train for the Namboku Line. Manufacturer: Kawasaki Heavy Industries. C7",
     "stats": {
       "maxAcceleration": 1.111,
       "maxDeceleration": 1.15,
@@ -239,7 +239,7 @@
   {
     "id": "spk-sapporo-8000-subway",
     "name": "SPK Sapporo 8000 Subway",
-    "description": "Sapporo Municipal Subway 8000 series rubber-tired train for the Tozai Line. Manufacturer: Kawasaki Heavy Industries.",
+    "description": "Sapporo Municipal Subway 8000 series rubber-tired train for the Tozai Line. Manufacturer: Kawasaki Heavy Industries. C7",
     "stats": {
       "maxAcceleration": 0.972,
       "maxDeceleration": 1.15,
@@ -316,7 +316,7 @@
   {
     "id": "spk-sapporo-9000-subway",
     "name": "SPK Sapporo 9000 Subway",
-    "description": "Sapporo Municipal Subway 9000 series rubber-tired train for the Toho Line. Manufacturer: Kawasaki Heavy Industries.",
+    "description": "Sapporo Municipal Subway 9000 series rubber-tired train for the Toho Line. Manufacturer: Kawasaki Heavy Industries. C7",
     "stats": {
       "maxAcceleration": 0.972,
       "maxDeceleration": 1.15,
@@ -393,7 +393,7 @@
   {
     "id": "spk-a1200-polaris-tram",
     "name": "SPK A1200 Polaris Tram 1067SC",
-    "description": "Sapporo Streetcar A1200 Polaris low-floor tram. Manufacturer: Alna Sharyo.",
+    "description": "Sapporo Streetcar A1200 Polaris low-floor tram. Manufacturer: Alna Sharyo. C4",
     "stats": {
       "maxAcceleration": 0.694,
       "maxDeceleration": 1.2,
@@ -470,7 +470,7 @@
   {
     "id": "spk-1100-sirius-tram",
     "name": "SPK 1100 Sirius Tram 1067SC",
-    "description": "Sapporo Streetcar 1100 series Sirius low-floor tram. Manufacturer: Alna Sharyo.",
+    "description": "Sapporo Streetcar 1100 series Sirius low-floor tram. Manufacturer: Alna Sharyo. C4",
     "stats": {
       "maxAcceleration": 0.694,
       "maxDeceleration": 1.2,

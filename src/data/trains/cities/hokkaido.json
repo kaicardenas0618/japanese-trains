@@ -2,7 +2,7 @@
   {
     "id": "jrh-h100-demu",
     "name": "JRH H100 DEMU",
-    "description": "JR Hokkaido H100 DECMO diesel-electric railcar. Same family as JR East GV-E400. Manufacturer: Kawasaki Heavy Industries.",
+    "description": "JR Hokkaido H100 DECMO diesel-electric railcar. Same family as JR East GV-E400. Manufacturer: Kawasaki Heavy Industries. C5",
     "stats": {
       "maxAcceleration": 0.361,
       "maxDeceleration": 0.95,
@@ -38,7 +38,7 @@
       "maxSlopePercentage": 3.5,
       "parallelTrackSpacing": 1.965,
       "stopTimeSeconds": 40,
-      "turnaroundTimeSeconds": 85,
+      "turnaroundTimeSeconds": 80,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 24,
@@ -84,7 +84,7 @@
   {
     "id": "jrh-kiha150-dmu",
     "name": "JRH KiHa150 DMU",
-    "description": "JR Hokkaido KiHa 150 regional diesel railcar, modeled for 1-6 car rural operation. Manufacturer: Fuji Heavy Industries.",
+    "description": "JR Hokkaido KiHa 150 regional diesel railcar, modeled for 1-6 car rural operation. Manufacturer: Fuji Heavy Industries. C5",
     "stats": {
       "maxAcceleration": 0.5,
       "maxDeceleration": 0.95,
@@ -120,7 +120,7 @@
       "maxSlopePercentage": 3.5,
       "parallelTrackSpacing": 1.965,
       "stopTimeSeconds": 40,
-      "turnaroundTimeSeconds": 85,
+      "turnaroundTimeSeconds": 80,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 24,
@@ -166,7 +166,7 @@
   {
     "id": "jrh-721-emu",
     "name": "JRH 721 EMU 1067JP",
-    "description": "JR Hokkaido 721 series suburban AC EMU for Sapporo-area regional services. Manufacturer: Kawasaki Heavy Industries / Hitachi.",
+    "description": "JR Hokkaido 721 series suburban AC EMU for Sapporo-area regional services. Manufacturer: Kawasaki Heavy Industries / Hitachi. C5",
     "stats": {
       "maxAcceleration": 0.611,
       "maxDeceleration": 1.1,
@@ -248,7 +248,7 @@
   {
     "id": "jrh-733-emu",
     "name": "JRH 733 EMU 1067JP",
-    "description": "JR Hokkaido 733 series suburban AC EMU for Sapporo-area local and rapid services. Manufacturer: Kawasaki Heavy Industries.",
+    "description": "JR Hokkaido 733 series suburban AC EMU for Sapporo-area local and rapid services. Manufacturer: Kawasaki Heavy Industries. C5",
     "stats": {
       "maxAcceleration": 0.611,
       "maxDeceleration": 1.1,
@@ -329,7 +329,7 @@
   {
     "id": "jrh-737-emu",
     "name": "JRH 737 EMU 1067JP",
-    "description": "JR Hokkaido 737 series two-car AC EMU for regional electrified services. Manufacturer: Kawasaki Heavy Industries.",
+    "description": "JR Hokkaido 737 series two-car AC EMU for regional electrified services. Manufacturer: Kawasaki Heavy Industries. C5",
     "stats": {
       "maxAcceleration": 0.611,
       "maxDeceleration": 1.1,

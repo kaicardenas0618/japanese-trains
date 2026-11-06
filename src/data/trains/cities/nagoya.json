@@ -2,7 +2,7 @@
   {
     "id": "jrc-313-emu",
     "name": "JRC 313 EMU 1067JP",
-    "description": "JR Central 313 series suburban EMU for Nagoya-area regional and rapid services. Manufacturer: Kinki Sharyo / Nippon Sharyo.",
+    "description": "JR Central 313 series suburban EMU for Nagoya-area regional and rapid services. Manufacturer: Kinki Sharyo / Nippon Sharyo. C5",
     "stats": {
       "maxAcceleration": 0.722,
       "maxDeceleration": 1.1,
@@ -38,7 +38,7 @@
       "maxSlopePercentage": 3.5,
       "parallelTrackSpacing": 1.965,
       "stopTimeSeconds": 50,
-      "turnaroundTimeSeconds": 70,
+      "turnaroundTimeSeconds": 80,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 30,
@@ -250,7 +250,7 @@
   {
     "id": "mei-6000-emu",
     "name": "MEI 6000 EMU 1067MN/JP",
-    "description": "Meitetsu 6000 series commuter EMU for Nagoya-area local and express services. Manufacturer: Nippon Sharyo.",
+    "description": "Meitetsu 6000 series commuter EMU for Nagoya-area local and express services. Manufacturer: Nippon Sharyo. C5",
     "stats": {
       "maxAcceleration": 0.556,
       "maxDeceleration": 1.1,
@@ -333,7 +333,7 @@
   {
     "id": "mei-9500-emu",
     "name": "MEI 9500 EMU 1067MN/JP",
-    "description": "Meitetsu 9500/9100 series modern commuter EMU for Nagoya-area services. Manufacturer: Nippon Sharyo.",
+    "description": "Meitetsu 9500/9100 series modern commuter EMU for Nagoya-area services. Manufacturer: Nippon Sharyo. C5",
     "stats": {
       "maxAcceleration": 0.556,
       "maxDeceleration": 1.1,
@@ -416,7 +416,7 @@
   {
     "id": "jrc-315-emu",
     "name": "JRC 315 EMU 1067JP",
-    "description": "JR Central 315 series commuter EMU for Nagoya-area mainline services. Manufacturer: Nippon Sharyo.",
+    "description": "JR Central 315 series commuter EMU for Nagoya-area mainline services. Manufacturer: Nippon Sharyo. C5",
     "stats": {
       "maxAcceleration": 0.722,
       "maxDeceleration": 1.1,
@@ -452,7 +452,7 @@
       "maxSlopePercentage": 3.5,
       "parallelTrackSpacing": 1.965,
       "stopTimeSeconds": 50,
-      "turnaroundTimeSeconds": 70,
+      "turnaroundTimeSeconds": 80,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 30,
@@ -497,7 +497,7 @@
   {
     "id": "ngy-n1000-higashiyama-subway",
     "name": "NGY N1000 Higashiyama Subway",
-    "description": "Nagoya Subway N1000 series train for the Higashiyama Line. Manufacturer: Nippon Sharyo.",
+    "description": "Nagoya Subway N1000 series train for the Higashiyama Line. Manufacturer: Nippon Sharyo. C7",
     "stats": {
       "maxAcceleration": 0.917,
       "maxDeceleration": 1.15,
@@ -572,7 +572,7 @@
   {
     "id": "ngy-n3000-tsurumai-subway",
     "name": "NGY N3000 Tsurumai Subway 1067MN",
-    "description": "Nagoya Subway N3000 series train for the Tsurumai Line. Manufacturer: Nippon Sharyo / Hitachi.",
+    "description": "Nagoya Subway N3000 series train for the Tsurumai Line. Manufacturer: Nippon Sharyo / Hitachi. C7",
     "stats": {
       "maxAcceleration": 0.833,
       "maxDeceleration": 1.15,
@@ -797,7 +797,7 @@
   {
     "id": "ngy-6050-sakura-dori-subway",
     "name": "NGY 6050 Sakura-dori Subway",
-    "description": "Nagoya Subway 6050 series train for the Sakura-dori Line. Manufacturer: Nippon Sharyo.",
+    "description": "Nagoya Subway 6050 series train for the Sakura-dori Line. Manufacturer: Nippon Sharyo. C7",
     "stats": {
       "maxAcceleration": 0.833,
       "maxDeceleration": 1.15,
@@ -872,7 +872,7 @@
   {
     "id": "ngy-linimo-100-maglev",
     "name": "NGY Linimo 100 Maglev",
-    "description": "Linimo 100 series urban maglev train for the Aichi Loop area. Manufacturer: Nippon Sharyo.",
+    "description": "Linimo 100 series urban maglev train for the Aichi Loop area. Manufacturer: Nippon Sharyo. C4",
     "stats": {
       "maxAcceleration": 1.111,
       "maxDeceleration": 1.15,

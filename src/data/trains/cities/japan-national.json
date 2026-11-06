@@ -38,7 +38,7 @@
       "maxSlopePercentage": 2.8,
       "parallelTrackSpacing": 3,
       "stopTimeSeconds": 120,
-      "turnaroundTimeSeconds": 0,
+      "turnaroundTimeSeconds": 120,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 20,
@@ -69,7 +69,8 @@
       "1435JP-100",
       "1435JP-130",
       "1435JP-285",
-      "1435JP-320"
+      "1435JP-320",
+      "1435JP-360"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -122,7 +123,7 @@
       "maxSlopePercentage": 2.8,
       "parallelTrackSpacing": 3,
       "stopTimeSeconds": 120,
-      "turnaroundTimeSeconds": 0,
+      "turnaroundTimeSeconds": 120,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 20,
@@ -151,7 +152,8 @@
       "1435JP-100",
       "1435JP-130",
       "1435JP-285",
-      "1435JP-320"
+      "1435JP-320",
+      "1435JP-360"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -204,7 +206,7 @@
       "maxSlopePercentage": 2.5,
       "parallelTrackSpacing": 3,
       "stopTimeSeconds": 120,
-      "turnaroundTimeSeconds": 0,
+      "turnaroundTimeSeconds": 120,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 20,
@@ -235,7 +237,8 @@
       "1435JP-100",
       "1435JP-130",
       "1435JP-285",
-      "1435JP-320"
+      "1435JP-320",
+      "1435JP-360"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -288,7 +291,7 @@
       "maxSlopePercentage": 2.8,
       "parallelTrackSpacing": 3,
       "stopTimeSeconds": 120,
-      "turnaroundTimeSeconds": 0,
+      "turnaroundTimeSeconds": 120,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 20,
@@ -317,7 +320,8 @@
       "1435JP-100",
       "1435JP-130",
       "1435JP-285",
-      "1435JP-320"
+      "1435JP-320",
+      "1435JP-360"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -370,7 +374,7 @@
       "maxSlopePercentage": 2.8,
       "parallelTrackSpacing": 3,
       "stopTimeSeconds": 120,
-      "turnaroundTimeSeconds": 0,
+      "turnaroundTimeSeconds": 120,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 20,
@@ -401,7 +405,8 @@
       "1435JP-100",
       "1435JP-130",
       "1435JP-285",
-      "1435JP-320"
+      "1435JP-320",
+      "1435JP-360"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -454,7 +459,7 @@
       "maxSlopePercentage": 2.8,
       "parallelTrackSpacing": 3,
       "stopTimeSeconds": 120,
-      "turnaroundTimeSeconds": 0,
+      "turnaroundTimeSeconds": 120,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 20,
@@ -485,7 +490,8 @@
       "1435JP-100",
       "1435JP-130",
       "1435JP-285",
-      "1435JP-320"
+      "1435JP-320",
+      "1435JP-360"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -538,7 +544,7 @@
       "maxSlopePercentage": 2.8,
       "parallelTrackSpacing": 3,
       "stopTimeSeconds": 120,
-      "turnaroundTimeSeconds": 0,
+      "turnaroundTimeSeconds": 120,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 20,
@@ -566,7 +572,8 @@
       "1435JP-100",
       "1435JP-130",
       "1435JP-285",
-      "1435JP-320"
+      "1435JP-320",
+      "1435JP-360"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -619,7 +626,7 @@
       "maxSlopePercentage": 2.5,
       "parallelTrackSpacing": 3,
       "stopTimeSeconds": 120,
-      "turnaroundTimeSeconds": 0,
+      "turnaroundTimeSeconds": 120,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 20,
@@ -648,7 +655,91 @@
       "1435JP-100",
       "1435JP-130",
       "1435JP-285",
-      "1435JP-320"
+      "1435JP-320",
+      "1435JP-360"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 900000,
+    "gradeCrossingMaintenancePerYear": 18000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 20000000,
+    "rampCost": 10000000
+  },
+  {
+    "id": "jp-e956-alfa-x",
+    "name": "JP E956 ALFA-X 1435JP",
+    "description": "JR East E956 ALFA-X 10-car high-speed test train unveiled in 2019, used to develop the E10 series for the Tohoku and Hokkaido Shinkansen. Seats modelled on the E5 series. Manufacturer: Kawasaki Heavy Industries / Hitachi.",
+    "stats": {
+      "maxAcceleration": 0.556,
+      "maxDeceleration": 1.0,
+      "accelerationCurve": {
+        "a0": 0.556,
+        "a1": 0.556,
+        "v1": 19.44,
+        "v2": 55.56,
+        "exponent": 1.5
+      },
+      "maxSpeed": 111.11,
+      "maxSpeedLocalStation": 111.11,
+      "capacityPerCar": 73,
+      "seatsPerCar": 73,
+      "doorsPerCarPerSide": 2,
+      "carLength": 24.85,
+      "minCars": 10,
+      "maxCars": 10,
+      "carsPerCarSet": 10,
+      "carCost": 10120000,
+      "trainWidth": 3.35,
+      "minStationLength": 249,
+      "maxStationLength": 259,
+      "baseTrackCost": 95000,
+      "baseStationCost": 185000000,
+      "trainOperationalCostPerHour": 780,
+      "carOperationalCostPerHour": 60,
+      "scissorsCrossoverCost": 42000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.825,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 2.5,
+      "parallelTrackSpacing": 3,
+      "stopTimeSeconds": 120,
+      "turnaroundTimeSeconds": 120,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 20,
+      "crossoverSpeed": 11.1,
+      "yardSpeedLimit": 11.11
+    },
+    "appearance": {
+      "color": "#1B7F5E",
+      "catenary": true
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 6.0,
+      "STANDARD_TUNNEL": 3.2,
+      "CUT_AND_COVER": 1.7,
+      "AT_GRADE": 0.75,
+      "ELEVATED": 1.5,
+      "TRENCHED": 1.08,
+      "RAMP": 1.09
+    },
+    "Manufacturer": [
+      "Kawasaki Heavy Industries",
+      "Hitachi"
+    ],
+    "compatibleTrackTypes": [
+      "1435JP-60",
+      "1435JP-100",
+      "1435JP-130",
+      "1435JP-285",
+      "1435JP-320",
+      "1435JP-360"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -701,7 +792,7 @@
       "maxSlopePercentage": 2.5,
       "parallelTrackSpacing": 3,
       "stopTimeSeconds": 120,
-      "turnaroundTimeSeconds": 0,
+      "turnaroundTimeSeconds": 120,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 20,
@@ -730,7 +821,8 @@
       "1435JP-100",
       "1435JP-130",
       "1435JP-285",
-      "1435JP-320"
+      "1435JP-320",
+      "1435JP-360"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -783,7 +875,7 @@
       "maxSlopePercentage": 2.5,
       "parallelTrackSpacing": 3,
       "stopTimeSeconds": 120,
-      "turnaroundTimeSeconds": 0,
+      "turnaroundTimeSeconds": 120,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 16,
@@ -812,7 +904,8 @@
       "1435JP-100",
       "1435JP-130",
       "1435JP-285",
-      "1435JP-320"
+      "1435JP-320",
+      "1435JP-360"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -865,7 +958,7 @@
       "maxSlopePercentage": 2.8,
       "parallelTrackSpacing": 3,
       "stopTimeSeconds": 120,
-      "turnaroundTimeSeconds": 0,
+      "turnaroundTimeSeconds": 120,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 20,
@@ -895,7 +988,8 @@
       "1435JP-100",
       "1435JP-130",
       "1435JP-285",
-      "1435JP-320"
+      "1435JP-320",
+      "1435JP-360"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -948,7 +1042,7 @@
       "maxSlopePercentage": 2.8,
       "parallelTrackSpacing": 3,
       "stopTimeSeconds": 120,
-      "turnaroundTimeSeconds": 0,
+      "turnaroundTimeSeconds": 120,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 20,
@@ -978,7 +1072,8 @@
       "1435JP-100",
       "1435JP-130",
       "1435JP-285",
-      "1435JP-320"
+      "1435JP-320",
+      "1435JP-360"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -1031,7 +1126,7 @@
       "maxSlopePercentage": 2.5,
       "parallelTrackSpacing": 3,
       "stopTimeSeconds": 120,
-      "turnaroundTimeSeconds": 0,
+      "turnaroundTimeSeconds": 120,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 16,
@@ -1059,7 +1154,8 @@
       "1435JP-100",
       "1435JP-130",
       "1435JP-285",
-      "1435JP-320"
+      "1435JP-320",
+      "1435JP-360"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -1112,7 +1208,7 @@
       "maxSlopePercentage": 2.8,
       "parallelTrackSpacing": 3,
       "stopTimeSeconds": 120,
-      "turnaroundTimeSeconds": 0,
+      "turnaroundTimeSeconds": 120,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 16,
@@ -1141,7 +1237,8 @@
       "1435JP-100",
       "1435JP-130",
       "1435JP-285",
-      "1435JP-320"
+      "1435JP-320",
+      "1435JP-360"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -1194,7 +1291,7 @@
       "maxSlopePercentage": 2.8,
       "parallelTrackSpacing": 3,
       "stopTimeSeconds": 120,
-      "turnaroundTimeSeconds": 0,
+      "turnaroundTimeSeconds": 120,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 20,
@@ -1224,7 +1321,8 @@
       "1435JP-100",
       "1435JP-130",
       "1435JP-285",
-      "1435JP-320"
+      "1435JP-320",
+      "1435JP-360"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -1277,7 +1375,7 @@
       "maxSlopePercentage": 2.8,
       "parallelTrackSpacing": 3,
       "stopTimeSeconds": 120,
-      "turnaroundTimeSeconds": 0,
+      "turnaroundTimeSeconds": 120,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 20,
@@ -1306,7 +1404,8 @@
       "1435JP-100",
       "1435JP-130",
       "1435JP-285",
-      "1435JP-320"
+      "1435JP-320",
+      "1435JP-360"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -1377,7 +1476,8 @@
       "1435JP-100",
       "1435JP-130",
       "1435JP-285",
-      "1435JP-320"
+      "1435JP-320",
+      "1435JP-360"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -1448,7 +1548,8 @@
       "1435JP-60",
       "1435JP-130",
       "1435JP-285",
-      "1435JP-320"
+      "1435JP-320",
+      "1435JP-360"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -1519,7 +1620,8 @@
       "1435JP-60",
       "1435JP-100",
       "1435JP-285",
-      "1435JP-320"
+      "1435JP-320",
+      "1435JP-360"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -1593,7 +1695,8 @@
       "1435JP-60",
       "1435JP-100",
       "1435JP-130",
-      "1435JP-320"
+      "1435JP-320",
+      "1435JP-360"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -1664,7 +1767,80 @@
       "1435JP-60",
       "1435JP-100",
       "1435JP-130",
-      "1435JP-285"
+      "1435JP-285",
+      "1435JP-360"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 900000,
+    "gradeCrossingMaintenancePerYear": 18000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 20000000,
+    "rampCost": 10000000
+  },
+  {
+    "id": "1435JP-360",
+    "name": "1435JP-360",
+    "description": "1435mm 360kph track for Shinkansen use.",
+    "stats": {
+      "maxAcceleration": 9,
+      "maxDeceleration": 9,
+      "maxSpeed": 100.0,
+      "maxSpeedLocalStation": 100.0,
+      "capacityPerCar": 0,
+      "seatsPerCar": 0,
+      "doorsPerCarPerSide": 99,
+      "carLength": 25.0,
+      "minCars": 2,
+      "maxCars": 20,
+      "carsPerCarSet": 1,
+      "carCost": 7560000,
+      "trainWidth": 3.36,
+      "minStationLength": 60,
+      "maxStationLength": 510,
+      "baseTrackCost": 82000,
+      "baseStationCost": 260000000,
+      "trainOperationalCostPerHour": 1250,
+      "carOperationalCostPerHour": 52,
+      "scissorsCrossoverCost": 37000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 0.9,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1400,
+      "maxSlopePercentage": 2.8,
+      "parallelTrackSpacing": 3,
+      "stopTimeSeconds": 120,
+      "turnaroundTimeSeconds": 0,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 20,
+      "crossoverSpeed": 11.1,
+      "yardSpeedLimit": 11.11
+    },
+    "appearance": {
+      "color": "#FFFFFF",
+      "catenary": true
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 5.4,
+      "STANDARD_TUNNEL": 2.9,
+      "CUT_AND_COVER": 1.5,
+      "AT_GRADE": 0.65,
+      "ELEVATED": 1.35,
+      "TRENCHED": 0.95,
+      "RAMP": 0.97
+    },
+    "Manufacturer": [],
+    "compatibleTrackTypes": [
+      "1435JP-60",
+      "1435JP-100",
+      "1435JP-130",
+      "1435JP-285",
+      "1435JP-320"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -1709,8 +1885,8 @@
       "minStationTurnRadius": 8000,
       "maxSlopePercentage": 4.0,
       "parallelTrackSpacing": 3,
-      "stopTimeSeconds": 90,
-      "turnaroundTimeSeconds": 0,
+      "stopTimeSeconds": 120,
+      "turnaroundTimeSeconds": 120,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 10,
@@ -2561,7 +2737,7 @@
   {
     "id": "jp-jnr-115-emu",
     "name": "JP JNR 115 EMU 1067JP",
-    "description": "JNR 115 series DC suburban EMU. Rural/regional representative set, excluding former long urban commuter operations. Manufacturer: JNR / Nippon Sharyo / Kawasaki Heavy Industries / Hitachi.",
+    "description": "JNR 115 series DC suburban EMU. Rural/regional representative set, excluding former long urban commuter operations. Manufacturer: JNR / Nippon Sharyo / Kawasaki Heavy Industries / Hitachi. C5",
     "stats": {
       "maxAcceleration": 0.444,
       "maxDeceleration": 1.1,
@@ -2645,7 +2821,7 @@
   {
     "id": "jp-jnr-kiha40-dmu",
     "name": "JP JNR KiHa40 DMU",
-    "description": "JNR KiHa 40 series rural diesel railcar. Ubiquitous countryside stock, modeled for 1-6 car local formations. Manufacturer: JNR / Niigata Tekko / Fuji Heavy Industries.",
+    "description": "JNR KiHa 40 series rural diesel railcar. Ubiquitous countryside stock, modeled for 1-6 car local formations. Manufacturer: JNR / Niigata Tekko / Fuji Heavy Industries. C5",
     "stats": {
       "maxAcceleration": 0.417,
       "maxDeceleration": 0.95,
@@ -2681,7 +2857,7 @@
       "maxSlopePercentage": 3.5,
       "parallelTrackSpacing": 1.965,
       "stopTimeSeconds": 40,
-      "turnaroundTimeSeconds": 85,
+      "turnaroundTimeSeconds": 80,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 24,
@@ -2722,7 +2898,7 @@
   {
     "id": "jp-jnr-415-emu",
     "name": "JP JNR 415 EMU 1067JP",
-    "description": "JNR 415 series AC/DC suburban EMU. The commuter workhorse of AC-electrified regions. Manufacturer: JNR / Nippon Sharyo / Kawasaki Heavy Industries / Hitachi.",
+    "description": "JNR 415 series AC/DC suburban EMU. The commuter workhorse of AC-electrified regions. Manufacturer: JNR / Nippon Sharyo / Kawasaki Heavy Industries / Hitachi. C5",
     "stats": {
       "maxAcceleration": 0.444,
       "maxDeceleration": 1.1,
@@ -2758,7 +2934,7 @@
       "maxSlopePercentage": 3.5,
       "parallelTrackSpacing": 1.965,
       "stopTimeSeconds": 50,
-      "turnaroundTimeSeconds": 70,
+      "turnaroundTimeSeconds": 80,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 30,
@@ -2806,7 +2982,7 @@
   {
     "id": "jp-jnr-213-emu",
     "name": "JP JNR 213 EMU 1067JP",
-    "description": "JNR 213 series suburban EMU. Two-door regional EMU used by JR West and JR Central. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo / Tokyu Car.",
+    "description": "JNR 213 series suburban EMU. Two-door regional EMU used by JR West and JR Central. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo / Tokyu Car. C5",
     "stats": {
       "maxAcceleration": 0.389,
       "maxDeceleration": 1.1,
@@ -2891,7 +3067,7 @@
   {
     "id": "jp-jnr-113-emu",
     "name": "JP JNR 113 EMU 1067JP",
-    "description": "JNR 113 series DC suburban EMU. Broad national legacy suburban profile for areas not covered by newer stock. Manufacturer: JNR / Nippon Sharyo / Kawasaki Heavy Industries / Hitachi.",
+    "description": "JNR 113 series DC suburban EMU. Broad national legacy suburban profile for areas not covered by newer stock. Manufacturer: JNR / Nippon Sharyo / Kawasaki Heavy Industries / Hitachi. C5",
     "stats": {
       "maxAcceleration": 0.444,
       "maxDeceleration": 1.1,
@@ -2927,7 +3103,7 @@
       "maxSlopePercentage": 3.5,
       "parallelTrackSpacing": 1.965,
       "stopTimeSeconds": 50,
-      "turnaroundTimeSeconds": 70,
+      "turnaroundTimeSeconds": 80,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 30,
@@ -2975,7 +3151,7 @@
   {
     "id": "jp-jnr-117-emu",
     "name": "JP JNR 117 EMU 1067JP",
-    "description": "JNR 117 series two-door suburban EMU used on rapid and regional services. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo.",
+    "description": "JNR 117 series two-door suburban EMU used on rapid and regional services. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo. C5",
     "stats": {
       "maxAcceleration": 0.556,
       "maxDeceleration": 1.1,
@@ -3011,7 +3187,7 @@
       "maxSlopePercentage": 3.5,
       "parallelTrackSpacing": 1.965,
       "stopTimeSeconds": 50,
-      "turnaroundTimeSeconds": 70,
+      "turnaroundTimeSeconds": 80,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 30,
@@ -3058,7 +3234,7 @@
   {
     "id": "jp-jnr-211-emu",
     "name": "JP JNR 211 EMU 1067JP",
-    "description": "JNR 211 series suburban EMU. Later JNR stainless-steel regional and suburban stock. Manufacturer: JNR / Kawasaki Heavy Industries / Tokyu Car / Nippon Sharyo.",
+    "description": "JNR 211 series suburban EMU. Later JNR stainless-steel regional and suburban stock. Manufacturer: JNR / Kawasaki Heavy Industries / Tokyu Car / Nippon Sharyo. C5",
     "stats": {
       "maxAcceleration": 0.472,
       "maxDeceleration": 1.1,
@@ -3094,7 +3270,7 @@
       "maxSlopePercentage": 3.5,
       "parallelTrackSpacing": 1.965,
       "stopTimeSeconds": 50,
-      "turnaroundTimeSeconds": 70,
+      "turnaroundTimeSeconds": 80,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 30,

@@ -2,7 +2,7 @@
   {
     "id": "ktd-1300-emu",
     "name": "KTD 1300 EMU 1435KD",
-    "description": "Kotoden 1300 series local EMU for Takamatsu-area services. Manufacturer: Keikyu / Tokyu Car.",
+    "description": "Kotoden 1300 series local EMU for Takamatsu-area services. Manufacturer: Keikyu / Tokyu Car. C5",
     "stats": {
       "maxAcceleration": 0.556,
       "maxDeceleration": 1.1,
@@ -80,7 +80,7 @@
   {
     "id": "ktd-1200-emu",
     "name": "KTD 1200 EMU 1435KD",
-    "description": "Kotoden 1200 series local EMU for Takamatsu-area services. Manufacturer: Keikyu / Tokyu Car.",
+    "description": "Kotoden 1200 series local EMU for Takamatsu-area services. Manufacturer: Keikyu / Tokyu Car. C5",
     "stats": {
       "maxAcceleration": 0.75,
       "maxDeceleration": 1.1,
@@ -158,7 +158,7 @@
   {
     "id": "ktd-1080-emu",
     "name": "KTD 1080 EMU 1435KD",
-    "description": "Kotoden 1080 series local EMU converted from former Keikyu stock. Manufacturer: Tokyu Car / Kawasaki Heavy Industries.",
+    "description": "Kotoden 1080 series local EMU converted from former Keikyu stock. Manufacturer: Tokyu Car / Kawasaki Heavy Industries. C5",
     "stats": {
       "maxAcceleration": 0.556,
       "maxDeceleration": 1.1,
@@ -302,7 +302,7 @@
   {
     "id": "jrs-7200-emu",
     "name": "JRS 7200 EMU 1067JP",
-    "description": "JR Shikoku 7200 series regional EMU for Takamatsu-area local services. Manufacturer: JNR / JR Shikoku.",
+    "description": "JR Shikoku 7200 series regional EMU for Takamatsu-area local services. Manufacturer: JNR / JR Shikoku. C5",
     "stats": {
       "maxAcceleration": 0.556,
       "maxDeceleration": 1.1,
