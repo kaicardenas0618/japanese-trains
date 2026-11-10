@@ -570,6 +570,82 @@
     "rampCost": 4000000
   },
   {
+    "id": "ngy-2000-meijo-subway",
+    "name": "NGY 2000 Meijo Subway",
+    "description": "Nagoya Subway 2000 series 6-car train for the Meijo and Meiko Lines, introduced in 1989. Manufacturer: Nippon Sharyo / Hitachi. C7",
+    "stats": {
+      "maxAcceleration": 0.917,
+      "maxDeceleration": 1.15,
+      "accelerationCurve": {
+        "a0": 0.917,
+        "a1": 0.912,
+        "v1": 11.07,
+        "v2": 17.63,
+        "exponent": 2.0
+      },
+      "maxSpeed": 22.22,
+      "maxSpeedLocalStation": 22.22,
+      "capacityPerCar": 259,
+      "seatsPerCar": 37,
+      "doorsPerCarPerSide": 4,
+      "carLength": 15.58,
+      "minCars": 6,
+      "maxCars": 6,
+      "carsPerCarSet": 6,
+      "carCost": 3000000,
+      "trainWidth": 2.546,
+      "minStationLength": 94,
+      "maxStationLength": 104,
+      "baseTrackCost": 32000,
+      "baseStationCost": 56000000,
+      "trainOperationalCostPerHour": 250,
+      "carOperationalCostPerHour": 25,
+      "scissorsCrossoverCost": 15000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.425,
+      "minTurnRadius": 35,
+      "minStationTurnRadius": 420,
+      "maxSlopePercentage": 3.8,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 32,
+      "turnaroundTimeSeconds": 88,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 6.7,
+      "yardSpeedLimit": 11.11
+    },
+    "appearance": {
+      "color": "#7E318E",
+      "catenary": false
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.3,
+      "ELEVATED": 0.8,
+      "TRENCHED": 0.54,
+      "RAMP": 0.53
+    },
+    "Manufacturer": [
+      "Nippon Sharyo",
+      "Hitachi"
+    ],
+    "compatibleTrackTypes": [],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 8000000,
+    "rampCost": 4000000
+  },
+  {
     "id": "ngy-n3000-tsurumai-subway",
     "name": "NGY N3000 Tsurumai Subway 1067MN",
     "description": "Nagoya Subway N3000 series train for the Tsurumai Line. Manufacturer: Nippon Sharyo / Hitachi. C7",

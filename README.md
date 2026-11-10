@@ -329,7 +329,7 @@ Capacity per car is calculated from each car's floor area rather than manufactur
 
 Each train's C value is listed at the end of its description. Limited expresses, expresses and Shinkansen use their seat count as their capacity per car instead.
 
-## Currently Available Trains (227)
+## Currently Available Trains (228)
 
 <details>
 <summary>National (43)</summary>
@@ -1269,7 +1269,7 @@ Each train's C value is listed at the end of its description. Limited expresses,
 </details>
 
 <details>
-<summary>Nagoya (10)</summary>
+<summary>Nagoya (11)</summary>
 
 <table style="width: auto">
   <tr>
@@ -1327,6 +1327,13 @@ Each train's C value is listed at the end of its description. Limited expresses,
     <td>Nippon Sharyo</td>
     <td>80</td>
     <td>1518</td>
+  </tr>
+  <tr>
+    <td>NGY 2000 Meijo Subway</td>
+    <td>Nagoya Subway 2000 series 6-car train for the Meijo and Meiko Lines, introduced in 1989. Manufacturer: Nippon Sharyo / Hitachi. C7</td>
+    <td>Nippon Sharyo / Hitachi</td>
+    <td>80</td>
+    <td>1554</td>
   </tr>
   <tr>
     <td>NGY N3000 Tsurumai Subway 1067MN</td>
