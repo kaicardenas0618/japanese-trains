@@ -38,7 +38,7 @@
       "maxSlopePercentage": 6,
       "parallelTrackSpacing": 1.965,
       "stopTimeSeconds": 20,
-      "turnaroundTimeSeconds": 20,
+      "turnaroundTimeSeconds": 70,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 36,

@@ -38,7 +38,7 @@
       "maxSlopePercentage": 6.0,
       "parallelTrackSpacing": 1.965,
       "stopTimeSeconds": 18,
-      "turnaroundTimeSeconds": 102,
+      "turnaroundTimeSeconds": 72,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 40,
@@ -68,6 +68,7 @@
       "1435HD-60"
     ],
     "allowGradeCrossing": true,
+    "allowAtGradeRoadCrossing": true,
     "gradeCrossingBaseCost": 180000,
     "gradeCrossingMaintenancePerYear": 5000,
     "gradeCrossingTphLimit": {
@@ -118,7 +119,7 @@
       "maxSlopePercentage": 6.0,
       "parallelTrackSpacing": 1.965,
       "stopTimeSeconds": 18,
-      "turnaroundTimeSeconds": 102,
+      "turnaroundTimeSeconds": 72,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 34,
@@ -146,6 +147,7 @@
       "1435HD-60"
     ],
     "allowGradeCrossing": true,
+    "allowAtGradeRoadCrossing": true,
     "gradeCrossingBaseCost": 180000,
     "gradeCrossingMaintenancePerYear": 5000,
     "gradeCrossingTphLimit": {
@@ -196,7 +198,7 @@
       "maxSlopePercentage": 6.0,
       "parallelTrackSpacing": 1.965,
       "stopTimeSeconds": 18,
-      "turnaroundTimeSeconds": 102,
+      "turnaroundTimeSeconds": 72,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 34,
@@ -224,6 +226,7 @@
       "1435HD-60"
     ],
     "allowGradeCrossing": true,
+    "allowAtGradeRoadCrossing": true,
     "gradeCrossingBaseCost": 180000,
     "gradeCrossingMaintenancePerYear": 5000,
     "gradeCrossingTphLimit": {
@@ -274,7 +277,7 @@
       "maxSlopePercentage": 6.0,
       "parallelTrackSpacing": 1.965,
       "stopTimeSeconds": 18,
-      "turnaroundTimeSeconds": 102,
+      "turnaroundTimeSeconds": 72,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 40,
@@ -304,6 +307,7 @@
       "1435HD-60"
     ],
     "allowGradeCrossing": true,
+    "allowAtGradeRoadCrossing": true,
     "gradeCrossingBaseCost": 180000,
     "gradeCrossingMaintenancePerYear": 5000,
     "gradeCrossingTphLimit": {
@@ -354,7 +358,7 @@
       "maxSlopePercentage": 6.0,
       "parallelTrackSpacing": 1.965,
       "stopTimeSeconds": 18,
-      "turnaroundTimeSeconds": 102,
+      "turnaroundTimeSeconds": 72,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 40,
@@ -384,6 +388,7 @@
       "1435HD-60"
     ],
     "allowGradeCrossing": true,
+    "allowAtGradeRoadCrossing": true,
     "gradeCrossingBaseCost": 180000,
     "gradeCrossingMaintenancePerYear": 5000,
     "gradeCrossingTphLimit": {
@@ -426,8 +431,8 @@
       "minStationTurnRadius": 80,
       "maxSlopePercentage": 6.0,
       "parallelTrackSpacing": 1.965,
-      "stopTimeSeconds": 30,
-      "turnaroundTimeSeconds": 90,
+      "stopTimeSeconds": 0,
+      "turnaroundTimeSeconds": 0,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 40,
@@ -452,6 +457,7 @@
       "1435HD-60"
     ],
     "allowGradeCrossing": true,
+    "allowAtGradeRoadCrossing": true,
     "gradeCrossingBaseCost": 180000,
     "gradeCrossingMaintenancePerYear": 5000,
     "gradeCrossingTphLimit": {
@@ -494,8 +500,8 @@
       "minStationTurnRadius": 80,
       "maxSlopePercentage": 6.0,
       "parallelTrackSpacing": 1.965,
-      "stopTimeSeconds": 30,
-      "turnaroundTimeSeconds": 90,
+      "stopTimeSeconds": 0,
+      "turnaroundTimeSeconds": 0,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 40,
@@ -520,6 +526,7 @@
       "1435HD-40"
     ],
     "allowGradeCrossing": true,
+    "allowAtGradeRoadCrossing": true,
     "gradeCrossingBaseCost": 180000,
     "gradeCrossingMaintenancePerYear": 5000,
     "gradeCrossingTphLimit": {
@@ -570,7 +577,7 @@
       "maxSlopePercentage": 3.8,
       "parallelTrackSpacing": 1.965,
       "stopTimeSeconds": 32,
-      "turnaroundTimeSeconds": 88,
+      "turnaroundTimeSeconds": 58,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 45,
@@ -646,7 +653,7 @@
       "maxSlopePercentage": 3.5,
       "parallelTrackSpacing": 1.965,
       "stopTimeSeconds": 50,
-      "turnaroundTimeSeconds": 80,
+      "turnaroundTimeSeconds": 70,
       "trackMaintenanceCostPerMeter": 0,
       "stationMaintenanceCostPerYear": 0,
       "tphLimit": 30,
