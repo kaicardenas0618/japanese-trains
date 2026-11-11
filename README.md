@@ -329,7 +329,7 @@ Capacity per car is calculated from each car's floor area rather than manufactur
 
 Each train's C value is listed at the end of its description. Limited expresses, expresses and Shinkansen use their seat count as their capacity per car instead.
 
-## Currently Available Trains (228)
+## Currently Available Trains (231)
 
 <details>
 <summary>National (43)</summary>
@@ -1618,7 +1618,7 @@ Each train's C value is listed at the end of its description. Limited expresses,
 </details>
 
 <details>
-<summary>Tokyo (70)</summary>
+<summary>Tokyo (73)</summary>
 
 <table style="width: auto">
   <tr>
@@ -2061,6 +2061,27 @@ Each train's C value is listed at the end of its description. Limited expresses,
     <td>Tokyu Car / J-TREC</td>
     <td>120</td>
     <td>3230</td>
+  </tr>
+  <tr>
+    <td>TKK 9000 EMU 1067JP/TQ</td>
+    <td>Tokyu 9000 series 5-car commuter EMU for Oimachi Line local services, built from 1986 and originally used in 8-car sets on the Toyoko Line. Manufacturer: Tokyu Car. C6</td>
+    <td>Tokyu Car</td>
+    <td>120</td>
+    <td>1605</td>
+  </tr>
+  <tr>
+    <td>TKK 9020 EMU 1067JP/TQ</td>
+    <td>Tokyu 9020 series 5-car commuter EMU for Oimachi Line local services, converted in 2018-2019 from the 2000 series built in 1992-1993. Manufacturer: Tokyu Car. C6</td>
+    <td>Tokyu Car</td>
+    <td>120</td>
+    <td>1605</td>
+  </tr>
+  <tr>
+    <td>TKK 6020 EMU 1067JP/TQ</td>
+    <td>Tokyu 6020 series commuter EMU for the Oimachi Line, introduced in 2018 as 7-car express sets with 5-car local sets added from 2025. Manufacturer: J-TREC. C6</td>
+    <td>J-TREC</td>
+    <td>120</td>
+    <td>2254</td>
   </tr>
   <tr>
     <td>KEIO 5000 EMU 1372KT</td>

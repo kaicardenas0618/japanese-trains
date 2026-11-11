@@ -7087,6 +7087,255 @@
     "rampCost": 5000000
   },
   {
+    "id": "tkk-9000-emu",
+    "name": "TKK 9000 EMU 1067JP/TQ",
+    "description": "Tokyu 9000 series 5-car commuter EMU for Oimachi Line local services, built from 1986 and originally used in 8-car sets on the Toyoko Line. Manufacturer: Tokyu Car. C6",
+    "stats": {
+      "maxAcceleration": 0.861,
+      "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.861,
+        "a1": 0.856,
+        "v1": 11.07,
+        "v2": 17.63,
+        "exponent": 2.0
+      },
+      "maxSpeed": 33.33,
+      "maxSpeedLocalStation": 33.33,
+      "capacityPerCar": 321,
+      "seatsPerCar": 51,
+      "doorsPerCarPerSide": 4,
+      "carLength": 20.0,
+      "minCars": 5,
+      "maxCars": 5,
+      "carsPerCarSet": 5,
+      "carCost": 3200000,
+      "trainWidth": 2.8,
+      "minStationLength": 100,
+      "maxStationLength": 110,
+      "baseTrackCost": 34000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.275,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 40,
+      "turnaroundTimeSeconds": 80,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 12.5,
+      "yardSpeedLimit": 11.11
+    },
+    "appearance": {
+      "color": "#F18C43",
+      "catenary": true
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85,
+      "TRENCHED": 0.58,
+      "RAMP": 0.57
+    },
+    "Manufacturer": [
+      "Tokyu Car"
+    ],
+    "compatibleTrackTypes": [
+      "1067JP-95",
+      "1067JP-100",
+      "1067JP-110",
+      "1067JP-120",
+      "1067JP-130",
+      "1067TQ-80",
+      "1067TQ-110"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
+  },
+  {
+    "id": "tkk-9020-emu",
+    "name": "TKK 9020 EMU 1067JP/TQ",
+    "description": "Tokyu 9020 series 5-car commuter EMU for Oimachi Line local services, converted in 2018-2019 from the 2000 series built in 1992-1993. Manufacturer: Tokyu Car. C6",
+    "stats": {
+      "maxAcceleration": 0.917,
+      "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.917,
+        "a1": 0.912,
+        "v1": 11.07,
+        "v2": 17.63,
+        "exponent": 2.0
+      },
+      "maxSpeed": 33.33,
+      "maxSpeedLocalStation": 33.33,
+      "capacityPerCar": 321,
+      "seatsPerCar": 51,
+      "doorsPerCarPerSide": 4,
+      "carLength": 20.0,
+      "minCars": 5,
+      "maxCars": 5,
+      "carsPerCarSet": 5,
+      "carCost": 3200000,
+      "trainWidth": 2.8,
+      "minStationLength": 100,
+      "maxStationLength": 110,
+      "baseTrackCost": 34000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.275,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 40,
+      "turnaroundTimeSeconds": 80,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 12.5,
+      "yardSpeedLimit": 11.11
+    },
+    "appearance": {
+      "color": "#F18C43",
+      "catenary": true
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85,
+      "TRENCHED": 0.58,
+      "RAMP": 0.57
+    },
+    "Manufacturer": [
+      "Tokyu Car"
+    ],
+    "compatibleTrackTypes": [
+      "1067JP-95",
+      "1067JP-100",
+      "1067JP-110",
+      "1067JP-120",
+      "1067JP-130",
+      "1067TQ-80",
+      "1067TQ-110"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
+  },
+  {
+    "id": "tkk-6020-emu",
+    "name": "TKK 6020 EMU 1067JP/TQ",
+    "description": "Tokyu 6020 series commuter EMU for the Oimachi Line, introduced in 2018 as 7-car express sets with 5-car local sets added from 2025. Manufacturer: J-TREC. C6",
+    "stats": {
+      "maxAcceleration": 0.917,
+      "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.917,
+        "a1": 0.916,
+        "v1": 11.21,
+        "v2": 16.9,
+        "exponent": 1.78
+      },
+      "maxSpeed": 33.33,
+      "maxSpeedLocalStation": 33.33,
+      "capacityPerCar": 322,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 4,
+      "carLength": 20.0,
+      "minCars": 5,
+      "maxCars": 7,
+      "carsPerCarSet": 1,
+      "carCost": 3200000,
+      "trainWidth": 2.8,
+      "minStationLength": 100,
+      "maxStationLength": 150,
+      "baseTrackCost": 34000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.275,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 40,
+      "turnaroundTimeSeconds": 80,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 12.5,
+      "yardSpeedLimit": 11.11
+    },
+    "appearance": {
+      "color": "#F18C43",
+      "catenary": true
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85,
+      "TRENCHED": 0.58,
+      "RAMP": 0.57
+    },
+    "Manufacturer": [
+      "J-TREC"
+    ],
+    "compatibleTrackTypes": [
+      "1067JP-95",
+      "1067JP-100",
+      "1067JP-110",
+      "1067JP-120",
+      "1067JP-130",
+      "1067TQ-80",
+      "1067TQ-110"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
+  },
+  {
     "id": "keio-5000-emu",
     "name": "KEIO 5000 EMU 1372KT",
     "description": "Keio 5000 series commuter/paid-seat train for Keio Line services. Manufacturer: J-TREC. C7",
