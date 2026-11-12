@@ -1671,15 +1671,15 @@ Each train's C value is listed at the end of its description. Limited expresses,
     <td>3680</td>
   </tr>
   <tr>
-    <td>TYO 17000 Yurakucho-Fukutoshin 1067JP/MF/SB/TQ</td>
-    <td>Tokyo Metro 17000 series train. Used on Yurakucho and Fukutoshin lines. Manufacturer: Hitachi. C7</td>
+    <td>TYO 17000 Yurakucho-Fukutoshin 1067JP/MF/MZ/SB/TQ</td>
+    <td>Tokyo Metro 17000 series 8/10-car train. Used on Yurakucho and Fukutoshin lines. Can also run on Hanzomon Line track. Manufacturer: Hitachi. C7</td>
     <td>Hitachi</td>
     <td>120</td>
     <td>3680</td>
   </tr>
   <tr>
-    <td>TYO 18000 Hanzomon 1067JP/MZ/TB/TQ</td>
-    <td>Tokyo Metro 18000 series 10-car train. Used on the Hanzomon Line. Manufacturer: Hitachi. C7</td>
+    <td>TYO 18000 Hanzomon 1067JP/MF/MZ/TB/TQ</td>
+    <td>Tokyo Metro 18000 series 10-car train. Used on the Hanzomon Line. Can also run on Yurakucho and Fukutoshin Line track. Manufacturer: Hitachi. C7</td>
     <td>Hitachi</td>
     <td>120</td>
     <td>3680</td>
@@ -1951,64 +1951,64 @@ Each train's C value is listed at the end of its description. Limited expresses,
     <td>406</td>
   </tr>
   <tr>
-    <td>TYO Seibu 40000 Commuter 1067JP/MF/SB/TQ</td>
-    <td>Seibu 40000 series commuter/S-TRAIN EMU. Used on the Ikebukuro Line, with through-service to the Yurakucho and Fukutoshin lines and onward to Tokyu Toyoko services. Manufacturer: J-TREC. C6</td>
+    <td>TYO Seibu 40000 Commuter 1067JP/MF/MZ/SB/TQ</td>
+    <td>Seibu 40000 series commuter/S-TRAIN EMU. Used on the Ikebukuro Line, with through-service to the Yurakucho and Fukutoshin lines and onward to Tokyu Toyoko services. Can also run on Hanzomon Line track. Manufacturer: J-TREC. C6</td>
     <td>J-TREC</td>
     <td>120</td>
     <td>3280</td>
   </tr>
   <tr>
-    <td>TYO Seibu 30000 Commuter 1067JP/MF/SB/TQ</td>
-    <td>Seibu 30000 series "Smile Train" commuter EMU. Used on the Ikebukuro Line, with through-service to the Yurakucho and Fukutoshin lines and onward to Tokyu Toyoko services. Manufacturer: Kawasaki Heavy Industries / J-TREC. C6</td>
+    <td>TYO Seibu 30000 Commuter 1067JP/MF/MZ/SB/TQ</td>
+    <td>Seibu 30000 series "Smile Train" commuter EMU. Used on the Ikebukuro Line, with through-service to the Yurakucho and Fukutoshin lines and onward to Tokyu Toyoko services. Can also run on Hanzomon Line track. Manufacturer: Kawasaki Heavy Industries / J-TREC. C6</td>
     <td>Kawasaki Heavy Industries / J-TREC</td>
     <td>120</td>
     <td>3280</td>
   </tr>
   <tr>
-    <td>TYO Seibu 20000 Commuter 1067JP/MF/SB/TQ</td>
-    <td>Seibu 20000 series commuter EMU. Used on the Ikebukuro and Shinjuku lines, with through-service to the Yurakucho and Fukutoshin lines and onward to Tokyu Toyoko services. Manufacturer: Tokyu Car. C6</td>
+    <td>TYO Seibu 20000 Commuter 1067JP/MF/MZ/SB/TQ</td>
+    <td>Seibu 20000 series commuter EMU. Used on the Ikebukuro and Shinjuku lines, with through-service to the Yurakucho and Fukutoshin lines and onward to Tokyu Toyoko services. Can also run on Hanzomon Line track. Manufacturer: Tokyu Car. C6</td>
     <td>Tokyu Car</td>
     <td>120</td>
     <td>3270</td>
   </tr>
   <tr>
-    <td>TYO Tobu N100 Spacia X 1067JP/MH/MZ/TB</td>
-    <td>Tobu N100 series Spacia X limited express train. Manufacturer: Hitachi.</td>
+    <td>TYO Tobu N100 Spacia X 1067JP/MF/MH/MZ/TB</td>
+    <td>Tobu N100 series Spacia X limited express train. Can also run on Yurakucho and Fukutoshin Line track. Manufacturer: Hitachi.</td>
     <td>Hitachi</td>
     <td>130</td>
     <td>192</td>
   </tr>
   <tr>
-    <td>TYO Tobu 100 Spacia 1067JP/MH/MZ/TB</td>
-    <td>Tobu 100 series Spacia limited express train. Used on Kegon and Kinu services. Manufacturer: Alna Koki / Tobu Railway.</td>
+    <td>TYO Tobu 100 Spacia 1067JP/MF/MH/MZ/TB</td>
+    <td>Tobu 100 series Spacia limited express train. Used on Kegon and Kinu services. Can also run on Yurakucho and Fukutoshin Line track. Manufacturer: Alna Koki / Tobu Railway.</td>
     <td>Alna Koki / Tobu Railway</td>
     <td>130</td>
     <td>264</td>
   </tr>
   <tr>
-    <td>TYO Tobu 500 Revaty 1067JP/MH/MZ/TB</td>
-    <td>Tobu 500 series Revaty limited express train. Used on Revaty Kegon and Revaty Aizu services, with through-service to the Hanzomon Line. Manufacturer: Hitachi.</td>
+    <td>TYO Tobu 500 Revaty 1067JP/MF/MH/MZ/TB</td>
+    <td>Tobu 500 series Revaty limited express train. Used on Revaty Kegon and Revaty Aizu services, with through-service to the Hanzomon Line. Can also run on Yurakucho and Fukutoshin Line track. Manufacturer: Hitachi.</td>
     <td>Hitachi</td>
     <td>130</td>
     <td>396</td>
   </tr>
   <tr>
-    <td>TYO Tobu 50000 Commuter 1067JP/MH/MZ/TB/TQ</td>
-    <td>Tobu 50000/50050/50070 series commuter train family. Used on the Tojo, Isesaki and Skytree lines, with through-service to the Hibiya and Hanzomon lines. Manufacturer: Hitachi. C6</td>
+    <td>TYO Tobu 50000 Commuter 1067JP/MF/MH/MZ/TB/TQ</td>
+    <td>Tobu 50000/50050/50070 series commuter train family. Used on the Tojo, Isesaki and Skytree lines, with through-service to the Hibiya and Hanzomon lines. Can also run on Yurakucho and Fukutoshin Line track. Manufacturer: Hitachi. C6</td>
     <td>Hitachi</td>
     <td>120</td>
     <td>3260</td>
   </tr>
   <tr>
-    <td>TYO Tobu 10000/10030 Commuter 1067JP/MH/MZ/TB</td>
-    <td>Tobu 10000 and 10030 series commuter train family. Used on the Tojo, Isesaki and Skytree lines, with through-service to the Hibiya and Hanzomon lines. Manufacturer: Tobu Railway. C6</td>
+    <td>TYO Tobu 10000/10030 Commuter 1067JP/MF/MH/MZ/TB</td>
+    <td>Tobu 10000 and 10030 series commuter train family. Used on the Tojo, Isesaki and Skytree lines, with through-service to the Hibiya and Hanzomon lines. Can also run on Yurakucho and Fukutoshin Line track. Manufacturer: Tobu Railway. C6</td>
     <td>Tobu Railway</td>
     <td>110</td>
     <td>3250</td>
   </tr>
   <tr>
-    <td>TYO Tobu 8000 Commuter 1067JP/MH/MZ/TB</td>
-    <td>Tobu 8000 series commuter train. Legacy commuter EMU used across the Tobu network, with through-service to the Hibiya and Hanzomon lines. Manufacturer: Tobu Railway. C6</td>
+    <td>TYO Tobu 8000 Commuter 1067JP/MF/MH/MZ/TB</td>
+    <td>Tobu 8000 series commuter train. Legacy commuter EMU used across the Tobu network, with through-service to the Hibiya and Hanzomon lines. Can also run on Yurakucho and Fukutoshin Line track. Manufacturer: Tobu Railway. C6</td>
     <td>Tobu Railway</td>
     <td>110</td>
     <td>2608</td>
@@ -2049,15 +2049,15 @@ Each train's C value is listed at the end of its description. Limited expresses,
     <td>2008</td>
   </tr>
   <tr>
-    <td>TKK 2020 EMU 1067JP/MZ/TB/TQ</td>
-    <td>Tokyu 2020 series 10-car commuter EMU for Den-en-toshi Line and Hanzomon through services. Manufacturer: J-TREC. C6</td>
+    <td>TKK 2020 EMU 1067JP/MF/MZ/TB/TQ</td>
+    <td>Tokyu 2020 series 10-car commuter EMU for Den-en-toshi Line and Hanzomon through services. Can also run on Yurakucho and Fukutoshin Line track. Manufacturer: J-TREC. C6</td>
     <td>J-TREC</td>
     <td>120</td>
     <td>3230</td>
   </tr>
   <tr>
-    <td>TKK 5050 EMU 1067JP/MF/SB/ST/TQ</td>
-    <td>Tokyu 5050 series 8/10-car commuter EMU for Toyoko/Fukutoshin through services, including Sotetsu through services via the Shin-Yokohama Line. Manufacturer: Tokyu Car / J-TREC. C6</td>
+    <td>TKK 5050 EMU 1067JP/MF/MZ/SB/ST/TQ</td>
+    <td>Tokyu 5050 series 8/10-car commuter EMU for Toyoko/Fukutoshin through services, including Sotetsu through services via the Shin-Yokohama Line. Can also run on Hanzomon Line track. Manufacturer: Tokyu Car / J-TREC. C6</td>
     <td>Tokyu Car / J-TREC</td>
     <td>120</td>
     <td>3230</td>
@@ -2119,8 +2119,8 @@ Each train's C value is listed at the end of its description. Limited expresses,
     <td>3400</td>
   </tr>
   <tr>
-    <td>TYO Sotetsu 20000 1067JP/MF/ST/TQ</td>
-    <td>Sotetsu 20000 series 10-car commuter EMU, introduced in 2018 for Sotetsu-Tokyu through services via the Toyoko Line. Manufacturer: Hitachi. C7</td>
+    <td>TYO Sotetsu 20000 1067JP/MF/MZ/ST/TQ</td>
+    <td>Sotetsu 20000 series 10-car commuter EMU, introduced in 2018 for Sotetsu-Tokyu through services via the Toyoko Line. Can also run on Hanzomon Line track. Manufacturer: Hitachi. C7</td>
     <td>Hitachi</td>
     <td>120</td>
     <td>3630</td>

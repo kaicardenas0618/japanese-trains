@@ -548,8 +548,8 @@
   },
   {
     "id": "tyo-17000-yurakucho-fukutoshin",
-    "name": "TYO 17000 Yurakucho-Fukutoshin 1067JP/MF/SB/TQ",
-    "description": "Tokyo Metro 17000 series train. Used on Yurakucho and Fukutoshin lines. Manufacturer: Hitachi. C7",
+    "name": "TYO 17000 Yurakucho-Fukutoshin 1067JP/MF/MZ/SB/TQ",
+    "description": "Tokyo Metro 17000 series 8/10-car train. Used on Yurakucho and Fukutoshin lines. Can also run on Hanzomon Line track. Manufacturer: Hitachi. C7",
     "stats": {
       "maxAcceleration": 0.917,
       "maxDeceleration": 1.15,
@@ -566,12 +566,12 @@
       "seatsPerCar": 48,
       "doorsPerCarPerSide": 4,
       "carLength": 20,
-      "minCars": 10,
+      "minCars": 8,
       "maxCars": 10,
-      "carsPerCarSet": 10,
+      "carsPerCarSet": 1,
       "carCost": 3000000,
       "trainWidth": 2.8,
-      "minStationLength": 200,
+      "minStationLength": 160,
       "maxStationLength": 208,
       "baseTrackCost": 32000,
       "baseStationCost": 56000000,
@@ -615,6 +615,7 @@
       "1067JP-120",
       "1067JP-130",
       "1067MF-80",
+      "1067MZ-80",
       "1067SB-105",
       "1067TQ-80",
       "1067TQ-110"
@@ -633,8 +634,8 @@
   },
   {
     "id": "tyo-18000-hanzomon",
-    "name": "TYO 18000 Hanzomon 1067JP/MZ/TB/TQ",
-    "description": "Tokyo Metro 18000 series 10-car train. Used on the Hanzomon Line. Manufacturer: Hitachi. C7",
+    "name": "TYO 18000 Hanzomon 1067JP/MF/MZ/TB/TQ",
+    "description": "Tokyo Metro 18000 series 10-car train. Used on the Hanzomon Line. Can also run on Yurakucho and Fukutoshin Line track. Manufacturer: Hitachi. C7",
     "stats": {
       "maxAcceleration": 0.917,
       "maxDeceleration": 1.15,
@@ -699,6 +700,7 @@
       "1067JP-110",
       "1067JP-120",
       "1067JP-130",
+      "1067MF-80",
       "1067MZ-80",
       "1067TB-100",
       "1067TB-120",
@@ -3898,6 +3900,7 @@
       "1067JP-110",
       "1067JP-120",
       "1067JP-130",
+      "1067MF-80",
       "1067MZ-80",
       "1067TB-100",
       "1067TB-120",
@@ -4120,8 +4123,12 @@
       "1067JP-110",
       "1067JP-120",
       "1067JP-130",
+      "1067MH-80",
+      "1067MZ-80",
       "1067SB-105",
       "1067ST-100",
+      "1067TB-100",
+      "1067TB-120",
       "1067TQ-80",
       "1067TQ-110"
     ],
@@ -4196,7 +4203,10 @@
       "1067JP-110",
       "1067JP-120",
       "1067JP-130",
+      "1067MF-80",
       "1067MH-80",
+      "1067SB-105",
+      "1067ST-100",
       "1067TB-100",
       "1067TB-120",
       "1067TQ-80",
@@ -4425,6 +4435,7 @@
       "1067JP-110",
       "1067JP-120",
       "1067JP-130",
+      "1067MF-80",
       "1067MH-80",
       "1067MZ-80",
       "1067TB-120",
@@ -4502,6 +4513,7 @@
       "1067JP-110",
       "1067JP-120",
       "1067JP-130",
+      "1067MF-80",
       "1067MH-80",
       "1067MZ-80",
       "1067TB-100",
@@ -4580,6 +4592,7 @@
       "1067JP-120",
       "1067JP-130",
       "1067MF-80",
+      "1067MZ-80",
       "1067ST-100",
       "1067TQ-80",
       "1067TQ-110"
@@ -4895,6 +4908,7 @@
       "1067MB-80",
       "1067MF-80",
       "1067MI-75",
+      "1067MZ-80",
       "1067SB-105",
       "1067TQ-80",
       "1067TQ-110"
@@ -5479,8 +5493,8 @@
   },
   {
     "id": "tyo-seibu-40000-commuter",
-    "name": "TYO Seibu 40000 Commuter 1067JP/MF/SB/TQ",
-    "description": "Seibu 40000 series commuter/S-TRAIN EMU. Used on the Ikebukuro Line, with through-service to the Yurakucho and Fukutoshin lines and onward to Tokyu Toyoko services. Manufacturer: J-TREC. C6",
+    "name": "TYO Seibu 40000 Commuter 1067JP/MF/MZ/SB/TQ",
+    "description": "Seibu 40000 series commuter/S-TRAIN EMU. Used on the Ikebukuro Line, with through-service to the Yurakucho and Fukutoshin lines and onward to Tokyu Toyoko services. Can also run on Hanzomon Line track. Manufacturer: J-TREC. C6",
     "stats": {
       "maxAcceleration": 0.917,
       "maxDeceleration": 1.2,
@@ -5499,7 +5513,7 @@
       "carLength": 20,
       "minCars": 10,
       "maxCars": 10,
-      "carsPerCarSet": 10,
+      "carsPerCarSet": 1,
       "carCost": 3400000,
       "trainWidth": 2.85,
       "minStationLength": 200,
@@ -5546,6 +5560,7 @@
       "1067JP-120",
       "1067JP-130",
       "1067MF-80",
+      "1067MZ-80",
       "1067SB-105",
       "1067TQ-80",
       "1067TQ-110"
@@ -5564,8 +5579,8 @@
   },
   {
     "id": "tyo-seibu-30000-commuter",
-    "name": "TYO Seibu 30000 Commuter 1067JP/MF/SB/TQ",
-    "description": "Seibu 30000 series \"Smile Train\" commuter EMU. Used on the Ikebukuro Line, with through-service to the Yurakucho and Fukutoshin lines and onward to Tokyu Toyoko services. Manufacturer: Kawasaki Heavy Industries / J-TREC. C6",
+    "name": "TYO Seibu 30000 Commuter 1067JP/MF/MZ/SB/TQ",
+    "description": "Seibu 30000 series \"Smile Train\" commuter EMU. Used on the Ikebukuro Line, with through-service to the Yurakucho and Fukutoshin lines and onward to Tokyu Toyoko services. Can also run on Hanzomon Line track. Manufacturer: Kawasaki Heavy Industries / J-TREC. C6",
     "stats": {
       "maxAcceleration": 0.917,
       "maxDeceleration": 1.15,
@@ -5584,7 +5599,7 @@
       "carLength": 20,
       "minCars": 6,
       "maxCars": 10,
-      "carsPerCarSet": 2,
+      "carsPerCarSet": 1,
       "carCost": 3100000,
       "trainWidth": 2.85,
       "minStationLength": 120,
@@ -5632,6 +5647,7 @@
       "1067JP-120",
       "1067JP-130",
       "1067MF-80",
+      "1067MZ-80",
       "1067SB-105",
       "1067TQ-80",
       "1067TQ-110"
@@ -5650,8 +5666,8 @@
   },
   {
     "id": "tyo-seibu-20000-commuter",
-    "name": "TYO Seibu 20000 Commuter 1067JP/MF/SB/TQ",
-    "description": "Seibu 20000 series commuter EMU. Used on the Ikebukuro and Shinjuku lines, with through-service to the Yurakucho and Fukutoshin lines and onward to Tokyu Toyoko services. Manufacturer: Tokyu Car. C6",
+    "name": "TYO Seibu 20000 Commuter 1067JP/MF/MZ/SB/TQ",
+    "description": "Seibu 20000 series commuter EMU. Used on the Ikebukuro and Shinjuku lines, with through-service to the Yurakucho and Fukutoshin lines and onward to Tokyu Toyoko services. Can also run on Hanzomon Line track. Manufacturer: Tokyu Car. C6",
     "stats": {
       "maxAcceleration": 0.833,
       "maxDeceleration": 1.1,
@@ -5670,7 +5686,7 @@
       "carLength": 20,
       "minCars": 6,
       "maxCars": 10,
-      "carsPerCarSet": 2,
+      "carsPerCarSet": 1,
       "carCost": 2900000,
       "trainWidth": 2.85,
       "minStationLength": 120,
@@ -5717,6 +5733,7 @@
       "1067JP-120",
       "1067JP-130",
       "1067MF-80",
+      "1067MZ-80",
       "1067SB-105",
       "1067TQ-80",
       "1067TQ-110"
@@ -5735,8 +5752,8 @@
   },
   {
     "id": "tyo-tobu-n100-spacia-x",
-    "name": "TYO Tobu N100 Spacia X 1067JP/MH/MZ/TB",
-    "description": "Tobu N100 series Spacia X limited express train. Manufacturer: Hitachi.",
+    "name": "TYO Tobu N100 Spacia X 1067JP/MF/MH/MZ/TB",
+    "description": "Tobu N100 series Spacia X limited express train. Can also run on Yurakucho and Fukutoshin Line track. Manufacturer: Hitachi.",
     "stats": {
       "maxAcceleration": 0.619,
       "maxDeceleration": 1.1,
@@ -5801,6 +5818,7 @@
       "1067JP-110",
       "1067JP-120",
       "1067JP-130",
+      "1067MF-80",
       "1067MH-80",
       "1067MZ-80",
       "1067TB-100",
@@ -5820,8 +5838,8 @@
   },
   {
     "id": "tyo-tobu-100-spacia",
-    "name": "TYO Tobu 100 Spacia 1067JP/MH/MZ/TB",
-    "description": "Tobu 100 series Spacia limited express train. Used on Kegon and Kinu services. Manufacturer: Alna Koki / Tobu Railway.",
+    "name": "TYO Tobu 100 Spacia 1067JP/MF/MH/MZ/TB",
+    "description": "Tobu 100 series Spacia limited express train. Used on Kegon and Kinu services. Can also run on Yurakucho and Fukutoshin Line track. Manufacturer: Alna Koki / Tobu Railway.",
     "stats": {
       "maxAcceleration": 0.556,
       "maxDeceleration": 1.1,
@@ -5887,6 +5905,7 @@
       "1067JP-110",
       "1067JP-120",
       "1067JP-130",
+      "1067MF-80",
       "1067MH-80",
       "1067MZ-80",
       "1067TB-100",
@@ -5906,8 +5925,8 @@
   },
   {
     "id": "tyo-tobu-500-revaty",
-    "name": "TYO Tobu 500 Revaty 1067JP/MH/MZ/TB",
-    "description": "Tobu 500 series Revaty limited express train. Used on Revaty Kegon and Revaty Aizu services, with through-service to the Hanzomon Line. Manufacturer: Hitachi.",
+    "name": "TYO Tobu 500 Revaty 1067JP/MF/MH/MZ/TB",
+    "description": "Tobu 500 series Revaty limited express train. Used on Revaty Kegon and Revaty Aizu services, with through-service to the Hanzomon Line. Can also run on Yurakucho and Fukutoshin Line track. Manufacturer: Hitachi.",
     "stats": {
       "maxAcceleration": 0.619,
       "maxDeceleration": 1.1,
@@ -5972,6 +5991,7 @@
       "1067JP-110",
       "1067JP-120",
       "1067JP-130",
+      "1067MF-80",
       "1067MH-80",
       "1067MZ-80",
       "1067TB-100",
@@ -5991,8 +6011,8 @@
   },
   {
     "id": "tyo-tobu-50000-commuter",
-    "name": "TYO Tobu 50000 Commuter 1067JP/MH/MZ/TB/TQ",
-    "description": "Tobu 50000/50050/50070 series commuter train family. Used on the Tojo, Isesaki and Skytree lines, with through-service to the Hibiya and Hanzomon lines. Manufacturer: Hitachi. C6",
+    "name": "TYO Tobu 50000 Commuter 1067JP/MF/MH/MZ/TB/TQ",
+    "description": "Tobu 50000/50050/50070 series commuter train family. Used on the Tojo, Isesaki and Skytree lines, with through-service to the Hibiya and Hanzomon lines. Can also run on Yurakucho and Fukutoshin Line track. Manufacturer: Hitachi. C6",
     "stats": {
       "maxAcceleration": 0.917,
       "maxDeceleration": 1.25,
@@ -6057,6 +6077,7 @@
       "1067JP-110",
       "1067JP-120",
       "1067JP-130",
+      "1067MF-80",
       "1067MH-80",
       "1067MZ-80",
       "1067TB-100",
@@ -6078,8 +6099,8 @@
   },
   {
     "id": "tyo-tobu-10000-commuter",
-    "name": "TYO Tobu 10000/10030 Commuter 1067JP/MH/MZ/TB",
-    "description": "Tobu 10000 and 10030 series commuter train family. Used on the Tojo, Isesaki and Skytree lines, with through-service to the Hibiya and Hanzomon lines. Manufacturer: Tobu Railway. C6",
+    "name": "TYO Tobu 10000/10030 Commuter 1067JP/MF/MH/MZ/TB",
+    "description": "Tobu 10000 and 10030 series commuter train family. Used on the Tojo, Isesaki and Skytree lines, with through-service to the Hibiya and Hanzomon lines. Can also run on Yurakucho and Fukutoshin Line track. Manufacturer: Tobu Railway. C6",
     "stats": {
       "maxAcceleration": 0.694,
       "maxDeceleration": 1.2,
@@ -6144,6 +6165,7 @@
       "1067JP-110",
       "1067JP-120",
       "1067JP-130",
+      "1067MF-80",
       "1067MH-80",
       "1067MZ-80",
       "1067TB-100",
@@ -6163,8 +6185,8 @@
   },
   {
     "id": "tyo-tobu-8000-commuter",
-    "name": "TYO Tobu 8000 Commuter 1067JP/MH/MZ/TB",
-    "description": "Tobu 8000 series commuter train. Legacy commuter EMU used across the Tobu network, with through-service to the Hibiya and Hanzomon lines. Manufacturer: Tobu Railway. C6",
+    "name": "TYO Tobu 8000 Commuter 1067JP/MF/MH/MZ/TB",
+    "description": "Tobu 8000 series commuter train. Legacy commuter EMU used across the Tobu network, with through-service to the Hibiya and Hanzomon lines. Can also run on Yurakucho and Fukutoshin Line track. Manufacturer: Tobu Railway. C6",
     "stats": {
       "maxAcceleration": 0.619,
       "maxDeceleration": 1.1,
@@ -6229,6 +6251,7 @@
       "1067JP-110",
       "1067JP-120",
       "1067JP-130",
+      "1067MF-80",
       "1067MH-80",
       "1067MZ-80",
       "1067TB-100",
@@ -6919,8 +6942,8 @@
   },
   {
     "id": "tkk-2020-emu",
-    "name": "TKK 2020 EMU 1067JP/MZ/TB/TQ",
-    "description": "Tokyu 2020 series 10-car commuter EMU for Den-en-toshi Line and Hanzomon through services. Manufacturer: J-TREC. C6",
+    "name": "TKK 2020 EMU 1067JP/MF/MZ/TB/TQ",
+    "description": "Tokyu 2020 series 10-car commuter EMU for Den-en-toshi Line and Hanzomon through services. Can also run on Yurakucho and Fukutoshin Line track. Manufacturer: J-TREC. C6",
     "stats": {
       "maxAcceleration": 0.917,
       "maxDeceleration": 1.1,
@@ -6985,6 +7008,7 @@
       "1067JP-110",
       "1067JP-120",
       "1067JP-130",
+      "1067MF-80",
       "1067MZ-80",
       "1067TB-100",
       "1067TB-120",
@@ -7005,8 +7029,8 @@
   },
   {
     "id": "tkk-5050-emu",
-    "name": "TKK 5050 EMU 1067JP/MF/SB/ST/TQ",
-    "description": "Tokyu 5050 series 8/10-car commuter EMU for Toyoko/Fukutoshin through services, including Sotetsu through services via the Shin-Yokohama Line. Manufacturer: Tokyu Car / J-TREC. C6",
+    "name": "TKK 5050 EMU 1067JP/MF/MZ/SB/ST/TQ",
+    "description": "Tokyu 5050 series 8/10-car commuter EMU for Toyoko/Fukutoshin through services, including Sotetsu through services via the Shin-Yokohama Line. Can also run on Hanzomon Line track. Manufacturer: Tokyu Car / J-TREC. C6",
     "stats": {
       "maxAcceleration": 0.917,
       "maxDeceleration": 1.1,
@@ -7073,6 +7097,7 @@
       "1067JP-120",
       "1067JP-130",
       "1067MF-80",
+      "1067MZ-80",
       "1067SB-105",
       "1067ST-100",
       "1067TQ-80",
@@ -7886,8 +7911,8 @@
   },
   {
     "id": "tyo-sotetsu-20000",
-    "name": "TYO Sotetsu 20000 1067JP/MF/ST/TQ",
-    "description": "Sotetsu 20000 series 10-car commuter EMU, introduced in 2018 for Sotetsu-Tokyu through services via the Toyoko Line. Manufacturer: Hitachi. C7",
+    "name": "TYO Sotetsu 20000 1067JP/MF/MZ/ST/TQ",
+    "description": "Sotetsu 20000 series 10-car commuter EMU, introduced in 2018 for Sotetsu-Tokyu through services via the Toyoko Line. Can also run on Hanzomon Line track. Manufacturer: Hitachi. C7",
     "stats": {
       "maxAcceleration": 0.833,
       "maxDeceleration": 1.1,
@@ -7906,7 +7931,7 @@
       "carLength": 20.0,
       "minCars": 10,
       "maxCars": 10,
-      "carsPerCarSet": 10,
+      "carsPerCarSet": 1,
       "carCost": 3200000,
       "trainWidth": 2.77,
       "minStationLength": 200,
@@ -7953,6 +7978,7 @@
       "1067JP-120",
       "1067JP-130",
       "1067MF-80",
+      "1067MZ-80",
       "1067ST-100",
       "1067TQ-80",
       "1067TQ-110"
