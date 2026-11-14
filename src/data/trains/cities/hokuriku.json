@@ -13,8 +13,8 @@
         "v2": 12.5,
         "exponent": 2
       },
-      "maxSpeed": 19.44,
-      "maxSpeedLocalStation": 19.44,
+      "maxSpeed": 19.0,
+      "maxSpeedLocalStation": 19.0,
       "capacityPerCar": 199,
       "seatsPerCar": 28,
       "doorsPerCarPerSide": 2,
@@ -92,8 +92,8 @@
         "v2": 12.5,
         "exponent": 2
       },
-      "maxSpeed": 19.44,
-      "maxSpeedLocalStation": 19.44,
+      "maxSpeed": 19.0,
+      "maxSpeedLocalStation": 19.0,
       "capacityPerCar": 97,
       "seatsPerCar": 28,
       "doorsPerCarPerSide": 2,
@@ -164,8 +164,8 @@
     "stats": {
       "maxAcceleration": 9,
       "maxDeceleration": 9,
-      "maxSpeed": 11.2,
-      "maxSpeedLocalStation": 11.2,
+      "maxSpeed": 11.0,
+      "maxSpeedLocalStation": 11.0,
       "capacityPerCar": 0,
       "seatsPerCar": 0,
       "doorsPerCarPerSide": 999,
@@ -233,8 +233,8 @@
     "stats": {
       "maxAcceleration": 9,
       "maxDeceleration": 9,
-      "maxSpeed": 16.7,
-      "maxSpeedLocalStation": 16.7,
+      "maxSpeed": 16.66,
+      "maxSpeedLocalStation": 16.66,
       "capacityPerCar": 0,
       "seatsPerCar": 0,
       "doorsPerCarPerSide": 999,

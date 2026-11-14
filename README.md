@@ -465,7 +465,7 @@ Each train's C value is listed at the end of its description. Limited expresses,
     <td>JP L0 Chuo Shinkansen</td>
     <td>8-car L0 series SCMaglev train for the Chuo Shinkansen high-speed maglev line linking Tokyo, Nagoya, and Osaka. Manufacturer: Hitachi / Kawasaki Heavy Industries / Nippon Sharyo.</td>
     <td>Hitachi / Kawasaki Heavy Industries / Nippon Sharyo</td>
-    <td>550</td>
+    <td>505</td>
     <td>544</td>
   </tr>
   <tr>
@@ -525,7 +525,7 @@ Each train's C value is listed at the end of its description. Limited expresses,
     <td>312</td>
   </tr>
   <tr>
-    <td>JP 261 Hokkaido</td>
+    <td>JP 261 Hokkaido 1067JP</td>
     <td>KiHa 261 series diesel limited express train for Hokkaido intercity services. Manufacturer: Fuji Heavy Industries / Niigata Transys.</td>
     <td>Fuji Heavy Industries / Niigata Transys</td>
     <td>130</td>
@@ -546,7 +546,7 @@ Each train's C value is listed at the end of its description. Limited expresses,
     <td>1746</td>
   </tr>
   <tr>
-    <td>JP JNR KiHa40 DMU</td>
+    <td>JP JNR KiHa40 DMU 1067JP</td>
     <td>JNR KiHa 40 series rural diesel railcar. Ubiquitous countryside stock, modeled for 1-6 car local formations. Manufacturer: JNR / Niigata Tekko / Fuji Heavy Industries. C5</td>
     <td>JNR / Niigata Tekko / Fuji Heavy Industries</td>
     <td>95</td>
@@ -1346,7 +1346,7 @@ Each train's C value is listed at the end of its description. Limited expresses,
     <td>NGY 6050 Sakura-dori Subway</td>
     <td>Nagoya Subway 6050 series train for the Sakura-dori Line. Manufacturer: Nippon Sharyo. C7</td>
     <td>Nippon Sharyo</td>
-    <td>120</td>
+    <td>75</td>
     <td>1805</td>
   </tr>
   <tr>

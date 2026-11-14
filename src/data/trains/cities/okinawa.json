@@ -13,8 +13,8 @@
         "v2": 15.28,
         "exponent": 2
       },
-      "maxSpeed": 18.06,
-      "maxSpeedLocalStation": 18.06,
+      "maxSpeed": 18.0,
+      "maxSpeedLocalStation": 18.0,
       "capacityPerCar": 175,
       "seatsPerCar": 27,
       "doorsPerCarPerSide": 2,

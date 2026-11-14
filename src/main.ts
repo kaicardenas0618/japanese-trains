@@ -6,7 +6,7 @@
 import { trains } from './data/trains';
 
 const MOD_ID = 'japanese-trains';
-const MOD_VERSION = 'v5.4.5';
+const MOD_VERSION = 'v5.4.6';
 const TAG = '[Japanese Trains]';
 
 const api = window.SubwayBuilderAPI;
@@ -32,11 +32,13 @@ if (!api) {
         console.log(`${TAG} Registered train: ${train.id}`);
       }
 
-      // Global game rules: late trains may cut dwell to half, stations allowed on grades up to 2.5%.
+      // Global game rules: late trains may cut dwell to half, stations allowed on grades up to 2.5%,
+      // station route bullet rows effectively never hidden.
       if (typeof api.modifyConstants === 'function') {
         api.modifyConstants({
           DWELL: { DELAY_RECOVERY_MIN_FRACTION: 0.5 },
           STATION_MAX_GRADE_PERCENTAGE: 2.5,
+          MARKER_ROUTE_BULLETS: { MAX_ROW_WIDTH_PX: 9999 },
         });
         console.log(`${TAG} Game rules applied.`);
       } else {
