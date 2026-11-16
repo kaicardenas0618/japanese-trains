@@ -321,7 +321,7 @@ Capacity per car is calculated from each car's floor area rather than manufactur
 
 `capacityPerCar = ((carLength x trainWidth) - (seatsPerCar x 0.215)) x C + seatsPerCar`
 
-0.215 m2 is the floor space taken up by each seat, and C is the standing density in passengers per m2:
+0.215 m^2 is the floor space taken up by each seat, and C is the standing density in passengers per m^2:
 - C7: metro, including trains that run through onto subway lines
 - C6: inner suburban
 - C5: commuter
@@ -329,7 +329,15 @@ Capacity per car is calculated from each car's floor area rather than manufactur
 
 Each train's C value is listed at the end of its description. Limited expresses, expresses and Shinkansen use their seat count as their capacity per car instead.
 
-## Currently Available Trains (231)
+## Game Changes
+
+Besides adding trains and tracks, this mod changes the following game settings:
+- Delay recovery: late trains can cut their dwell time to half
+- Maximum station grade: 2.5%
+- Route bullets: the route bullet display limit at stations is uncapped
+- Snapping: a toolbar button toggles 10x snapping strength (10 px to 100 px)
+
+## Currently Available Trains (232)
 
 <details>
 <summary>National (43)</summary>
@@ -1618,7 +1626,7 @@ Each train's C value is listed at the end of its description. Limited expresses,
 </details>
 
 <details>
-<summary>Tokyo (73)</summary>
+<summary>Tokyo (74)</summary>
 
 <table style="width: auto">
   <tr>
@@ -1900,6 +1908,13 @@ Each train's C value is listed at the end of its description. Limited expresses,
     <td>Kinki Sharyo / Tokyu Car</td>
     <td>130</td>
     <td>528</td>
+  </tr>
+  <tr>
+    <td>TYO E657 Limited Express 1067JP</td>
+    <td>JR East E657 series 10-car limited express train. Used on Hitachi and Tokiwa services on the Joban Line. Manufacturer: Hitachi / Kinki Sharyo / J-TREC.</td>
+    <td>Hitachi / Kinki Sharyo / J-TREC</td>
+    <td>130</td>
+    <td>600</td>
   </tr>
   <tr>
     <td>TYO Keisei AE Skyliner 1435TK</td>

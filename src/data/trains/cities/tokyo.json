@@ -3407,6 +3407,89 @@
     "rampCost": 5500000
   },
   {
+    "id": "tyo-e657-limited-express",
+    "name": "TYO E657 Limited Express 1067JP",
+    "description": "JR East E657 series 10-car limited express train. Used on Hitachi and Tokiwa services on the Joban Line. Manufacturer: Hitachi / Kinki Sharyo / J-TREC.",
+    "stats": {
+      "maxAcceleration": 0.56,
+      "maxDeceleration": 1.1,
+      "accelerationCurve": {
+        "a0": 0.56,
+        "a1": 0.552,
+        "v1": 16.61,
+        "v2": 26.78,
+        "exponent": 1.97
+      },
+      "maxSpeed": 36.0,
+      "maxSpeedLocalStation": 36.0,
+      "capacityPerCar": 60,
+      "seatsPerCar": 60,
+      "doorsPerCarPerSide": 1,
+      "carLength": 20.2,
+      "minCars": 10,
+      "maxCars": 10,
+      "carsPerCarSet": 10,
+      "carCost": 4300000,
+      "trainWidth": 2.946,
+      "minStationLength": 202,
+      "maxStationLength": 212,
+      "baseTrackCost": 45000,
+      "baseStationCost": 65000000,
+      "trainOperationalCostPerHour": 280,
+      "carOperationalCostPerHour": 32,
+      "scissorsCrossoverCost": 22000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.125,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 1200,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 50,
+      "turnaroundTimeSeconds": 70,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 60,
+      "crossoverSpeed": 12.5,
+      "yardSpeedLimit": 11.11
+    },
+    "appearance": {
+      "color": "#B83A6B",
+      "catenary": true
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
+    },
+    "Manufacturer": [
+      "Hitachi",
+      "Kinki Sharyo",
+      "J-TREC"
+    ],
+    "compatibleTrackTypes": [
+      "1067JP-95",
+      "1067JP-100",
+      "1067JP-110",
+      "1067JP-120",
+      "1067JP-130"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 350000,
+    "gradeCrossingMaintenancePerYear": 9000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 11000000,
+    "rampCost": 5500000
+  },
+  {
     "id": "1067JP-95",
     "name": "1067JP-95",
     "description": "1067mm 95kph track for JR east main line use.",

@@ -6,8 +6,15 @@
 import { trains } from './data/trains';
 
 const MOD_ID = 'japanese-trains';
-const MOD_VERSION = 'v5.4.6';
+const MOD_VERSION = 'v5.5.1';
 const TAG = '[Japanese Trains]';
+
+// Strict Snap: a toolbar button toggles a multiplier on the track and waypoint snapping radius.
+// The game reads RULES.PIXEL_SNAP_THRESHOLD (screen pixels, default 10) every time the cursor moves
+// while drawing. The tutorial uses a fixed 30 px radius and ignores this rule.
+const SNAP_BASE_PX = 10; // game default for PIXEL_SNAP_THRESHOLD
+const SNAP_MULTIPLIER = 10; // snapping strength while Strict Snap is on
+const SNAP_BUTTON_ICON = 'Magnet'; // Lucide icon name of the toolbar button
 
 const api = window.SubwayBuilderAPI;
 
@@ -17,6 +24,33 @@ if (!api) {
   console.log(`${TAG} ${MOD_VERSION} | API v${api.version}`);
 
   let initialized = false;
+  let snapEnabled = false;
+
+  const setSnapEnabled = (on: boolean): void => {
+    if (on === snapEnabled) return;
+    if (typeof api.modifyConstants !== 'function') return;
+    try {
+      api.modifyConstants({ PIXEL_SNAP_THRESHOLD: on ? SNAP_BASE_PX * SNAP_MULTIPLIER : SNAP_BASE_PX });
+      snapEnabled = on;
+    } catch (err) {
+      console.error(`${TAG} Failed to set snap threshold:`, err);
+    }
+  };
+
+  const initStrictSnap = (): void => {
+    if (!api.ui || typeof api.ui.addToolbarButton !== 'function') {
+      console.warn(`${TAG} addToolbarButton not available, Strict Snap disabled.`);
+      return;
+    }
+    api.ui.addToolbarButton({
+      id: 'strict-snap-toggle',
+      icon: SNAP_BUTTON_ICON,
+      tooltip: `Strict Snap: toggle ${SNAP_MULTIPLIER}x snapping strength`,
+      onClick: () => setSnapEnabled(!snapEnabled),
+      isActive: () => snapEnabled,
+    });
+    console.log(`${TAG} Strict Snap ready: toolbar button toggles ${SNAP_MULTIPLIER}x snapping (${SNAP_BASE_PX * SNAP_MULTIPLIER} px).`);
+  };
 
   api.hooks.onMapReady(() => {
     if (initialized) return;
@@ -43,6 +77,12 @@ if (!api) {
         console.log(`${TAG} Game rules applied.`);
       } else {
         console.warn(`${TAG} modifyConstants not available; game rules left at defaults.`);
+      }
+
+      try {
+        initStrictSnap();
+      } catch (err) {
+        console.error(`${TAG} Strict Snap failed to start:`, err);
       }
 
       api.ui.showNotification(
