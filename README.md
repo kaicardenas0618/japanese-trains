@@ -335,7 +335,7 @@ Besides adding trains and tracks, this mod changes the following game settings:
 - Delay recovery: late trains can cut their dwell time to half
 - Maximum station grade: 2.5%
 - Route bullets: the route bullet display limit at stations is uncapped
-- Snapping: a toolbar button toggles 10x snapping strength (10 px to 100 px)
+- Snapping: a toolbar button toggles 10x snapping strength, or hold Alt to apply it while held (10 px to 100 px)
 
 ## Currently Available Trains (232)
 

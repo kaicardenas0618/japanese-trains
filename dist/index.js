@@ -388,36 +388,59 @@
 	var TAG = "[Japanese Trains]";
 	var SNAP_BASE_PX = 10;
 	var SNAP_MULTIPLIER = 10;
+	var SNAP_HOLD_KEY = "Alt";
 	var SNAP_BUTTON_ICON = "Magnet";
 	var api = window.SubwayBuilderAPI;
 	if (!api) console.error(`${TAG} SubwayBuilderAPI not found.`);
 	else {
 		console.log(`${TAG} ${MOD_VERSION} | API v${api.version}`);
 		let initialized = false;
-		let snapEnabled = false;
-		const setSnapEnabled = (on) => {
-			if (on === snapEnabled) return;
+		let snapToggled = false;
+		let snapHeld = false;
+		let snapApplied = false;
+		const syncSnap = () => {
+			const on = snapToggled || snapHeld;
+			if (on === snapApplied) return;
 			if (typeof api.modifyConstants !== "function") return;
 			try {
 				api.modifyConstants({ PIXEL_SNAP_THRESHOLD: on ? SNAP_BASE_PX * SNAP_MULTIPLIER : SNAP_BASE_PX });
-				snapEnabled = on;
+				snapApplied = on;
 			} catch (err) {
 				console.error(`${TAG} Failed to set snap threshold:`, err);
 			}
 		};
+		const setSnapHeld = (held) => {
+			snapHeld = held;
+			syncSnap();
+		};
 		const initStrictSnap = () => {
-			if (!api.ui || typeof api.ui.addToolbarButton !== "function") {
-				console.warn(`${TAG} addToolbarButton not available, Strict Snap disabled.`);
-				return;
-			}
-			api.ui.addToolbarButton({
+			if (api.ui && typeof api.ui.addToolbarButton === "function") api.ui.addToolbarButton({
 				id: "strict-snap-toggle",
 				icon: SNAP_BUTTON_ICON,
-				tooltip: `Strict Snap: toggle ${SNAP_MULTIPLIER}x snapping strength`,
-				onClick: () => setSnapEnabled(!snapEnabled),
-				isActive: () => snapEnabled
+				tooltip: `Strict Snap: toggle ${SNAP_MULTIPLIER}x snapping strength (or hold ${SNAP_HOLD_KEY})`,
+				onClick: () => {
+					snapToggled = !snapToggled;
+					syncSnap();
+				},
+				isActive: () => snapToggled || snapHeld
 			});
-			console.log(`${TAG} Strict Snap ready: toolbar button toggles ${SNAP_MULTIPLIER}x snapping (${SNAP_BASE_PX * SNAP_MULTIPLIER} px).`);
+			else console.warn(`${TAG} addToolbarButton not available, Strict Snap toggle disabled.`);
+			window.addEventListener("keydown", (e) => {
+				if (e.key === SNAP_HOLD_KEY && !e.repeat) setSnapHeld(true);
+			}, true);
+			window.addEventListener("keyup", (e) => {
+				if (e.key === SNAP_HOLD_KEY) setSnapHeld(false);
+			}, true);
+			window.addEventListener("blur", () => setSnapHeld(false));
+			document.addEventListener("visibilitychange", () => {
+				if (document.hidden) setSnapHeld(false);
+			});
+			const modifierProp = SNAP_HOLD_KEY === "Alt" ? "altKey" : SNAP_HOLD_KEY === "Control" ? "ctrlKey" : SNAP_HOLD_KEY === "Meta" ? "metaKey" : SNAP_HOLD_KEY === "Shift" ? "shiftKey" : null;
+			if (modifierProp) window.addEventListener("mousemove", (e) => {
+				const held = !!e[modifierProp];
+				if (held !== snapHeld) setSnapHeld(held);
+			}, true);
+			console.log(`${TAG} Strict Snap ready: toolbar button toggles ${SNAP_MULTIPLIER}x snapping, or hold ${SNAP_HOLD_KEY} (${SNAP_BASE_PX * SNAP_MULTIPLIER} px).`);
 		};
 		api.hooks.onMapReady(() => {
 			if (initialized) return;

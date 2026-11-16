@@ -9,11 +9,12 @@ const MOD_ID = 'japanese-trains';
 const MOD_VERSION = 'v5.5.1';
 const TAG = '[Japanese Trains]';
 
-// Strict Snap: a toolbar button toggles a multiplier on the track and waypoint snapping radius.
-// The game reads RULES.PIXEL_SNAP_THRESHOLD (screen pixels, default 10) every time the cursor moves
-// while drawing. The tutorial uses a fixed 30 px radius and ignores this rule.
+// Strict Snap: a toolbar button toggles a multiplier on the track and waypoint snapping radius, and holding a key
+// applies it for as long as the key is down. The game reads RULES.PIXEL_SNAP_THRESHOLD (screen pixels, default 10)
+// every time the cursor moves while drawing. The tutorial uses a fixed 30 px radius and ignores this rule.
 const SNAP_BASE_PX = 10; // game default for PIXEL_SNAP_THRESHOLD
 const SNAP_MULTIPLIER = 10; // snapping strength while Strict Snap is on
+const SNAP_HOLD_KEY = 'Alt'; // KeyboardEvent.key to hold
 const SNAP_BUTTON_ICON = 'Magnet'; // Lucide icon name of the toolbar button
 
 const api = window.SubwayBuilderAPI;
@@ -24,32 +25,70 @@ if (!api) {
   console.log(`${TAG} ${MOD_VERSION} | API v${api.version}`);
 
   let initialized = false;
-  let snapEnabled = false;
+  let snapToggled = false; // set by the toolbar button
+  let snapHeld = false; // set while the hold key is down
+  let snapApplied = false; // what PIXEL_SNAP_THRESHOLD currently reflects
 
-  const setSnapEnabled = (on: boolean): void => {
-    if (on === snapEnabled) return;
+  const syncSnap = (): void => {
+    const on = snapToggled || snapHeld;
+    if (on === snapApplied) return;
     if (typeof api.modifyConstants !== 'function') return;
     try {
       api.modifyConstants({ PIXEL_SNAP_THRESHOLD: on ? SNAP_BASE_PX * SNAP_MULTIPLIER : SNAP_BASE_PX });
-      snapEnabled = on;
+      snapApplied = on;
     } catch (err) {
       console.error(`${TAG} Failed to set snap threshold:`, err);
     }
   };
 
+  const setSnapHeld = (held: boolean): void => {
+    snapHeld = held;
+    syncSnap();
+  };
+
   const initStrictSnap = (): void => {
-    if (!api.ui || typeof api.ui.addToolbarButton !== 'function') {
-      console.warn(`${TAG} addToolbarButton not available, Strict Snap disabled.`);
-      return;
+    if (api.ui && typeof api.ui.addToolbarButton === 'function') {
+      api.ui.addToolbarButton({
+        id: 'strict-snap-toggle',
+        icon: SNAP_BUTTON_ICON,
+        tooltip: `Strict Snap: toggle ${SNAP_MULTIPLIER}x snapping strength (or hold ${SNAP_HOLD_KEY})`,
+        onClick: () => {
+          snapToggled = !snapToggled;
+          syncSnap();
+        },
+        isActive: () => snapToggled || snapHeld,
+      });
+    } else {
+      console.warn(`${TAG} addToolbarButton not available, Strict Snap toggle disabled.`);
     }
-    api.ui.addToolbarButton({
-      id: 'strict-snap-toggle',
-      icon: SNAP_BUTTON_ICON,
-      tooltip: `Strict Snap: toggle ${SNAP_MULTIPLIER}x snapping strength`,
-      onClick: () => setSnapEnabled(!snapEnabled),
-      isActive: () => snapEnabled,
+
+    window.addEventListener('keydown', (e: KeyboardEvent) => {
+      if (e.key === SNAP_HOLD_KEY && !e.repeat) setSnapHeld(true);
+    }, true);
+    window.addEventListener('keyup', (e: KeyboardEvent) => {
+      if (e.key === SNAP_HOLD_KEY) setSnapHeld(false);
+    }, true);
+
+    // A key release can be missed (alt-tab, focus loss), so also release on blur and hidden.
+    window.addEventListener('blur', () => setSnapHeld(false));
+    document.addEventListener('visibilitychange', () => {
+      if (document.hidden) setSnapHeld(false);
     });
-    console.log(`${TAG} Strict Snap ready: toolbar button toggles ${SNAP_MULTIPLIER}x snapping (${SNAP_BASE_PX * SNAP_MULTIPLIER} px).`);
+
+    // Safety net: keep the hold in sync with the real modifier state while the cursor moves.
+    const modifierProp: 'altKey' | 'ctrlKey' | 'metaKey' | 'shiftKey' | null =
+      SNAP_HOLD_KEY === 'Alt' ? 'altKey'
+        : SNAP_HOLD_KEY === 'Control' ? 'ctrlKey'
+        : SNAP_HOLD_KEY === 'Meta' ? 'metaKey'
+        : SNAP_HOLD_KEY === 'Shift' ? 'shiftKey' : null;
+    if (modifierProp) {
+      window.addEventListener('mousemove', (e: MouseEvent) => {
+        const held = !!e[modifierProp];
+        if (held !== snapHeld) setSnapHeld(held);
+      }, true);
+    }
+
+    console.log(`${TAG} Strict Snap ready: toolbar button toggles ${SNAP_MULTIPLIER}x snapping, or hold ${SNAP_HOLD_KEY} (${SNAP_BASE_PX * SNAP_MULTIPLIER} px).`);
   };
 
   api.hooks.onMapReady(() => {
