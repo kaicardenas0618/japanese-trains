@@ -403,7 +403,7 @@ Besides adding trains and tracks, this mod changes the following game settings:
     <td>JP E5 Shinkansen 1435JP</td>
     <td>10-car E5 Series Shinkansen train for Tohoku and Hokkaido high-speed services. Manufacturer: Hitachi / Kawasaki Heavy Industries.</td>
     <td>Hitachi / Kawasaki Heavy Industries</td>
-    <td>320</td>
+    <td>360</td>
     <td>1241</td>
   </tr>
   <tr>
@@ -417,14 +417,14 @@ Besides adding trains and tracks, this mod changes the following game settings:
     <td>JP H5 Shinkansen 1435JP</td>
     <td>10-car H5 Series Shinkansen train for Hokkaido and Tohoku high-speed services. Manufacturer: Hitachi / Kawasaki Heavy Industries.</td>
     <td>Hitachi / Kawasaki Heavy Industries</td>
-    <td>320</td>
+    <td>360</td>
     <td>1168</td>
   </tr>
   <tr>
     <td>JP E6 Komachi 1435JP</td>
     <td>7-car E6 Series mini-Shinkansen train for Akita Komachi services. Manufacturer: Hitachi / Kawasaki Heavy Industries.</td>
     <td>Hitachi / Kawasaki Heavy Industries</td>
-    <td>320</td>
+    <td>360</td>
     <td>768</td>
   </tr>
   <tr>
@@ -2050,8 +2050,8 @@ Besides adding trains and tracks, this mod changes the following game settings:
     <td>3984</td>
   </tr>
   <tr>
-    <td>TKK 1000 EMU 1067JP/TQ</td>
-    <td>Tokyu 1000 series 3-car commuter EMU for Ikegami and Tamagawa Line service. Manufacturer: Tokyu Car. C6</td>
+    <td>TKK 1000 EMU 1067JP/MB/TQ</td>
+    <td>Tokyu 1000 series 3-car commuter EMU for Ikegami and Tamagawa Line service. Can also run on Meguro Line track. Manufacturer: Tokyu Car. C6</td>
     <td>Tokyu Car</td>
     <td>120</td>
     <td>873</td>
@@ -2064,36 +2064,36 @@ Besides adding trains and tracks, this mod changes the following game settings:
     <td>2008</td>
   </tr>
   <tr>
-    <td>TKK 2020 EMU 1067JP/MF/MZ/TB/TQ</td>
-    <td>Tokyu 2020 series 10-car commuter EMU for Den-en-toshi Line and Hanzomon through services. Can also run on Yurakucho and Fukutoshin Line track. Manufacturer: J-TREC. C6</td>
+    <td>TKK 2020 EMU 1067JP/MB/MF/MZ/TB/TQ</td>
+    <td>Tokyu 2020 series 10-car commuter EMU for Den-en-toshi Line and Hanzomon through services. Can also run on Yurakucho, Fukutoshin and Meguro Line track. Manufacturer: J-TREC. C6</td>
     <td>J-TREC</td>
     <td>120</td>
     <td>3230</td>
   </tr>
   <tr>
-    <td>TKK 5050 EMU 1067JP/MF/MZ/SB/ST/TQ</td>
-    <td>Tokyu 5050 series 8/10-car commuter EMU for Toyoko/Fukutoshin through services, including Sotetsu through services via the Shin-Yokohama Line. Can also run on Hanzomon Line track. Manufacturer: Tokyu Car / J-TREC. C6</td>
+    <td>TKK 5050 EMU 1067JP/MB/MF/MZ/SB/ST/TQ</td>
+    <td>Tokyu 5050 series 8/10-car commuter EMU for Toyoko/Fukutoshin through services, including Sotetsu through services via the Shin-Yokohama Line. Can also run on Hanzomon and Meguro Line track. Manufacturer: Tokyu Car / J-TREC. C6</td>
     <td>Tokyu Car / J-TREC</td>
     <td>120</td>
     <td>3230</td>
   </tr>
   <tr>
-    <td>TKK 9000 EMU 1067JP/TQ</td>
-    <td>Tokyu 9000 series 5-car commuter EMU for Oimachi Line local services, built from 1986 and originally used in 8-car sets on the Toyoko Line. Manufacturer: Tokyu Car. C6</td>
+    <td>TKK 9000 EMU 1067JP/MB/TQ</td>
+    <td>Tokyu 9000 series 5-car commuter EMU for Oimachi Line local services, built from 1986 and originally used in 8-car sets on the Toyoko Line. Can also run on Meguro Line track. Manufacturer: Tokyu Car. C6</td>
     <td>Tokyu Car</td>
     <td>120</td>
     <td>1605</td>
   </tr>
   <tr>
-    <td>TKK 9020 EMU 1067JP/TQ</td>
-    <td>Tokyu 9020 series 5-car commuter EMU for Oimachi Line local services, converted in 2018-2019 from the 2000 series built in 1992-1993. Manufacturer: Tokyu Car. C6</td>
+    <td>TKK 9020 EMU 1067JP/MB/TQ</td>
+    <td>Tokyu 9020 series 5-car commuter EMU for Oimachi Line local services, converted in 2018-2019 from the 2000 series built in 1992-1993. Can also run on Meguro Line track. Manufacturer: Tokyu Car. C6</td>
     <td>Tokyu Car</td>
     <td>120</td>
     <td>1605</td>
   </tr>
   <tr>
-    <td>TKK 6020 EMU 1067JP/TQ</td>
-    <td>Tokyu 6020 series commuter EMU for the Oimachi Line, introduced in 2018 as 7-car express sets with 5-car local sets added from 2025. Manufacturer: J-TREC. C6</td>
+    <td>TKK 6020 EMU 1067JP/MB/TQ</td>
+    <td>Tokyu 6020 series commuter EMU for the Oimachi Line, introduced in 2018 as 7-car express sets with 5-car local sets added from 2025. Can also run on Meguro Line track. Manufacturer: J-TREC. C6</td>
     <td>J-TREC</td>
     <td>120</td>
     <td>2254</td>
@@ -2134,8 +2134,8 @@ Besides adding trains and tracks, this mod changes the following game settings:
     <td>3400</td>
   </tr>
   <tr>
-    <td>TYO Sotetsu 20000 1067JP/MF/MZ/ST/TQ</td>
-    <td>Sotetsu 20000 series 10-car commuter EMU, introduced in 2018 for Sotetsu-Tokyu through services via the Toyoko Line. Can also run on Hanzomon Line track. Manufacturer: Hitachi. C7</td>
+    <td>TYO Sotetsu 20000 1067JP/MB/MF/MZ/ST/TQ</td>
+    <td>Sotetsu 20000 series 10-car commuter EMU, introduced in 2018 for Sotetsu-Tokyu through services via the Toyoko Line. Can also run on Hanzomon and Meguro Line track. Manufacturer: Hitachi. C7</td>
     <td>Hitachi</td>
     <td>120</td>
     <td>3630</td>

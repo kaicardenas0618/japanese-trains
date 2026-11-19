@@ -601,8 +601,8 @@
         "v2": 55.56,
         "exponent": 1.5
       },
-      "maxSpeed": 88.88,
-      "maxSpeedLocalStation": 88.88,
+      "maxSpeed": 100.0,
+      "maxSpeedLocalStation": 100.0,
       "capacityPerCar": 73,
       "seatsPerCar": 73,
       "doorsPerCarPerSide": 2,
@@ -767,8 +767,8 @@
         "v2": 55.56,
         "exponent": 1.5
       },
-      "maxSpeed": 88.88,
-      "maxSpeedLocalStation": 88.88,
+      "maxSpeed": 100.0,
+      "maxSpeedLocalStation": 100.0,
       "capacityPerCar": 73,
       "seatsPerCar": 73,
       "doorsPerCarPerSide": 2,
@@ -850,8 +850,8 @@
         "v2": 55.56,
         "exponent": 1.5
       },
-      "maxSpeed": 88.88,
-      "maxSpeedLocalStation": 88.88,
+      "maxSpeed": 100.0,
+      "maxSpeedLocalStation": 100.0,
       "capacityPerCar": 48,
       "seatsPerCar": 48,
       "doorsPerCarPerSide": 2,
