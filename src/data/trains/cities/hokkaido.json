@@ -67,7 +67,10 @@
       "1067JP-100",
       "1067JP-110",
       "1067JP-120",
-      "1067JP-130"
+      "1067JP-130",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 280000,
@@ -149,7 +152,10 @@
       "1067JP-100",
       "1067JP-110",
       "1067JP-120",
-      "1067JP-130"
+      "1067JP-130",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 280000,
@@ -231,7 +237,10 @@
       "1067JP-100",
       "1067JP-110",
       "1067JP-120",
-      "1067JP-130"
+      "1067JP-130",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -312,7 +321,10 @@
       "1067JP-100",
       "1067JP-110",
       "1067JP-120",
-      "1067JP-130"
+      "1067JP-130",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -393,7 +405,10 @@
       "1067JP-100",
       "1067JP-110",
       "1067JP-120",
-      "1067JP-130"
+      "1067JP-130",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -475,7 +490,10 @@
       "1067JP-100",
       "1067JP-110",
       "1067JP-120",
-      "1067JP-130"
+      "1067JP-130",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,

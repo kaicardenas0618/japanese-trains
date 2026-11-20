@@ -7,8 +7,10 @@ Subway Builder Japanese Trains is a mod for Subway Builder that adds trains from
 This mod uses a proprietary track and train separation system that allows every compatible train to run on every compatible track, allowing for easy through running and track type management when building recreations of existing systems. Each line has its own track type, named `{gauge}{line code}-{speed}`.
 Initial builds should be done with a track option where applicable. Compatible tracks are listed at the end of the train name, e.g. both JP N700A Shinkansen 1435JP and JP E5 Shinkansen 1435JP are compatible with 1435JP-60, 1435JP-100, 1435JP-130, 1435JP-285, 1435JP-320, and 1435JP-360 tracks. Specific trains can be chosen afterwards in the route menu.
 
+1067JP/1435TK tracks are dual gauge tracks that both 1067JP and 1435TK trains can run on, for building shared yards and corridors such as the Narita Airport and Hokuso route.
+
 <details>
-<summary>Track list (59)</summary>
+<summary>Track list (62)</summary>
 
 <table style="width: auto">
   <tr>
@@ -40,6 +42,21 @@ Initial builds should be done with a track option where applicable. Compatible t
     <td>1067JP-130</td>
     <td>JR main lines</td>
     <td>130</td>
+  </tr>
+  <tr>
+    <td>1067JP/1435TK-60</td>
+    <td>Dual gauge track for JR and Keikyu/Keisei/Hokuso through services</td>
+    <td>60</td>
+  </tr>
+  <tr>
+    <td>1067JP/1435TK-120</td>
+    <td>Dual gauge track for JR and Keikyu/Keisei/Hokuso through services</td>
+    <td>120</td>
+  </tr>
+  <tr>
+    <td>1067JP/1435TK-160</td>
+    <td>Dual gauge track for JR and Keikyu/Keisei/Hokuso through services</td>
+    <td>160</td>
   </tr>
   <tr>
     <td>1435JP-60</td>
@@ -337,7 +354,7 @@ Besides adding trains and tracks, this mod changes the following game settings:
 - Route bullets: the route bullet display limit at stations is uncapped
 - Snapping: a toolbar button toggles 10x snapping strength, or hold Alt to apply it while held (10 px to 100 px)
 
-## Currently Available Trains (237)
+## Currently Available Trains (240)
 
 <details>
 <summary>National (43)</summary>
@@ -1626,7 +1643,7 @@ Besides adding trains and tracks, this mod changes the following game settings:
 </details>
 
 <details>
-<summary>Tokyo (79)</summary>
+<summary>Tokyo (82)</summary>
 
 <table style="width: auto">
   <tr>
@@ -1658,8 +1675,8 @@ Besides adding trains and tracks, this mod changes the following game settings:
     <td>1986</td>
   </tr>
   <tr>
-    <td>TYO 13000 Hibiya 1067JP/MH/TB</td>
-    <td>Tokyo Metro 13000 series 7-car train. Used on the Hibiya Line. Manufacturer: Kinki Sharyo. C7</td>
+    <td>TYO 13000 Hibiya 1067JP/MB/MF/MH/MI/ST/TB/TQ</td>
+    <td>Tokyo Metro 13000 series 7-car train. Used on the Hibiya Line. Can also run on Fukutoshin, Mita, Namboku, Sotetsu and Tokyu track. Manufacturer: Kinki Sharyo. C7</td>
     <td>Kinki Sharyo</td>
     <td>110</td>
     <td>2569</td>
@@ -1679,22 +1696,22 @@ Besides adding trains and tracks, this mod changes the following game settings:
     <td>3680</td>
   </tr>
   <tr>
-    <td>TYO 17000 Yurakucho-Fukutoshin 1067JP/MF/MZ/SB/TQ</td>
-    <td>Tokyo Metro 17000 series 8/10-car train. Used on Yurakucho and Fukutoshin lines. Can also run on Hanzomon Line track. Manufacturer: Hitachi. C7</td>
+    <td>TYO 17000 Yurakucho-Fukutoshin 1067JP/MF/MH/MZ/SB/TQ</td>
+    <td>Tokyo Metro 17000 series 8/10-car train. Used on Yurakucho and Fukutoshin lines. Can also run on Hanzomon and Hibiya Line track. Manufacturer: Hitachi. C7</td>
     <td>Hitachi</td>
     <td>120</td>
     <td>3680</td>
   </tr>
   <tr>
-    <td>TYO 18000 Hanzomon 1067JP/MF/MZ/TB/TQ</td>
-    <td>Tokyo Metro 18000 series 10-car train. Used on the Hanzomon Line. Can also run on Yurakucho and Fukutoshin Line track. Manufacturer: Hitachi. C7</td>
+    <td>TYO 18000 Hanzomon 1067JP/MF/MH/MZ/TB/TQ</td>
+    <td>Tokyo Metro 18000 series 10-car train. Used on the Hanzomon Line. Can also run on Yurakucho, Fukutoshin and Hibiya Line track. Manufacturer: Hitachi. C7</td>
     <td>Hitachi</td>
     <td>120</td>
     <td>3680</td>
   </tr>
   <tr>
-    <td>TYO 9000 Namboku 1067JP/MB/MI/TQ</td>
-    <td>Tokyo Metro 9000 series 6/8-car train. Used on the Namboku Line. Manufacturer: Kawasaki Heavy Industries / Tokyu Car. C7</td>
+    <td>TYO 9000 Namboku 1067JP/MB/MH/MI/TQ</td>
+    <td>Tokyo Metro 9000 series 6/8-car train. Used on the Namboku Line. Can also run on Hibiya Line track. Manufacturer: Kawasaki Heavy Industries / Tokyu Car. C7</td>
     <td>Kawasaki Heavy Industries / Tokyu Car</td>
     <td>110</td>
     <td>2944</td>
@@ -1707,22 +1724,22 @@ Besides adding trains and tracks, this mod changes the following game settings:
     <td>2648</td>
   </tr>
   <tr>
-    <td>TYO 6500 Mita 1067JP/MB/MI/TQ</td>
-    <td>Toei 6500 series 8-car train. Used on the Mita Line. Manufacturer: Kinki Sharyo. C7</td>
+    <td>TYO 6500 Mita 1067JP/MB/MH/MI/TQ</td>
+    <td>Toei 6500 series 8-car train. Used on the Mita Line. Can also run on Hibiya Line track. Manufacturer: Kinki Sharyo. C7</td>
     <td>Kinki Sharyo</td>
     <td>120</td>
     <td>2944</td>
   </tr>
   <tr>
-    <td>TYO 6300 Mita 1067JP/MB/MI/TQ</td>
-    <td>Toei 6300 series 6-car train. Used on the Mita Line. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo. C7</td>
+    <td>TYO 6300 Mita 1067JP/MB/MH/MI/TQ</td>
+    <td>Toei 6300 series 6-car train. Used on the Mita Line. Can also run on Hibiya Line track. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo. C7</td>
     <td>Kawasaki Heavy Industries / Kinki Sharyo</td>
     <td>120</td>
     <td>2178</td>
   </tr>
   <tr>
-    <td>TYO Saitama Rapid 2000 1067JP/MB/MI/TQ</td>
-    <td>Saitama Rapid Railway 2000 series 6-car train. Used on the Saitama Rapid Railway Line with through services on the Namboku Line. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo. C7</td>
+    <td>TYO Saitama Rapid 2000 1067JP/MB/MH/MI/TQ</td>
+    <td>Saitama Rapid Railway 2000 series 6-car train. Used on the Saitama Rapid Railway Line with through services on the Namboku Line. Can also run on Hibiya Line track. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo. C7</td>
     <td>Kawasaki Heavy Industries / Kinki Sharyo</td>
     <td>110</td>
     <td>2178</td>
@@ -1810,6 +1827,27 @@ Besides adding trains and tracks, this mod changes the following game settings:
     <td>Mitsubishi Heavy Industries</td>
     <td>75</td>
     <td>438</td>
+  </tr>
+  <tr>
+    <td>TYO Chiba Monorail 1000</td>
+    <td>Chiba Urban Monorail 1000 series 2/4-car suspended monorail train for Line 1 and Line 2 between Chiba-minato, Chiba and Chigasedai. Manufacturer: Mitsubishi Heavy Industries. C4</td>
+    <td>Mitsubishi Heavy Industries</td>
+    <td>65</td>
+    <td>584</td>
+  </tr>
+  <tr>
+    <td>TYO Chiba Monorail 0 Urban Flyer</td>
+    <td>Chiba Urban Monorail 0 series Urban Flyer 2/4-car suspended monorail train for Line 1 and Line 2 between Chiba-minato, Chiba and Chigasedai. Manufacturer: Mitsubishi Heavy Industries. C4</td>
+    <td>Mitsubishi Heavy Industries</td>
+    <td>65</td>
+    <td>584</td>
+  </tr>
+  <tr>
+    <td>TYO Yamaman 1000 Yukarigaoka</td>
+    <td>Yamaman 1000 series 3-car automated guideway transit train for the Yukarigaoka Line loop in Sakura, Chiba. Manufacturer: Nippon Sharyo. C4</td>
+    <td>Nippon Sharyo</td>
+    <td>40</td>
+    <td>243</td>
   </tr>
   <tr>
     <td>TYO E235-0 1067JP</td>
@@ -1980,22 +2018,22 @@ Besides adding trains and tracks, this mod changes the following game settings:
     <td>406</td>
   </tr>
   <tr>
-    <td>TYO Seibu 40000 Commuter 1067JP/MF/MZ/SB/TQ</td>
-    <td>Seibu 40000 series commuter/S-TRAIN EMU. Used on the Ikebukuro Line, with through-service to the Yurakucho and Fukutoshin lines and onward to Tokyu Toyoko services. Can also run on Hanzomon Line track. Manufacturer: J-TREC. C6</td>
+    <td>TYO Seibu 40000 Commuter 1067JP/MF/MH/MZ/SB/TQ</td>
+    <td>Seibu 40000 series commuter/S-TRAIN EMU. Used on the Ikebukuro Line, with through-service to the Yurakucho and Fukutoshin lines and onward to Tokyu Toyoko services. Can also run on Hanzomon and Hibiya Line track. Manufacturer: J-TREC. C6</td>
     <td>J-TREC</td>
     <td>120</td>
     <td>3280</td>
   </tr>
   <tr>
-    <td>TYO Seibu 30000 Commuter 1067JP/MF/MZ/SB/TQ</td>
-    <td>Seibu 30000 series "Smile Train" commuter EMU. Used on the Ikebukuro Line, with through-service to the Yurakucho and Fukutoshin lines and onward to Tokyu Toyoko services. Can also run on Hanzomon Line track. Manufacturer: Kawasaki Heavy Industries / J-TREC. C6</td>
+    <td>TYO Seibu 30000 Commuter 1067JP/MF/MH/MZ/SB/TQ</td>
+    <td>Seibu 30000 series "Smile Train" commuter EMU. Used on the Ikebukuro Line, with through-service to the Yurakucho and Fukutoshin lines and onward to Tokyu Toyoko services. Can also run on Hanzomon and Hibiya Line track. Manufacturer: Kawasaki Heavy Industries / J-TREC. C6</td>
     <td>Kawasaki Heavy Industries / J-TREC</td>
     <td>120</td>
     <td>3280</td>
   </tr>
   <tr>
-    <td>TYO Seibu 20000 Commuter 1067JP/MF/MZ/SB/TQ</td>
-    <td>Seibu 20000 series commuter EMU. Used on the Ikebukuro and Shinjuku lines, with through-service to the Yurakucho and Fukutoshin lines and onward to Tokyu Toyoko services. Can also run on Hanzomon Line track. Manufacturer: Tokyu Car. C6</td>
+    <td>TYO Seibu 20000 Commuter 1067JP/MF/MH/MZ/SB/TQ</td>
+    <td>Seibu 20000 series commuter EMU. Used on the Ikebukuro and Shinjuku lines, with through-service to the Yurakucho and Fukutoshin lines and onward to Tokyu Toyoko services. Can also run on Hanzomon and Hibiya Line track. Manufacturer: Tokyu Car. C6</td>
     <td>Tokyu Car</td>
     <td>120</td>
     <td>3270</td>
@@ -2064,8 +2102,8 @@ Besides adding trains and tracks, this mod changes the following game settings:
     <td>3984</td>
   </tr>
   <tr>
-    <td>TQ 1000 EMU 1067JP/MB/MI/TQ</td>
-    <td>Tokyu 1000 series 3-car commuter EMU for Ikegami and Tamagawa Line service. Can also run on Mita and Namboku Line track. Manufacturer: Tokyu Car. C6</td>
+    <td>TQ 1000 EMU 1067JP/MB/MH/MI/TQ</td>
+    <td>Tokyu 1000 series 3-car commuter EMU for Ikegami and Tamagawa Line service. Can also run on Hibiya, Mita and Namboku Line track. Manufacturer: Tokyu Car. C6</td>
     <td>Tokyu Car</td>
     <td>120</td>
     <td>873</td>
@@ -2078,57 +2116,57 @@ Besides adding trains and tracks, this mod changes the following game settings:
     <td>2008</td>
   </tr>
   <tr>
-    <td>TQ 2020 EMU 1067JP/MB/MI/MF/MZ/TB/TQ</td>
-    <td>Tokyu 2020 series 10-car commuter EMU for Den-en-toshi Line and Hanzomon through services. Can also run on Yurakucho, Fukutoshin, Mita and Namboku Line track. Manufacturer: J-TREC. C6</td>
+    <td>TQ 2020 EMU 1067JP/MB/MH/MI/MF/MZ/TB/TQ</td>
+    <td>Tokyu 2020 series 10-car commuter EMU for Den-en-toshi Line and Hanzomon through services. Can also run on Yurakucho, Fukutoshin, Hibiya, Mita and Namboku Line track. Manufacturer: J-TREC. C6</td>
     <td>J-TREC</td>
     <td>120</td>
     <td>3230</td>
   </tr>
   <tr>
-    <td>TQ 5050 EMU 1067JP/MB/MI/MF/MZ/SB/ST/TQ</td>
-    <td>Tokyu 5050 series 8/10-car commuter EMU for Toyoko/Fukutoshin through services, including Sotetsu through services via the Shin-Yokohama Line. Can also run on Hanzomon, Mita and Namboku Line track. Manufacturer: Tokyu Car / J-TREC. C6</td>
+    <td>TQ 5050 EMU 1067JP/MB/MH/MI/MF/MZ/SB/ST/TQ</td>
+    <td>Tokyu 5050 series 8/10-car commuter EMU for Toyoko/Fukutoshin through services, including Sotetsu through services via the Shin-Yokohama Line. Can also run on Hanzomon, Hibiya, Mita and Namboku Line track. Manufacturer: Tokyu Car / J-TREC. C6</td>
     <td>Tokyu Car / J-TREC</td>
     <td>120</td>
     <td>3230</td>
   </tr>
   <tr>
-    <td>TQ 9000 EMU 1067JP/MB/MI/TQ</td>
-    <td>Tokyu 9000 series 5-car commuter EMU for Oimachi Line local services, built from 1986 and originally used in 8-car sets on the Toyoko Line. Can also run on Mita and Namboku Line track. Manufacturer: Tokyu Car. C6</td>
+    <td>TQ 9000 EMU 1067JP/MB/MH/MI/TQ</td>
+    <td>Tokyu 9000 series 5-car commuter EMU for Oimachi Line local services, built from 1986 and originally used in 8-car sets on the Toyoko Line. Can also run on Hibiya, Mita and Namboku Line track. Manufacturer: Tokyu Car. C6</td>
     <td>Tokyu Car</td>
     <td>120</td>
     <td>1605</td>
   </tr>
   <tr>
-    <td>TQ 9020 EMU 1067JP/MB/MI/TQ</td>
-    <td>Tokyu 9020 series 5-car commuter EMU for Oimachi Line local services, converted in 2018-2019 from the 2000 series built in 1992-1993. Can also run on Mita and Namboku Line track. Manufacturer: Tokyu Car. C6</td>
+    <td>TQ 9020 EMU 1067JP/MB/MH/MI/TQ</td>
+    <td>Tokyu 9020 series 5-car commuter EMU for Oimachi Line local services, converted in 2018-2019 from the 2000 series built in 1992-1993. Can also run on Hibiya, Mita and Namboku Line track. Manufacturer: Tokyu Car. C6</td>
     <td>Tokyu Car</td>
     <td>120</td>
     <td>1605</td>
   </tr>
   <tr>
-    <td>TQ 6020 EMU 1067JP/MB/MI/TQ</td>
-    <td>Tokyu 6020 series commuter EMU for the Oimachi Line, introduced in 2018 as 7-car express sets with 5-car local sets added from 2025. Can also run on Mita and Namboku Line track. Manufacturer: J-TREC. C6</td>
+    <td>TQ 6020 EMU 1067JP/MB/MH/MI/TQ</td>
+    <td>Tokyu 6020 series commuter EMU for the Oimachi Line, introduced in 2018 as 7-car express sets with 5-car local sets added from 2025. Can also run on Hibiya, Mita and Namboku Line track. Manufacturer: J-TREC. C6</td>
     <td>J-TREC</td>
     <td>120</td>
     <td>2254</td>
   </tr>
   <tr>
-    <td>TQ 3000 EMU 1067JP/MB/MI/ST/TQ</td>
-    <td>Tokyu 3000 series 8-car commuter EMU for Meguro Line services, with through services to the Mita, Namboku, Saitama Rapid and Sotetsu lines. Manufacturer: Tokyu Car / J-TREC. C6</td>
+    <td>TQ 3000 EMU 1067JP/MB/MH/MI/ST/TQ</td>
+    <td>Tokyu 3000 series 8-car commuter EMU for Meguro Line services, with through services to the Mita, Namboku, Saitama Rapid and Sotetsu lines. Can also run on Hibiya Line track. Manufacturer: Tokyu Car / J-TREC. C6</td>
     <td>Tokyu Car / J-TREC</td>
     <td>120</td>
     <td>2568</td>
   </tr>
   <tr>
-    <td>TQ 3020 EMU 1067JP/MB/MI/ST/TQ</td>
-    <td>Tokyu 3020 series 8-car commuter EMU for Meguro Line services, with through services to the Mita, Namboku, Saitama Rapid and Sotetsu lines. Manufacturer: J-TREC. C6</td>
+    <td>TQ 3020 EMU 1067JP/MB/MH/MI/ST/TQ</td>
+    <td>Tokyu 3020 series 8-car commuter EMU for Meguro Line services, with through services to the Mita, Namboku, Saitama Rapid and Sotetsu lines. Can also run on Hibiya Line track. Manufacturer: J-TREC. C6</td>
     <td>J-TREC</td>
     <td>120</td>
     <td>2576</td>
   </tr>
   <tr>
-    <td>TQ 5080 EMU 1067JP/MB/MI/ST/TQ</td>
-    <td>Tokyu 5080 series 8-car commuter EMU for Meguro Line services, with through services to the Mita, Namboku, Saitama Rapid and Sotetsu lines. Manufacturer: Tokyu Car / J-TREC. C6</td>
+    <td>TQ 5080 EMU 1067JP/MB/MH/MI/ST/TQ</td>
+    <td>Tokyu 5080 series 8-car commuter EMU for Meguro Line services, with through services to the Mita, Namboku, Saitama Rapid and Sotetsu lines. Can also run on Hibiya Line track. Manufacturer: Tokyu Car / J-TREC. C6</td>
     <td>Tokyu Car / J-TREC</td>
     <td>120</td>
     <td>2568</td>
@@ -2162,22 +2200,22 @@ Besides adding trains and tracks, this mod changes the following game settings:
     <td>3820</td>
   </tr>
   <tr>
-    <td>TYO Sotetsu 12000 1067JP/ST</td>
-    <td>Sotetsu 12000 series 10-car commuter EMU based on the JR East E233 series, introduced in 2019 for Sotetsu-JR through services to the Saikyo Line. Manufacturer: J-TREC. C6</td>
+    <td>TYO Sotetsu 12000 1067JP/MH/ST</td>
+    <td>Sotetsu 12000 series 10-car commuter EMU based on the JR East E233 series, introduced in 2019 for Sotetsu-JR through services to the Saikyo Line. Can also run on Hibiya Line track. Manufacturer: J-TREC. C6</td>
     <td>J-TREC</td>
     <td>120</td>
     <td>3400</td>
   </tr>
   <tr>
-    <td>TYO Sotetsu 20000 1067JP/MB/MI/MF/MZ/ST/TQ</td>
-    <td>Sotetsu 20000 series 10-car commuter EMU, introduced in 2018 for Sotetsu-Tokyu through services via the Toyoko Line. Can also run on Hanzomon, Mita and Namboku Line track. Manufacturer: Hitachi. C7</td>
+    <td>TYO Sotetsu 20000 1067JP/MB/MH/MI/MF/MZ/ST/TQ</td>
+    <td>Sotetsu 20000 series 10-car commuter EMU, introduced in 2018 for Sotetsu-Tokyu through services via the Toyoko Line. Can also run on Hanzomon, Hibiya, Mita and Namboku Line track. Manufacturer: Hitachi. C7</td>
     <td>Hitachi</td>
     <td>120</td>
     <td>3630</td>
   </tr>
   <tr>
-    <td>TYO Sotetsu 21000 1067JP/MB/MI/ST/TQ</td>
-    <td>Sotetsu 21000 series 8-car variant of the 20000 series, introduced in 2021 for Sotetsu-Tokyu through services via the Meguro Line. Manufacturer: Hitachi. C7</td>
+    <td>TYO Sotetsu 21000 1067JP/MB/MH/MI/ST/TQ</td>
+    <td>Sotetsu 21000 series 8-car variant of the 20000 series, introduced in 2021 for Sotetsu-Tokyu through services via the Meguro Line. Can also run on Hibiya Line track. Manufacturer: Hitachi. C7</td>
     <td>Hitachi</td>
     <td>120</td>
     <td>2904</td>

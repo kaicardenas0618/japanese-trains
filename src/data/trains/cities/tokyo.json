@@ -298,8 +298,8 @@
   },
   {
     "id": "tyo-13000-hibiya",
-    "name": "TYO 13000 Hibiya 1067JP/MH/TB",
-    "description": "Tokyo Metro 13000 series 7-car train. Used on the Hibiya Line. Manufacturer: Kinki Sharyo. C7",
+    "name": "TYO 13000 Hibiya 1067JP/MB/MF/MH/MI/ST/TB/TQ",
+    "description": "Tokyo Metro 13000 series 7-car train. Used on the Hibiya Line. Can also run on Fukutoshin, Mita, Namboku, Sotetsu and Tokyu track. Manufacturer: Kinki Sharyo. C7",
     "stats": {
       "maxAcceleration": 0.917,
       "maxDeceleration": 1.15,
@@ -366,7 +366,16 @@
       "1067JP-130",
       "1067MH-80",
       "1067TB-100",
-      "1067TB-120"
+      "1067TB-120",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160",
+      "1067MB-80",
+      "1067MF-80",
+      "1067MI-75",
+      "1067ST-100",
+      "1067TQ-80",
+      "1067TQ-110"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -448,7 +457,10 @@
       "1067JP-110",
       "1067JP-120",
       "1067JP-130",
-      "1067MT-100"
+      "1067MT-100",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -532,7 +544,10 @@
       "1067JP-120",
       "1067JP-130",
       "1067MC-80",
-      "1067OD-110"
+      "1067OD-110",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -548,8 +563,8 @@
   },
   {
     "id": "tyo-17000-yurakucho-fukutoshin",
-    "name": "TYO 17000 Yurakucho-Fukutoshin 1067JP/MF/MZ/SB/TQ",
-    "description": "Tokyo Metro 17000 series 8/10-car train. Used on Yurakucho and Fukutoshin lines. Can also run on Hanzomon Line track. Manufacturer: Hitachi. C7",
+    "name": "TYO 17000 Yurakucho-Fukutoshin 1067JP/MF/MH/MZ/SB/TQ",
+    "description": "Tokyo Metro 17000 series 8/10-car train. Used on Yurakucho and Fukutoshin lines. Can also run on Hanzomon and Hibiya Line track. Manufacturer: Hitachi. C7",
     "stats": {
       "maxAcceleration": 0.917,
       "maxDeceleration": 1.15,
@@ -618,7 +633,11 @@
       "1067MZ-80",
       "1067SB-105",
       "1067TQ-80",
-      "1067TQ-110"
+      "1067TQ-110",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160",
+      "1067MH-80"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -634,8 +653,8 @@
   },
   {
     "id": "tyo-18000-hanzomon",
-    "name": "TYO 18000 Hanzomon 1067JP/MF/MZ/TB/TQ",
-    "description": "Tokyo Metro 18000 series 10-car train. Used on the Hanzomon Line. Can also run on Yurakucho and Fukutoshin Line track. Manufacturer: Hitachi. C7",
+    "name": "TYO 18000 Hanzomon 1067JP/MF/MH/MZ/TB/TQ",
+    "description": "Tokyo Metro 18000 series 10-car train. Used on the Hanzomon Line. Can also run on Yurakucho, Fukutoshin and Hibiya Line track. Manufacturer: Hitachi. C7",
     "stats": {
       "maxAcceleration": 0.917,
       "maxDeceleration": 1.15,
@@ -705,7 +724,11 @@
       "1067TB-100",
       "1067TB-120",
       "1067TQ-80",
-      "1067TQ-110"
+      "1067TQ-110",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160",
+      "1067MH-80"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -721,8 +744,8 @@
   },
   {
     "id": "tyo-9000-namboku",
-    "name": "TYO 9000 Namboku 1067JP/MB/MI/TQ",
-    "description": "Tokyo Metro 9000 series 6/8-car train. Used on the Namboku Line. Manufacturer: Kawasaki Heavy Industries / Tokyu Car. C7",
+    "name": "TYO 9000 Namboku 1067JP/MB/MH/MI/TQ",
+    "description": "Tokyo Metro 9000 series 6/8-car train. Used on the Namboku Line. Can also run on Hibiya Line track. Manufacturer: Kawasaki Heavy Industries / Tokyu Car. C7",
     "stats": {
       "maxAcceleration": 0.917,
       "maxDeceleration": 1.15,
@@ -791,7 +814,11 @@
       "1067MB-80",
       "1067MI-75",
       "1067TQ-80",
-      "1067TQ-110"
+      "1067TQ-110",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160",
+      "1067MH-80"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -870,7 +897,10 @@
     "compatibleTrackTypes": [
       "1435TK-70",
       "1435TK-120",
-      "1435TK-160"
+      "1435TK-160",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -886,8 +916,8 @@
   },
   {
     "id": "tyo-6500-mita",
-    "name": "TYO 6500 Mita 1067JP/MB/MI/TQ",
-    "description": "Toei 6500 series 8-car train. Used on the Mita Line. Manufacturer: Kinki Sharyo. C7",
+    "name": "TYO 6500 Mita 1067JP/MB/MH/MI/TQ",
+    "description": "Toei 6500 series 8-car train. Used on the Mita Line. Can also run on Hibiya Line track. Manufacturer: Kinki Sharyo. C7",
     "stats": {
       "maxAcceleration": 0.917,
       "maxDeceleration": 1.15,
@@ -955,7 +985,11 @@
       "1067MB-80",
       "1067MI-75",
       "1067TQ-80",
-      "1067TQ-110"
+      "1067TQ-110",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160",
+      "1067MH-80"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -971,8 +1005,8 @@
   },
   {
     "id": "tyo-6300-mita",
-    "name": "TYO 6300 Mita 1067JP/MB/MI/TQ",
-    "description": "Toei 6300 series 6-car train. Used on the Mita Line. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo. C7",
+    "name": "TYO 6300 Mita 1067JP/MB/MH/MI/TQ",
+    "description": "Toei 6300 series 6-car train. Used on the Mita Line. Can also run on Hibiya Line track. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo. C7",
     "stats": {
       "maxAcceleration": 0.917,
       "maxDeceleration": 1.15,
@@ -1041,7 +1075,11 @@
       "1067MB-80",
       "1067MI-75",
       "1067TQ-80",
-      "1067TQ-110"
+      "1067TQ-110",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160",
+      "1067MH-80"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -1057,8 +1095,8 @@
   },
   {
     "id": "tyo-saitama-rapid-2000",
-    "name": "TYO Saitama Rapid 2000 1067JP/MB/MI/TQ",
-    "description": "Saitama Rapid Railway 2000 series 6-car train. Used on the Saitama Rapid Railway Line with through services on the Namboku Line. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo. C7",
+    "name": "TYO Saitama Rapid 2000 1067JP/MB/MH/MI/TQ",
+    "description": "Saitama Rapid Railway 2000 series 6-car train. Used on the Saitama Rapid Railway Line with through services on the Namboku Line. Can also run on Hibiya Line track. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo. C7",
     "stats": {
       "maxAcceleration": 0.917,
       "maxDeceleration": 1.15,
@@ -1127,7 +1165,11 @@
       "1067MB-80",
       "1067MI-75",
       "1067TQ-80",
-      "1067TQ-110"
+      "1067TQ-110",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160",
+      "1067MH-80"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -2260,6 +2302,231 @@
     "rampCost": 3000000
   },
   {
+    "id": "tyo-chiba-monorail-1000",
+    "name": "TYO Chiba Monorail 1000",
+    "description": "Chiba Urban Monorail 1000 series 2/4-car suspended monorail train for Line 1 and Line 2 between Chiba-minato, Chiba and Chigasedai. Manufacturer: Mitsubishi Heavy Industries. C4",
+    "stats": {
+      "maxAcceleration": 1.111,
+      "maxDeceleration": 1.2,
+      "accelerationCurve": {
+        "a0": 1.111,
+        "a1": 1.111,
+        "v1": 8.33,
+        "v2": 15.28,
+        "exponent": 2
+      },
+      "maxSpeed": 18.0,
+      "maxSpeedLocalStation": 18.0,
+      "capacityPerCar": 146,
+      "seatsPerCar": 29,
+      "doorsPerCarPerSide": 2,
+      "carLength": 13.42,
+      "minCars": 2,
+      "maxCars": 4,
+      "carsPerCarSet": 2,
+      "carCost": 1800000,
+      "trainWidth": 2.65,
+      "minStationLength": 27,
+      "maxStationLength": 64,
+      "baseTrackCost": 22000,
+      "baseStationCost": 30000000,
+      "trainOperationalCostPerHour": 130,
+      "carOperationalCostPerHour": 14,
+      "scissorsCrossoverCost": 9000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.275,
+      "minTurnRadius": 25,
+      "minStationTurnRadius": 120,
+      "maxSlopePercentage": 6,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 20,
+      "turnaroundTimeSeconds": 70,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 12.5,
+      "yardSpeedLimit": 11.11
+    },
+    "appearance": {
+      "color": "#00A7E1",
+      "catenary": false
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 3.6,
+      "STANDARD_TUNNEL": 1.8,
+      "CUT_AND_COVER": 0.9,
+      "AT_GRADE": 0.28,
+      "ELEVATED": 0.7,
+      "TRENCHED": 0.5,
+      "RAMP": 0.47
+    },
+    "Manufacturer": [
+      "Mitsubishi Heavy Industries"
+    ],
+    "compatibleTrackTypes": [],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 450000,
+    "gradeCrossingMaintenancePerYear": 10000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 6000000,
+    "rampCost": 3000000
+  },
+  {
+    "id": "tyo-chiba-monorail-0",
+    "name": "TYO Chiba Monorail 0 Urban Flyer",
+    "description": "Chiba Urban Monorail 0 series Urban Flyer 2/4-car suspended monorail train for Line 1 and Line 2 between Chiba-minato, Chiba and Chigasedai. Manufacturer: Mitsubishi Heavy Industries. C4",
+    "stats": {
+      "maxAcceleration": 1.111,
+      "maxDeceleration": 1.2,
+      "accelerationCurve": {
+        "a0": 1.111,
+        "a1": 1.111,
+        "v1": 8.33,
+        "v2": 15.28,
+        "exponent": 2
+      },
+      "maxSpeed": 18.0,
+      "maxSpeedLocalStation": 18.0,
+      "capacityPerCar": 146,
+      "seatsPerCar": 29,
+      "doorsPerCarPerSide": 2,
+      "carLength": 13.42,
+      "minCars": 2,
+      "maxCars": 4,
+      "carsPerCarSet": 2,
+      "carCost": 1800000,
+      "trainWidth": 2.65,
+      "minStationLength": 27,
+      "maxStationLength": 64,
+      "baseTrackCost": 22000,
+      "baseStationCost": 30000000,
+      "trainOperationalCostPerHour": 130,
+      "carOperationalCostPerHour": 14,
+      "scissorsCrossoverCost": 9000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.275,
+      "minTurnRadius": 25,
+      "minStationTurnRadius": 120,
+      "maxSlopePercentage": 6,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 20,
+      "turnaroundTimeSeconds": 70,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 12.5,
+      "yardSpeedLimit": 11.11
+    },
+    "appearance": {
+      "color": "#00A7E1",
+      "catenary": false
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 3.6,
+      "STANDARD_TUNNEL": 1.8,
+      "CUT_AND_COVER": 0.9,
+      "AT_GRADE": 0.28,
+      "ELEVATED": 0.7,
+      "TRENCHED": 0.5,
+      "RAMP": 0.47
+    },
+    "Manufacturer": [
+      "Mitsubishi Heavy Industries"
+    ],
+    "compatibleTrackTypes": [],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 450000,
+    "gradeCrossingMaintenancePerYear": 10000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 6000000,
+    "rampCost": 3000000
+  },
+  {
+    "id": "tyo-yamaman-1000-yukarigaoka",
+    "name": "TYO Yamaman 1000 Yukarigaoka",
+    "description": "Yamaman 1000 series 3-car automated guideway transit train for the Yukarigaoka Line loop in Sakura, Chiba. Manufacturer: Nippon Sharyo. C4",
+    "stats": {
+      "maxAcceleration": 1.111,
+      "maxDeceleration": 1.2,
+      "accelerationCurve": {
+        "a0": 1.111,
+        "a1": 1.111,
+        "v1": 8.33,
+        "v2": 15.28,
+        "exponent": 2
+      },
+      "maxSpeed": 11.0,
+      "maxSpeedLocalStation": 11.0,
+      "capacityPerCar": 81,
+      "seatsPerCar": 28,
+      "doorsPerCarPerSide": 2,
+      "carLength": 8.0,
+      "minCars": 3,
+      "maxCars": 3,
+      "carsPerCarSet": 3,
+      "carCost": 1800000,
+      "trainWidth": 2.4,
+      "minStationLength": 25,
+      "maxStationLength": 34,
+      "baseTrackCost": 22000,
+      "baseStationCost": 30000000,
+      "trainOperationalCostPerHour": 130,
+      "carOperationalCostPerHour": 14,
+      "scissorsCrossoverCost": 9000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.275,
+      "minTurnRadius": 25,
+      "minStationTurnRadius": 120,
+      "maxSlopePercentage": 6,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 20,
+      "turnaroundTimeSeconds": 70,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 36,
+      "crossoverSpeed": 12.5,
+      "yardSpeedLimit": 11.11
+    },
+    "appearance": {
+      "color": "#8DC21F",
+      "catenary": false
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 3.6,
+      "STANDARD_TUNNEL": 1.8,
+      "CUT_AND_COVER": 0.9,
+      "AT_GRADE": 0.28,
+      "ELEVATED": 0.7,
+      "TRENCHED": 0.5,
+      "RAMP": 0.47
+    },
+    "Manufacturer": [
+      "Nippon Sharyo"
+    ],
+    "compatibleTrackTypes": [],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 450000,
+    "gradeCrossingMaintenancePerYear": 10000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 6000000,
+    "rampCost": 3000000
+  },
+  {
     "id": "tyo-e235-yamanote",
     "name": "TYO E235-0 1067JP",
     "description": "JR East E235-0 series 11-car commuter train. Used on the Yamanote Line. Manufacturer: J-TREC. C6",
@@ -2326,7 +2593,10 @@
       "1067JP-100",
       "1067JP-110",
       "1067JP-120",
-      "1067JP-130"
+      "1067JP-130",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -2407,7 +2677,10 @@
       "1067JP-100",
       "1067JP-110",
       "1067JP-120",
-      "1067JP-130"
+      "1067JP-130",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -2490,7 +2763,10 @@
       "1067JP-100",
       "1067JP-110",
       "1067JP-120",
-      "1067JP-130"
+      "1067JP-130",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -2572,7 +2848,10 @@
       "1067JP-100",
       "1067JP-110",
       "1067JP-120",
-      "1067JP-130"
+      "1067JP-130",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -2654,7 +2933,10 @@
       "1067JP-110",
       "1067JP-120",
       "1067JP-130",
-      "1067ST-100"
+      "1067ST-100",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -2737,7 +3019,10 @@
       "1067JP-120",
       "1067JP-130",
       "1067MC-80",
-      "1067OD-110"
+      "1067OD-110",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -2819,7 +3104,10 @@
       "1067JP-100",
       "1067JP-110",
       "1067JP-120",
-      "1067JP-130"
+      "1067JP-130",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -2901,7 +3189,10 @@
       "1067JP-100",
       "1067JP-110",
       "1067JP-120",
-      "1067JP-130"
+      "1067JP-130",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -2983,7 +3274,10 @@
       "1067JP-100",
       "1067JP-110",
       "1067JP-120",
-      "1067JP-130"
+      "1067JP-130",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -3066,7 +3360,10 @@
       "1067JP-110",
       "1067JP-120",
       "1067JP-130",
-      "1067MT-100"
+      "1067MT-100",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -3148,7 +3445,10 @@
       "1067JP-100",
       "1067JP-110",
       "1067JP-120",
-      "1067JP-130"
+      "1067JP-130",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -3231,7 +3531,10 @@
       "1067JP-100",
       "1067JP-110",
       "1067JP-120",
-      "1067JP-130"
+      "1067JP-130",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -3316,7 +3619,10 @@
       "1067JP-100",
       "1067JP-110",
       "1067JP-120",
-      "1067JP-130"
+      "1067JP-130",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -3399,7 +3705,10 @@
       "1067JP-100",
       "1067JP-110",
       "1067JP-120",
-      "1067JP-130"
+      "1067JP-130",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -3482,7 +3791,10 @@
       "1067JP-100",
       "1067JP-110",
       "1067JP-120",
-      "1067JP-130"
+      "1067JP-130",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -3564,7 +3876,10 @@
       "1067JP-100",
       "1067JP-110",
       "1067JP-120",
-      "1067JP-130"
+      "1067JP-130",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -3647,7 +3962,10 @@
       "1067JP-100",
       "1067JP-110",
       "1067JP-120",
-      "1067JP-130"
+      "1067JP-130",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -3734,7 +4052,10 @@
       "1067TB-100",
       "1067TB-120",
       "1067TQ-80",
-      "1067TQ-110"
+      "1067TQ-110",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -3821,7 +4142,10 @@
       "1067TB-100",
       "1067TB-120",
       "1067TQ-80",
-      "1067TQ-110"
+      "1067TQ-110",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -3908,7 +4232,10 @@
       "1067TB-100",
       "1067TB-120",
       "1067TQ-80",
-      "1067TQ-110"
+      "1067TQ-110",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -3995,7 +4322,10 @@
       "1067TB-100",
       "1067TB-120",
       "1067TQ-80",
-      "1067TQ-110"
+      "1067TQ-110",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -4082,7 +4412,241 @@
       "1067TB-100",
       "1067TB-120",
       "1067TQ-80",
-      "1067TQ-110"
+      "1067TQ-110",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
+  },
+  {
+    "id": "1067JP/1435TK-60",
+    "name": "1067JP/1435TK-60",
+    "description": "1067mm 120kph track for JR east main line use.",
+    "stats": {
+      "maxAcceleration": 9,
+      "maxDeceleration": 9,
+      "maxSpeed": 16.66,
+      "maxSpeedLocalStation": 16.66,
+      "capacityPerCar": 0,
+      "seatsPerCar": 0,
+      "doorsPerCarPerSide": 999,
+      "carLength": 20,
+      "minCars": 2,
+      "maxCars": 20,
+      "carsPerCarSet": 1,
+      "carCost": 3200000,
+      "trainWidth": 2.95,
+      "minStationLength": 50,
+      "maxStationLength": 410,
+      "baseTrackCost": 32000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.275,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 0,
+      "turnaroundTimeSeconds": 0,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 60,
+      "crossoverSpeed": 12.5,
+      "yardSpeedLimit": 11.11
+    },
+    "appearance": {
+      "color": "#B5651D",
+      "catenary": true
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
+    },
+    "Manufacturer": [],
+    "compatibleTrackTypes": [
+      "1067JP-95",
+      "1067JP-100",
+      "1067JP-110",
+      "1067JP-120",
+      "1067JP-130",
+      "1435TK-70",
+      "1435TK-120",
+      "1435TK-160",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
+  },
+  {
+    "id": "1067JP/1435TK-120",
+    "name": "1067JP/1435TK-120",
+    "description": "1067mm 120kph track for JR east main line use.",
+    "stats": {
+      "maxAcceleration": 9,
+      "maxDeceleration": 9,
+      "maxSpeed": 33.0,
+      "maxSpeedLocalStation": 33.0,
+      "capacityPerCar": 0,
+      "seatsPerCar": 0,
+      "doorsPerCarPerSide": 999,
+      "carLength": 20,
+      "minCars": 2,
+      "maxCars": 20,
+      "carsPerCarSet": 1,
+      "carCost": 3200000,
+      "trainWidth": 2.95,
+      "minStationLength": 50,
+      "maxStationLength": 410,
+      "baseTrackCost": 32000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.275,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 0,
+      "turnaroundTimeSeconds": 0,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 60,
+      "crossoverSpeed": 12.5,
+      "yardSpeedLimit": 11.11
+    },
+    "appearance": {
+      "color": "#B5651D",
+      "catenary": true
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
+    },
+    "Manufacturer": [],
+    "compatibleTrackTypes": [
+      "1067JP-95",
+      "1067JP-100",
+      "1067JP-110",
+      "1067JP-120",
+      "1067JP-130",
+      "1435TK-70",
+      "1435TK-120",
+      "1435TK-160",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-160"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000
+  },
+  {
+    "id": "1067JP/1435TK-160",
+    "name": "1067JP/1435TK-160",
+    "description": "1067mm 120kph track for JR east main line use.",
+    "stats": {
+      "maxAcceleration": 9,
+      "maxDeceleration": 9,
+      "maxSpeed": 44.0,
+      "maxSpeedLocalStation": 44.0,
+      "capacityPerCar": 0,
+      "seatsPerCar": 0,
+      "doorsPerCarPerSide": 999,
+      "carLength": 20,
+      "minCars": 2,
+      "maxCars": 20,
+      "carsPerCarSet": 1,
+      "carCost": 3200000,
+      "trainWidth": 2.95,
+      "minStationLength": 50,
+      "maxStationLength": 410,
+      "baseTrackCost": 32000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.275,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 0,
+      "turnaroundTimeSeconds": 0,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 60,
+      "crossoverSpeed": 12.5,
+      "yardSpeedLimit": 11.11
+    },
+    "appearance": {
+      "color": "#B5651D",
+      "catenary": true
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
+    },
+    "Manufacturer": [],
+    "compatibleTrackTypes": [
+      "1067JP-95",
+      "1067JP-100",
+      "1067JP-110",
+      "1067JP-120",
+      "1067JP-130",
+      "1435TK-70",
+      "1435TK-120",
+      "1435TK-160",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -4160,7 +4724,13 @@
       "1067TB-100",
       "1067TB-120",
       "1067TQ-80",
-      "1067TQ-110"
+      "1067TQ-110",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160",
+      "1067MB-80",
+      "1067MI-75",
+      "1067ST-100"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -4232,7 +4802,10 @@
       "1067JP-100",
       "1067JP-110",
       "1067JP-120",
-      "1067JP-130"
+      "1067JP-130",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -4305,7 +4878,10 @@
       "1067JP-110",
       "1067JP-120",
       "1067JP-130",
-      "1067OD-110"
+      "1067OD-110",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -4385,7 +4961,10 @@
       "1067TB-100",
       "1067TB-120",
       "1067TQ-80",
-      "1067TQ-110"
+      "1067TQ-110",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -4465,7 +5044,10 @@
       "1067TB-100",
       "1067TB-120",
       "1067TQ-80",
-      "1067TQ-110"
+      "1067TQ-110",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -4541,7 +5123,11 @@
       "1067MI-75",
       "1067ST-100",
       "1067TQ-80",
-      "1067TQ-110"
+      "1067TQ-110",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160",
+      "1067MH-80"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -4617,7 +5203,11 @@
       "1067MB-80",
       "1067ST-100",
       "1067TQ-80",
-      "1067TQ-110"
+      "1067TQ-110",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160",
+      "1067MH-80"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -4695,7 +5285,10 @@
       "1067MZ-80",
       "1067TB-120",
       "1067TQ-80",
-      "1067TQ-110"
+      "1067TQ-110",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -4773,7 +5366,10 @@
       "1067MZ-80",
       "1067TB-100",
       "1067TQ-80",
-      "1067TQ-110"
+      "1067TQ-110",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -4850,7 +5446,10 @@
       "1067MZ-80",
       "1067ST-100",
       "1067TQ-80",
-      "1067TQ-110"
+      "1067TQ-110",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -4923,7 +5522,10 @@
       "1067JP-110",
       "1067JP-120",
       "1067JP-130",
-      "1067MC-80"
+      "1067MC-80",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -5005,7 +5607,10 @@
       "1067ST-100",
       "1067TB-100",
       "1067TB-120",
-      "1067TQ-110"
+      "1067TQ-110",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -5087,7 +5692,10 @@
       "1067ST-100",
       "1067TB-100",
       "1067TB-120",
-      "1067TQ-80"
+      "1067TQ-80",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -5166,7 +5774,11 @@
       "1067MZ-80",
       "1067SB-105",
       "1067TQ-80",
-      "1067TQ-110"
+      "1067TQ-110",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160",
+      "1067MH-80"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -5245,7 +5857,10 @@
     "compatibleTrackTypes": [
       "1435TK-70",
       "1435TK-120",
-      "1435TK-160"
+      "1435TK-160",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -5325,7 +5940,10 @@
     "compatibleTrackTypes": [
       "1435TK-70",
       "1435TK-120",
-      "1435TK-160"
+      "1435TK-160",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -5405,7 +6023,10 @@
     "compatibleTrackTypes": [
       "1435TK-70",
       "1435TK-120",
-      "1435TK-160"
+      "1435TK-160",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -5486,7 +6107,10 @@
     "compatibleTrackTypes": [
       "1435TK-70",
       "1435TK-120",
-      "1435TK-160"
+      "1435TK-160",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -5568,7 +6192,10 @@
       "1067JP-110",
       "1067JP-120",
       "1067JP-130",
-      "1067OD-110"
+      "1067OD-110",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -5650,7 +6277,10 @@
       "1067JP-110",
       "1067JP-120",
       "1067JP-130",
-      "1067SB-105"
+      "1067SB-105",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -5732,7 +6362,10 @@
       "1067JP-110",
       "1067JP-120",
       "1067JP-130",
-      "1067SB-105"
+      "1067SB-105",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -5748,8 +6381,8 @@
   },
   {
     "id": "tyo-seibu-40000-commuter",
-    "name": "TYO Seibu 40000 Commuter 1067JP/MF/MZ/SB/TQ",
-    "description": "Seibu 40000 series commuter/S-TRAIN EMU. Used on the Ikebukuro Line, with through-service to the Yurakucho and Fukutoshin lines and onward to Tokyu Toyoko services. Can also run on Hanzomon Line track. Manufacturer: J-TREC. C6",
+    "name": "TYO Seibu 40000 Commuter 1067JP/MF/MH/MZ/SB/TQ",
+    "description": "Seibu 40000 series commuter/S-TRAIN EMU. Used on the Ikebukuro Line, with through-service to the Yurakucho and Fukutoshin lines and onward to Tokyu Toyoko services. Can also run on Hanzomon and Hibiya Line track. Manufacturer: J-TREC. C6",
     "stats": {
       "maxAcceleration": 0.917,
       "maxDeceleration": 1.2,
@@ -5818,7 +6451,11 @@
       "1067MZ-80",
       "1067SB-105",
       "1067TQ-80",
-      "1067TQ-110"
+      "1067TQ-110",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160",
+      "1067MH-80"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -5834,8 +6471,8 @@
   },
   {
     "id": "tyo-seibu-30000-commuter",
-    "name": "TYO Seibu 30000 Commuter 1067JP/MF/MZ/SB/TQ",
-    "description": "Seibu 30000 series \"Smile Train\" commuter EMU. Used on the Ikebukuro Line, with through-service to the Yurakucho and Fukutoshin lines and onward to Tokyu Toyoko services. Can also run on Hanzomon Line track. Manufacturer: Kawasaki Heavy Industries / J-TREC. C6",
+    "name": "TYO Seibu 30000 Commuter 1067JP/MF/MH/MZ/SB/TQ",
+    "description": "Seibu 30000 series \"Smile Train\" commuter EMU. Used on the Ikebukuro Line, with through-service to the Yurakucho and Fukutoshin lines and onward to Tokyu Toyoko services. Can also run on Hanzomon and Hibiya Line track. Manufacturer: Kawasaki Heavy Industries / J-TREC. C6",
     "stats": {
       "maxAcceleration": 0.917,
       "maxDeceleration": 1.15,
@@ -5905,7 +6542,11 @@
       "1067MZ-80",
       "1067SB-105",
       "1067TQ-80",
-      "1067TQ-110"
+      "1067TQ-110",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160",
+      "1067MH-80"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -5921,8 +6562,8 @@
   },
   {
     "id": "tyo-seibu-20000-commuter",
-    "name": "TYO Seibu 20000 Commuter 1067JP/MF/MZ/SB/TQ",
-    "description": "Seibu 20000 series commuter EMU. Used on the Ikebukuro and Shinjuku lines, with through-service to the Yurakucho and Fukutoshin lines and onward to Tokyu Toyoko services. Can also run on Hanzomon Line track. Manufacturer: Tokyu Car. C6",
+    "name": "TYO Seibu 20000 Commuter 1067JP/MF/MH/MZ/SB/TQ",
+    "description": "Seibu 20000 series commuter EMU. Used on the Ikebukuro and Shinjuku lines, with through-service to the Yurakucho and Fukutoshin lines and onward to Tokyu Toyoko services. Can also run on Hanzomon and Hibiya Line track. Manufacturer: Tokyu Car. C6",
     "stats": {
       "maxAcceleration": 0.833,
       "maxDeceleration": 1.1,
@@ -5991,7 +6632,11 @@
       "1067MZ-80",
       "1067SB-105",
       "1067TQ-80",
-      "1067TQ-110"
+      "1067TQ-110",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160",
+      "1067MH-80"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -6077,7 +6722,10 @@
       "1067MH-80",
       "1067MZ-80",
       "1067TB-100",
-      "1067TB-120"
+      "1067TB-120",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -6164,7 +6812,10 @@
       "1067MH-80",
       "1067MZ-80",
       "1067TB-100",
-      "1067TB-120"
+      "1067TB-120",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -6250,7 +6901,10 @@
       "1067MH-80",
       "1067MZ-80",
       "1067TB-100",
-      "1067TB-120"
+      "1067TB-120",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -6338,7 +6992,10 @@
       "1067TB-100",
       "1067TB-120",
       "1067TQ-80",
-      "1067TQ-110"
+      "1067TQ-110",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -6424,7 +7081,10 @@
       "1067MH-80",
       "1067MZ-80",
       "1067TB-100",
-      "1067TB-120"
+      "1067TB-120",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -6510,7 +7170,10 @@
       "1067MH-80",
       "1067MZ-80",
       "1067TB-100",
-      "1067TB-120"
+      "1067TB-120",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -6811,7 +7474,10 @@
     "compatibleTrackTypes": [
       "1435TK-70",
       "1435TK-120",
-      "1435TK-160"
+      "1435TK-160",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -6827,8 +7493,8 @@
   },
   {
     "id": "tkk-1000-emu",
-    "name": "TQ 1000 EMU 1067JP/MB/MI/TQ",
-    "description": "Tokyu 1000 series 3-car commuter EMU for Ikegami and Tamagawa Line service. Can also run on Mita and Namboku Line track. Manufacturer: Tokyu Car. C6",
+    "name": "TQ 1000 EMU 1067JP/MB/MH/MI/TQ",
+    "description": "Tokyu 1000 series 3-car commuter EMU for Ikegami and Tamagawa Line service. Can also run on Hibiya, Mita and Namboku Line track. Manufacturer: Tokyu Car. C6",
     "stats": {
       "maxAcceleration": 0.972,
       "maxDeceleration": 1.1,
@@ -6896,7 +7562,11 @@
       "1067MB-80",
       "1067MI-75",
       "1067TQ-80",
-      "1067TQ-110"
+      "1067TQ-110",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160",
+      "1067MH-80"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -6976,7 +7646,10 @@
     "compatibleTrackTypes": [
       "1435TK-70",
       "1435TK-120",
-      "1435TK-160"
+      "1435TK-160",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -7045,7 +7718,10 @@
     "Manufacturer": [],
     "compatibleTrackTypes": [
       "1435TK-120",
-      "1435TK-160"
+      "1435TK-160",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -7114,7 +7790,10 @@
     "Manufacturer": [],
     "compatibleTrackTypes": [
       "1435TK-70",
-      "1435TK-160"
+      "1435TK-160",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -7183,7 +7862,10 @@
     "Manufacturer": [],
     "compatibleTrackTypes": [
       "1435TK-70",
-      "1435TK-120"
+      "1435TK-120",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 350000,
@@ -7199,8 +7881,8 @@
   },
   {
     "id": "tkk-2020-emu",
-    "name": "TQ 2020 EMU 1067JP/MB/MI/MF/MZ/TB/TQ",
-    "description": "Tokyu 2020 series 10-car commuter EMU for Den-en-toshi Line and Hanzomon through services. Can also run on Yurakucho, Fukutoshin, Mita and Namboku Line track. Manufacturer: J-TREC. C6",
+    "name": "TQ 2020 EMU 1067JP/MB/MH/MI/MF/MZ/TB/TQ",
+    "description": "Tokyu 2020 series 10-car commuter EMU for Den-en-toshi Line and Hanzomon through services. Can also run on Yurakucho, Fukutoshin, Hibiya, Mita and Namboku Line track. Manufacturer: J-TREC. C6",
     "stats": {
       "maxAcceleration": 0.917,
       "maxDeceleration": 1.1,
@@ -7272,7 +7954,11 @@
       "1067TB-100",
       "1067TB-120",
       "1067TQ-80",
-      "1067TQ-110"
+      "1067TQ-110",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160",
+      "1067MH-80"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -7288,8 +7974,8 @@
   },
   {
     "id": "tkk-5050-emu",
-    "name": "TQ 5050 EMU 1067JP/MB/MI/MF/MZ/SB/ST/TQ",
-    "description": "Tokyu 5050 series 8/10-car commuter EMU for Toyoko/Fukutoshin through services, including Sotetsu through services via the Shin-Yokohama Line. Can also run on Hanzomon, Mita and Namboku Line track. Manufacturer: Tokyu Car / J-TREC. C6",
+    "name": "TQ 5050 EMU 1067JP/MB/MH/MI/MF/MZ/SB/ST/TQ",
+    "description": "Tokyu 5050 series 8/10-car commuter EMU for Toyoko/Fukutoshin through services, including Sotetsu through services via the Shin-Yokohama Line. Can also run on Hanzomon, Hibiya, Mita and Namboku Line track. Manufacturer: Tokyu Car / J-TREC. C6",
     "stats": {
       "maxAcceleration": 0.917,
       "maxDeceleration": 1.1,
@@ -7362,7 +8048,11 @@
       "1067SB-105",
       "1067ST-100",
       "1067TQ-80",
-      "1067TQ-110"
+      "1067TQ-110",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160",
+      "1067MH-80"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -7378,8 +8068,8 @@
   },
   {
     "id": "tkk-9000-emu",
-    "name": "TQ 9000 EMU 1067JP/MB/MI/TQ",
-    "description": "Tokyu 9000 series 5-car commuter EMU for Oimachi Line local services, built from 1986 and originally used in 8-car sets on the Toyoko Line. Can also run on Mita and Namboku Line track. Manufacturer: Tokyu Car. C6",
+    "name": "TQ 9000 EMU 1067JP/MB/MH/MI/TQ",
+    "description": "Tokyu 9000 series 5-car commuter EMU for Oimachi Line local services, built from 1986 and originally used in 8-car sets on the Toyoko Line. Can also run on Hibiya, Mita and Namboku Line track. Manufacturer: Tokyu Car. C6",
     "stats": {
       "maxAcceleration": 0.861,
       "maxDeceleration": 1.1,
@@ -7447,7 +8137,11 @@
       "1067MB-80",
       "1067MI-75",
       "1067TQ-80",
-      "1067TQ-110"
+      "1067TQ-110",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160",
+      "1067MH-80"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -7463,8 +8157,8 @@
   },
   {
     "id": "tkk-9020-emu",
-    "name": "TQ 9020 EMU 1067JP/MB/MI/TQ",
-    "description": "Tokyu 9020 series 5-car commuter EMU for Oimachi Line local services, converted in 2018-2019 from the 2000 series built in 1992-1993. Can also run on Mita and Namboku Line track. Manufacturer: Tokyu Car. C6",
+    "name": "TQ 9020 EMU 1067JP/MB/MH/MI/TQ",
+    "description": "Tokyu 9020 series 5-car commuter EMU for Oimachi Line local services, converted in 2018-2019 from the 2000 series built in 1992-1993. Can also run on Hibiya, Mita and Namboku Line track. Manufacturer: Tokyu Car. C6",
     "stats": {
       "maxAcceleration": 0.917,
       "maxDeceleration": 1.1,
@@ -7532,7 +8226,11 @@
       "1067MB-80",
       "1067MI-75",
       "1067TQ-80",
-      "1067TQ-110"
+      "1067TQ-110",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160",
+      "1067MH-80"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -7548,8 +8246,8 @@
   },
   {
     "id": "tkk-6020-emu",
-    "name": "TQ 6020 EMU 1067JP/MB/MI/TQ",
-    "description": "Tokyu 6020 series commuter EMU for the Oimachi Line, introduced in 2018 as 7-car express sets with 5-car local sets added from 2025. Can also run on Mita and Namboku Line track. Manufacturer: J-TREC. C6",
+    "name": "TQ 6020 EMU 1067JP/MB/MH/MI/TQ",
+    "description": "Tokyu 6020 series commuter EMU for the Oimachi Line, introduced in 2018 as 7-car express sets with 5-car local sets added from 2025. Can also run on Hibiya, Mita and Namboku Line track. Manufacturer: J-TREC. C6",
     "stats": {
       "maxAcceleration": 0.917,
       "maxDeceleration": 1.1,
@@ -7617,7 +8315,11 @@
       "1067MB-80",
       "1067MI-75",
       "1067TQ-80",
-      "1067TQ-110"
+      "1067TQ-110",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160",
+      "1067MH-80"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -7633,8 +8335,8 @@
   },
   {
     "id": "tq-3000-emu",
-    "name": "TQ 3000 EMU 1067JP/MB/MI/ST/TQ",
-    "description": "Tokyu 3000 series 8-car commuter EMU for Meguro Line services, with through services to the Mita, Namboku, Saitama Rapid and Sotetsu lines. Manufacturer: Tokyu Car / J-TREC. C6",
+    "name": "TQ 3000 EMU 1067JP/MB/MH/MI/ST/TQ",
+    "description": "Tokyu 3000 series 8-car commuter EMU for Meguro Line services, with through services to the Mita, Namboku, Saitama Rapid and Sotetsu lines. Can also run on Hibiya Line track. Manufacturer: Tokyu Car / J-TREC. C6",
     "stats": {
       "maxAcceleration": 0.917,
       "maxDeceleration": 1.1,
@@ -7704,7 +8406,11 @@
       "1067MI-75",
       "1067ST-100",
       "1067TQ-80",
-      "1067TQ-110"
+      "1067TQ-110",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160",
+      "1067MH-80"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -7720,8 +8426,8 @@
   },
   {
     "id": "tq-3020-emu",
-    "name": "TQ 3020 EMU 1067JP/MB/MI/ST/TQ",
-    "description": "Tokyu 3020 series 8-car commuter EMU for Meguro Line services, with through services to the Mita, Namboku, Saitama Rapid and Sotetsu lines. Manufacturer: J-TREC. C6",
+    "name": "TQ 3020 EMU 1067JP/MB/MH/MI/ST/TQ",
+    "description": "Tokyu 3020 series 8-car commuter EMU for Meguro Line services, with through services to the Mita, Namboku, Saitama Rapid and Sotetsu lines. Can also run on Hibiya Line track. Manufacturer: J-TREC. C6",
     "stats": {
       "maxAcceleration": 0.917,
       "maxDeceleration": 1.1,
@@ -7790,7 +8496,11 @@
       "1067MI-75",
       "1067ST-100",
       "1067TQ-80",
-      "1067TQ-110"
+      "1067TQ-110",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160",
+      "1067MH-80"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -7806,8 +8516,8 @@
   },
   {
     "id": "tq-5080-emu",
-    "name": "TQ 5080 EMU 1067JP/MB/MI/ST/TQ",
-    "description": "Tokyu 5080 series 8-car commuter EMU for Meguro Line services, with through services to the Mita, Namboku, Saitama Rapid and Sotetsu lines. Manufacturer: Tokyu Car / J-TREC. C6",
+    "name": "TQ 5080 EMU 1067JP/MB/MH/MI/ST/TQ",
+    "description": "Tokyu 5080 series 8-car commuter EMU for Meguro Line services, with through services to the Mita, Namboku, Saitama Rapid and Sotetsu lines. Can also run on Hibiya Line track. Manufacturer: Tokyu Car / J-TREC. C6",
     "stats": {
       "maxAcceleration": 0.917,
       "maxDeceleration": 1.1,
@@ -7877,7 +8587,11 @@
       "1067MI-75",
       "1067ST-100",
       "1067TQ-80",
-      "1067TQ-110"
+      "1067TQ-110",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160",
+      "1067MH-80"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -8255,7 +8969,10 @@
       "1067JP-120",
       "1067JP-130",
       "1067MC-80",
-      "1067OD-110"
+      "1067OD-110",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -8340,7 +9057,10 @@
       "1067JP-120",
       "1067JP-130",
       "1067MC-80",
-      "1067OD-110"
+      "1067OD-110",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -8356,8 +9076,8 @@
   },
   {
     "id": "tyo-sotetsu-12000",
-    "name": "TYO Sotetsu 12000 1067JP/ST",
-    "description": "Sotetsu 12000 series 10-car commuter EMU based on the JR East E233 series, introduced in 2019 for Sotetsu-JR through services to the Saikyo Line. Manufacturer: J-TREC. C6",
+    "name": "TYO Sotetsu 12000 1067JP/MH/ST",
+    "description": "Sotetsu 12000 series 10-car commuter EMU based on the JR East E233 series, introduced in 2019 for Sotetsu-JR through services to the Saikyo Line. Can also run on Hibiya Line track. Manufacturer: J-TREC. C6",
     "stats": {
       "maxAcceleration": 0.833,
       "maxDeceleration": 1.1,
@@ -8422,7 +9142,11 @@
       "1067JP-110",
       "1067JP-120",
       "1067JP-130",
-      "1067ST-100"
+      "1067ST-100",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160",
+      "1067MH-80"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -8438,8 +9162,8 @@
   },
   {
     "id": "tyo-sotetsu-20000",
-    "name": "TYO Sotetsu 20000 1067JP/MB/MI/MF/MZ/ST/TQ",
-    "description": "Sotetsu 20000 series 10-car commuter EMU, introduced in 2018 for Sotetsu-Tokyu through services via the Toyoko Line. Can also run on Hanzomon, Mita and Namboku Line track. Manufacturer: Hitachi. C7",
+    "name": "TYO Sotetsu 20000 1067JP/MB/MH/MI/MF/MZ/ST/TQ",
+    "description": "Sotetsu 20000 series 10-car commuter EMU, introduced in 2018 for Sotetsu-Tokyu through services via the Toyoko Line. Can also run on Hanzomon, Hibiya, Mita and Namboku Line track. Manufacturer: Hitachi. C7",
     "stats": {
       "maxAcceleration": 0.833,
       "maxDeceleration": 1.1,
@@ -8510,7 +9234,11 @@
       "1067MZ-80",
       "1067ST-100",
       "1067TQ-80",
-      "1067TQ-110"
+      "1067TQ-110",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160",
+      "1067MH-80"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
@@ -8526,8 +9254,8 @@
   },
   {
     "id": "tyo-sotetsu-21000",
-    "name": "TYO Sotetsu 21000 1067JP/MB/MI/ST/TQ",
-    "description": "Sotetsu 21000 series 8-car variant of the 20000 series, introduced in 2021 for Sotetsu-Tokyu through services via the Meguro Line. Manufacturer: Hitachi. C7",
+    "name": "TYO Sotetsu 21000 1067JP/MB/MH/MI/ST/TQ",
+    "description": "Sotetsu 21000 series 8-car variant of the 20000 series, introduced in 2021 for Sotetsu-Tokyu through services via the Meguro Line. Can also run on Hibiya Line track. Manufacturer: Hitachi. C7",
     "stats": {
       "maxAcceleration": 0.833,
       "maxDeceleration": 1.1,
@@ -8596,7 +9324,11 @@
       "1067MI-75",
       "1067ST-100",
       "1067TQ-80",
-      "1067TQ-110"
+      "1067TQ-110",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160",
+      "1067MH-80"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,
