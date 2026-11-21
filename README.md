@@ -1882,7 +1882,7 @@ Besides adding trains and tracks, this mod changes the following game settings:
     <td>JR East E233 series commuter train. Used on inner Tokyo commuter lines, including Saikyo Line through services onto Sotetsu (E233-7000). Manufacturer: J-TREC. C6</td>
     <td>J-TREC</td>
     <td>130</td>
-    <td>3400</td>
+    <td>4080</td>
   </tr>
   <tr>
     <td>TYO E233-2000 Joban 1067JP/MC/OD</td>

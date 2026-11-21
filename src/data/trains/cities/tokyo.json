@@ -2886,7 +2886,7 @@
       "doorsPerCarPerSide": 4,
       "carLength": 20,
       "minCars": 4,
-      "maxCars": 10,
+      "maxCars": 12,
       "carsPerCarSet": 1,
       "carCost": 3200000,
       "trainWidth": 2.95,
