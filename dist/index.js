@@ -383,8 +383,280 @@
 		"./cities/tokyo.json": tokyo_default
 	};
 	const trains = Object.values(cityTrainModules).flat();
+	function initSearchDropdowns() {
+		window.SubwayBuilderAPI;
+		const STYLE_ID = "search-dropdowns-style";
+		const TAG$1 = "[Search Dropdowns]";
+		const VERSION = "1.4.0";
+		const MIN_OPTIONS_FOR_SEARCH = 8;
+		const CONTENT_SEL = "[data-radix-menu-content],[data-slot=\"select-content\"],[role=\"menu\"],[role=\"listbox\"]";
+		const OPTION_SEL = "[role=\"menuitem\"],[role=\"option\"],[role=\"menuitemradio\"],[role=\"menuitemcheckbox\"]";
+		const VIEWPORT_SEL = "[data-radix-select-viewport]";
+		function injectCSS() {
+			if (document.getElementById(STYLE_ID)) return;
+			const style = document.createElement("style");
+			style.id = STYLE_ID;
+			style.textContent = `
+      /* 1.4.x Radix DropdownMenu: overflow-hidden + no max-height. */
+      [data-radix-menu-content],
+      [role="menu"] {
+        max-height: min(60vh, 600px) !important;
+        overflow-y: auto !important;
+        overflow-x: hidden !important;
+        scrollbar-width: thin !important;
+      }
+      /* 1.3.x Radix Select. */
+      [data-slot="select-content"],
+      [role="listbox"] {
+        max-height: min(60vh, 600px) !important;
+      }
+      [data-radix-select-viewport] {
+        max-height: min(55vh, 560px) !important;
+        overflow-y: auto !important;
+        scrollbar-width: thin !important;
+      }
+      .sd-search {
+        z-index: 50;
+        flex: 0 0 auto; box-sizing: border-box;
+        display: block;
+        padding: 6px 8px; border: 0;
+        border-bottom: 1px solid rgba(127,127,127,0.25);
+        color: inherit; font: inherit; outline: none;
+        border-radius: 4px 4px 0 0;
+      }
+      .sd-search::placeholder { opacity: 0.55; }
+      .sd-empty {
+        padding: 8px; opacity: 0.6; font-size: 0.9em; text-align: center;
+      }
+    `;
+			(document.head || document.documentElement).appendChild(style);
+		}
+		function solidBackground(el) {
+			for (let n = el; n && n !== document.documentElement; n = n.parentElement) {
+				const c = getComputedStyle(n).backgroundColor;
+				if (c && c !== "transparent" && !/rgba\([^)]*,\s*0\)$/.test(c)) return c;
+			}
+			return "#1b1b1b";
+		}
+		const isVisible = (el) => el.style.display !== "none" && el.offsetParent !== null;
+		function enhance(content) {
+			if (content.querySelector(":scope > .sd-search")) return;
+			const options = () => [...content.querySelectorAll(OPTION_SEL)];
+			if (options().length < MIN_OPTIONS_FOR_SEARCH) return;
+			const viewport = content.querySelector(VIEWPORT_SEL);
+			const scroller = viewport || content;
+			const input = document.createElement("input");
+			input.className = "sd-search";
+			input.type = "text";
+			input.placeholder = "Search…";
+			input.setAttribute("autocomplete", "off");
+			input.setAttribute("spellcheck", "false");
+			input.style.background = solidBackground(content);
+			const empty = document.createElement("div");
+			empty.className = "sd-empty";
+			empty.textContent = "No matches";
+			empty.style.display = "none";
+			if (viewport) {
+				input.style.width = "100%";
+				content.insertBefore(input, viewport);
+				viewport.appendChild(empty);
+			} else {
+				const cs = getComputedStyle(content);
+				const pt = parseFloat(cs.paddingTop) || 0;
+				const pl = parseFloat(cs.paddingLeft) || 0;
+				const pr = parseFloat(cs.paddingRight) || 0;
+				Object.assign(input.style, {
+					position: "sticky",
+					top: `-${pt}px`,
+					marginTop: `-${pt}px`,
+					marginLeft: `-${pl}px`,
+					marginRight: `-${pr}px`,
+					marginBottom: "2px",
+					width: `calc(100% + ${pl + pr}px)`
+				});
+				content.insertBefore(input, content.firstChild);
+				content.appendChild(empty);
+			}
+			const visibleOptions = () => options().filter(isVisible);
+			const filter = () => {
+				const q = input.value.trim().toLowerCase();
+				let shown = 0;
+				for (const o of options()) {
+					const match = !q || (o.textContent || "").toLowerCase().includes(q);
+					o.style.display = match ? "" : "none";
+					if (match) shown++;
+				}
+				for (const s of content.querySelectorAll("[role=\"separator\"]")) s.style.display = q ? "none" : "";
+				for (const g of content.querySelectorAll("[role=\"group\"]")) {
+					const any = [...g.querySelectorAll(OPTION_SEL)].some((o) => o.style.display !== "none");
+					g.style.display = any ? "" : "none";
+				}
+				empty.style.display = shown ? "none" : "";
+				scroller.scrollTop = 0;
+			};
+			const activate = (opt) => {
+				opt.focus();
+				opt.dispatchEvent(new KeyboardEvent("keydown", {
+					key: "Enter",
+					bubbles: true,
+					cancelable: true
+				}));
+			};
+			input.addEventListener("input", filter);
+			input.addEventListener("keydown", (e) => {
+				if (e.key === "Escape" || e.key === "Tab") return;
+				e.stopPropagation();
+				if (e.key === "ArrowDown") {
+					e.preventDefault();
+					visibleOptions()[0]?.focus();
+				} else if (e.key === "ArrowUp") e.preventDefault();
+				else if (e.key === "Enter") {
+					e.preventDefault();
+					const first = visibleOptions()[0];
+					if (first) activate(first);
+				}
+			});
+			content.addEventListener("keydown", (e) => {
+				if (e.target === input || e.ctrlKey || e.metaKey || e.altKey) return;
+				if (e.key === "ArrowUp" && e.target === visibleOptions()[0]) {
+					e.preventDefault();
+					e.stopPropagation();
+					input.focus();
+					return;
+				}
+				if (e.key.length === 1 && (e.key !== " " || input.value) || e.key === "Backspace") {
+					e.preventDefault();
+					e.stopPropagation();
+					input.value = e.key === "Backspace" ? input.value.slice(0, -1) : input.value + e.key;
+					input.focus();
+					filter();
+				}
+			}, true);
+			input.addEventListener("pointerdown", (e) => e.stopPropagation());
+			input.addEventListener("focus", (e) => e.stopPropagation());
+			setTimeout(() => input.focus(), 60);
+			setTimeout(() => {
+				if (document.activeElement !== input) input.focus();
+			}, 180);
+		}
+		const SWITCH_TRIGGER_SEL = "[data-tutorial=\"route-train-type-selector\"]";
+		const SWITCH_CARD_SEL = "[class*=\"rounded-lg\"][class*=\"p-2.5\"]";
+		const isReadyCard = (card) => /green-/.test(card.className);
+		const cardButton = (card) => card.querySelector("button");
+		function switchCards(container) {
+			return [...container.querySelectorAll(":scope > div")].filter((d) => d.matches(SWITCH_CARD_SEL) && /(green|red)-/.test(d.className));
+		}
+		function applySwitchFilter(container, input, empty) {
+			const q = input.value.trim().toLowerCase();
+			let shown = 0;
+			for (const card of switchCards(container)) {
+				const name = (card.querySelector("span.flex-1")?.textContent || card.textContent || "").toLowerCase();
+				const match = !q || name.includes(q) || (card.textContent || "").toLowerCase().includes(q);
+				const want = match ? "" : "none";
+				if (card.style.display !== want) card.style.display = want;
+				if (match) shown++;
+			}
+			empty.style.display = shown ? "none" : "";
+		}
+		function enhanceSwitchPanel(trigger) {
+			const container = trigger.parentElement;
+			if (!container) return;
+			const cards = switchCards(container);
+			if (!trigger.disabled || cards.length === 0) {
+				container.querySelectorAll(".sd-switch-search,.sd-switch-empty,.sd-switch-cover").forEach((n) => n.remove());
+				return;
+			}
+			let input = container.querySelector(":scope > .sd-switch-search");
+			let empty = container.querySelector(":scope > .sd-switch-empty");
+			let cover = container.querySelector(":scope > .sd-switch-cover");
+			if (!input) {
+				input = document.createElement("input");
+				input.className = "sd-search sd-switch-search";
+				input.type = "text";
+				input.placeholder = "Search train types… (Enter switches to the first ready match)";
+				input.setAttribute("autocomplete", "off");
+				input.setAttribute("spellcheck", "false");
+				input.style.background = solidBackground(container);
+				input.style.width = "100%";
+				input.style.marginTop = "8px";
+				input.style.border = "1px solid rgba(127,127,127,0.35)";
+				input.style.borderRadius = "6px";
+				empty = document.createElement("div");
+				empty.className = "sd-empty sd-switch-empty";
+				empty.textContent = "No matching train types";
+				empty.style.display = "none";
+				const readyButtons = () => switchCards(container).filter((c) => c.style.display !== "none" && isReadyCard(c)).map(cardButton).filter(Boolean);
+				input.addEventListener("input", () => applySwitchFilter(container, input, empty));
+				input.addEventListener("keydown", (e) => {
+					if (e.key === "Escape" || e.key === "Tab") return;
+					e.stopPropagation();
+					if (e.key === "Enter") {
+						e.preventDefault();
+						readyButtons()[0]?.click();
+					} else if (e.key === "ArrowDown") {
+						e.preventDefault();
+						readyButtons()[0]?.focus();
+					}
+				});
+				container.addEventListener("keydown", (e) => {
+					if (e.target === input || e.key !== "ArrowDown" && e.key !== "ArrowUp") return;
+					const btns = readyButtons();
+					const i = btns.indexOf(e.target);
+					if (i < 0) return;
+					e.preventDefault();
+					if (e.key === "ArrowDown") (btns[i + 1] || btns[i]).focus();
+					else if (i === 0) input.focus();
+					else btns[i - 1].focus();
+				});
+				input.addEventListener("pointerdown", (e) => e.stopPropagation());
+				trigger.insertAdjacentElement("afterend", input);
+				input.insertAdjacentElement("afterend", empty);
+			}
+			if (getComputedStyle(container).position === "static") container.style.position = "relative";
+			if (!cover) {
+				cover = document.createElement("div");
+				cover.className = "sd-switch-cover";
+				cover.title = "Search train types";
+				cover.addEventListener("click", () => input.focus());
+				container.appendChild(cover);
+			}
+			Object.assign(cover.style, {
+				position: "absolute",
+				zIndex: "5",
+				cursor: "text",
+				left: trigger.offsetLeft + "px",
+				top: trigger.offsetTop + "px",
+				width: trigger.offsetWidth + "px",
+				height: trigger.offsetHeight + "px"
+			});
+			applySwitchFilter(container, input, empty);
+		}
+		function tick() {
+			for (const content of document.querySelectorAll(CONTENT_SEL)) {
+				if (content.parentElement?.closest(CONTENT_SEL)) continue;
+				try {
+					enhance(content);
+				} catch (e) {
+					console.log(`${TAG$1} enhance error`, e);
+				}
+			}
+		}
+		function tickSwitch() {
+			for (const trigger of document.querySelectorAll(SWITCH_TRIGGER_SEL)) try {
+				enhanceSwitchPanel(trigger);
+			} catch (e) {
+				console.log(`${TAG$1} switch panel error`, e);
+			}
+		}
+		injectCSS();
+		setInterval(() => {
+			tick();
+			tickSwitch();
+		}, 150);
+		console.log(`${TAG$1} v${VERSION} loaded`);
+	}
 	var MOD_ID = "japanese-trains";
-	var MOD_VERSION = "v5.5.5";
+	var MOD_VERSION = "v5.5.6";
 	var TAG = "[Japanese Trains]";
 	var SNAP_BASE_PX = 10;
 	var SNAP_MULTIPLIER = 10;
@@ -442,28 +714,51 @@
 			}, true);
 			console.log(`${TAG} Strict Snap ready: toolbar button toggles ${SNAP_MULTIPLIER}x snapping, or hold ${SNAP_HOLD_KEY} (${SNAP_BASE_PX * SNAP_MULTIPLIER} px).`);
 		};
+		let registeredCount = 0;
+		let earlyDone = false;
+		const registerAll = () => {
+			registeredCount = 0;
+			for (const train of trains) {
+				api.trains.registerTrainType(train);
+				registeredCount++;
+				console.log(`${TAG} Registered train: ${train.id}`);
+			}
+			if (typeof api.modifyConstants === "function") {
+				api.modifyConstants({
+					DWELL: { DELAY_RECOVERY_MIN_FRACTION: .5 },
+					STATION_MAX_GRADE_PERCENTAGE: 2.5,
+					MARKER_ROUTE_BULLETS: { MAX_ROW_WIDTH_PX: 9999 }
+				});
+				console.log(`${TAG} Game rules applied.`);
+			} else console.warn(`${TAG} modifyConstants not available; game rules left at defaults.`);
+			if (typeof api.modifyPathfindingRules === "function") {
+				api.modifyPathfindingRules({ PERCEIVED_TIME: {
+					WAIT_MULTIPLIER: 1,
+					DEPARTURE_SHIFT_MULTIPLIER: 0
+				} });
+				console.log(`${TAG} Pathfinding rules applied.`);
+			} else console.warn(`${TAG} modifyPathfindingRules not available; pathfinding rules left at defaults.`);
+		};
+		try {
+			registerAll();
+			earlyDone = true;
+		} catch (err) {
+			console.warn(`${TAG} Early registration failed, retrying when the map is ready:`, err);
+		}
 		api.hooks.onMapReady(() => {
 			if (initialized) return;
 			initialized = true;
 			try {
-				let registeredCount = 0;
-				for (const train of trains) {
-					api.trains.registerTrainType(train);
-					registeredCount++;
-					console.log(`${TAG} Registered train: ${train.id}`);
-				}
-				if (typeof api.modifyConstants === "function") {
-					api.modifyConstants({
-						DWELL: { DELAY_RECOVERY_MIN_FRACTION: .5 },
-						STATION_MAX_GRADE_PERCENTAGE: 2.5,
-						MARKER_ROUTE_BULLETS: { MAX_ROW_WIDTH_PX: 9999 }
-					});
-					console.log(`${TAG} Game rules applied.`);
-				} else console.warn(`${TAG} modifyConstants not available; game rules left at defaults.`);
+				if (!earlyDone) registerAll();
 				try {
 					initStrictSnap();
 				} catch (err) {
 					console.error(`${TAG} Strict Snap failed to start:`, err);
+				}
+				try {
+					initSearchDropdowns();
+				} catch (err) {
+					console.error(`${TAG} Search Dropdowns failed to start:`, err);
 				}
 				api.ui.showNotification(`${TAG} ${registeredCount} train(s) loaded.`, "success");
 				console.log(`${TAG} Initialized successfully.`);

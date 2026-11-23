@@ -4,9 +4,10 @@
  */
 
 import { trains } from './data/trains';
+import { initSearchDropdowns } from './searchDropdowns';
 
 const MOD_ID = 'japanese-trains';
-const MOD_VERSION = 'v5.5.5';
+const MOD_VERSION = 'v5.5.6';
 const TAG = '[Japanese Trains]';
 
 // Strict Snap: a toolbar button toggles a multiplier on the track and waypoint snapping radius, and holding a key
@@ -91,37 +92,71 @@ if (!api) {
     console.log(`${TAG} Strict Snap ready: toolbar button toggles ${SNAP_MULTIPLIER}x snapping, or hold ${SNAP_HOLD_KEY} (${SNAP_BASE_PX * SNAP_MULTIPLIER} px).`);
   };
 
+  // Trains, tracks and game rules are registered as soon as the mod loads, before the game restores a save.
+  // Registering inside onMapReady (which fires after the save is restored) made a freshly opened save show
+  // vanilla track widths, speeds and platform spacing until a track segment was built.
+  let registeredCount = 0;
+  let earlyDone = false;
+
+  const registerAll = (): void => {
+    registeredCount = 0;
+
+    for (const train of trains) {
+      api.trains.registerTrainType(train);
+      registeredCount++;
+
+      console.log(`${TAG} Registered train: ${train.id}`);
+    }
+
+    // Global game rules: late trains may cut dwell to half, stations allowed on grades up to 2.5%,
+    // station route bullet rows effectively never hidden.
+    if (typeof api.modifyConstants === 'function') {
+      api.modifyConstants({
+        DWELL: { DELAY_RECOVERY_MIN_FRACTION: 0.5 },
+        STATION_MAX_GRADE_PERCENTAGE: 2.5,
+        MARKER_ROUTE_BULLETS: { MAX_ROW_WIDTH_PX: 9999 },
+      });
+      console.log(`${TAG} Game rules applied.`);
+    } else {
+      console.warn(`${TAG} modifyConstants not available; game rules left at defaults.`);
+    }
+
+    // Pathfinding rules: waiting between legs is no longer weighted above riding time, and departing later
+    // than requested costs nothing. MAX_TRANSFERS is left at the game default.
+    if (typeof api.modifyPathfindingRules === 'function') {
+      api.modifyPathfindingRules({
+        PERCEIVED_TIME: { WAIT_MULTIPLIER: 1, DEPARTURE_SHIFT_MULTIPLIER: 0 },
+      });
+      console.log(`${TAG} Pathfinding rules applied.`);
+    } else {
+      console.warn(`${TAG} modifyPathfindingRules not available; pathfinding rules left at defaults.`);
+    }
+  };
+
+  try {
+    registerAll();
+    earlyDone = true;
+  } catch (err) {
+    console.warn(`${TAG} Early registration failed, retrying when the map is ready:`, err);
+  }
+
   api.hooks.onMapReady(() => {
     if (initialized) return;
     initialized = true;
 
     try {
-      let registeredCount = 0;
-
-      for (const train of trains) {
-        api.trains.registerTrainType(train);
-        registeredCount++;
-
-        console.log(`${TAG} Registered train: ${train.id}`);
-      }
-
-      // Global game rules: late trains may cut dwell to half, stations allowed on grades up to 2.5%,
-      // station route bullet rows effectively never hidden.
-      if (typeof api.modifyConstants === 'function') {
-        api.modifyConstants({
-          DWELL: { DELAY_RECOVERY_MIN_FRACTION: 0.5 },
-          STATION_MAX_GRADE_PERCENTAGE: 2.5,
-          MARKER_ROUTE_BULLETS: { MAX_ROW_WIDTH_PX: 9999 },
-        });
-        console.log(`${TAG} Game rules applied.`);
-      } else {
-        console.warn(`${TAG} modifyConstants not available; game rules left at defaults.`);
-      }
+      if (!earlyDone) registerAll();
 
       try {
         initStrictSnap();
       } catch (err) {
         console.error(`${TAG} Strict Snap failed to start:`, err);
+      }
+
+      try {
+        initSearchDropdowns();
+      } catch (err) {
+        console.error(`${TAG} Search Dropdowns failed to start:`, err);
       }
 
       api.ui.showNotification(
