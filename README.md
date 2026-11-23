@@ -10,7 +10,7 @@ Initial builds should be done with a track option where applicable. Compatible t
 1067JP/1435TK tracks are dual gauge tracks that both 1067JP and 1435TK trains can run on, for building shared yards and corridors such as the Narita Airport and Hokuso route.
 
 <details>
-<summary>Track list (62)</summary>
+<summary>Track list (64)</summary>
 
 <table style="width: auto">
   <tr>
@@ -41,6 +41,16 @@ Initial builds should be done with a track option where applicable. Compatible t
   <tr>
     <td>1067JP-130</td>
     <td>JR main lines</td>
+    <td>130</td>
+  </tr>
+  <tr>
+    <td>1067JP/1435JP-100</td>
+    <td>Dual gauge track for JR mini-shinkansen and local train through services</td>
+    <td>100</td>
+  </tr>
+  <tr>
+    <td>1067JP/1435JP-130</td>
+    <td>Dual gauge track for JR mini-shinkansen and local train through services</td>
     <td>130</td>
   </tr>
   <tr>
@@ -354,7 +364,7 @@ Besides adding trains and tracks, this mod changes the following game settings:
 - Route bullets: the route bullet display limit at stations is uncapped
 - Snapping: a toolbar button toggles 10x snapping strength, or hold Alt to apply it while held (10 px to 100 px)
 
-## Currently Available Trains (240)
+## Currently Available Trains (242)
 
 <details>
 <summary>National (43)</summary>
@@ -1643,7 +1653,7 @@ Besides adding trains and tracks, this mod changes the following game settings:
 </details>
 
 <details>
-<summary>Tokyo (82)</summary>
+<summary>Tokyo (84)</summary>
 
 <table style="width: auto">
   <tr>
@@ -1883,6 +1893,20 @@ Besides adding trains and tracks, this mod changes the following game settings:
     <td>J-TREC</td>
     <td>130</td>
     <td>4080</td>
+  </tr>
+  <tr>
+    <td>TYO Rinkai 70-000 1067JP</td>
+    <td>Tokyo Waterfront Area Rapid Transit 70-000 series 6/10-car commuter train. Used on the Rinkai Line with through services to the JR Saikyo and Kawagoe lines. Manufacturer: Kawasaki Heavy Industries. C6</td>
+    <td>Kawasaki Heavy Industries</td>
+    <td>110</td>
+    <td>3220</td>
+  </tr>
+  <tr>
+    <td>TYO Rinkai 71-000 1067JP</td>
+    <td>Tokyo Waterfront Area Rapid Transit 71-000 series 10-car commuter train, based on the J-TREC sustina S24 and the JR East E233 series. Used on the Rinkai Line with through services to the JR Saikyo and Kawagoe lines. Manufacturer: J-TREC. C6</td>
+    <td>J-TREC</td>
+    <td>120</td>
+    <td>3380</td>
   </tr>
   <tr>
     <td>TYO E233-2000 Joban 1067JP/MC/OD</td>

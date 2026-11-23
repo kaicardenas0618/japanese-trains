@@ -905,7 +905,9 @@
       "1435JP-130",
       "1435JP-285",
       "1435JP-320",
-      "1435JP-360"
+      "1435JP-360",
+      "1067JP/1435JP-100",
+      "1067JP/1435JP-130"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -1155,7 +1157,9 @@
       "1435JP-130",
       "1435JP-285",
       "1435JP-320",
-      "1435JP-360"
+      "1435JP-360",
+      "1067JP/1435JP-100",
+      "1067JP/1435JP-130"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -1238,7 +1242,9 @@
       "1435JP-130",
       "1435JP-285",
       "1435JP-320",
-      "1435JP-360"
+      "1435JP-360",
+      "1067JP/1435JP-100",
+      "1067JP/1435JP-130"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -1477,7 +1483,9 @@
       "1435JP-130",
       "1435JP-285",
       "1435JP-320",
-      "1435JP-360"
+      "1435JP-360",
+      "1067JP/1435JP-100",
+      "1067JP/1435JP-130"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -1549,7 +1557,9 @@
       "1435JP-130",
       "1435JP-285",
       "1435JP-320",
-      "1435JP-360"
+      "1435JP-360",
+      "1067JP/1435JP-100",
+      "1067JP/1435JP-130"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -1621,7 +1631,9 @@
       "1435JP-100",
       "1435JP-285",
       "1435JP-320",
-      "1435JP-360"
+      "1435JP-360",
+      "1067JP/1435JP-100",
+      "1067JP/1435JP-130"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -1696,7 +1708,9 @@
       "1435JP-100",
       "1435JP-130",
       "1435JP-320",
-      "1435JP-360"
+      "1435JP-360",
+      "1067JP/1435JP-100",
+      "1067JP/1435JP-130"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -1768,7 +1782,9 @@
       "1435JP-100",
       "1435JP-130",
       "1435JP-285",
-      "1435JP-360"
+      "1435JP-360",
+      "1067JP/1435JP-100",
+      "1067JP/1435JP-130"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
@@ -1840,7 +1856,9 @@
       "1435JP-100",
       "1435JP-130",
       "1435JP-285",
-      "1435JP-320"
+      "1435JP-320",
+      "1067JP/1435JP-100",
+      "1067JP/1435JP-130"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 900000,
