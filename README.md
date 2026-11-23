@@ -365,7 +365,7 @@ Besides adding trains and tracks, this mod changes the following game settings:
 - Snapping: a toolbar button toggles 10x snapping strength, or hold Alt to apply it while held (10 px to 100 px)
 - Waiting: waiting between trains is no longer weighted above riding time for passenger route choice (wait multiplier 1.37 to 1)
 - Departure shift: leaving later than requested no longer counts against a route for passenger route choice (departure shift multiplier 0.4 to 0)
-- Dropdown search: long dropdowns get a search box, and the train type panel of a route with stations can be searched (Search Dropdowns 1.4.0 is included)
+- Dropdown search: long dropdowns get a search box, and the train type panel of a route with stations can be searched
 
 ## Currently Available Trains (242)
 
