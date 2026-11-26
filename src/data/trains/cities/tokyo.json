@@ -149,7 +149,8 @@
       "minor": 999
     },
     "portalCost": 8000000,
-    "rampCost": 4000000
+    "rampCost": 4000000,
+    "invisible": "track"
   },
   {
     "id": "tyo-02-marunouchi",
@@ -228,7 +229,8 @@
       "minor": 999
     },
     "portalCost": 8000000,
-    "rampCost": 4000000
+    "rampCost": 4000000,
+    "invisible": "track"
   },
   {
     "id": "1435TM-75",
@@ -294,7 +296,8 @@
       "minor": 999
     },
     "portalCost": 8000000,
-    "rampCost": 4000000
+    "rampCost": 4000000,
+    "invisible": "train"
   },
   {
     "id": "tyo-13000-hibiya",
@@ -387,7 +390,8 @@
       "minor": 999
     },
     "portalCost": 8000000,
-    "rampCost": 4000000
+    "rampCost": 4000000,
+    "invisible": "track"
   },
   {
     "id": "tyo-15000-tozai",
@@ -472,7 +476,8 @@
       "minor": 999
     },
     "portalCost": 8000000,
-    "rampCost": 4000000
+    "rampCost": 4000000,
+    "invisible": "track"
   },
   {
     "id": "tyo-16000-chiyoda",
@@ -559,7 +564,8 @@
       "minor": 999
     },
     "portalCost": 8000000,
-    "rampCost": 4000000
+    "rampCost": 4000000,
+    "invisible": "track"
   },
   {
     "id": "tyo-17000-yurakucho-fukutoshin",
@@ -649,7 +655,8 @@
       "minor": 999
     },
     "portalCost": 8000000,
-    "rampCost": 4000000
+    "rampCost": 4000000,
+    "invisible": "track"
   },
   {
     "id": "tyo-18000-hanzomon",
@@ -740,7 +747,8 @@
       "minor": 999
     },
     "portalCost": 8000000,
-    "rampCost": 4000000
+    "rampCost": 4000000,
+    "invisible": "track"
   },
   {
     "id": "tyo-9000-namboku",
@@ -830,7 +838,8 @@
       "minor": 999
     },
     "portalCost": 8000000,
-    "rampCost": 4000000
+    "rampCost": 4000000,
+    "invisible": "track"
   },
   {
     "id": "tyo-5500-asakusa",
@@ -912,7 +921,8 @@
       "minor": 999
     },
     "portalCost": 8000000,
-    "rampCost": 4000000
+    "rampCost": 4000000,
+    "invisible": "track"
   },
   {
     "id": "tyo-6500-mita",
@@ -1001,7 +1011,8 @@
       "minor": 999
     },
     "portalCost": 8000000,
-    "rampCost": 4000000
+    "rampCost": 4000000,
+    "invisible": "track"
   },
   {
     "id": "tyo-6300-mita",
@@ -1091,7 +1102,8 @@
       "minor": 999
     },
     "portalCost": 8000000,
-    "rampCost": 4000000
+    "rampCost": 4000000,
+    "invisible": "track"
   },
   {
     "id": "tyo-saitama-rapid-2000",
@@ -1181,7 +1193,8 @@
       "minor": 999
     },
     "portalCost": 8000000,
-    "rampCost": 4000000
+    "rampCost": 4000000,
+    "invisible": "track"
   },
   {
     "id": "tyo-10-300-shinjuku",
@@ -1259,7 +1272,8 @@
       "minor": 999
     },
     "portalCost": 8000000,
-    "rampCost": 4000000
+    "rampCost": 4000000,
+    "invisible": "track"
   },
   {
     "id": "tyo-12-600-oedo-linear",
@@ -1413,7 +1427,8 @@
       "minor": 999
     },
     "portalCost": 8000000,
-    "rampCost": 4000000
+    "rampCost": 4000000,
+    "invisible": "track"
   },
   {
     "id": "tyo-yokohama-4000-blue",
@@ -1490,7 +1505,8 @@
       "minor": 999
     },
     "portalCost": 8000000,
-    "rampCost": 4000000
+    "rampCost": 4000000,
+    "invisible": "track"
   },
   {
     "id": "1435YB-80",
@@ -1556,7 +1572,8 @@
       "minor": 999
     },
     "portalCost": 8000000,
-    "rampCost": 4000000
+    "rampCost": 4000000,
+    "invisible": "train"
   },
   {
     "id": "tyo-yokohama-10000-green",
@@ -1634,7 +1651,8 @@
       "minor": 999
     },
     "portalCost": 7000000,
-    "rampCost": 3500000
+    "rampCost": 3500000,
+    "invisible": "track"
   },
   {
     "id": "1435YG-80",
@@ -1700,7 +1718,8 @@
       "minor": 999
     },
     "portalCost": 7000000,
-    "rampCost": 3500000
+    "rampCost": 3500000,
+    "invisible": "train"
   },
   {
     "id": "tyo-toden-8800-tram",
@@ -1778,7 +1797,8 @@
       "minor": 999
     },
     "portalCost": 3500000,
-    "rampCost": 1750000
+    "rampCost": 1750000,
+    "invisible": "track"
   },
   {
     "id": "tyo-toden-9000-tram",
@@ -1856,7 +1876,8 @@
       "minor": 999
     },
     "portalCost": 3500000,
-    "rampCost": 1750000
+    "rampCost": 1750000,
+    "invisible": "track"
   },
   {
     "id": "1372TD-40",
@@ -1923,7 +1944,8 @@
       "minor": 999
     },
     "portalCost": 3500000,
-    "rampCost": 1750000
+    "rampCost": 1750000,
+    "invisible": "train"
   },
   {
     "id": "tyo-nippori-liner-330",
@@ -2608,7 +2630,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "tyo-e235-1000",
@@ -2692,7 +2715,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "tyo-e233-commuter",
@@ -2778,7 +2802,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "tyo-e331-keiyo",
@@ -2863,7 +2888,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "tyo-e233-urban",
@@ -2948,7 +2974,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "tyo-rinkai-70000",
@@ -3035,7 +3062,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "tyo-rinkai-71000",
@@ -3122,7 +3150,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "tyo-e233-2000",
@@ -3208,7 +3237,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "tyo-e231-commuter",
@@ -3293,7 +3323,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "tyo-e231-urban",
@@ -3378,7 +3409,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "tyo-e231-500-6-door",
@@ -3463,7 +3495,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "tyo-e231-800",
@@ -3549,7 +3582,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "tyo-e217-commuter",
@@ -3634,7 +3668,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "tyo-209-chiba",
@@ -3720,7 +3755,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "tyo-205-tsurumi",
@@ -3808,7 +3844,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "tyo-e531-commuter",
@@ -3894,7 +3931,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "tyo-e257-limited-express",
@@ -3980,7 +4018,8 @@
       "minor": 999
     },
     "portalCost": 11000000,
-    "rampCost": 5500000
+    "rampCost": 5500000,
+    "invisible": "track"
   },
   {
     "id": "tyo-e259-narita-express",
@@ -4065,7 +4104,8 @@
       "minor": 999
     },
     "portalCost": 11000000,
-    "rampCost": 5500000
+    "rampCost": 5500000,
+    "invisible": "track"
   },
   {
     "id": "tyo-e657-limited-express",
@@ -4151,7 +4191,8 @@
       "minor": 999
     },
     "portalCost": 11000000,
-    "rampCost": 5500000
+    "rampCost": 5500000,
+    "invisible": "track"
   },
   {
     "id": "1067JP-95",
@@ -4243,7 +4284,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "train"
   },
   {
     "id": "1067JP-100",
@@ -4335,7 +4377,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "train"
   },
   {
     "id": "1067JP-110",
@@ -4427,7 +4470,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "train"
   },
   {
     "id": "1067JP-120",
@@ -4519,7 +4563,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "train"
   },
   {
     "id": "1067JP-130",
@@ -4611,7 +4656,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "train"
   },
   {
     "id": "1067JP/1435JP-100",
@@ -4629,15 +4675,15 @@
       "minCars": 2,
       "maxCars": 20,
       "carsPerCarSet": 1,
-      "carCost": 3200000,
+      "carCost": 3840000,
       "trainWidth": 2.95,
       "minStationLength": 50,
       "maxStationLength": 410,
-      "baseTrackCost": 32000,
-      "baseStationCost": 85000000,
-      "trainOperationalCostPerHour": 380,
-      "carOperationalCostPerHour": 26,
-      "scissorsCrossoverCost": 16000000,
+      "baseTrackCost": 38400,
+      "baseStationCost": 102000000,
+      "trainOperationalCostPerHour": 456,
+      "carOperationalCostPerHour": 31,
+      "scissorsCrossoverCost": 19200000,
       "trackClearance": 1,
       "maxLateralAcceleration": 1.275,
       "minTurnRadius": 70,
@@ -4681,16 +4727,17 @@
       "1067JP/1435JP-130"
     ],
     "allowGradeCrossing": true,
-    "gradeCrossingBaseCost": 300000,
-    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingBaseCost": 360000,
+    "gradeCrossingMaintenancePerYear": 9600,
     "gradeCrossingTphLimit": {
       "highway": 999,
       "major": 999,
       "medium": 999,
       "minor": 999
     },
-    "portalCost": 10000000,
-    "rampCost": 5000000
+    "portalCost": 12000000,
+    "rampCost": 6000000,
+    "invisible": "train"
   },
   {
     "id": "1067JP/1435JP-130",
@@ -4708,15 +4755,15 @@
       "minCars": 2,
       "maxCars": 20,
       "carsPerCarSet": 1,
-      "carCost": 3200000,
+      "carCost": 3840000,
       "trainWidth": 2.95,
       "minStationLength": 50,
       "maxStationLength": 410,
-      "baseTrackCost": 32000,
-      "baseStationCost": 85000000,
-      "trainOperationalCostPerHour": 380,
-      "carOperationalCostPerHour": 26,
-      "scissorsCrossoverCost": 16000000,
+      "baseTrackCost": 38400,
+      "baseStationCost": 102000000,
+      "trainOperationalCostPerHour": 456,
+      "carOperationalCostPerHour": 31,
+      "scissorsCrossoverCost": 19200000,
       "trackClearance": 1,
       "maxLateralAcceleration": 1.275,
       "minTurnRadius": 70,
@@ -4760,16 +4807,17 @@
       "1067JP/1435JP-100"
     ],
     "allowGradeCrossing": true,
-    "gradeCrossingBaseCost": 300000,
-    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingBaseCost": 360000,
+    "gradeCrossingMaintenancePerYear": 9600,
     "gradeCrossingTphLimit": {
       "highway": 999,
       "major": 999,
       "medium": 999,
       "minor": 999
     },
-    "portalCost": 10000000,
-    "rampCost": 5000000
+    "portalCost": 12000000,
+    "rampCost": 6000000,
+    "invisible": "train"
   },
   {
     "id": "1067JP/1435TK-60",
@@ -4787,15 +4835,15 @@
       "minCars": 2,
       "maxCars": 20,
       "carsPerCarSet": 1,
-      "carCost": 3200000,
+      "carCost": 3840000,
       "trainWidth": 2.95,
       "minStationLength": 50,
       "maxStationLength": 410,
-      "baseTrackCost": 32000,
-      "baseStationCost": 85000000,
-      "trainOperationalCostPerHour": 380,
-      "carOperationalCostPerHour": 26,
-      "scissorsCrossoverCost": 16000000,
+      "baseTrackCost": 38400,
+      "baseStationCost": 102000000,
+      "trainOperationalCostPerHour": 456,
+      "carOperationalCostPerHour": 31,
+      "scissorsCrossoverCost": 19200000,
       "trackClearance": 1,
       "maxLateralAcceleration": 1.275,
       "minTurnRadius": 70,
@@ -4837,16 +4885,17 @@
       "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
-    "gradeCrossingBaseCost": 300000,
-    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingBaseCost": 360000,
+    "gradeCrossingMaintenancePerYear": 9600,
     "gradeCrossingTphLimit": {
       "highway": 999,
       "major": 999,
       "medium": 999,
       "minor": 999
     },
-    "portalCost": 10000000,
-    "rampCost": 5000000
+    "portalCost": 12000000,
+    "rampCost": 6000000,
+    "invisible": "train"
   },
   {
     "id": "1067JP/1435TK-120",
@@ -4864,15 +4913,15 @@
       "minCars": 2,
       "maxCars": 20,
       "carsPerCarSet": 1,
-      "carCost": 3200000,
+      "carCost": 3840000,
       "trainWidth": 2.95,
       "minStationLength": 50,
       "maxStationLength": 410,
-      "baseTrackCost": 32000,
-      "baseStationCost": 85000000,
-      "trainOperationalCostPerHour": 380,
-      "carOperationalCostPerHour": 26,
-      "scissorsCrossoverCost": 16000000,
+      "baseTrackCost": 38400,
+      "baseStationCost": 102000000,
+      "trainOperationalCostPerHour": 456,
+      "carOperationalCostPerHour": 31,
+      "scissorsCrossoverCost": 19200000,
       "trackClearance": 1,
       "maxLateralAcceleration": 1.275,
       "minTurnRadius": 70,
@@ -4914,16 +4963,17 @@
       "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
-    "gradeCrossingBaseCost": 300000,
-    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingBaseCost": 360000,
+    "gradeCrossingMaintenancePerYear": 9600,
     "gradeCrossingTphLimit": {
       "highway": 999,
       "major": 999,
       "medium": 999,
       "minor": 999
     },
-    "portalCost": 10000000,
-    "rampCost": 5000000
+    "portalCost": 12000000,
+    "rampCost": 6000000,
+    "invisible": "train"
   },
   {
     "id": "1067JP/1435TK-160",
@@ -4941,15 +4991,15 @@
       "minCars": 2,
       "maxCars": 20,
       "carsPerCarSet": 1,
-      "carCost": 3200000,
+      "carCost": 3840000,
       "trainWidth": 2.95,
       "minStationLength": 50,
       "maxStationLength": 410,
-      "baseTrackCost": 32000,
-      "baseStationCost": 85000000,
-      "trainOperationalCostPerHour": 380,
-      "carOperationalCostPerHour": 26,
-      "scissorsCrossoverCost": 16000000,
+      "baseTrackCost": 38400,
+      "baseStationCost": 102000000,
+      "trainOperationalCostPerHour": 456,
+      "carOperationalCostPerHour": 31,
+      "scissorsCrossoverCost": 19200000,
       "trackClearance": 1,
       "maxLateralAcceleration": 1.275,
       "minTurnRadius": 70,
@@ -4991,16 +5041,17 @@
       "1067JP/1435TK-120"
     ],
     "allowGradeCrossing": true,
-    "gradeCrossingBaseCost": 300000,
-    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingBaseCost": 360000,
+    "gradeCrossingMaintenancePerYear": 9600,
     "gradeCrossingTphLimit": {
       "highway": 999,
       "major": 999,
       "medium": 999,
       "minor": 999
     },
-    "portalCost": 10000000,
-    "rampCost": 5000000
+    "portalCost": 12000000,
+    "rampCost": 6000000,
+    "invisible": "train"
   },
   {
     "id": "1067MH-80",
@@ -5084,7 +5135,8 @@
       "minor": 999
     },
     "portalCost": 8000000,
-    "rampCost": 4000000
+    "rampCost": 4000000,
+    "invisible": "train"
   },
   {
     "id": "1067MT-100",
@@ -5159,7 +5211,8 @@
       "minor": 999
     },
     "portalCost": 8000000,
-    "rampCost": 4000000
+    "rampCost": 4000000,
+    "invisible": "train"
   },
   {
     "id": "1067MC-80",
@@ -5235,7 +5288,8 @@
       "minor": 999
     },
     "portalCost": 8000000,
-    "rampCost": 4000000
+    "rampCost": 4000000,
+    "invisible": "train"
   },
   {
     "id": "1067MF-80",
@@ -5318,7 +5372,8 @@
       "minor": 999
     },
     "portalCost": 8000000,
-    "rampCost": 4000000
+    "rampCost": 4000000,
+    "invisible": "train"
   },
   {
     "id": "1067MZ-80",
@@ -5401,7 +5456,8 @@
       "minor": 999
     },
     "portalCost": 8000000,
-    "rampCost": 4000000
+    "rampCost": 4000000,
+    "invisible": "train"
   },
   {
     "id": "1067MB-80",
@@ -5481,7 +5537,8 @@
       "minor": 999
     },
     "portalCost": 8000000,
-    "rampCost": 4000000
+    "rampCost": 4000000,
+    "invisible": "train"
   },
   {
     "id": "1067MI-75",
@@ -5561,7 +5618,8 @@
       "minor": 999
     },
     "portalCost": 8000000,
-    "rampCost": 4000000
+    "rampCost": 4000000,
+    "invisible": "train"
   },
   {
     "id": "1067TB-100",
@@ -5642,7 +5700,8 @@
       "minor": 999
     },
     "portalCost": 11000000,
-    "rampCost": 5500000
+    "rampCost": 5500000,
+    "invisible": "train"
   },
   {
     "id": "1067TB-120",
@@ -5723,7 +5782,8 @@
       "minor": 999
     },
     "portalCost": 11000000,
-    "rampCost": 5500000
+    "rampCost": 5500000,
+    "invisible": "train"
   },
   {
     "id": "1067SB-105",
@@ -5803,7 +5863,8 @@
       "minor": 999
     },
     "portalCost": 11000000,
-    "rampCost": 5500000
+    "rampCost": 5500000,
+    "invisible": "train"
   },
   {
     "id": "1067OD-110",
@@ -5879,7 +5940,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "train"
   },
   {
     "id": "1067TQ-80",
@@ -5964,7 +6026,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "train"
   },
   {
     "id": "1067TQ-110",
@@ -6049,7 +6112,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "train"
   },
   {
     "id": "1067ST-100",
@@ -6132,7 +6196,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "train"
   },
   {
     "id": "tyo-keisei-ae-skyliner",
@@ -6214,7 +6279,8 @@
       "minor": 999
     },
     "portalCost": 11000000,
-    "rampCost": 5500000
+    "rampCost": 5500000,
+    "invisible": "track"
   },
   {
     "id": "tyo-keisei-3000",
@@ -6297,7 +6363,8 @@
       "minor": 999
     },
     "portalCost": 8000000,
-    "rampCost": 4000000
+    "rampCost": 4000000,
+    "invisible": "track"
   },
   {
     "id": "tyo-keisei-3100",
@@ -6380,7 +6447,8 @@
       "minor": 999
     },
     "portalCost": 8000000,
-    "rampCost": 4000000
+    "rampCost": 4000000,
+    "invisible": "track"
   },
   {
     "id": "tyo-keisei-3500",
@@ -6464,7 +6532,8 @@
       "minor": 999
     },
     "portalCost": 8000000,
-    "rampCost": 4000000
+    "rampCost": 4000000,
+    "invisible": "track"
   },
   {
     "id": "tyo-odakyu-70000-gse",
@@ -6549,7 +6618,8 @@
       "minor": 999
     },
     "portalCost": 11000000,
-    "rampCost": 5500000
+    "rampCost": 5500000,
+    "invisible": "track"
   },
   {
     "id": "tyo-seibu-001-laview",
@@ -6634,7 +6704,8 @@
       "minor": 999
     },
     "portalCost": 11000000,
-    "rampCost": 5500000
+    "rampCost": 5500000,
+    "invisible": "track"
   },
   {
     "id": "tyo-seibu-10000-new-red-arrow",
@@ -6719,7 +6790,8 @@
       "minor": 999
     },
     "portalCost": 11000000,
-    "rampCost": 5500000
+    "rampCost": 5500000,
+    "invisible": "track"
   },
   {
     "id": "tyo-seibu-40000-commuter",
@@ -6809,7 +6881,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "tyo-seibu-30000-commuter",
@@ -6900,7 +6973,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "tyo-seibu-20000-commuter",
@@ -6990,7 +7064,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "tyo-tobu-n100-spacia-x",
@@ -7079,7 +7154,8 @@
       "minor": 999
     },
     "portalCost": 11000000,
-    "rampCost": 5500000
+    "rampCost": 5500000,
+    "invisible": "track"
   },
   {
     "id": "tyo-tobu-100-spacia",
@@ -7169,7 +7245,8 @@
       "minor": 999
     },
     "portalCost": 11000000,
-    "rampCost": 5500000
+    "rampCost": 5500000,
+    "invisible": "track"
   },
   {
     "id": "tyo-tobu-500-revaty",
@@ -7258,7 +7335,8 @@
       "minor": 999
     },
     "portalCost": 11000000,
-    "rampCost": 5500000
+    "rampCost": 5500000,
+    "invisible": "track"
   },
   {
     "id": "tyo-tobu-50000-commuter",
@@ -7349,7 +7427,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "tyo-tobu-10000-commuter",
@@ -7438,7 +7517,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "tyo-tobu-8000-commuter",
@@ -7527,7 +7607,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "tyo-tx-2000",
@@ -7604,7 +7685,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "tyo-tx-3000",
@@ -7681,7 +7763,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "1067TX-130",
@@ -7747,7 +7830,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "train"
   },
   {
     "id": "kq-new-1000-emu",
@@ -7831,7 +7915,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "tkk-1000-emu",
@@ -7920,7 +8005,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "kq-2100-emu",
@@ -8003,7 +8089,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "1435TK-70",
@@ -8075,7 +8162,8 @@
       "minor": 999
     },
     "portalCost": 8000000,
-    "rampCost": 4000000
+    "rampCost": 4000000,
+    "invisible": "train"
   },
   {
     "id": "1435TK-120",
@@ -8147,7 +8235,8 @@
       "minor": 999
     },
     "portalCost": 8000000,
-    "rampCost": 4000000
+    "rampCost": 4000000,
+    "invisible": "train"
   },
   {
     "id": "1435TK-160",
@@ -8219,7 +8308,8 @@
       "minor": 999
     },
     "portalCost": 8000000,
-    "rampCost": 4000000
+    "rampCost": 4000000,
+    "invisible": "train"
   },
   {
     "id": "tkk-2020-emu",
@@ -8312,7 +8402,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "tkk-5050-emu",
@@ -8406,7 +8497,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "tkk-9000-emu",
@@ -8495,7 +8587,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "tkk-9020-emu",
@@ -8584,7 +8677,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "tkk-6020-emu",
@@ -8673,7 +8767,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "tq-3000-emu",
@@ -8764,7 +8859,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "tq-3020-emu",
@@ -8854,7 +8950,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "tq-5080-emu",
@@ -8945,7 +9042,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "keio-5000-emu",
@@ -9023,7 +9121,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "keio-9000-emu",
@@ -9102,7 +9201,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "1372KT-75",
@@ -9170,7 +9270,8 @@
       "minor": 999
     },
     "portalCost": 8000000,
-    "rampCost": 4000000
+    "rampCost": 4000000,
+    "invisible": "train"
   },
   {
     "id": "1372KT-100",
@@ -9238,7 +9339,8 @@
       "minor": 999
     },
     "portalCost": 8000000,
-    "rampCost": 4000000
+    "rampCost": 4000000,
+    "invisible": "train"
   },
   {
     "id": "odq-3000-emu",
@@ -9326,7 +9428,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "odq-4000-emu",
@@ -9414,7 +9517,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "tyo-sotetsu-12000",
@@ -9500,7 +9604,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "tyo-sotetsu-20000",
@@ -9592,7 +9697,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "tyo-sotetsu-21000",
@@ -9682,7 +9788,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "tyo-enoden-2000",

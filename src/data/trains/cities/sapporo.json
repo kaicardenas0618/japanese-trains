@@ -81,7 +81,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "spk-735-emu",
@@ -165,7 +166,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "spk-sapporo-5000-subway",
@@ -472,7 +474,8 @@
       "minor": 999
     },
     "portalCost": 3500000,
-    "rampCost": 1750000
+    "rampCost": 1750000,
+    "invisible": "track"
   },
   {
     "id": "spk-1100-sirius-tram",
@@ -550,7 +553,8 @@
       "minor": 999
     },
     "portalCost": 3500000,
-    "rampCost": 1750000
+    "rampCost": 1750000,
+    "invisible": "track"
   },
   {
     "id": "1067SC-40",
@@ -617,6 +621,7 @@
       "minor": 999
     },
     "portalCost": 3500000,
-    "rampCost": 1750000
+    "rampCost": 1750000,
+    "invisible": "train"
   }
 ]

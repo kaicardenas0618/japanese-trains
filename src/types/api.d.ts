@@ -92,6 +92,13 @@ export interface ModdingAPI {
   /** Modify game constants (partial update). */
   modifyConstants(constants: Partial<GameConstants>): void;
 
+  /** Modify passenger pathfinding rules (partial update). Missing from older game builds. */
+  modifyPathfindingRules?(rules: {
+    PERCEIVED_TIME?: Partial<Record<string, number>>;
+    MAX_TRANSFERS?: number;
+    [key: string]: unknown;
+  }): void;
+
   /** Register newspaper article templates for in-game newspapers. */
   registerNewspaperTemplates(templates: NewspaperTemplate[]): void;
 

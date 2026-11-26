@@ -78,7 +78,8 @@
       "minor": 999
     },
     "portalCost": 3500000,
-    "rampCost": 1750000
+    "rampCost": 1750000,
+    "invisible": "track"
   },
   {
     "id": "hrd-1900-tram",
@@ -157,7 +158,8 @@
       "minor": 999
     },
     "portalCost": 3500000,
-    "rampCost": 1750000
+    "rampCost": 1750000,
+    "invisible": "track"
   },
   {
     "id": "hrd-650-tram",
@@ -236,7 +238,8 @@
       "minor": 999
     },
     "portalCost": 3500000,
-    "rampCost": 1750000
+    "rampCost": 1750000,
+    "invisible": "track"
   },
   {
     "id": "hrd-1000-green-mover-lex-tram",
@@ -317,7 +320,8 @@
       "minor": 999
     },
     "portalCost": 3500000,
-    "rampCost": 1750000
+    "rampCost": 1750000,
+    "invisible": "track"
   },
   {
     "id": "hrd-5200-green-mover-apex-tram",
@@ -398,7 +402,8 @@
       "minor": 999
     },
     "portalCost": 3500000,
-    "rampCost": 1750000
+    "rampCost": 1750000,
+    "invisible": "track"
   },
   {
     "id": "1435HD-40",
@@ -467,7 +472,8 @@
       "minor": 999
     },
     "portalCost": 3500000,
-    "rampCost": 1750000
+    "rampCost": 1750000,
+    "invisible": "train"
   },
   {
     "id": "1435HD-60",
@@ -536,7 +542,8 @@
       "minor": 999
     },
     "portalCost": 3500000,
-    "rampCost": 1750000
+    "rampCost": 1750000,
+    "invisible": "train"
   },
   {
     "id": "ast-6000-astram-agt",
@@ -697,6 +704,7 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   }
 ]

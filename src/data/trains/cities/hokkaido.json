@@ -82,7 +82,8 @@
       "minor": 999
     },
     "portalCost": 7000000,
-    "rampCost": 3500000
+    "rampCost": 3500000,
+    "invisible": "track"
   },
   {
     "id": "jrh-kiha150-dmu",
@@ -167,7 +168,8 @@
       "minor": 999
     },
     "portalCost": 7000000,
-    "rampCost": 3500000
+    "rampCost": 3500000,
+    "invisible": "track"
   },
   {
     "id": "jrh-721-emu",
@@ -252,7 +254,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "jrh-733-emu",
@@ -336,7 +339,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "jrh-737-emu",
@@ -420,7 +424,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "jrh-789-limited-express",
@@ -505,6 +510,7 @@
       "minor": 999
     },
     "portalCost": 11000000,
-    "rampCost": 5500000
+    "rampCost": 5500000,
+    "invisible": "track"
   }
 ]

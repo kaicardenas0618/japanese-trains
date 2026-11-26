@@ -84,7 +84,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "jre-e721-emu",
@@ -170,7 +171,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "jre-kiha110-dmu",
@@ -260,7 +262,8 @@
       "minor": 999
     },
     "portalCost": 7000000,
-    "rampCost": 3500000
+    "rampCost": 3500000,
+    "invisible": "track"
   },
   {
     "id": "jre-gv-e400-demu",
@@ -349,7 +352,8 @@
       "minor": 999
     },
     "portalCost": 7000000,
-    "rampCost": 3500000
+    "rampCost": 3500000,
+    "invisible": "track"
   },
   {
     "id": "jre-719-emu",
@@ -436,7 +440,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "jre-hb-e210-hybrid",
@@ -525,7 +530,8 @@
       "minor": 999
     },
     "portalCost": 7000000,
-    "rampCost": 3500000
+    "rampCost": 3500000,
+    "invisible": "track"
   },
   {
     "id": "sat-sat721-emu",
@@ -614,6 +620,7 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   }
 ]

@@ -151,6 +151,15 @@ export interface TrainTypeConfig {
   /** Visual appearance settings */
   appearance: TrainTypeAppearance;
 
+  /**
+   * Hide this train type from the game's pickers (game 1.8 and newer).
+   *
+   * - `'track'`: hide only the type's own track from the construction track picker and the track types key.
+   * - `'train'`: hide only the train from the train pickers.
+   * - `true`: hide both.
+   */
+  invisible?: boolean | 'track' | 'train';
+
   /** Cost multipliers for each elevation type */
   elevationMultipliers?: Partial<Record<TrainElevationType, number>>;
 

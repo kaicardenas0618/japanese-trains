@@ -76,7 +76,8 @@
       "minor": 999
     },
     "portalCost": 3500000,
-    "rampCost": 1750000
+    "rampCost": 1750000,
+    "invisible": "track"
   },
   {
     "id": "tym-9000-centram-tram",
@@ -155,7 +156,8 @@
       "minor": 999
     },
     "portalCost": 3500000,
-    "rampCost": 1750000
+    "rampCost": 1750000,
+    "invisible": "track"
   },
   {
     "id": "1067TC-40",
@@ -224,7 +226,8 @@
       "minor": 999
     },
     "portalCost": 3500000,
-    "rampCost": 1750000
+    "rampCost": 1750000,
+    "invisible": "train"
   },
   {
     "id": "1067TC-60",
@@ -293,6 +296,7 @@
       "minor": 999
     },
     "portalCost": 3500000,
-    "rampCost": 1750000
+    "rampCost": 1750000,
+    "invisible": "train"
   }
 ]

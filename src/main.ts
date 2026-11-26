@@ -7,7 +7,7 @@ import { trains } from './data/trains';
 import { initSearchDropdowns } from './searchDropdowns';
 
 const MOD_ID = 'japanese-trains';
-const MOD_VERSION = 'v5.5.6';
+const MOD_VERSION = 'v5.6.0';
 const TAG = '[Japanese Trains]';
 
 // Strict Snap: a toolbar button toggles a multiplier on the track and waypoint snapping radius, and holding a key
@@ -109,10 +109,10 @@ if (!api) {
     }
 
     // Global game rules: late trains may cut dwell to half, stations allowed on grades up to 2.5%,
-    // station route bullet rows effectively never hidden.
+    // station route bullet rows effectively never hidden, platform width no longer changes dwell time.
     if (typeof api.modifyConstants === 'function') {
       api.modifyConstants({
-        DWELL: { DELAY_RECOVERY_MIN_FRACTION: 0.5 },
+        DWELL: { DELAY_RECOVERY_MIN_FRACTION: 0.5, PLATFORM_WIDTH_EXPONENT: 0 },
         STATION_MAX_GRADE_PERCENTAGE: 2.5,
         MARKER_ROUTE_BULLETS: { MAX_ROW_WIDTH_PX: 9999 },
       });
@@ -122,10 +122,13 @@ if (!api) {
     }
 
     // Pathfinding rules: waiting between legs is no longer weighted above riding time, and departing later
-    // than requested costs nothing. MAX_TRANSFERS is left at the game default.
+    // than requested costs nothing, stations within 1000 m count as one complex and in-station passages have no
+    // level change penalty (game 1.8 rules, ignored by older builds). MAX_TRANSFERS is left at the game default.
     if (typeof api.modifyPathfindingRules === 'function') {
       api.modifyPathfindingRules({
         PERCEIVED_TIME: { WAIT_MULTIPLIER: 1, DEPARTURE_SHIFT_MULTIPLIER: 0 },
+        IN_STATION_TRANSFER_MAX_METERS: 1000,
+        IN_STATION_TRANSFER_LEVEL_CHANGE_SECONDS: 0,
       });
       console.log(`${TAG} Pathfinding rules applied.`);
     } else {

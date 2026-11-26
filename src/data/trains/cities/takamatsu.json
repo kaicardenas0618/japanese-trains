@@ -75,7 +75,8 @@
       "minor": 999
     },
     "portalCost": 3500000,
-    "rampCost": 1750000
+    "rampCost": 1750000,
+    "invisible": "track"
   },
   {
     "id": "ktd-1200-emu",
@@ -153,7 +154,8 @@
       "minor": 999
     },
     "portalCost": 3500000,
-    "rampCost": 1750000
+    "rampCost": 1750000,
+    "invisible": "track"
   },
   {
     "id": "ktd-1080-emu",
@@ -231,7 +233,8 @@
       "minor": 999
     },
     "portalCost": 3500000,
-    "rampCost": 1750000
+    "rampCost": 1750000,
+    "invisible": "track"
   },
   {
     "id": "1435KD-80",
@@ -297,7 +300,8 @@
       "minor": 999
     },
     "portalCost": 3500000,
-    "rampCost": 1750000
+    "rampCost": 1750000,
+    "invisible": "train"
   },
   {
     "id": "jrs-7200-emu",
@@ -382,7 +386,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "jrs-2600-dmu",
@@ -466,6 +471,7 @@
       "minor": 999
     },
     "portalCost": 11000000,
-    "rampCost": 5500000
+    "rampCost": 5500000,
+    "invisible": "track"
   }
 ]

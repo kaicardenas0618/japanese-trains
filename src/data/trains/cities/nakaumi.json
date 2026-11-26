@@ -81,7 +81,8 @@
       "minor": 999
     },
     "portalCost": 7000000,
-    "rampCost": 3500000
+    "rampCost": 3500000,
+    "invisible": "track"
   },
   {
     "id": "jrw-kiha187-limited-express",
@@ -165,7 +166,8 @@
       "minor": 999
     },
     "portalCost": 11000000,
-    "rampCost": 5500000
+    "rampCost": 5500000,
+    "invisible": "track"
   },
   {
     "id": "jrw-kiha120-dmu",
@@ -250,7 +252,8 @@
       "minor": 999
     },
     "portalCost": 7000000,
-    "rampCost": 3500000
+    "rampCost": 3500000,
+    "invisible": "track"
   },
   {
     "id": "ich-7000-emu",
@@ -327,7 +330,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "ich-1000-emu",
@@ -404,7 +408,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "ich-5000-emu",
@@ -481,7 +486,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "1067IC-85",
@@ -547,6 +553,7 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "train"
   }
 ]

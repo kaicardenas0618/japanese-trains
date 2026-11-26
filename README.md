@@ -366,6 +366,8 @@ Besides adding trains and tracks, this mod changes the following game settings:
 - Waiting: waiting between trains is no longer weighted above riding time for passenger route choice (wait multiplier 1.37 to 1)
 - Departure shift: leaving later than requested no longer counts against a route for passenger route choice (departure shift multiplier 0.4 to 0)
 - Dropdown search: long dropdowns get a search box, and the train type panel of a route with stations can be searched
+- In-station transfers: stations within 1000 m of each other count as one complex (game default 300 m), and walking passages between them have no level change time (20 s to 0)
+- Platform width: platform width no longer affects dwell time (exponent 0.4 to 0)
 
 ## Currently Available Trains (242)
 

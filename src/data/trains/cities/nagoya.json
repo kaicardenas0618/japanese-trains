@@ -82,7 +82,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "mei-1000-limited-express",
@@ -168,7 +169,8 @@
       "minor": 999
     },
     "portalCost": 11000000,
-    "rampCost": 5500000
+    "rampCost": 5500000,
+    "invisible": "track"
   },
   {
     "id": "mei-2200-limited-express",
@@ -254,7 +256,8 @@
       "minor": 999
     },
     "portalCost": 11000000,
-    "rampCost": 5500000
+    "rampCost": 5500000,
+    "invisible": "track"
   },
   {
     "id": "mei-6000-emu",
@@ -340,7 +343,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "mei-9500-emu",
@@ -426,7 +430,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "jrc-315-emu",
@@ -510,7 +515,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "ngy-n1000-higashiyama-subway",
@@ -740,7 +746,8 @@
       "minor": 999
     },
     "portalCost": 8000000,
-    "rampCost": 4000000
+    "rampCost": 4000000,
+    "invisible": "track"
   },
   {
     "id": "1067MN-75",
@@ -816,7 +823,8 @@
       "minor": 999
     },
     "portalCost": 11000000,
-    "rampCost": 5500000
+    "rampCost": 5500000,
+    "invisible": "train"
   },
   {
     "id": "1067MN-120",
@@ -892,7 +900,8 @@
       "minor": 999
     },
     "portalCost": 11000000,
-    "rampCost": 5500000
+    "rampCost": 5500000,
+    "invisible": "train"
   },
   {
     "id": "ngy-6050-sakura-dori-subway",

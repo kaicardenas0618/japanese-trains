@@ -82,7 +82,8 @@
       "minor": 999
     },
     "portalCost": 20000000,
-    "rampCost": 10000000
+    "rampCost": 10000000,
+    "invisible": "track"
   },
   {
     "id": "jp-n700s-shinkansen",
@@ -165,7 +166,8 @@
       "minor": 999
     },
     "portalCost": 20000000,
-    "rampCost": 10000000
+    "rampCost": 10000000,
+    "invisible": "track"
   },
   {
     "id": "jp-n700-7000-sakura",
@@ -250,7 +252,8 @@
       "minor": 999
     },
     "portalCost": 20000000,
-    "rampCost": 10000000
+    "rampCost": 10000000,
+    "invisible": "track"
   },
   {
     "id": "jp-n700s-8000-kamome",
@@ -333,7 +336,8 @@
       "minor": 999
     },
     "portalCost": 20000000,
-    "rampCost": 10000000
+    "rampCost": 10000000,
+    "invisible": "track"
   },
   {
     "id": "jp-500-shinkansen",
@@ -418,7 +422,8 @@
       "minor": 999
     },
     "portalCost": 20000000,
-    "rampCost": 10000000
+    "rampCost": 10000000,
+    "invisible": "track"
   },
   {
     "id": "jp-700-rail-star",
@@ -503,7 +508,8 @@
       "minor": 999
     },
     "portalCost": 20000000,
-    "rampCost": 10000000
+    "rampCost": 10000000,
+    "invisible": "track"
   },
   {
     "id": "jp-800-shinkansen",
@@ -585,7 +591,8 @@
       "minor": 999
     },
     "portalCost": 20000000,
-    "rampCost": 10000000
+    "rampCost": 10000000,
+    "invisible": "track"
   },
   {
     "id": "jp-e5-shinkansen",
@@ -668,7 +675,8 @@
       "minor": 999
     },
     "portalCost": 20000000,
-    "rampCost": 10000000
+    "rampCost": 10000000,
+    "invisible": "track"
   },
   {
     "id": "jp-e956-alfa-x",
@@ -751,7 +759,8 @@
       "minor": 999
     },
     "portalCost": 20000000,
-    "rampCost": 10000000
+    "rampCost": 10000000,
+    "invisible": "track"
   },
   {
     "id": "jp-h5-shinkansen",
@@ -834,7 +843,8 @@
       "minor": 999
     },
     "portalCost": 20000000,
-    "rampCost": 10000000
+    "rampCost": 10000000,
+    "invisible": "track"
   },
   {
     "id": "jp-e6-komachi",
@@ -919,7 +929,8 @@
       "minor": 999
     },
     "portalCost": 20000000,
-    "rampCost": 10000000
+    "rampCost": 10000000,
+    "invisible": "track"
   },
   {
     "id": "jp-e7-shinkansen",
@@ -1003,7 +1014,8 @@
       "minor": 999
     },
     "portalCost": 20000000,
-    "rampCost": 10000000
+    "rampCost": 10000000,
+    "invisible": "track"
   },
   {
     "id": "jp-w7-shinkansen",
@@ -1087,7 +1099,8 @@
       "minor": 999
     },
     "portalCost": 20000000,
-    "rampCost": 10000000
+    "rampCost": 10000000,
+    "invisible": "track"
   },
   {
     "id": "jp-e8-tsubasa",
@@ -1171,7 +1184,8 @@
       "minor": 999
     },
     "portalCost": 20000000,
-    "rampCost": 10000000
+    "rampCost": 10000000,
+    "invisible": "track"
   },
   {
     "id": "jp-e3-tsubasa",
@@ -1256,7 +1270,8 @@
       "minor": 999
     },
     "portalCost": 20000000,
-    "rampCost": 10000000
+    "rampCost": 10000000,
+    "invisible": "track"
   },
   {
     "id": "jp-e2-shinkansen",
@@ -1340,7 +1355,8 @@
       "minor": 999
     },
     "portalCost": 20000000,
-    "rampCost": 10000000
+    "rampCost": 10000000,
+    "invisible": "track"
   },
   {
     "id": "jp-923-doctor-yellow",
@@ -1423,7 +1439,8 @@
       "minor": 999
     },
     "portalCost": 20000000,
-    "rampCost": 10000000
+    "rampCost": 10000000,
+    "invisible": "track"
   },
   {
     "id": "1435JP-60",
@@ -1497,7 +1514,8 @@
       "minor": 999
     },
     "portalCost": 20000000,
-    "rampCost": 10000000
+    "rampCost": 10000000,
+    "invisible": "train"
   },
   {
     "id": "1435JP-100",
@@ -1571,7 +1589,8 @@
       "minor": 999
     },
     "portalCost": 20000000,
-    "rampCost": 10000000
+    "rampCost": 10000000,
+    "invisible": "train"
   },
   {
     "id": "1435JP-130",
@@ -1645,7 +1664,8 @@
       "minor": 999
     },
     "portalCost": 20000000,
-    "rampCost": 10000000
+    "rampCost": 10000000,
+    "invisible": "train"
   },
   {
     "id": "1435JP-285",
@@ -1722,7 +1742,8 @@
       "minor": 999
     },
     "portalCost": 20000000,
-    "rampCost": 10000000
+    "rampCost": 10000000,
+    "invisible": "train"
   },
   {
     "id": "1435JP-320",
@@ -1796,7 +1817,8 @@
       "minor": 999
     },
     "portalCost": 20000000,
-    "rampCost": 10000000
+    "rampCost": 10000000,
+    "invisible": "train"
   },
   {
     "id": "1435JP-360",
@@ -1870,7 +1892,8 @@
       "minor": 999
     },
     "portalCost": 20000000,
-    "rampCost": 10000000
+    "rampCost": 10000000,
+    "invisible": "train"
   },
   {
     "id": "jp-l0-chuo-maglev",
@@ -2025,7 +2048,8 @@
       "minor": 999
     },
     "portalCost": 11000000,
-    "rampCost": 5500000
+    "rampCost": 5500000,
+    "invisible": "track"
   },
   {
     "id": "jp-273-yakumo",
@@ -2109,7 +2133,8 @@
       "minor": 999
     },
     "portalCost": 11000000,
-    "rampCost": 5500000
+    "rampCost": 5500000,
+    "invisible": "track"
   },
   {
     "id": "jp-281-haruka",
@@ -2194,7 +2219,8 @@
       "minor": 999
     },
     "portalCost": 11000000,
-    "rampCost": 5500000
+    "rampCost": 5500000,
+    "invisible": "track"
   },
   {
     "id": "jp-271-haruka",
@@ -2278,7 +2304,8 @@
       "minor": 999
     },
     "portalCost": 11000000,
-    "rampCost": 5500000
+    "rampCost": 5500000,
+    "invisible": "track"
   },
   {
     "id": "jp-287-limited-express",
@@ -2363,7 +2390,8 @@
       "minor": 999
     },
     "portalCost": 11000000,
-    "rampCost": 5500000
+    "rampCost": 5500000,
+    "invisible": "track"
   },
   {
     "id": "jp-289-limited-express",
@@ -2448,7 +2476,8 @@
       "minor": 999
     },
     "portalCost": 11000000,
-    "rampCost": 5500000
+    "rampCost": 5500000,
+    "invisible": "track"
   },
   {
     "id": "jp-683-thunderbird",
@@ -2533,7 +2562,8 @@
       "minor": 999
     },
     "portalCost": 11000000,
-    "rampCost": 5500000
+    "rampCost": 5500000,
+    "invisible": "track"
   },
   {
     "id": "jp-385-shinano",
@@ -2617,7 +2647,8 @@
       "minor": 999
     },
     "portalCost": 11000000,
-    "rampCost": 5500000
+    "rampCost": 5500000,
+    "invisible": "track"
   },
   {
     "id": "jp-261-hokkaido",
@@ -2702,7 +2733,8 @@
       "minor": 999
     },
     "portalCost": 11000000,
-    "rampCost": 5500000
+    "rampCost": 5500000,
+    "invisible": "track"
   },
   {
     "id": "jp-8600-shikoku",
@@ -2786,7 +2818,8 @@
       "minor": 999
     },
     "portalCost": 11000000,
-    "rampCost": 5500000
+    "rampCost": 5500000,
+    "invisible": "track"
   },
   {
     "id": "jp-jnr-115-emu",
@@ -2873,7 +2906,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "jp-jnr-kiha40-dmu",
@@ -2959,7 +2993,8 @@
       "minor": 999
     },
     "portalCost": 7000000,
-    "rampCost": 3500000
+    "rampCost": 3500000,
+    "invisible": "track"
   },
   {
     "id": "jp-jnr-415-emu",
@@ -3046,7 +3081,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "jp-jnr-213-emu",
@@ -3134,7 +3170,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "jp-jnr-113-emu",
@@ -3221,7 +3258,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "jp-jnr-117-emu",
@@ -3307,7 +3345,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "jp-jnr-211-emu",
@@ -3394,7 +3433,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "jp-jnr-185-limited-express",
@@ -3482,7 +3522,8 @@
       "minor": 999
     },
     "portalCost": 11000000,
-    "rampCost": 5500000
+    "rampCost": 5500000,
+    "invisible": "track"
   },
   {
     "id": "jp-jnr-489-limited-express",
@@ -3570,7 +3611,8 @@
       "minor": 999
     },
     "portalCost": 11000000,
-    "rampCost": 5500000
+    "rampCost": 5500000,
+    "invisible": "track"
   },
   {
     "id": "jp-jnr-381-limited-express",
@@ -3656,7 +3698,8 @@
       "minor": 999
     },
     "portalCost": 11000000,
-    "rampCost": 5500000
+    "rampCost": 5500000,
+    "invisible": "track"
   },
   {
     "id": "jp-jnr-153-express",
@@ -3743,7 +3786,8 @@
       "minor": 999
     },
     "portalCost": 11000000,
-    "rampCost": 5500000
+    "rampCost": 5500000,
+    "invisible": "track"
   },
   {
     "id": "jp-jnr-453-express",
@@ -3827,7 +3871,8 @@
       "minor": 999
     },
     "portalCost": 11000000,
-    "rampCost": 5500000
+    "rampCost": 5500000,
+    "invisible": "track"
   },
   {
     "id": "jp-jrf-ef210",
@@ -3914,7 +3959,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "jp-jrf-ef510",
@@ -4001,7 +4047,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "jp-jrf-df200",
@@ -4087,6 +4134,7 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   }
 ]

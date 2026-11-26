@@ -86,7 +86,8 @@
       "minor": 999
     },
     "portalCost": 8000000,
-    "rampCost": 4000000
+    "rampCost": 4000000,
+    "invisible": "track"
   },
   {
     "id": "jrk-103-1500-emu",
@@ -171,7 +172,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "nis-commuter-emu",
@@ -249,7 +251,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "nis-1000-tram",
@@ -410,7 +413,8 @@
       "minor": 999
     },
     "portalCost": 8000000,
-    "rampCost": 4000000
+    "rampCost": 4000000,
+    "invisible": "track"
   },
   {
     "id": "fko-3000-subway",
@@ -569,7 +573,8 @@
       "minor": 999
     },
     "portalCost": 8000000,
-    "rampCost": 4000000
+    "rampCost": 4000000,
+    "invisible": "track"
   },
   {
     "id": "jrk-305-emu",
@@ -653,7 +658,8 @@
       "minor": 999
     },
     "portalCost": 8000000,
-    "rampCost": 4000000
+    "rampCost": 4000000,
+    "invisible": "track"
   },
   {
     "id": "nis-3000-emu",
@@ -730,7 +736,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "nis-9000-emu",
@@ -807,7 +814,8 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "track"
   },
   {
     "id": "1067NT-110",
@@ -873,6 +881,7 @@
       "minor": 999
     },
     "portalCost": 10000000,
-    "rampCost": 5000000
+    "rampCost": 5000000,
+    "invisible": "train"
   }
 ]
