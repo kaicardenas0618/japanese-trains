@@ -7,7 +7,7 @@ import { trains } from './data/trains';
 import { initSearchDropdowns } from './searchDropdowns';
 
 const MOD_ID = 'japanese-trains';
-const MOD_VERSION = 'v5.6.0';
+const MOD_VERSION = 'v5.6.1';
 const TAG = '[Japanese Trains]';
 
 // Strict Snap: a toolbar button toggles a multiplier on the track and waypoint snapping radius, and holding a key
@@ -109,11 +109,14 @@ if (!api) {
     }
 
     // Global game rules: late trains may cut dwell to half, stations allowed on grades up to 2.5%,
-    // station route bullet rows effectively never hidden, platform width no longer changes dwell time.
+    // station route bullet rows effectively never hidden, platform width no longer changes dwell time,
+    // pedestrians walk at 1.7 m/s.
     if (typeof api.modifyConstants === 'function') {
       api.modifyConstants({
         DWELL: { DELAY_RECOVERY_MIN_FRACTION: 0.5, PLATFORM_WIDTH_EXPONENT: 0 },
         STATION_MAX_GRADE_PERCENTAGE: 2.5,
+        WALKING_SPEED_STRAIGHT_LINE: 1.7,
+        WALKING_SPEED_ACCURATE_PATH: 1.7,
         MARKER_ROUTE_BULLETS: { MAX_ROW_WIDTH_PX: 9999 },
       });
       console.log(`${TAG} Game rules applied.`);
