@@ -2053,7 +2053,7 @@
   },
   {
     "id": "jp-273-yakumo",
-    "name": "JP 273 Yakumo 1067JP",
+    "name": "JRW 273 Yakumo 1067JP",
     "description": "4-car 273 Series limited express EMU used on Yakumo services. Manufacturer: Kinki Sharyo.",
     "stats": {
       "maxAcceleration": 0.444,
@@ -2138,7 +2138,7 @@
   },
   {
     "id": "jp-281-haruka",
-    "name": "JP 281 Haruka 1067JP",
+    "name": "JRW 281 Haruka 1067JP",
     "description": "6-car 281 Series airport limited express EMU used on Haruka services. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo.",
     "stats": {
       "maxAcceleration": 0.5,
@@ -2224,7 +2224,7 @@
   },
   {
     "id": "jp-271-haruka",
-    "name": "JP 271 Haruka 1067JP",
+    "name": "JRW 271 Haruka 1067JP",
     "description": "3-car 271 Series airport limited express EMU used on Haruka services. Manufacturer: Kinki Sharyo.",
     "stats": {
       "maxAcceleration": 0.556,
@@ -2309,7 +2309,7 @@
   },
   {
     "id": "jp-287-limited-express",
-    "name": "JP 287 Limited Express 1067JP",
+    "name": "JRW 287 Limited Express 1067JP",
     "description": "287 Series limited express EMU used on Kuroshio, Konotori, Kinosaki, Maizuru, Hashidate and related services. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo.",
     "stats": {
       "maxAcceleration": 0.444,
@@ -2395,7 +2395,7 @@
   },
   {
     "id": "jp-289-limited-express",
-    "name": "JP 289 Limited Express 1067JP",
+    "name": "JRW 289 Limited Express 1067JP",
     "description": "289 Series limited express EMU used on Kuroshio, Konotori, Kinosaki and related services. Manufacturer: Hitachi / Kawasaki Heavy Industries.",
     "stats": {
       "maxAcceleration": 0.444,
@@ -2481,7 +2481,7 @@
   },
   {
     "id": "jp-683-thunderbird",
-    "name": "JP 683 Thunderbird 1067JP",
+    "name": "JRW 683 Thunderbird 1067JP",
     "description": "683 Series limited express EMU used on Thunderbird and other interregional services. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo.",
     "stats": {
       "maxAcceleration": 0.5,
@@ -2567,7 +2567,7 @@
   },
   {
     "id": "jp-385-shinano",
-    "name": "JP 385 Shinano 1067JP",
+    "name": "JRC 385 Shinano 1067JP",
     "description": "385 Series limited express EMU profile for Shinano-type interregional services. Manufacturer: J-TREC.",
     "stats": {
       "maxAcceleration": 0.583,
@@ -2652,7 +2652,7 @@
   },
   {
     "id": "jp-261-hokkaido",
-    "name": "JP 261 Hokkaido 1067JP",
+    "name": "JRH 261 Hokkaido 1067JP",
     "description": "KiHa 261 series diesel limited express train for Hokkaido intercity services. Manufacturer: Fuji Heavy Industries / Niigata Transys.",
     "compatibleTrackTypes": [
       "1067JP-95",
@@ -2738,7 +2738,7 @@
   },
   {
     "id": "jp-8600-shikoku",
-    "name": "JP 8600 Shikoku 1067JP",
+    "name": "JRS 8600 Shikoku 1067JP",
     "description": "8600 Series limited express EMU for Shikoku intercity services. Manufacturer: Kawasaki Heavy Industries.",
     "stats": {
       "maxAcceleration": 0.556,
@@ -2823,7 +2823,7 @@
   },
   {
     "id": "jp-jnr-115-emu",
-    "name": "JP JNR 115 EMU 1067JP",
+    "name": "JNR 115 EMU 1067JP",
     "description": "JNR 115 series DC suburban EMU. Rural/regional representative set, excluding former long urban commuter operations. Manufacturer: JNR / Nippon Sharyo / Kawasaki Heavy Industries / Hitachi. C5",
     "stats": {
       "maxAcceleration": 0.444,
@@ -2911,7 +2911,7 @@
   },
   {
     "id": "jp-jnr-kiha40-dmu",
-    "name": "JP JNR KiHa40 DMU 1067JP",
+    "name": "JNR KiHa40 DMU 1067JP",
     "description": "JNR KiHa 40 series rural diesel railcar. Ubiquitous countryside stock, modeled for 1-6 car local formations. Manufacturer: JNR / Niigata Tekko / Fuji Heavy Industries. C5",
     "compatibleTrackTypes": [
       "1067JP-95",
@@ -2998,7 +2998,7 @@
   },
   {
     "id": "jp-jnr-415-emu",
-    "name": "JP JNR 415 EMU 1067JP",
+    "name": "JNR 415 EMU 1067JP",
     "description": "JNR 415 series AC/DC suburban EMU. The commuter workhorse of AC-electrified regions. Manufacturer: JNR / Nippon Sharyo / Kawasaki Heavy Industries / Hitachi. C5",
     "stats": {
       "maxAcceleration": 0.444,
@@ -3086,7 +3086,7 @@
   },
   {
     "id": "jp-jnr-213-emu",
-    "name": "JP JNR 213 EMU 1067JP",
+    "name": "JNR 213 EMU 1067JP",
     "description": "JNR 213 series suburban EMU. Two-door regional EMU used by JR West and JR Central. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo / Tokyu Car. C5",
     "stats": {
       "maxAcceleration": 0.389,
@@ -3175,7 +3175,7 @@
   },
   {
     "id": "jp-jnr-113-emu",
-    "name": "JP JNR 113 EMU 1067JP",
+    "name": "JNR 113 EMU 1067JP",
     "description": "JNR 113 series DC suburban EMU. Broad national legacy suburban profile for areas not covered by newer stock. Manufacturer: JNR / Nippon Sharyo / Kawasaki Heavy Industries / Hitachi. C5",
     "stats": {
       "maxAcceleration": 0.444,
@@ -3263,7 +3263,7 @@
   },
   {
     "id": "jp-jnr-117-emu",
-    "name": "JP JNR 117 EMU 1067JP",
+    "name": "JNR 117 EMU 1067JP",
     "description": "JNR 117 series two-door suburban EMU used on rapid and regional services. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo. C5",
     "stats": {
       "maxAcceleration": 0.556,
@@ -3350,7 +3350,7 @@
   },
   {
     "id": "jp-jnr-211-emu",
-    "name": "JP JNR 211 EMU 1067JP",
+    "name": "JNR 211 EMU 1067JP",
     "description": "JNR 211 series suburban EMU. Later JNR stainless-steel regional and suburban stock. Manufacturer: JNR / Kawasaki Heavy Industries / Tokyu Car / Nippon Sharyo. C5",
     "stats": {
       "maxAcceleration": 0.472,
@@ -3438,7 +3438,7 @@
   },
   {
     "id": "jp-jnr-185-limited-express",
-    "name": "JP JNR 185 Limited Express 1067JP",
+    "name": "JNR 185 Limited Express 1067JP",
     "description": "JNR 185 series limited express EMU introduced in 1981 for Odoriko services on the Tokaido Line, later also used on Takasaki-area services. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo / Tokyu Car.",
     "stats": {
       "maxAcceleration": 0.444,
@@ -3527,7 +3527,7 @@
   },
   {
     "id": "jp-jnr-489-limited-express",
-    "name": "JP JNR 489 Limited Express 1067JP",
+    "name": "JNR 489 Limited Express 1067JP",
     "description": "JNR 489 series limited express EMU built from 1971 for Hakusan and Asama services over the Usui Pass with EF63 banking locomotives, later used on Noto and Hakutaka. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo / Tokyu Car.",
     "stats": {
       "maxAcceleration": 0.444,
@@ -3616,7 +3616,7 @@
   },
   {
     "id": "jp-jnr-381-limited-express",
-    "name": "JP JNR 381 Limited Express 1067JP",
+    "name": "JNR 381 Limited Express 1067JP",
     "description": "JNR 381 series tilting limited express EMU introduced in 1973 for Shinano, Kuroshio and Yakumo services. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo.",
     "stats": {
       "maxAcceleration": 0.444,
@@ -3703,7 +3703,7 @@
   },
   {
     "id": "jp-jnr-153-express",
-    "name": "JP JNR 153 Express 1067JP",
+    "name": "JNR 153 Express 1067JP",
     "description": "JNR 153 series express EMU built from 1958 for Tokai and Hiei services on the Tokaido Line, later used on Shin-Kaisoku services. Manufacturer: Nippon Sharyo / Kisha Seizo / Kinki Sharyo / Kawasaki Heavy Industries.",
     "stats": {
       "maxAcceleration": 0.389,
@@ -3791,7 +3791,7 @@
   },
   {
     "id": "jp-jnr-453-express",
-    "name": "JP JNR 453 Express 1067JP",
+    "name": "JNR 453 Express 1067JP",
     "description": "JNR 453 series AC/DC express EMU for Tohoku and Joban Line express services such as Tokiwa. Manufacturer: JNR.",
     "stats": {
       "maxAcceleration": 0.389,
@@ -3876,7 +3876,7 @@
   },
   {
     "id": "jp-jrf-ef210",
-    "name": "JP JRF EF210 1067JP",
+    "name": "JRF EF210 1067JP",
     "description": "JR Freight EF210 electric freight locomotive. Manufacturer: Mitsubishi Electric / Kawasaki Heavy Industries.",
     "stats": {
       "maxAcceleration": 0.306,
@@ -3964,7 +3964,7 @@
   },
   {
     "id": "jp-jrf-ef510",
-    "name": "JP JRF EF510 1067JP",
+    "name": "JRF EF510 1067JP",
     "description": "JR Freight EF510 AC/DC electric locomotive built from 2001 for Japan Sea Coast and other main line freight services. Manufacturer: Kawasaki Heavy Industries / Mitsubishi Electric.",
     "stats": {
       "maxAcceleration": 0.306,
@@ -4052,7 +4052,7 @@
   },
   {
     "id": "jp-jrf-df200",
-    "name": "JP JRF DF200 1067JP",
+    "name": "JRF DF200 1067JP",
     "description": "JR Freight DF200 diesel-electric locomotive built from 1992 to replace the DD51 on Hokkaido freight services, later also used on the Kansai Main Line. Manufacturer: Kawasaki Heavy Industries.",
     "stats": {
       "maxAcceleration": 0.306,

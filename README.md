@@ -370,7 +370,7 @@ Besides adding trains and tracks, this mod changes the following game settings:
 - Platform width: platform width no longer affects dwell time (exponent 0.4 to 0)
 - Walking speed: pedestrians walk at 1.7 m/s (game default 1.5 m/s)
 
-## Currently Available Trains (245)
+## Currently Available Trains (257)
 
 <details>
 <summary>National (43)</summary>
@@ -517,168 +517,168 @@ Besides adding trains and tracks, this mod changes the following game settings:
     <td>266</td>
   </tr>
   <tr>
-    <td>JP 273 Yakumo 1067JP</td>
+    <td>JRW 273 Yakumo 1067JP</td>
     <td>4-car 273 Series limited express EMU used on Yakumo services. Manufacturer: Kinki Sharyo.</td>
     <td>Kinki Sharyo</td>
     <td>130</td>
     <td>208</td>
   </tr>
   <tr>
-    <td>JP 281 Haruka 1067JP</td>
+    <td>JRW 281 Haruka 1067JP</td>
     <td>6-car 281 Series airport limited express EMU used on Haruka services. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo.</td>
     <td>Kawasaki Heavy Industries / Kinki Sharyo</td>
     <td>130</td>
     <td>288</td>
   </tr>
   <tr>
-    <td>JP 271 Haruka 1067JP</td>
+    <td>JRW 271 Haruka 1067JP</td>
     <td>3-car 271 Series airport limited express EMU used on Haruka services. Manufacturer: Kinki Sharyo.</td>
     <td>Kinki Sharyo</td>
     <td>130</td>
     <td>138</td>
   </tr>
   <tr>
-    <td>JP 287 Limited Express 1067JP</td>
+    <td>JRW 287 Limited Express 1067JP</td>
     <td>287 Series limited express EMU used on Kuroshio, Konotori, Kinosaki, Maizuru, Hashidate and related services. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo.</td>
     <td>Kawasaki Heavy Industries / Kinki Sharyo</td>
     <td>130</td>
     <td>312</td>
   </tr>
   <tr>
-    <td>JP 289 Limited Express 1067JP</td>
+    <td>JRW 289 Limited Express 1067JP</td>
     <td>289 Series limited express EMU used on Kuroshio, Konotori, Kinosaki and related services. Manufacturer: Hitachi / Kawasaki Heavy Industries.</td>
     <td>Hitachi / Kawasaki Heavy Industries</td>
     <td>130</td>
     <td>312</td>
   </tr>
   <tr>
-    <td>JP 683 Thunderbird 1067JP</td>
+    <td>JRW 683 Thunderbird 1067JP</td>
     <td>683 Series limited express EMU used on Thunderbird and other interregional services. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo.</td>
     <td>Kawasaki Heavy Industries / Kinki Sharyo</td>
     <td>130</td>
     <td>468</td>
   </tr>
   <tr>
-    <td>JP 385 Shinano 1067JP</td>
+    <td>JRC 385 Shinano 1067JP</td>
     <td>385 Series limited express EMU profile for Shinano-type interregional services. Manufacturer: J-TREC.</td>
     <td>J-TREC</td>
     <td>130</td>
     <td>312</td>
   </tr>
   <tr>
-    <td>JP 261 Hokkaido 1067JP</td>
+    <td>JRH 261 Hokkaido 1067JP</td>
     <td>KiHa 261 series diesel limited express train for Hokkaido intercity services. Manufacturer: Fuji Heavy Industries / Niigata Transys.</td>
     <td>Fuji Heavy Industries / Niigata Transys</td>
     <td>130</td>
     <td>288</td>
   </tr>
   <tr>
-    <td>JP 8600 Shikoku 1067JP</td>
+    <td>JRS 8600 Shikoku 1067JP</td>
     <td>8600 Series limited express EMU for Shikoku intercity services. Manufacturer: Kawasaki Heavy Industries.</td>
     <td>Kawasaki Heavy Industries</td>
     <td>130</td>
     <td>96</td>
   </tr>
   <tr>
-    <td>JP JNR 115 EMU 1067JP</td>
+    <td>JNR 115 EMU 1067JP</td>
     <td>JNR 115 series DC suburban EMU. Rural/regional representative set, excluding former long urban commuter operations. Manufacturer: JNR / Nippon Sharyo / Kawasaki Heavy Industries / Hitachi. C5</td>
     <td>JNR / Nippon Sharyo / Kawasaki Heavy Industries / Hitachi</td>
     <td>100</td>
     <td>1746</td>
   </tr>
   <tr>
-    <td>JP JNR KiHa40 DMU 1067JP</td>
+    <td>JNR KiHa40 DMU 1067JP</td>
     <td>JNR KiHa 40 series rural diesel railcar. Ubiquitous countryside stock, modeled for 1-6 car local formations. Manufacturer: JNR / Niigata Tekko / Fuji Heavy Industries. C5</td>
     <td>JNR / Niigata Tekko / Fuji Heavy Industries</td>
     <td>95</td>
     <td>1854</td>
   </tr>
   <tr>
-    <td>JP JNR 415 EMU 1067JP</td>
+    <td>JNR 415 EMU 1067JP</td>
     <td>JNR 415 series AC/DC suburban EMU. The commuter workhorse of AC-electrified regions. Manufacturer: JNR / Nippon Sharyo / Kawasaki Heavy Industries / Hitachi. C5</td>
     <td>JNR / Nippon Sharyo / Kawasaki Heavy Industries / Hitachi</td>
     <td>100</td>
     <td>3492</td>
   </tr>
   <tr>
-    <td>JP JNR 213 EMU 1067JP</td>
+    <td>JNR 213 EMU 1067JP</td>
     <td>JNR 213 series suburban EMU. Two-door regional EMU used by JR West and JR Central. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo / Tokyu Car. C5</td>
     <td>Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo / Tokyu Car</td>
     <td>110</td>
     <td>1740</td>
   </tr>
   <tr>
-    <td>JP JNR 113 EMU 1067JP</td>
+    <td>JNR 113 EMU 1067JP</td>
     <td>JNR 113 series DC suburban EMU. Broad national legacy suburban profile for areas not covered by newer stock. Manufacturer: JNR / Nippon Sharyo / Kawasaki Heavy Industries / Hitachi. C5</td>
     <td>JNR / Nippon Sharyo / Kawasaki Heavy Industries / Hitachi</td>
     <td>110</td>
     <td>3492</td>
   </tr>
   <tr>
-    <td>JP JNR 117 EMU 1067JP</td>
+    <td>JNR 117 EMU 1067JP</td>
     <td>JNR 117 series two-door suburban EMU used on rapid and regional services. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo. C5</td>
     <td>Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo</td>
     <td>115</td>
     <td>2320</td>
   </tr>
   <tr>
-    <td>JP JNR 211 EMU 1067JP</td>
+    <td>JNR 211 EMU 1067JP</td>
     <td>JNR 211 series suburban EMU. Later JNR stainless-steel regional and suburban stock. Manufacturer: JNR / Kawasaki Heavy Industries / Tokyu Car / Nippon Sharyo. C5</td>
     <td>JNR / Kawasaki Heavy Industries / Tokyu Car / Nippon Sharyo</td>
     <td>110</td>
     <td>2910</td>
   </tr>
   <tr>
-    <td>JP JNR 185 Limited Express 1067JP</td>
+    <td>JNR 185 Limited Express 1067JP</td>
     <td>JNR 185 series limited express EMU introduced in 1981 for Odoriko services on the Tokaido Line, later also used on Takasaki-area services. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo / Tokyu Car.</td>
     <td>Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo / Tokyu Car</td>
     <td>110</td>
     <td>900</td>
   </tr>
   <tr>
-    <td>JP JNR 489 Limited Express 1067JP</td>
+    <td>JNR 489 Limited Express 1067JP</td>
     <td>JNR 489 series limited express EMU built from 1971 for Hakusan and Asama services over the Usui Pass with EF63 banking locomotives, later used on Noto and Hakutaka. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo / Tokyu Car.</td>
     <td>Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo / Tokyu Car</td>
     <td>120</td>
     <td>780</td>
   </tr>
   <tr>
-    <td>JP JNR 381 Limited Express 1067JP</td>
+    <td>JNR 381 Limited Express 1067JP</td>
     <td>JNR 381 series tilting limited express EMU introduced in 1973 for Shinano, Kuroshio and Yakumo services. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo.</td>
     <td>Hitachi / Kawasaki Heavy Industries / Kinki Sharyo</td>
     <td>120</td>
     <td>603</td>
   </tr>
   <tr>
-    <td>JP JNR 153 Express 1067JP</td>
+    <td>JNR 153 Express 1067JP</td>
     <td>JNR 153 series express EMU built from 1958 for Tokai and Hiei services on the Tokaido Line, later used on Shin-Kaisoku services. Manufacturer: Nippon Sharyo / Kisha Seizo / Kinki Sharyo / Kawasaki Heavy Industries.</td>
     <td>Nippon Sharyo / Kisha Seizo / Kinki Sharyo / Kawasaki Heavy Industries</td>
     <td>130</td>
     <td>936</td>
   </tr>
   <tr>
-    <td>JP JNR 453 Express 1067JP</td>
+    <td>JNR 453 Express 1067JP</td>
     <td>JNR 453 series AC/DC express EMU for Tohoku and Joban Line express services such as Tokiwa. Manufacturer: JNR.</td>
     <td>JNR</td>
     <td>110</td>
     <td>960</td>
   </tr>
   <tr>
-    <td>JP JRF EF210 1067JP</td>
+    <td>JRF EF210 1067JP</td>
     <td>JR Freight EF210 electric freight locomotive. Manufacturer: Mitsubishi Electric / Kawasaki Heavy Industries.</td>
     <td>Mitsubishi Electric / Kawasaki Heavy Industries</td>
     <td>110</td>
     <td>0</td>
   </tr>
   <tr>
-    <td>JP JRF EF510 1067JP</td>
+    <td>JRF EF510 1067JP</td>
     <td>JR Freight EF510 AC/DC electric locomotive built from 2001 for Japan Sea Coast and other main line freight services. Manufacturer: Kawasaki Heavy Industries / Mitsubishi Electric.</td>
     <td>Kawasaki Heavy Industries / Mitsubishi Electric</td>
     <td>110</td>
     <td>0</td>
   </tr>
   <tr>
-    <td>JP JRF DF200 1067JP</td>
+    <td>JRF DF200 1067JP</td>
     <td>JR Freight DF200 diesel-electric locomotive built from 1992 to replace the DD51 on Hokkaido freight services, later also used on the Kansai Main Line. Manufacturer: Kawasaki Heavy Industries.</td>
     <td>Kawasaki Heavy Industries</td>
     <td>110</td>
@@ -1026,21 +1026,21 @@ Besides adding trains and tracks, this mod changes the following game settings:
     <td>162</td>
   </tr>
   <tr>
-    <td>OSA JR 223 Kansai 1067JP</td>
+    <td>JRW 223 Kansai 1067JP</td>
     <td>JR West 223 series suburban train. Used on Kansai Airport Rapid and New Rapid (Shinkaisoku) services. Manufacturer: Kawasaki Heavy Industries / Kinki Sharyo. C5</td>
     <td>Kawasaki Heavy Industries / Kinki Sharyo</td>
     <td>130</td>
     <td>3492</td>
   </tr>
   <tr>
-    <td>OSA JR 323 Loop 1067JP</td>
+    <td>JRW 323 Loop 1067JP</td>
     <td>JR West 323 series 8-car commuter train. Used on the Osaka Loop Line. Manufacturer: Kinki Sharyo. C6</td>
     <td>Kinki Sharyo</td>
     <td>120</td>
     <td>2704</td>
   </tr>
   <tr>
-    <td>OSA JR 225 Kansai 1067JP</td>
+    <td>JRW 225 Kansai Osaka 1067JP</td>
     <td>JR West 225 series suburban train. Used on major Kansai rapid services. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries. C5</td>
     <td>Kinki Sharyo / Kawasaki Heavy Industries</td>
     <td>130</td>
@@ -1131,21 +1131,21 @@ Besides adding trains and tracks, this mod changes the following game settings:
     <td>402</td>
   </tr>
   <tr>
-    <td>KYO JR 221 Kansai 1067JP</td>
+    <td>JRW 221 Kansai 1067JP</td>
     <td>JR West 221 series suburban train serving Kyoto-area routes. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries. C5</td>
     <td>Kinki Sharyo / Kawasaki Heavy Industries</td>
     <td>120</td>
     <td>3492</td>
   </tr>
   <tr>
-    <td>KYO JR 225 Kansai 1067JP</td>
+    <td>JRW 225 Kansai Kyoto 1067JP</td>
     <td>JR West 225 series suburban train serving Kyoto-area rapid routes. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries. C5</td>
     <td>Kinki Sharyo / Kawasaki Heavy Industries</td>
     <td>130</td>
     <td>3492</td>
   </tr>
   <tr>
-    <td>KYO JR 321 Urban 1067JP</td>
+    <td>JRW 321 Urban Kyoto 1067JP</td>
     <td>JR West 321 series commuter train serving Kyoto/Kobe local routes. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries. C6</td>
     <td>Kinki Sharyo / Kawasaki Heavy Industries</td>
     <td>120</td>
@@ -1208,21 +1208,21 @@ Besides adding trains and tracks, this mod changes the following game settings:
     <td>352</td>
   </tr>
   <tr>
-    <td>KOB JR 207 Urban 1067JP</td>
+    <td>JRW 207 Urban 1067JP</td>
     <td>JR West 207 series commuter train serving Kobe-area local services. Manufacturer: Kawasaki Heavy Industries / Hitachi / Kinki Sharyo. C6</td>
     <td>Kawasaki Heavy Industries / Hitachi / Kinki Sharyo</td>
     <td>120</td>
     <td>2380</td>
   </tr>
   <tr>
-    <td>KOB JR 321 Urban 1067JP</td>
+    <td>JRW 321 Urban Kobe 1067JP</td>
     <td>JR West 321 series commuter train serving Kobe-area local services. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries. C6</td>
     <td>Kinki Sharyo / Kawasaki Heavy Industries</td>
     <td>120</td>
     <td>2380</td>
   </tr>
   <tr>
-    <td>KOB JR 225 Kansai 1067JP</td>
+    <td>JRW 225 Kansai Kobe 1067JP</td>
     <td>JR West 225 series suburban train serving Kobe-area rapid services. Manufacturer: Kinki Sharyo / Kawasaki Heavy Industries. C5</td>
     <td>Kinki Sharyo / Kawasaki Heavy Industries</td>
     <td>130</td>
@@ -1659,7 +1659,7 @@ Besides adding trains and tracks, this mod changes the following game settings:
 </details>
 
 <details>
-<summary>Tokyo (87)</summary>
+<summary>Tokyo (99)</summary>
 
 <table style="width: auto">
   <tr>
@@ -1866,35 +1866,35 @@ Besides adding trains and tracks, this mod changes the following game settings:
     <td>243</td>
   </tr>
   <tr>
-    <td>TYO E235-0 1067JP</td>
+    <td>JRE E235-0 1067JP</td>
     <td>JR East E235-0 series 11-car commuter train. Used on the Yamanote Line. Manufacturer: J-TREC. C6</td>
     <td>J-TREC</td>
     <td>130</td>
     <td>3740</td>
   </tr>
   <tr>
-    <td>TYO E235-1000 1067JP</td>
+    <td>JRE E235-1000 1067JP</td>
     <td>JR East E235-1000 series 11/15-car commuter train. Used on the Yokosuka and Sobu Rapid lines. Manufacturer: J-TREC. C5</td>
     <td>J-TREC</td>
     <td>130</td>
     <td>4350</td>
   </tr>
   <tr>
-    <td>TYO E233 Commuter 1067JP</td>
+    <td>JRE E233 Commuter 1067JP</td>
     <td>JR East E233 series commuter train family. Used on major Tokyo-area lines. Manufacturer: J-TREC / Tokyu Car / Kawasaki Heavy Industries. C5</td>
     <td>J-TREC / Tokyu Car / Kawasaki Heavy Industries</td>
     <td>130</td>
     <td>4350</td>
   </tr>
   <tr>
-    <td>TYO E331 Keiyo 1067JP</td>
+    <td>JRE E331 Keiyo 1067JP</td>
     <td>JR East E331 series 14-car articulated commuter train with direct-drive motors, used on the Keiyo Line from 2007 to 2011. Manufacturer: Kawasaki Heavy Industries / Tokyu Car. C5</td>
     <td>Kawasaki Heavy Industries / Tokyu Car</td>
     <td>120</td>
     <td>2954</td>
   </tr>
   <tr>
-    <td>TYO E233 Urban 1067JP/ST</td>
+    <td>JRE E233 Urban 1067JP/ST</td>
     <td>JR East E233 series commuter train. Used on inner Tokyo commuter lines, including Saikyo Line through services onto Sotetsu (E233-7000). Manufacturer: J-TREC. C6</td>
     <td>J-TREC</td>
     <td>130</td>
@@ -1915,91 +1915,98 @@ Besides adding trains and tracks, this mod changes the following game settings:
     <td>3380</td>
   </tr>
   <tr>
-    <td>TYO E233-2000 Joban 1067JP/MC/OD</td>
+    <td>JRE E233-2000 Joban 1067JP/MC/OD</td>
     <td>JR East E233-2000 series 10-car narrow-body commuter train for Joban Local Line services with through-service to the Tokyo Metro Chiyoda Line and Odakyu Line. Manufacturer: J-TREC. C7</td>
     <td>J-TREC</td>
     <td>130</td>
     <td>3640</td>
   </tr>
   <tr>
-    <td>TYO E231 Suburban 1067JP</td>
+    <td>JRE E231 Suburban 1067JP</td>
     <td>JR East E231 series commuter train family. Used on major outer Tokyo-area lines. Manufacturer: Tokyu Car / Kawasaki Heavy Industries. C5</td>
     <td>Tokyu Car / Kawasaki Heavy Industries</td>
     <td>130</td>
     <td>4365</td>
   </tr>
   <tr>
-    <td>TYO E231 Urban 1067JP</td>
+    <td>JRE E231 Urban 1067JP</td>
     <td>JR East E231 series commuter train family. Used on major Tokyo-area lines. Manufacturer: Tokyu Car / Kawasaki Heavy Industries. C6</td>
     <td>Tokyu Car / Kawasaki Heavy Industries</td>
     <td>130</td>
     <td>3400</td>
   </tr>
   <tr>
-    <td>TYO E231-500 6 Door 1067JP</td>
+    <td>JRE E231-500 6 Door 1067JP</td>
     <td>JR East E231-500 series 11-car Yamanote Line train, modelled with 6 doors per side and no seats on every car to represent rush-hour 6-door operation. Manufacturer: Tokyu Car / JR East Niitsu. C7</td>
     <td>Tokyu Car / JR East Niitsu</td>
     <td>130</td>
     <td>4543</td>
   </tr>
   <tr>
-    <td>TYO E231-800 Tozai 1067JP/MT</td>
+    <td>JRE E231-800 Tozai 1067JP/MT</td>
     <td>JR East E231-800 series 10-car commuter train with a narrower body for Chuo-Sobu Line through services onto the Tokyo Metro Tozai Line, introduced in 2003. Manufacturer: Tokyu Car / Kawasaki Heavy Industries. C7</td>
     <td>Tokyu Car / Kawasaki Heavy Industries</td>
     <td>120</td>
     <td>3670</td>
   </tr>
   <tr>
-    <td>TYO E217 Commuter 1067JP</td>
+    <td>JRE E217 Commuter 1067JP</td>
     <td>JR East E217 series commuter train. Used on the Yokosuka and Sobu Rapid lines. Manufacturer: Tokyu Car / Kawasaki Heavy Industries. C5</td>
     <td>Tokyu Car / Kawasaki Heavy Industries</td>
     <td>120</td>
     <td>4365</td>
   </tr>
   <tr>
-    <td>TYO 209 Chiba 1067JP</td>
+    <td>JRE 209 Chiba 1067JP</td>
     <td>JR East 209-2000/2100 series 4/6/10-car commuter EMU, converted from former Keihin-Tohoku stock, for Chiba-area local services including the Narita and Kashima lines. Manufacturer: Kawasaki Heavy Industries / Tokyu Car / JR East. C5</td>
     <td>Kawasaki Heavy Industries / Tokyu Car / JR East</td>
     <td>110</td>
     <td>2830</td>
   </tr>
   <tr>
-    <td>TYO 209 Suburban 1067JP</td>
+    <td>JRE 209 Suburban 1067JP</td>
     <td>JR East 209-500/3500 series 4/8/10-car wide-body commuter EMU, used on the Musashino and Keiyo lines and, as 4-car 3500 sets, on the Kawagoe and Hachiko lines. Manufacturer: JR East / Kawasaki Heavy Industries / Tokyu Car. C5</td>
     <td>JR East / Kawasaki Heavy Industries / Tokyu Car</td>
     <td>110</td>
     <td>2910</td>
   </tr>
   <tr>
-    <td>TYO 205 Tsurumi 1067JP</td>
+    <td>JRE 205 Tsurumi 1067JP</td>
     <td>JR East 205-1100 series 3-car commuter EMU, rebuilt from 205-0 stock, for Tsurumi Line services in Kawasaki and Yokohama. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo / Tokyu Car. C6</td>
     <td>Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo / Tokyu Car</td>
     <td>100</td>
     <td>966</td>
   </tr>
   <tr>
-    <td>TYO E531 Commuter 1067JP</td>
+    <td>JRE E131-1000 Tsurumi 1067JP</td>
+    <td>JR East E131-1000 series 3-car one-man commuter EMU introduced in 2023 for the Tsurumi Line, replacing the 205-1100 series. Manufacturer: J-TREC. C5</td>
+    <td>J-TREC</td>
+    <td>110</td>
+    <td>804</td>
+  </tr>
+  <tr>
+    <td>JRE E531 Commuter 1067JP</td>
     <td>JR East E531 series commuter train. Used on the Joban Rapid line. Manufacturer: J-TREC / Tokyu Car / Kawasaki Heavy Industries. C5</td>
     <td>J-TREC / Tokyu Car / Kawasaki Heavy Industries</td>
     <td>130</td>
     <td>4365</td>
   </tr>
   <tr>
-    <td>TYO E257 Limited Express 1067JP</td>
+    <td>JRE E257 Limited Express 1067JP</td>
     <td>JR East E257 series 2 to 9 car limited express train. Used on Azusa, Kaiji, Odoriko, Shonan and more Express services. Manufacturer: Hitachi / Kinki Sharyo / Tokyu Car.</td>
     <td>Hitachi / Kinki Sharyo / Tokyu Car</td>
     <td>130</td>
     <td>840</td>
   </tr>
   <tr>
-    <td>TYO E259 Narita Express 1067JP</td>
+    <td>JRE E259 Narita Express 1067JP</td>
     <td>JR East E259 series 6/12-car airport limited express train. Used on Narita Express services. Manufacturer: Kinki Sharyo / Tokyu Car.</td>
     <td>Kinki Sharyo / Tokyu Car</td>
     <td>130</td>
     <td>528</td>
   </tr>
   <tr>
-    <td>TYO E657 Limited Express 1067JP</td>
+    <td>JRE E657 Limited Express 1067JP</td>
     <td>JR East E657 series 10-car limited express train. Used on Hitachi and Tokiwa services on the Joban Line. Manufacturer: Hitachi / Kinki Sharyo / J-TREC.</td>
     <td>Hitachi / Kinki Sharyo / J-TREC</td>
     <td>130</td>
@@ -2056,7 +2063,7 @@ Besides adding trains and tracks, this mod changes the following game settings:
   </tr>
   <tr>
     <td>TYO Seibu 40000 Commuter 1067JP/MB/MH/MI/MF/MZ/SB/ST/TB/TQ</td>
-    <td>Seibu 40000 series commuter/S-TRAIN EMU. Used on the Ikebukuro Line, with through-service to the Yurakucho and Fukutoshin lines and onward to Tokyu Toyoko services. Can also run on Hanzomon, Hibiya, Mita, Namboku, Sotetsu and Tobu track. Manufacturer: J-TREC. C6</td>
+    <td>Seibu 40000 series 8/10-car commuter/S-TRAIN EMU. Used on the Ikebukuro Line, with through-service to the Yurakucho and Fukutoshin lines and onward to Tokyu Toyoko services. Can also run on Hanzomon, Hibiya, Mita, Namboku, Sotetsu and Tobu track. Manufacturer: J-TREC. C6</td>
     <td>J-TREC</td>
     <td>120</td>
     <td>3280</td>
@@ -2116,6 +2123,55 @@ Besides adding trains and tracks, this mod changes the following game settings:
     <td>Tobu Railway</td>
     <td>110</td>
     <td>2608</td>
+  </tr>
+  <tr>
+    <td>TYO Tobu 800/850 Commuter 1067JP/MB/MH/MI/MF/MZ/ST/TB/TQ</td>
+    <td>Tobu 800 and 850 series 3-car one-man commuter EMU rebuilt from 8000 series sets, used on lines in the Tatebayashi area. Can also run on Fukutoshin, Hanzomon, Hibiya, Mita, Namboku, Sotetsu, Tokyu and Yurakucho track. Manufacturer: Tobu Railway. C6</td>
+    <td>Tobu Railway</td>
+    <td>110</td>
+    <td>978</td>
+  </tr>
+  <tr>
+    <td>TYO Tobu 9000 Commuter 1067JP/MB/MH/MI/MF/MZ/ST/TB/TQ</td>
+    <td>Tobu 9000 series 10-car commuter EMU introduced in 1981, used on the Tojo Line with through-service to the Yurakucho and Fukutoshin lines and onward to Tokyu Toyoko and Minatomirai services. Can also run on Hanzomon, Hibiya, Mita, Namboku and Sotetsu track. Manufacturer: Tokyu Car / Fuji Heavy Industries / Alna Koki. C6</td>
+    <td>Tokyu Car / Fuji Heavy Industries / Alna Koki</td>
+    <td>110</td>
+    <td>3260</td>
+  </tr>
+  <tr>
+    <td>TYO Tobu 20000 Commuter 1067JP/MB/MH/MI/MF/MZ/ST/TB/TQ</td>
+    <td>Tobu 20000 series 4/8-car commuter EMU introduced in 1988 with 18 m cars for Hibiya Line through services, which ended in 2020; 4-car 20400 sets now run on the Nikko and Utsunomiya lines. Can also run on Fukutoshin, Hanzomon, Mita, Namboku, Sotetsu, Tokyu and Yurakucho track. Manufacturer: Alna Koki / Tokyu Car. C6</td>
+    <td>Alna Koki / Tokyu Car</td>
+    <td>100</td>
+    <td>2368</td>
+  </tr>
+  <tr>
+    <td>TYO Tobu 30000 Commuter 1067JP/MB/MH/MI/MF/MZ/ST/TB/TQ</td>
+    <td>Tobu 30000 series 4/6/10-car commuter EMU introduced in 1996, used on the Tojo Line and, from 2003, on Hanzomon and Tokyu Den-en-toshi through services. Can also run on Fukutoshin, Hibiya, Mita, Namboku, Sotetsu and Yurakucho track. Manufacturer: Alna Koki / Tokyu Car / Fuji Heavy Industries. C6</td>
+    <td>Alna Koki / Tokyu Car / Fuji Heavy Industries</td>
+    <td>119</td>
+    <td>3270</td>
+  </tr>
+  <tr>
+    <td>TYO Tobu 60000 Commuter 1067JP/MB/MH/MI/MF/MZ/ST/TB/TQ</td>
+    <td>Tobu 60000 series 5/6-car commuter EMU introduced in 2013 for the Noda Line (Tobu Urban Park Line), replacing the 8000 series. Can also run on Fukutoshin, Hanzomon, Hibiya, Mita, Namboku, Sotetsu, Tokyu and Yurakucho track. Manufacturer: Hitachi. C6</td>
+    <td>Hitachi</td>
+    <td>119</td>
+    <td>1932</td>
+  </tr>
+  <tr>
+    <td>TYO Tobu 70000 Commuter 1067JP/MB/MH/MI/MF/MZ/ST/TB/TQ</td>
+    <td>Tobu 70000 series 7-car commuter EMU introduced in 2017 for Skytree Line and Nikko Line services, with through-service to the Hibiya Line. Can also run on Fukutoshin, Hanzomon, Mita, Namboku, Sotetsu, Tokyu and Yurakucho track. Manufacturer: Kinki Sharyo. C6</td>
+    <td>Kinki Sharyo</td>
+    <td>110</td>
+    <td>2254</td>
+  </tr>
+  <tr>
+    <td>TYO Tobu 80000 Commuter 1067JP/MB/MH/MI/MF/MZ/ST/TB/TQ</td>
+    <td>Tobu 80000 series 5-car commuter EMU introduced in 2025 for the Noda Line (Tobu Urban Park Line), replacing the 8000 and 10030 series. Can also run on Fukutoshin, Hanzomon, Hibiya, Mita, Namboku, Sotetsu, Tokyu and Yurakucho track. Manufacturer: Kinki Sharyo. C6</td>
+    <td>Kinki Sharyo</td>
+    <td>119</td>
+    <td>1625</td>
   </tr>
   <tr>
     <td>TYO TX-2000 1067TX</td>
@@ -2221,6 +2277,34 @@ Besides adding trains and tracks, this mod changes the following game settings:
     <td>Nippon Sharyo / Tokyu Car</td>
     <td>110</td>
     <td>3710</td>
+  </tr>
+  <tr>
+    <td>KEIO 7000 EMU 1372KT</td>
+    <td>Keio 7000 series commuter EMU built from 1984, in 2 to 10-car sets, used on the Keio Line and its Keibajo and Dobutsuen branches. Manufacturer: Nippon Sharyo / Tokyu Car. C7</td>
+    <td>Nippon Sharyo / Tokyu Car</td>
+    <td>110</td>
+    <td>3700</td>
+  </tr>
+  <tr>
+    <td>KEIO 8000 EMU 1372KT</td>
+    <td>Keio 8000 series commuter EMU introduced in 1992 as the first Keio VVVF train, in 8-car and 10-car sets, used on the Keio Line. Manufacturer: Nippon Sharyo / Tokyu Car. C7</td>
+    <td>Nippon Sharyo / Tokyu Car</td>
+    <td>119</td>
+    <td>3700</td>
+  </tr>
+  <tr>
+    <td>KEIO 2000 EMU 1372KT</td>
+    <td>Keio 2000 series 10-car commuter EMU with SiC inverters, introduced in 2026 to replace the 7000 series on the Keio Line. Manufacturer: J-TREC. C7</td>
+    <td>J-TREC</td>
+    <td>130</td>
+    <td>3730</td>
+  </tr>
+  <tr>
+    <td>KEIO 1000 EMU 1067JP</td>
+    <td>Keio 1000 series 5-car commuter EMU introduced in 1996 for Inokashira Line services. Manufacturer: Tokyu Car / Nippon Sharyo. C7</td>
+    <td>Tokyu Car / Nippon Sharyo</td>
+    <td>90</td>
+    <td>1875</td>
   </tr>
   <tr>
     <td>ODQ 3000 EMU 1067JP/MC/OD</td>

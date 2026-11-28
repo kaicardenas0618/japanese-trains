@@ -2579,7 +2579,7 @@
   },
   {
     "id": "tyo-e235-yamanote",
-    "name": "TYO E235-0 1067JP",
+    "name": "JRE E235-0 1067JP",
     "description": "JR East E235-0 series 11-car commuter train. Used on the Yamanote Line. Manufacturer: J-TREC. C6",
     "stats": {
       "maxAcceleration": 0.834,
@@ -2664,7 +2664,7 @@
   },
   {
     "id": "tyo-e235-1000",
-    "name": "TYO E235-1000 1067JP",
+    "name": "JRE E235-1000 1067JP",
     "description": "JR East E235-1000 series 11/15-car commuter train. Used on the Yokosuka and Sobu Rapid lines. Manufacturer: J-TREC. C5",
     "stats": {
       "maxAcceleration": 0.69,
@@ -2749,7 +2749,7 @@
   },
   {
     "id": "tyo-e233-commuter",
-    "name": "TYO E233 Commuter 1067JP",
+    "name": "JRE E233 Commuter 1067JP",
     "description": "JR East E233 series commuter train family. Used on major Tokyo-area lines. Manufacturer: J-TREC / Tokyu Car / Kawasaki Heavy Industries. C5",
     "stats": {
       "maxAcceleration": 0.655,
@@ -2836,7 +2836,7 @@
   },
   {
     "id": "tyo-e331-keiyo",
-    "name": "TYO E331 Keiyo 1067JP",
+    "name": "JRE E331 Keiyo 1067JP",
     "description": "JR East E331 series 14-car articulated commuter train with direct-drive motors, used on the Keiyo Line from 2007 to 2011. Manufacturer: Kawasaki Heavy Industries / Tokyu Car. C5",
     "stats": {
       "maxAcceleration": 0.694,
@@ -2922,7 +2922,7 @@
   },
   {
     "id": "tyo-e233-urban",
-    "name": "TYO E233 Urban 1067JP/ST",
+    "name": "JRE E233 Urban 1067JP/ST",
     "description": "JR East E233 series commuter train. Used on inner Tokyo commuter lines, including Saikyo Line through services onto Sotetsu (E233-7000). Manufacturer: J-TREC. C6",
     "stats": {
       "maxAcceleration": 0.746,
@@ -3184,7 +3184,7 @@
   },
   {
     "id": "tyo-e233-2000",
-    "name": "TYO E233-2000 Joban 1067JP/MC/OD",
+    "name": "JRE E233-2000 Joban 1067JP/MC/OD",
     "description": "JR East E233-2000 series 10-car narrow-body commuter train for Joban Local Line services with through-service to the Tokyo Metro Chiyoda Line and Odakyu Line. Manufacturer: J-TREC. C7",
     "stats": {
       "maxAcceleration": 0.917,
@@ -3271,7 +3271,7 @@
   },
   {
     "id": "tyo-e231-commuter",
-    "name": "TYO E231 Suburban 1067JP",
+    "name": "JRE E231 Suburban 1067JP",
     "description": "JR East E231 series commuter train family. Used on major outer Tokyo-area lines. Manufacturer: Tokyu Car / Kawasaki Heavy Industries. C5",
     "stats": {
       "maxAcceleration": 0.673,
@@ -3357,7 +3357,7 @@
   },
   {
     "id": "tyo-e231-urban",
-    "name": "TYO E231 Urban 1067JP",
+    "name": "JRE E231 Urban 1067JP",
     "description": "JR East E231 series commuter train family. Used on major Tokyo-area lines. Manufacturer: Tokyu Car / Kawasaki Heavy Industries. C6",
     "stats": {
       "maxAcceleration": 0.74,
@@ -3443,7 +3443,7 @@
   },
   {
     "id": "tyo-e231-500-6-door",
-    "name": "TYO E231-500 6 Door 1067JP",
+    "name": "JRE E231-500 6 Door 1067JP",
     "description": "JR East E231-500 series 11-car Yamanote Line train, modelled with 6 doors per side and no seats on every car to represent rush-hour 6-door operation. Manufacturer: Tokyu Car / JR East Niitsu. C7",
     "stats": {
       "maxAcceleration": 0.74,
@@ -3529,7 +3529,7 @@
   },
   {
     "id": "tyo-e231-800",
-    "name": "TYO E231-800 Tozai 1067JP/MT",
+    "name": "JRE E231-800 Tozai 1067JP/MT",
     "description": "JR East E231-800 series 10-car commuter train with a narrower body for Chuo-Sobu Line through services onto the Tokyo Metro Tozai Line, introduced in 2003. Manufacturer: Tokyu Car / Kawasaki Heavy Industries. C7",
     "stats": {
       "maxAcceleration": 0.917,
@@ -3616,7 +3616,7 @@
   },
   {
     "id": "tyo-e217-commuter",
-    "name": "TYO E217 Commuter 1067JP",
+    "name": "JRE E217 Commuter 1067JP",
     "description": "JR East E217 series commuter train. Used on the Yokosuka and Sobu Rapid lines. Manufacturer: Tokyu Car / Kawasaki Heavy Industries. C5",
     "stats": {
       "maxAcceleration": 0.556,
@@ -3702,7 +3702,7 @@
   },
   {
     "id": "tyo-209-chiba",
-    "name": "TYO 209 Chiba 1067JP",
+    "name": "JRE 209 Chiba 1067JP",
     "description": "JR East 209-2000/2100 series 4/6/10-car commuter EMU, converted from former Keihin-Tohoku stock, for Chiba-area local services including the Narita and Kashima lines. Manufacturer: Kawasaki Heavy Industries / Tokyu Car / JR East. C5",
     "stats": {
       "maxAcceleration": 0.694,
@@ -3789,7 +3789,7 @@
   },
   {
     "id": "tyo-209-suburban",
-    "name": "TYO 209 Suburban 1067JP",
+    "name": "JRE 209 Suburban 1067JP",
     "description": "JR East 209-500/3500 series 4/8/10-car wide-body commuter EMU, used on the Musashino and Keiyo lines and, as 4-car 3500 sets, on the Kawagoe and Hachiko lines. Manufacturer: JR East / Kawasaki Heavy Industries / Tokyu Car. C5",
     "stats": {
       "maxAcceleration": 0.694,
@@ -3876,7 +3876,7 @@
   },
   {
     "id": "tyo-205-tsurumi",
-    "name": "TYO 205 Tsurumi 1067JP",
+    "name": "JRE 205 Tsurumi 1067JP",
     "description": "JR East 205-1100 series 3-car commuter EMU, rebuilt from 205-0 stock, for Tsurumi Line services in Kawasaki and Yokohama. Manufacturer: Hitachi / Kawasaki Heavy Industries / Kinki Sharyo / Nippon Sharyo / Tokyu Car. C6",
     "stats": {
       "maxAcceleration": 0.667,
@@ -3964,8 +3964,93 @@
     "invisible": "track"
   },
   {
+    "id": "jre-e131-1000-tsurumi",
+    "name": "JRE E131-1000 Tsurumi 1067JP",
+    "description": "JR East E131-1000 series 3-car one-man commuter EMU introduced in 2023 for the Tsurumi Line, replacing the 205-1100 series. Manufacturer: J-TREC. C5",
+    "stats": {
+      "maxAcceleration": 0.694,
+      "maxDeceleration": 1.0,
+      "accelerationCurve": {
+        "a0": 0.694,
+        "a1": 0.691,
+        "v1": 11.62,
+        "v2": 20.88,
+        "exponent": 2.0
+      },
+      "maxSpeed": 30.55,
+      "maxSpeedLocalStation": 30.55,
+      "capacityPerCar": 268,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 4,
+      "carLength": 19.55,
+      "minCars": 3,
+      "maxCars": 3,
+      "carsPerCarSet": 3,
+      "carCost": 3200000,
+      "trainWidth": 2.778,
+      "minStationLength": 59,
+      "maxStationLength": 69,
+      "baseTrackCost": 32000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.275,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 40,
+      "turnaroundTimeSeconds": 80,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 60,
+      "crossoverSpeed": 12.5,
+      "yardSpeedLimit": 11.11
+    },
+    "appearance": {
+      "color": "#2AA6DE",
+      "catenary": true
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
+    },
+    "Manufacturer": [
+      "J-TREC"
+    ],
+    "compatibleTrackTypes": [
+      "1067JP-95",
+      "1067JP-100",
+      "1067JP-110",
+      "1067JP-120",
+      "1067JP-130",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000,
+    "invisible": "track"
+  },
+  {
     "id": "tyo-e531-commuter",
-    "name": "TYO E531 Commuter 1067JP",
+    "name": "JRE E531 Commuter 1067JP",
     "description": "JR East E531 series commuter train. Used on the Joban Rapid line. Manufacturer: J-TREC / Tokyu Car / Kawasaki Heavy Industries. C5",
     "stats": {
       "maxAcceleration": 0.69,
@@ -4052,7 +4137,7 @@
   },
   {
     "id": "tyo-e257-limited-express",
-    "name": "TYO E257 Limited Express 1067JP",
+    "name": "JRE E257 Limited Express 1067JP",
     "description": "JR East E257 series 2 to 9 car limited express train. Used on Azusa, Kaiji, Odoriko, Shonan and more Express services. Manufacturer: Hitachi / Kinki Sharyo / Tokyu Car.",
     "stats": {
       "maxAcceleration": 0.599,
@@ -4139,7 +4224,7 @@
   },
   {
     "id": "tyo-e259-narita-express",
-    "name": "TYO E259 Narita Express 1067JP",
+    "name": "JRE E259 Narita Express 1067JP",
     "description": "JR East E259 series 6/12-car airport limited express train. Used on Narita Express services. Manufacturer: Kinki Sharyo / Tokyu Car.",
     "stats": {
       "maxAcceleration": 0.556,
@@ -4225,7 +4310,7 @@
   },
   {
     "id": "tyo-e657-limited-express",
-    "name": "TYO E657 Limited Express 1067JP",
+    "name": "JRE E657 Limited Express 1067JP",
     "description": "JR East E657 series 10-car limited express train. Used on Hitachi and Tokiwa services on the Joban Line. Manufacturer: Hitachi / Kinki Sharyo / J-TREC.",
     "stats": {
       "maxAcceleration": 0.56,
@@ -6932,7 +7017,7 @@
   {
     "id": "tyo-seibu-40000-commuter",
     "name": "TYO Seibu 40000 Commuter 1067JP/MB/MH/MI/MF/MZ/SB/ST/TB/TQ",
-    "description": "Seibu 40000 series commuter/S-TRAIN EMU. Used on the Ikebukuro Line, with through-service to the Yurakucho and Fukutoshin lines and onward to Tokyu Toyoko services. Can also run on Hanzomon, Hibiya, Mita, Namboku, Sotetsu and Tobu track. Manufacturer: J-TREC. C6",
+    "description": "Seibu 40000 series 8/10-car commuter/S-TRAIN EMU. Used on the Ikebukuro Line, with through-service to the Yurakucho and Fukutoshin lines and onward to Tokyu Toyoko services. Can also run on Hanzomon, Hibiya, Mita, Namboku, Sotetsu and Tobu track. Manufacturer: J-TREC. C6",
     "stats": {
       "maxAcceleration": 0.917,
       "maxDeceleration": 1.2,
@@ -6949,12 +7034,12 @@
       "seatsPerCar": 48,
       "doorsPerCarPerSide": 3,
       "carLength": 20,
-      "minCars": 10,
+      "minCars": 8,
       "maxCars": 10,
-      "carsPerCarSet": 1,
+      "carsPerCarSet": 2,
       "carCost": 3400000,
       "trainWidth": 2.85,
-      "minStationLength": 200,
+      "minStationLength": 160,
       "maxStationLength": 210,
       "baseTrackCost": 32000,
       "baseStationCost": 85000000,
@@ -7772,6 +7857,676 @@
       "1067MI-75",
       "1067TQ-80",
       "1067TQ-110",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000,
+    "invisible": "track"
+  },
+  {
+    "id": "tyo-tobu-800-850-commuter",
+    "name": "TYO Tobu 800/850 Commuter 1067JP/MB/MH/MI/MF/MZ/ST/TB/TQ",
+    "description": "Tobu 800 and 850 series 3-car one-man commuter EMU rebuilt from 8000 series sets, used on lines in the Tatebayashi area. Can also run on Fukutoshin, Hanzomon, Hibiya, Mita, Namboku, Sotetsu, Tokyu and Yurakucho track. Manufacturer: Tobu Railway. C6",
+    "stats": {
+      "maxAcceleration": 0.619,
+      "maxDeceleration": 1.03,
+      "accelerationCurve": {
+        "a0": 0.619,
+        "a1": 0.616,
+        "v1": 11.07,
+        "v2": 17.63,
+        "exponent": 2.0
+      },
+      "maxSpeed": 30.55,
+      "maxSpeedLocalStation": 30.55,
+      "capacityPerCar": 326,
+      "seatsPerCar": 54,
+      "doorsPerCarPerSide": 4,
+      "carLength": 20.0,
+      "minCars": 3,
+      "maxCars": 3,
+      "carsPerCarSet": 3,
+      "carCost": 2700000,
+      "trainWidth": 2.85,
+      "minStationLength": 60,
+      "maxStationLength": 70,
+      "baseTrackCost": 32000,
+      "baseStationCost": 78000000,
+      "trainOperationalCostPerHour": 320,
+      "carOperationalCostPerHour": 23,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.125,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 48,
+      "crossoverSpeed": 12.5,
+      "yardSpeedLimit": 11.11
+    },
+    "appearance": {
+      "color": "#F08C3A",
+      "catenary": true
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
+    },
+    "Manufacturer": [
+      "Tobu Railway"
+    ],
+    "compatibleTrackTypes": [
+      "1067JP-95",
+      "1067JP-100",
+      "1067JP-110",
+      "1067JP-120",
+      "1067JP-130",
+      "1067MF-80",
+      "1067MH-80",
+      "1067MZ-80",
+      "1067TB-100",
+      "1067TB-120",
+      "1067ST-100",
+      "1067MB-80",
+      "1067MI-75",
+      "1067TQ-80",
+      "1067TQ-110",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000,
+    "invisible": "track"
+  },
+  {
+    "id": "tyo-tobu-9000-commuter",
+    "name": "TYO Tobu 9000 Commuter 1067JP/MB/MH/MI/MF/MZ/ST/TB/TQ",
+    "description": "Tobu 9000 series 10-car commuter EMU introduced in 1981, used on the Tojo Line with through-service to the Yurakucho and Fukutoshin lines and onward to Tokyu Toyoko and Minatomirai services. Can also run on Hanzomon, Hibiya, Mita, Namboku and Sotetsu track. Manufacturer: Tokyu Car / Fuji Heavy Industries / Alna Koki. C6",
+    "stats": {
+      "maxAcceleration": 0.917,
+      "maxDeceleration": 1.03,
+      "accelerationCurve": {
+        "a0": 0.917,
+        "a1": 0.912,
+        "v1": 11.07,
+        "v2": 17.63,
+        "exponent": 2.0
+      },
+      "maxSpeed": 30.55,
+      "maxSpeedLocalStation": 30.55,
+      "capacityPerCar": 326,
+      "seatsPerCar": 54,
+      "doorsPerCarPerSide": 4,
+      "carLength": 20.0,
+      "minCars": 10,
+      "maxCars": 10,
+      "carsPerCarSet": 10,
+      "carCost": 2700000,
+      "trainWidth": 2.85,
+      "minStationLength": 200,
+      "maxStationLength": 210,
+      "baseTrackCost": 32000,
+      "baseStationCost": 78000000,
+      "trainOperationalCostPerHour": 320,
+      "carOperationalCostPerHour": 23,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.125,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 48,
+      "crossoverSpeed": 12.5,
+      "yardSpeedLimit": 11.11
+    },
+    "appearance": {
+      "color": "#6C7A89",
+      "catenary": true
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
+    },
+    "Manufacturer": [
+      "Tokyu Car",
+      "Fuji Heavy Industries",
+      "Alna Koki"
+    ],
+    "compatibleTrackTypes": [
+      "1067JP-95",
+      "1067JP-100",
+      "1067JP-110",
+      "1067JP-120",
+      "1067JP-130",
+      "1067MF-80",
+      "1067MH-80",
+      "1067MZ-80",
+      "1067TB-100",
+      "1067TB-120",
+      "1067ST-100",
+      "1067MB-80",
+      "1067MI-75",
+      "1067TQ-80",
+      "1067TQ-110",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000,
+    "invisible": "track"
+  },
+  {
+    "id": "tyo-tobu-20000-commuter",
+    "name": "TYO Tobu 20000 Commuter 1067JP/MB/MH/MI/MF/MZ/ST/TB/TQ",
+    "description": "Tobu 20000 series 4/8-car commuter EMU introduced in 1988 with 18 m cars for Hibiya Line through services, which ended in 2020; 4-car 20400 sets now run on the Nikko and Utsunomiya lines. Can also run on Fukutoshin, Hanzomon, Mita, Namboku, Sotetsu, Tokyu and Yurakucho track. Manufacturer: Alna Koki / Tokyu Car. C6",
+    "stats": {
+      "maxAcceleration": 0.917,
+      "maxDeceleration": 1.03,
+      "accelerationCurve": {
+        "a0": 0.917,
+        "a1": 0.912,
+        "v1": 11.07,
+        "v2": 17.63,
+        "exponent": 2.0
+      },
+      "maxSpeed": 27.77,
+      "maxSpeedLocalStation": 27.77,
+      "capacityPerCar": 296,
+      "seatsPerCar": 44,
+      "doorsPerCarPerSide": 3,
+      "carLength": 18.0,
+      "minCars": 4,
+      "maxCars": 8,
+      "carsPerCarSet": 4,
+      "carCost": 2700000,
+      "trainWidth": 2.857,
+      "minStationLength": 72,
+      "maxStationLength": 154,
+      "baseTrackCost": 32000,
+      "baseStationCost": 78000000,
+      "trainOperationalCostPerHour": 320,
+      "carOperationalCostPerHour": 23,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.125,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 48,
+      "crossoverSpeed": 12.5,
+      "yardSpeedLimit": 11.11
+    },
+    "appearance": {
+      "color": "#A0A0A0",
+      "catenary": true
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
+    },
+    "Manufacturer": [
+      "Alna Koki",
+      "Tokyu Car"
+    ],
+    "compatibleTrackTypes": [
+      "1067JP-95",
+      "1067JP-100",
+      "1067JP-110",
+      "1067JP-120",
+      "1067JP-130",
+      "1067MF-80",
+      "1067MH-80",
+      "1067MZ-80",
+      "1067TB-100",
+      "1067TB-120",
+      "1067ST-100",
+      "1067MB-80",
+      "1067MI-75",
+      "1067TQ-80",
+      "1067TQ-110",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000,
+    "invisible": "track"
+  },
+  {
+    "id": "tyo-tobu-30000-commuter",
+    "name": "TYO Tobu 30000 Commuter 1067JP/MB/MH/MI/MF/MZ/ST/TB/TQ",
+    "description": "Tobu 30000 series 4/6/10-car commuter EMU introduced in 1996, used on the Tojo Line and, from 2003, on Hanzomon and Tokyu Den-en-toshi through services. Can also run on Fukutoshin, Hibiya, Mita, Namboku, Sotetsu and Yurakucho track. Manufacturer: Alna Koki / Tokyu Car / Fuji Heavy Industries. C6",
+    "stats": {
+      "maxAcceleration": 0.917,
+      "maxDeceleration": 0.97,
+      "accelerationCurve": {
+        "a0": 0.917,
+        "a1": 0.912,
+        "v1": 11.07,
+        "v2": 17.63,
+        "exponent": 2.0
+      },
+      "maxSpeed": 33.0,
+      "maxSpeedLocalStation": 33.0,
+      "capacityPerCar": 327,
+      "seatsPerCar": 52,
+      "doorsPerCarPerSide": 4,
+      "carLength": 20.0,
+      "minCars": 4,
+      "maxCars": 10,
+      "carsPerCarSet": 2,
+      "carCost": 3200000,
+      "trainWidth": 2.85,
+      "minStationLength": 80,
+      "maxStationLength": 210,
+      "baseTrackCost": 32000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.275,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 60,
+      "crossoverSpeed": 12.5,
+      "yardSpeedLimit": 11.11
+    },
+    "appearance": {
+      "color": "#C8102E",
+      "catenary": true
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
+    },
+    "Manufacturer": [
+      "Alna Koki",
+      "Tokyu Car",
+      "Fuji Heavy Industries"
+    ],
+    "compatibleTrackTypes": [
+      "1067JP-95",
+      "1067JP-100",
+      "1067JP-110",
+      "1067JP-120",
+      "1067JP-130",
+      "1067MF-80",
+      "1067MH-80",
+      "1067MZ-80",
+      "1067TB-100",
+      "1067TB-120",
+      "1067TQ-80",
+      "1067TQ-110",
+      "1067ST-100",
+      "1067MB-80",
+      "1067MI-75",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000,
+    "invisible": "track"
+  },
+  {
+    "id": "tyo-tobu-60000-commuter",
+    "name": "TYO Tobu 60000 Commuter 1067JP/MB/MH/MI/MF/MZ/ST/TB/TQ",
+    "description": "Tobu 60000 series 5/6-car commuter EMU introduced in 2013 for the Noda Line (Tobu Urban Park Line), replacing the 8000 series. Can also run on Fukutoshin, Hanzomon, Hibiya, Mita, Namboku, Sotetsu, Tokyu and Yurakucho track. Manufacturer: Hitachi. C6",
+    "stats": {
+      "maxAcceleration": 0.619,
+      "maxDeceleration": 0.97,
+      "accelerationCurve": {
+        "a0": 0.619,
+        "a1": 0.618,
+        "v1": 11.21,
+        "v2": 16.9,
+        "exponent": 1.78
+      },
+      "maxSpeed": 33.0,
+      "maxSpeedLocalStation": 33.0,
+      "capacityPerCar": 322,
+      "seatsPerCar": 50,
+      "doorsPerCarPerSide": 4,
+      "carLength": 20.04,
+      "minCars": 5,
+      "maxCars": 6,
+      "carsPerCarSet": 1,
+      "carCost": 3200000,
+      "trainWidth": 2.8,
+      "minStationLength": 101,
+      "maxStationLength": 131,
+      "baseTrackCost": 32000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.275,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 60,
+      "crossoverSpeed": 12.5,
+      "yardSpeedLimit": 11.11
+    },
+    "appearance": {
+      "color": "#00A0DE",
+      "catenary": true
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
+    },
+    "Manufacturer": [
+      "Hitachi"
+    ],
+    "compatibleTrackTypes": [
+      "1067JP-95",
+      "1067JP-100",
+      "1067JP-110",
+      "1067JP-120",
+      "1067JP-130",
+      "1067MF-80",
+      "1067MH-80",
+      "1067MZ-80",
+      "1067TB-100",
+      "1067TB-120",
+      "1067TQ-80",
+      "1067TQ-110",
+      "1067ST-100",
+      "1067MB-80",
+      "1067MI-75",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000,
+    "invisible": "track"
+  },
+  {
+    "id": "tyo-tobu-70000-commuter",
+    "name": "TYO Tobu 70000 Commuter 1067JP/MB/MH/MI/MF/MZ/ST/TB/TQ",
+    "description": "Tobu 70000 series 7-car commuter EMU introduced in 2017 for Skytree Line and Nikko Line services, with through-service to the Hibiya Line. Can also run on Fukutoshin, Hanzomon, Mita, Namboku, Sotetsu, Tokyu and Yurakucho track. Manufacturer: Kinki Sharyo. C6",
+    "stats": {
+      "maxAcceleration": 0.917,
+      "maxDeceleration": 1.03,
+      "accelerationCurve": {
+        "a0": 0.917,
+        "a1": 0.916,
+        "v1": 11.21,
+        "v2": 16.9,
+        "exponent": 1.78
+      },
+      "maxSpeed": 30.55,
+      "maxSpeedLocalStation": 30.55,
+      "capacityPerCar": 322,
+      "seatsPerCar": 49,
+      "doorsPerCarPerSide": 4,
+      "carLength": 20.13,
+      "minCars": 7,
+      "maxCars": 7,
+      "carsPerCarSet": 7,
+      "carCost": 3200000,
+      "trainWidth": 2.78,
+      "minStationLength": 141,
+      "maxStationLength": 151,
+      "baseTrackCost": 32000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.275,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 60,
+      "crossoverSpeed": 12.5,
+      "yardSpeedLimit": 11.11
+    },
+    "appearance": {
+      "color": "#E60012",
+      "catenary": true
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
+    },
+    "Manufacturer": [
+      "Kinki Sharyo"
+    ],
+    "compatibleTrackTypes": [
+      "1067JP-95",
+      "1067JP-100",
+      "1067JP-110",
+      "1067JP-120",
+      "1067JP-130",
+      "1067MF-80",
+      "1067MH-80",
+      "1067MZ-80",
+      "1067TB-100",
+      "1067TB-120",
+      "1067TQ-80",
+      "1067TQ-110",
+      "1067ST-100",
+      "1067MB-80",
+      "1067MI-75",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000,
+    "invisible": "track"
+  },
+  {
+    "id": "tyo-tobu-80000-commuter",
+    "name": "TYO Tobu 80000 Commuter 1067JP/MB/MH/MI/MF/MZ/ST/TB/TQ",
+    "description": "Tobu 80000 series 5-car commuter EMU introduced in 2025 for the Noda Line (Tobu Urban Park Line), replacing the 8000 and 10030 series. Can also run on Fukutoshin, Hanzomon, Hibiya, Mita, Namboku, Sotetsu, Tokyu and Yurakucho track. Manufacturer: Kinki Sharyo. C6",
+    "stats": {
+      "maxAcceleration": 0.619,
+      "maxDeceleration": 1.03,
+      "accelerationCurve": {
+        "a0": 0.619,
+        "a1": 0.618,
+        "v1": 11.21,
+        "v2": 16.9,
+        "exponent": 1.78
+      },
+      "maxSpeed": 33.0,
+      "maxSpeedLocalStation": 33.0,
+      "capacityPerCar": 325,
+      "seatsPerCar": 50,
+      "doorsPerCarPerSide": 4,
+      "carLength": 20.19,
+      "minCars": 5,
+      "maxCars": 5,
+      "carsPerCarSet": 5,
+      "carCost": 3200000,
+      "trainWidth": 2.8,
+      "minStationLength": 101,
+      "maxStationLength": 111,
+      "baseTrackCost": 32000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.275,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 90,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 60,
+      "crossoverSpeed": 12.5,
+      "yardSpeedLimit": 11.11
+    },
+    "appearance": {
+      "color": "#1BA3D6",
+      "catenary": true
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
+    },
+    "Manufacturer": [
+      "Kinki Sharyo"
+    ],
+    "compatibleTrackTypes": [
+      "1067JP-95",
+      "1067JP-100",
+      "1067JP-110",
+      "1067JP-120",
+      "1067JP-130",
+      "1067MF-80",
+      "1067MH-80",
+      "1067MZ-80",
+      "1067TB-100",
+      "1067TB-120",
+      "1067TQ-80",
+      "1067TQ-110",
+      "1067ST-100",
+      "1067MB-80",
+      "1067MI-75",
       "1067JP/1435TK-60",
       "1067JP/1435TK-120",
       "1067JP/1435TK-160"
@@ -9404,6 +10159,331 @@
     "compatibleTrackTypes": [
       "1372KT-75",
       "1372KT-100"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000,
+    "invisible": "track"
+  },
+  {
+    "id": "keio-7000-emu",
+    "name": "KEIO 7000 EMU 1372KT",
+    "description": "Keio 7000 series commuter EMU built from 1984, in 2 to 10-car sets, used on the Keio Line and its Keibajo and Dobutsuen branches. Manufacturer: Nippon Sharyo / Tokyu Car. C7",
+    "stats": {
+      "maxAcceleration": 0.694,
+      "maxDeceleration": 1.11,
+      "accelerationCurve": {
+        "a0": 0.694,
+        "a1": 0.691,
+        "v1": 11.07,
+        "v2": 17.63,
+        "exponent": 2.0
+      },
+      "maxSpeed": 30.55,
+      "maxSpeedLocalStation": 30.55,
+      "capacityPerCar": 370,
+      "seatsPerCar": 56,
+      "doorsPerCarPerSide": 4,
+      "carLength": 20.0,
+      "minCars": 2,
+      "maxCars": 10,
+      "carsPerCarSet": 2,
+      "carCost": 3200000,
+      "trainWidth": 2.845,
+      "minStationLength": 40,
+      "maxStationLength": 210,
+      "baseTrackCost": 34000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.275,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 60,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 12.5,
+      "yardSpeedLimit": 11.11
+    },
+    "appearance": {
+      "color": "#B71C1C",
+      "catenary": true
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85,
+      "TRENCHED": 0.58,
+      "RAMP": 0.57
+    },
+    "Manufacturer": [
+      "Nippon Sharyo",
+      "Tokyu Car"
+    ],
+    "compatibleTrackTypes": [
+      "1372KT-75",
+      "1372KT-100"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000,
+    "invisible": "track"
+  },
+  {
+    "id": "keio-8000-emu",
+    "name": "KEIO 8000 EMU 1372KT",
+    "description": "Keio 8000 series commuter EMU introduced in 1992 as the first Keio VVVF train, in 8-car and 10-car sets, used on the Keio Line. Manufacturer: Nippon Sharyo / Tokyu Car. C7",
+    "stats": {
+      "maxAcceleration": 0.917,
+      "maxDeceleration": 0.97,
+      "accelerationCurve": {
+        "a0": 0.917,
+        "a1": 0.912,
+        "v1": 11.07,
+        "v2": 17.63,
+        "exponent": 2.0
+      },
+      "maxSpeed": 33.0,
+      "maxSpeedLocalStation": 33.0,
+      "capacityPerCar": 370,
+      "seatsPerCar": 56,
+      "doorsPerCarPerSide": 4,
+      "carLength": 20.0,
+      "minCars": 8,
+      "maxCars": 10,
+      "carsPerCarSet": 2,
+      "carCost": 3200000,
+      "trainWidth": 2.845,
+      "minStationLength": 160,
+      "maxStationLength": 210,
+      "baseTrackCost": 34000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.275,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 60,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 12.5,
+      "yardSpeedLimit": 11.11
+    },
+    "appearance": {
+      "color": "#E53935",
+      "catenary": true
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85,
+      "TRENCHED": 0.58,
+      "RAMP": 0.57
+    },
+    "Manufacturer": [
+      "Nippon Sharyo",
+      "Tokyu Car"
+    ],
+    "compatibleTrackTypes": [
+      "1372KT-75",
+      "1372KT-100"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000,
+    "invisible": "track"
+  },
+  {
+    "id": "keio-2000-emu",
+    "name": "KEIO 2000 EMU 1372KT",
+    "description": "Keio 2000 series 10-car commuter EMU with SiC inverters, introduced in 2026 to replace the 7000 series on the Keio Line. Manufacturer: J-TREC. C7",
+    "stats": {
+      "maxAcceleration": 0.917,
+      "maxDeceleration": 1.11,
+      "accelerationCurve": {
+        "a0": 0.917,
+        "a1": 0.916,
+        "v1": 11.21,
+        "v2": 16.9,
+        "exponent": 1.78
+      },
+      "maxSpeed": 36.0,
+      "maxSpeedLocalStation": 36.0,
+      "capacityPerCar": 373,
+      "seatsPerCar": 48,
+      "doorsPerCarPerSide": 4,
+      "carLength": 20.07,
+      "minCars": 10,
+      "maxCars": 10,
+      "carsPerCarSet": 10,
+      "carCost": 3200000,
+      "trainWidth": 2.826,
+      "minStationLength": 201,
+      "maxStationLength": 211,
+      "baseTrackCost": 34000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.275,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 60,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 30,
+      "crossoverSpeed": 12.5,
+      "yardSpeedLimit": 11.11
+    },
+    "appearance": {
+      "color": "#F57C00",
+      "catenary": true
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.0,
+      "STANDARD_TUNNEL": 2.0,
+      "CUT_AND_COVER": 1.0,
+      "AT_GRADE": 0.35,
+      "ELEVATED": 0.85,
+      "TRENCHED": 0.58,
+      "RAMP": 0.57
+    },
+    "Manufacturer": [
+      "J-TREC"
+    ],
+    "compatibleTrackTypes": [
+      "1372KT-75",
+      "1372KT-100"
+    ],
+    "allowGradeCrossing": true,
+    "gradeCrossingBaseCost": 300000,
+    "gradeCrossingMaintenancePerYear": 8000,
+    "gradeCrossingTphLimit": {
+      "highway": 999,
+      "major": 999,
+      "medium": 999,
+      "minor": 999
+    },
+    "portalCost": 10000000,
+    "rampCost": 5000000,
+    "invisible": "track"
+  },
+  {
+    "id": "keio-1000-emu",
+    "name": "KEIO 1000 EMU 1067JP",
+    "description": "Keio 1000 series 5-car commuter EMU introduced in 1996 for Inokashira Line services. Manufacturer: Tokyu Car / Nippon Sharyo. C7",
+    "stats": {
+      "maxAcceleration": 0.917,
+      "maxDeceleration": 1.03,
+      "accelerationCurve": {
+        "a0": 0.917,
+        "a1": 0.912,
+        "v1": 11.07,
+        "v2": 17.63,
+        "exponent": 2.0
+      },
+      "maxSpeed": 25.0,
+      "maxSpeedLocalStation": 25.0,
+      "capacityPerCar": 375,
+      "seatsPerCar": 51,
+      "doorsPerCarPerSide": 4,
+      "carLength": 20.0,
+      "minCars": 5,
+      "maxCars": 5,
+      "carsPerCarSet": 5,
+      "carCost": 3200000,
+      "trainWidth": 2.864,
+      "minStationLength": 100,
+      "maxStationLength": 110,
+      "baseTrackCost": 32000,
+      "baseStationCost": 85000000,
+      "trainOperationalCostPerHour": 380,
+      "carOperationalCostPerHour": 26,
+      "scissorsCrossoverCost": 16000000,
+      "trackClearance": 1,
+      "maxLateralAcceleration": 1.275,
+      "minTurnRadius": 70,
+      "minStationTurnRadius": 700,
+      "maxSlopePercentage": 3.5,
+      "parallelTrackSpacing": 1.965,
+      "stopTimeSeconds": 30,
+      "turnaroundTimeSeconds": 60,
+      "trackMaintenanceCostPerMeter": 0,
+      "stationMaintenanceCostPerYear": 0,
+      "tphLimit": 60,
+      "crossoverSpeed": 12.5,
+      "yardSpeedLimit": 11.11
+    },
+    "appearance": {
+      "color": "#2E7DD1",
+      "catenary": true
+    },
+    "elevationMultipliers": {
+      "DEEP_BORE": 4.4,
+      "STANDARD_TUNNEL": 2.25,
+      "CUT_AND_COVER": 1.15,
+      "AT_GRADE": 0.4,
+      "ELEVATED": 0.95,
+      "TRENCHED": 0.66,
+      "RAMP": 0.65
+    },
+    "Manufacturer": [
+      "Tokyu Car",
+      "Nippon Sharyo"
+    ],
+    "compatibleTrackTypes": [
+      "1067JP-95",
+      "1067JP-100",
+      "1067JP-110",
+      "1067JP-120",
+      "1067JP-130",
+      "1067JP/1435TK-60",
+      "1067JP/1435TK-120",
+      "1067JP/1435TK-160"
     ],
     "allowGradeCrossing": true,
     "gradeCrossingBaseCost": 300000,

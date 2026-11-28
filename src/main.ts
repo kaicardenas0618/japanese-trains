@@ -7,7 +7,7 @@ import { trains } from './data/trains';
 import { initSearchDropdowns } from './searchDropdowns';
 
 const MOD_ID = 'japanese-trains';
-const MOD_VERSION = 'v5.6.2';
+const MOD_VERSION = 'v5.6.3';
 const TAG = '[Japanese Trains]';
 
 // Strict Snap: a toolbar button toggles a multiplier on the track and waypoint snapping radius, and holding a key
